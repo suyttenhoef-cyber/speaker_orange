@@ -1,0 +1,43 @@
+# Secrets - NE JAMAIS committer
+.env
+.streamlit/secrets.toml
+*.key
+
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Embeddings : versionnes volontairement (voir commit dedie) car Streamlit
+# Community Cloud ne peut pas executer embed_chunks.py au deploiement -
+# regenerer et re-committer ces 2 fichiers a chaque modification du corpus
+# via : python3 chunk_builder.py corpus_par_matiere/ chunks.jsonl
+#       python3 embed_chunks.py chunks.jsonl embeddings.npz
+
+# Donnees brutes issues d'extraction d'emails (noms/emails/telephones reels,
+# NON anonymisees) - ne doivent JAMAIS partir sur un depot, meme prive
+corpus_par_matiere/_emails_a_trier/
+corpus_par_matiere/_emails_a_trier_clean/
+corpus_par_matiere/_*/
+
+# Configuration locale de l'outil Claude Code (specifique a ce poste)
+.claude/
+
+# Package Teams zippe (Phase 3 Option B) - artefact regenerable a partir de
+# teams_app_package/ (manifest.json + icones), pas la peine de le versionner
+chatbot_cpas_teams_app.zip
+
+# Package de deploiement Azure App Service (Phase 4 Option B) - artefact
+# regenerable (copie de bot_config.py/bot_teams.py/bot_server.py/rag_answer.py/
+# retrieve.py/retrieve_azure_search.py/requirements.txt), pas la peine de le
+# versionner
+deploy_bot/
+deploy_bot.zip
+
+# Divers
+.DS_Store
+*.log

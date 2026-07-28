@@ -1,0 +1,20 @@
+streamlit>=1.38
+openai>=1.40
+numpy>=1.26
+python-dotenv>=1.0
+
+# Phase 1 roadmap Option B - portage retrieval vers Azure AI Search
+azure-search-documents>=12.0
+azure-identity>=1.25
+
+# Phase 2 roadmap Option B - app Bot Framework (canal Teams)
+botbuilder-core>=4.17
+botbuilder-integration-aiohttp>=4.17
+aiohttp>=3.14
+
+
+# Phase 4 roadmap Option B - serveur de production sur Azure App Service
+gunicorn>=23.0
+
+# Phase 5 roadmap Option B - observabilite (Application Insights)
+opencensus-ext-azure>=1.1
