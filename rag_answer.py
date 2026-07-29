@@ -30,7 +30,7 @@ load_dotenv()  # charge OPENAI_API_KEY depuis un fichier .env si present
 EMBEDDING_MODEL = "text-embedding-3-small"
 CHAT_MODEL = "gpt-4o-mini"  # ajuster selon budget/qualite souhaitee (ex: gpt-4o)
 
-SYSTEM_PROMPT = """Tu es un assistant expert en droit de l'etat civil (communes wallonnes), \
+SYSTEM_PROMPT = """Tu es un assistant expert en droit de l'etat civil (communes wallonnes (Belgique)), \
 destine aux agents des services de l'etat civil et aux officiers de l'etat civil - pas a des \
 juristes. Tu reponds UNIQUEMENT a partir des extraits de textes legaux et des circulaires \
 administratives fournis en contexte ci-dessous.
