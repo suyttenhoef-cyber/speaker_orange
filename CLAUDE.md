@@ -29,29 +29,50 @@ matière/public.
 - `c:\dev\chatbot_cpas\Doc\catalogue_offres.md` — structure de l'offre commerciale (formation
   + outil + mises à jour, axes autonome/délégué et Base/Premium).
 
-## État actuel de CE projet (chatbot_etat_civil)
+## État actuel de CE projet (chatbot_etat_civil) — mis à jour 2026-08-11
 
-- ✅ Socle de code copié et adapté depuis `chatbot_cpas` (retrieval numpy + Azure AI Search,
-  bot Teams/Bot Framework, télémétrie Application Insights avec estimation de coût tokens).
-- ✅ `rag_answer.py` : `SYSTEM_PROMPT` réécrit pour le public état civil, mêmes garde-fous
-  que `chatbot_cpas` (citation systématique des sources, distinction texte officiel /
-  circulaire / pratique validée, interdiction de transposer les détails d'un cas passé au
-  dossier actuel — ce dernier point a été un vrai bug corrigé sur `chatbot_cpas`, voir le
-  roadmap).
-- ⏳ **Corpus : à construire** — c'est le principal chantier restant. Les textes de référence
-  (Code civil, circulaires état civil) existent en PDF/Word, à structurer au format JSON
-  attendu (voir schéma dans `README.md` de ce projet). Le découpage par `_matiere` reste à
-  définir avec le métier (ex. `actes_naissance`, `actes_mariage`, `actes_deces`,
-  `nationalite`...).
-- ⏳ **Infrastructure Azure : pas encore déployée** pour ce projet spécifiquement — à faire
-  une fois le corpus prêt, en suivant exactement les mêmes étapes que `chatbot_cpas` (nouvel
-  App Registration, nouvelle ressource Bot Service, nouveau manifeste Teams — tout doit être
-  une identité séparée, décision déjà prise : bot séparé, pas une matière ajoutée au bot CPAS
-  existant).
-- Repo git local initialisé (`main`), pas encore poussé sur GitHub (à faire si besoin).
+- ✅ Socle de code copié et adapté depuis `chatbot_cpas` (retrieval numpy en local + Azure AI
+  Search en production, bot Teams/Bot Framework, télémétrie Application Insights avec
+  estimation de coût tokens).
+- ✅ `rag_answer.py` : `SYSTEM_PROMPT` réécrit pour le public état civil (public moins à l'aise
+  avec le jargon juridique que les travailleurs sociaux CPAS), organisé en groupes A-E
+  (citations, gestion de l'incertitude, non-transposition d'une pratique a un autre cas,
+  structure/ton). Pipeline de retrieval à 2 étages : recherche par similarité puis
+  `filter_applicable_practices()` (second appel LLM qui verifie que les premisses d'une
+  pratique retrouvée correspondent bien à la question), avec garde-fou anti-sur-rejet.
+- ✅ **Corpus construit** : 3 matières (`etat_civil`, `population`, `etrangers`), 311 articles
+  (dont l'extraction quasi complète de l'Ancien Code civil, Livre Ier "Des personnes" — 11
+  titres), 777 pratiques validées (dont ~530 issues de l'export FAQ Connect filtré sur
+  description non vide), 67 documents sources. Détail et conventions de schéma dans le
+  `README.md` de ce projet.
+- ✅ **Infrastructure Azure déployée** (POC) : Phases 1 à 5 validées de bout en bout
+  (retrieval Azure AI Search → bot Bot Framework → canal Teams → App Service → Application
+  Insights). Identité entièrement séparée de `chatbot_cpas` (nouvelle App Registration,
+  nouveau Bot Service `chatbot-etat-civil-bot-poc`, nouveau manifeste Teams) — seul le
+  service Azure AI Search est partagé (`search-chatbot-cpas-poc`, tier gratuit limité à 1
+  service/abonnement) mais avec un index dédié (`chatbot-etat-civil-chunks`).
+- ✅ Repo poussé sur GitHub : https://github.com/suyttenhoef-cyber/chatbot_orange
+- ✅ Outillage de qualité : `test_questions_batch.py` (test de régression sur questions
+  réelles, avec revue déléguée à un agent averti des pièges connus) et
+  `verify_corpus_coverage.py` (audit de couverture — détecte un trou d'extraction structurel
+  comme celui du chapitre "changement de nom", art. 370/1-370/9, découvert et corrigé le
+  2026-08-11 suite à un cas réel remonté par un utilisateur).
+- ⏳ Le "nouveau" Code civil (recodification en cours, notamment cohabitation légale,
+  art. 1475/1476) n'a pas été obtenu ; ces entrées restent au statut
+  `extraits_cites_source_secondaire`.
+
+## Limite connue et acceptée
+
+Le retrieval par similarité cosinus reste structurellement instable près du seuil de
+pertinence sur les sujets denses du corpus (variance de re-embedding d'un appel a l'autre) —
+ce n'est pas un bug à corriger en boucle par patch cas-par-cas, voir la mémoire
+`retrieval_fragilite_residuelle` pour le raisonnement complet.
 
 ## Prochaine étape concrète
 
-Recevoir les documents sources (PDF/Word) de l'état civil, les analyser, proposer un premier
-découpage par matière, puis structurer le contenu au format JSON du corpus (voir schéma dans
-`README.md`).
+Pas de chantier bloquant identifié. Le mode de fonctionnement établi est : l'utilisateur
+remonte un cas réel testé (idéalement avec une correction d'un expert métier), on diagnostique
+la cause (contenu manquant/incorrect vs. instabilité de retrieval vs. fidélité du prompt), on
+corrige le corpus ou le prompt de façon **générale** (pas seulement pour la question qui a
+soulevé le problème), on relance le pipeline (`chunk_builder` → `embed_chunks` →
+`azure_search_setup`), on revalide localement puis en production.

@@ -26,6 +26,7 @@ from retrieve import DEFAULT_MIN_SCORE, format_results_for_prompt  # noqa: F401 
 SELECT_FIELDS = [
     "chunk_id", "matiere", "categorie", "sous_categorie", "statut_entree",
     "document_titre", "numero", "date_reponse", "text_for_embedding",
+    "base_legale_associee",
 ]
 
 

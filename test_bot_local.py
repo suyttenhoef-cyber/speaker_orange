@@ -16,21 +16,20 @@ from botbuilder.core import ConversationState, MemoryStorage
 from botbuilder.core.adapters import TestAdapter
 from dotenv import load_dotenv
 
-from bot_teams import CpasAssistantBot
+from bot_teams import EtatCivilAssistantBot
 
 load_dotenv()
 
 TEST_QUESTIONS = [
-    "Les grands-parents sont-ils consideres comme des debiteurs d'aliments "
-    "pour une personne qui demande le revenu d'integration ?",
-    "Quelles sont les conditions pour beneficier du droit a l'integration sociale ?",
+    "Quelles sont les conditions pour qu'un etranger acquiere la nationalite belge par declaration ?",
+    "Un officier de l'etat civil peut-il annuler lui-meme un acte d'etat civil sans passer par le tribunal ?",
 ]
 
 
 async def main():
     storage = MemoryStorage()
     conversation_state = ConversationState(storage)
-    bot = CpasAssistantBot(conversation_state)
+    bot = EtatCivilAssistantBot(conversation_state)
     adapter = TestAdapter(bot.on_turn)
 
     for question in TEST_QUESTIONS:
@@ -42,7 +41,12 @@ async def main():
             reply = adapter.get_next_activity()
             if reply is None:
                 break
-            print("\nBOT >", reply.text)
+            if reply.text:
+                print("\nBOT >", reply.text)
+            for attachment in (reply.attachments or []):
+                card = attachment.content
+                for block in card.get("body", []):
+                    print("\nBOT >", block.get("text"))
 
 
 if __name__ == "__main__":

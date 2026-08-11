@@ -22,9 +22,8 @@ from retrieve_azure_search import AzureSearchRetriever
 load_dotenv()
 
 TEST_QUERIES = [
-    "Les grands-parents sont-ils consideres comme des debiteurs d'aliments "
-    "pour une personne qui demande le revenu d'integration ?",
-    "Quelles sont les conditions pour beneficier du droit a l'integration sociale ?",
+    "Quelles sont les conditions pour qu'un etranger acquiere la nationalite belge par declaration ?",
+    "Un officier de l'etat civil peut-il annuler lui-meme un acte d'etat civil sans passer par le tribunal ?",
 ]
 
 

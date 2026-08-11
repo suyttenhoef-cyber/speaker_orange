@@ -33,8 +33,8 @@ from openai import OpenAI
 
 from retrieve import Retriever, format_results_for_prompt, DEFAULT_MIN_SCORE
 from rag_answer import (
-    SYSTEM_PROMPT, EMBEDDING_MODEL, CHAT_MODEL, NO_RESULTS_MESSAGE,
-    build_user_message,
+    SYSTEM_PROMPT, EMBEDDING_MODEL, CHAT_MODEL, NO_RESULTS_MESSAGE, DISCLAIMER_TEXT,
+    build_user_message, filter_applicable_practices,
 )
 
 load_dotenv()  # charge OPENAI_API_KEY depuis un fichier .env si present (dev local)
@@ -154,6 +154,8 @@ def main():
     for msg in st.session_state["messages"]:
         with st.chat_message(msg["role"]):
             st.markdown(msg["content"])
+            if msg["role"] == "assistant" and msg.get("show_disclaimer"):
+                st.caption(f"*{DISCLAIMER_TEXT}*")
             if msg["role"] == "assistant" and msg.get("sources"):
                 with st.expander("📚 Sources citées"):
                     for score, meta in msg["sources"]:
@@ -164,7 +166,7 @@ def main():
                             f"statut : {meta.get('statut_entree', 'n/c')}*"
                         )
 
-    query = st.chat_input("Pose ta question sur le droit à l'intégration sociale...")
+    query = st.chat_input("Pose ta question sur l'état civil, la population ou les étrangers...")
 
     if query:
         st.session_state["messages"].append({"role": "user", "content": query})
@@ -184,6 +186,9 @@ def main():
                     matiere=matiere_filter,
                     min_score=min_score,
                 )
+
+                if results:
+                    results, _verif_usage = filter_applicable_practices(client, query, results)
 
                 if not results:
                     answer = NO_RESULTS_MESSAGE
@@ -208,6 +213,8 @@ def main():
                     answer = completion.choices[0].message.content
 
             st.markdown(answer)
+            if results:
+                st.caption(f"*{DISCLAIMER_TEXT}*")
             if show_sources and results:
                 with st.expander("📚 Sources citées"):
                     for score, meta in results:
@@ -219,7 +226,8 @@ def main():
                         )
 
         st.session_state["messages"].append(
-            {"role": "assistant", "content": answer, "sources": results}
+            {"role": "assistant", "content": answer, "sources": results,
+             "show_disclaimer": bool(results)}
         )
 
 

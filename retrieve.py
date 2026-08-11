@@ -20,12 +20,19 @@ import json
 import numpy as np
 
 # Score de similarite cosinus en-dessous duquel un chunk est considere non
-# pertinent et ecarte, meme s'il fait partie du top_k. Calibre empiriquement :
-# sur ce corpus, une question totalement hors-sujet plafonne vers 0.25-0.28,
-# alors qu'une question pertinente mais formulee differemment du texte legal
-# descend rarement sous 0.45-0.50. 0.30 laisse une marge de securite sans
-# risquer de couper des reponses legitimes mais mal formulees.
-DEFAULT_MIN_SCORE = 0.30
+# pertinent et ecarte, meme s'il fait partie du top_k. Calibre empiriquement
+# sur le corpus initial (~815 chunks) : une question totalement hors-sujet
+# plafonne vers 0.25-0.28, alors qu'une question pertinente mais formulee
+# differemment du texte legal descend rarement sous 0.45-0.50.
+# Abaisse de 0.30 a 0.25 le 2026-07-31 : apres l'ajout massif de 261 articles
+# de l'Ancien Code civil (corpus etat_civil passe de 815 a 1081 chunks), un
+# cas pertinent mais limite (match proche du seuil, fragile au ré-embedding -
+# l'API d'embedding n'est pas parfaitement identique d'un appel a l'autre) a
+# bascule sous 0.30 et fait disparaitre une reponse qui fonctionnait avant.
+# 0.25 redonne de la marge a ces cas limites, au prix d'un risque legerement
+# accru de laisser passer un chunk hors-sujet (voir la calibration ci-dessus,
+# qui n'a pas ete rejouee sur le corpus elargi).
+DEFAULT_MIN_SCORE = 0.25
 
 
 class Retriever:
@@ -82,15 +89,24 @@ class Retriever:
 
 def format_results_for_prompt(results):
     """Formate les resultats de recherche en un bloc de contexte pour le LLM,
-    avec une citation exacte (titre du texte + numero d'article/section)
-    pour chaque passage."""
+    avec une citation exacte pour chaque passage : titre du texte + numero
+    d'article/section pour un texte officiel, ou reference interne unifiee
+    "VDB-<code>" (sans le nom de la commune source) pour une pratique
+    validee."""
     blocks = []
     for score, meta in results:
-        source = f"{meta['document_titre']}"
-        if meta.get("numero"):
-            source += f", art./section {meta['numero']}"
-        if meta.get("date_reponse"):
-            source += f", {meta['date_reponse']}"
+        if meta.get("statut_entree") == "reference_interne":
+            source = f"VDB-{meta['numero']}" if meta.get("numero") else "VDB (pratique validee)"
+            if meta.get("date_reponse"):
+                source += f", {meta['date_reponse']}"
+        else:
+            source = f"{meta['document_titre']}"
+            if meta.get("numero"):
+                source += f", art./section {meta['numero']}"
+            if meta.get("date_reponse"):
+                source += f", {meta['date_reponse']}"
+        if meta.get("base_legale_associee"):
+            source += f" [S'APPUIE SUR : {meta['base_legale_associee']}]"
         blocks.append(
             f"### Source: {source} (pertinence: {score:.2f})\n{meta['text_for_embedding']}"
         )

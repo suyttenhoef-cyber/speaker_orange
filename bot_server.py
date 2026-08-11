@@ -34,7 +34,7 @@ from botbuilder.integration.aiohttp import (
 from botbuilder.schema import Activity
 
 from bot_config import DefaultConfig
-from bot_teams import CpasAssistantBot
+from bot_teams import EtatCivilAssistantBot
 from telemetry import log_error
 
 CONFIG = DefaultConfig()
@@ -46,7 +46,7 @@ storage = MemoryStorage()
 conversation_state = ConversationState(storage)
 
 adapter = CloudAdapter(ConfigurationBotFrameworkAuthentication(CONFIG))
-bot = CpasAssistantBot(conversation_state)
+bot = EtatCivilAssistantBot(conversation_state)
 
 
 async def on_error(context: TurnContext, error: Exception):

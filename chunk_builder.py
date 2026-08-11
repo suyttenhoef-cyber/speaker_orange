@@ -168,6 +168,40 @@ def build_chunks(corpus):
     return chunks
 
 
+def resolve_base_legale(all_chunks):
+    """Pour chaque chunk 'pratique validee' qui reference un ou plusieurs
+    articles via precise_ou_complete, resout ces references (entry_id) en
+    un libelle lisible (titre du texte + numero d'article) et l'ajoute au
+    chunk sous 'base_legale_associee'. Fait apres la fusion de tous les
+    fichiers de matiere car une pratique peut renvoyer vers un article
+    d'un autre fichier (ex. une pratique 'population' qui s'appuie sur un
+    article de l'Ancien Code civil indexe dans corpus_etat_civil.json)."""
+    article_lookup = {}
+    for c in all_chunks:
+        if c.get("statut_entree") == "reference_interne":
+            continue  # ce sont les pratiques elles-memes, pas des articles
+        if "::" not in c["chunk_id"]:
+            continue
+        raw_entry_id = c["chunk_id"].split("::", 1)[1]
+        article_lookup[raw_entry_id] = c
+
+    for c in all_chunks:
+        refs = c.get("precise_ou_complete") or []
+        if not refs:
+            continue
+        labels = []
+        for ref_id in refs:
+            art = article_lookup.get(ref_id)
+            if not art:
+                continue  # reference vers un article non indexe/introuvable
+            label = art.get("document_titre") or ref_id
+            if art.get("numero"):
+                label += f", art. {art['numero']}"
+            labels.append(label)
+        if labels:
+            c["base_legale_associee"] = "; ".join(labels)
+
+
 def main():
     """
     Usage:
@@ -197,6 +231,8 @@ def main():
     else:
         corpus = load_corpus(in_path)
         all_chunks = build_chunks(corpus)
+
+    resolve_base_legale(all_chunks)
 
     with open(out_path, "w", encoding="utf-8") as f:
         for c in all_chunks:

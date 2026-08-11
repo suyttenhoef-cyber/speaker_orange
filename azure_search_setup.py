@@ -47,7 +47,7 @@ FILTERABLE_STRING_FIELDS = [
 ]
 DISPLAY_STRING_FIELDS = [
     "chunk_id", "document_id", "document_titre", "document_date", "numero",
-    "titre_contexte", "date_reponse", "alerte_obsolescence",
+    "titre_contexte", "date_reponse", "alerte_obsolescence", "base_legale_associee",
 ]
 
 

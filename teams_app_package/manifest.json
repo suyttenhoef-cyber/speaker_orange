@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.16",
+  "version": "1.1.0",
+  "id": "cbdf941f-75c5-404f-af50-26570ef8df42",
+  "packageName": "be.vandenbroele.chatbotetatcivil.poc",
+  "developer": {
+    "name": "Vanden Broele",
+    "websiteUrl": "https://www.vandenbroele.be",
+    "privacyUrl": "https://www.vandenbroele.be",
+    "termsOfUseUrl": "https://www.vandenbroele.be"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "Assistant Etat Civil (POC)",
+    "full": "Assistant Etat Civil des communes wallonnes - Prototype interne Vanden Broele"
+  },
+  "description": {
+    "short": "Assistant IA pour les questions d'etat civil, population et etrangers",
+    "full": "Prototype interne Vanden Broele : assistant IA qui repond aux questions des agents et officiers de l'etat civil (actes, population, etrangers), en citant ses sources (lois, circulaires, pratiques validees)."
+  },
+  "accentColor": "#003366",
+  "bots": [
+    {
+      "botId": "cbdf941f-75c5-404f-af50-26570ef8df42",
+      "scopes": ["personal", "team", "groupchat"],
+      "supportsFiles": false,
+      "isNotificationOnly": false
+    }
+  ],
+  "permissions": ["identity", "messageTeamMembers"],
+  "validDomains": []
+}
