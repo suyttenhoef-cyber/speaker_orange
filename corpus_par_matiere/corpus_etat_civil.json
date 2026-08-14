@@ -308,6 +308,13 @@
       "categorie": "etat_civil",
       "sous_categorie": "dispositions_diverses",
       "notes": "Export XML de la base de connaissances Q&R du helpdesk Vanden Broele Connect (1257 entrees brutes au total). Seules les entrees possedant une vraie question d'origine (champ description non vide dans le XML source, 530/1257 entrees au total) ont ete retenues et integrees ici : les entrees sans question explicite (uniquement une reponse) ont ete exclues sur demande. La matiere de chaque entree est determinee par la plage d'ID du champ field4 du XML source (4622-4644 = etat_civil, 4645-4685 = etrangers, 4689-4756 = population) ; quand une entree cite des ID de plusieurs plages, la matiere du premier ID de la liste est retenue."
+    },
+    {
+      "document_id": "nouvelle_loi_communale",
+      "titre": "Nouvelle loi communale du 24 juin 1988 (NLC)",
+      "type": "loi",
+      "statut": "partiellement_verifie",
+      "notes": "Texte source recu le 2026-08-12 (export Vanden Broele Connect, 101 pages, colle integralement par l'utilisateur), conserve dans Ressources_brutes/Nouvelle_loi_communale_24_06_1988.md. La tres grande majorite de ce texte (composition et election du conseil communal, statut du personnel, budget et comptes, tutelle, actions judiciaires, districts intracommunaux...) concerne la gouvernance communale generale et est HORS PERIMETRE pour ce chatbot destine aux agents etat civil/population/etrangers - seuls 2 articles ont ete retenus : art. 154 et 155 (personnel de l'etat civil). L'article 126 (delegation par le bourgmestre/officier de l'etat civil de la delivrance d'extraits, legalisations de signature et certifications conformes), bien que directement pertinent, n'a PAS ete extrait comme entree distincte : son contenu recoupe largement l'article L1123-25 du CDLD, deja indexe dans ce corpus et explicitement documente comme etant la base legale wallonne en la matiere depuis le decret du 14 fevrier 2019 (voir notes du document 'cdld') - dupliquer l'article 126 aurait cree une source concurrente sans clarifier laquelle prevaut. En cas de doute sur ce point precis, se referer a cdld#art_L1123_25."
     }
   ],
   "articles": [
@@ -5793,6 +5800,40 @@
         "ancien_code_civil#art_370_4"
       ],
       "flag_recent": false
+    },
+    {
+      "entry_id": "nouvelle_loi_communale#art_154",
+      "document_id": "nouvelle_loi_communale",
+      "numero": "154",
+      "emplacement": "Titre III (Du personnel), Chapitre V (Du personnel de l'etat civil)",
+      "titre_contexte": "Employes de l'etat civil recrutes par le bourgmestre/echevin officier de l'etat civil",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le bourgmestre ou l'echevin charge de remplir les fonctions d'officier de l'etat civil peut avoir, a cet effet, sous ses ordres et suivant les besoins du service, un ou plusieurs employes salaries par la commune, qu'il nomme et congedie sans en referer au conseil, qui doit toujours determiner le nombre et le salaire desdits employes.",
+      "categorie": "etat_civil",
+      "sous_categorie": "organisation_service_etat_civil",
+      "commente_par": [],
+      "articles_lies": [
+        "nouvelle_loi_communale#art_155"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "nouvelle_loi_communale#art_155",
+      "document_id": "nouvelle_loi_communale",
+      "numero": "155",
+      "emplacement": "Titre III (Du personnel), Chapitre V (Du personnel de l'etat civil)",
+      "titre_contexte": "Reduction du nombre d'emplois d'etat civil : audition prealable de l'officier de l'etat civil obligatoire",
+      "statut": "en_vigueur",
+      "derniere_modif": "1989-05-30",
+      "texte": "Dans les communes ou il existe un ou plusieurs emplois de l'etat civil, le nombre de ces emplois et le traitement attache a chacun d'eux ne peuvent etre reduits par le conseil communal qu'apres avoir entendu l'officier de l'etat civil.",
+      "categorie": "etat_civil",
+      "sous_categorie": "organisation_service_etat_civil",
+      "commente_par": [],
+      "articles_lies": [
+        "nouvelle_loi_communale#art_154"
+      ],
+      "flag_recent": false
     }
   ],
   "sections_circulaire": [],
@@ -7995,7 +8036,7 @@
       "code": "PV-EC-180",
       "titre": "Signature de la demande de changement de prenom d'un mineur",
       "question_origine": "A partir de quel age un mineur doit-il signer sa demande de changement de prenom ? Les deux parents doivent-ils obligatoirement signer, ou une seule signature suffit-elle ?",
-      "texte": "Le changement de prenom d'un mineur ne necessite pas l'accord du mineur, il ne doit pas signer cette demande. Elle est introduite par son representant legal.\n\nBase juridique :\n\nArt. 370/3 Ancien Code civil\n\n« Toute demande de changement de nom ou de prenoms est formulee par l'interesse lui-meme ou son representant legal ».\n\nLa demande conjointe par les parents (ou coparents) n'est pas exigee.\n\nQuand l'autorite parentale est conjointe, on part du principe qu'un parent agit avec l'accord de l'autre.  Ainsi, quand un parent va declarer seul un enfant, car la mere est toujours a l'hopital, on ne demande pas forcement l'accord de la mere pour l'attribution du prenom.\n\nMais la commune peut toujours s'assurer de l'accord de l'autre parent (pour eviter d'eventuels problemes par la suite).",
+      "texte": "Le changement de prenom d'un mineur ne necessite pas l'accord du mineur, il ne doit pas signer cette demande. Elle est introduite par son representant legal.\n\nBase juridique :\n\nArt. 370/3 Ancien Code civil\n\n« Toute demande de changement de nom ou de prenoms est formulee par l'interesse lui-meme ou son representant legal ».\n\nLa demande conjointe par les parents (ou coparents) n'est pas exigee.\n\nQuand l'autorite parentale est conjointe, on part du principe qu'un parent agit avec l'accord de l'autre.  Ainsi, quand un parent va declarer seul un enfant, car la mere est toujours a l'hopital, on ne demande pas forcement l'accord de la mere pour l'attribution du prenom.\n\nMais la commune peut toujours s'assurer de l'accord de l'autre parent (pour eviter d'eventuels problemes par la suite).\n\nATTENTION - NE PAS CONFONDRE : cette regle (pas d'accord requis du mineur) ne vaut QUE pour le CHANGEMENT DE PRENOM (art. 370/3 Ancien Code civil). Pour le CHANGEMENT DE NOM (ex. reprise du nom d'un parent, art. 370/8/1), la regle est INVERSE : le descendant mineur de plus de DOUZE ANS doit donner son consentement, recueilli au moment de la demande, le cas echeant en presence de ses parents ou de son representant legal (voir Ancien Code civil, art. 370/8/1, paragraphe 3).",
       "precise_ou_complete": [],
       "source_validation": "FAQ Connect Vanden Broele (ref. 9366)",
       "categorie": "etat_civil",

@@ -19,6 +19,7 @@ Usage:
 """
 import json
 import os
+import re
 import sys
 
 from dotenv import load_dotenv
@@ -82,6 +83,15 @@ SUPPOSE PAS qu'il s'agit d'un belge par defaut - signale explicitement que la re
 la nationalite de la personne, donne la reponse pour le cas belge (le plus frequent en \
 pratique) tout en le precisant clairement, et indique que le droit applicable serait different \
 si la personne a une autre nationalite.
+B3. NE CITE JAMAIS un numero d'article precis (ex. "art. 10") qui n'apparait PAS textuellement \
+dans le contexte fourni pour ce numero-la, meme si le sujet general de la question concerne un \
+texte legal present dans le contexte (ex. la loi du 15 decembre 1980 sur les etrangers). Si \
+aucun passage du contexte ne traite reellement du sujet precis de la question (ex. les \
+conditions du statut de resident de longue duree), dis-le clairement (B1) et cite au mieux le \
+texte general par son nom SANS numero d'article invente ("la loi du 15 decembre 1980, dont le \
+contexte fourni ne couvre pas cette disposition precise"), plutot que d'inventer un numero par \
+plausibilite. Un numero d'article invente est une des pires formes d'erreur pour ce public : il \
+donne une fausse impression de certitude verifiee.
 
 ## C. Ne jamais transposer aveuglement une pratique validee a un cas different
 Une pratique validee documente un cas CONCRET anterieur, avec ses propres faits precis. Avant \
@@ -129,6 +139,14 @@ du meme texte (ex. une clause generale de verification de capacite/identite qui 
 tout le monde, pas seulement au cas particulier de la question) : cet element secondaire ne \
 prime jamais sur la conclusion explicite qui l'entoure. En cas de doute entre ce que dit \
 explicitement la pratique et ta propre inference, la pratique a toujours raison.
+C5. N'ATTRIBUE JAMAIS une affirmation a une reference (VDB-... ou texte officiel) qui ne la \
+soutient pas reellement. Si deux sources du contexte traitent d'un sujet voisin mais distinct \
+(ex. changement de PRENOM vs changement de NOM), verifie pour chaque affirmation que la source \
+citee est bien celle dont le texte contient cette affirmation precise, pas une source voisine \
+retrouvee pour le meme cas. Une citation incorrecte (bon raisonnement, mauvaise reference) est \
+aussi grave qu'une affirmation inventee : en cas de doute sur la source exacte d'une \
+affirmation, cite le texte officiel general plutot qu'une reference precise incertaine, ou \
+omets la reference plutot que d'en inventer une.
 
 ## D. Structure et ton de la reponse (public non-specialiste)
 Le public vise n'est pas a l'aise avec le jargon administratif ou juridique : sois clair et \
@@ -175,6 +193,35 @@ DISCLAIMER_TEXT = (
     "service juridique communal ou une decision individuelle motivee de "
     "l'officier de l'etat civil."
 )
+
+# Filet de securite contre les citations d'article fabriquees (regle B3 du
+# SYSTEM_PROMPT) : detecte un numero d'article cite dans la reponse ("art.
+# N" / "article N") qui ne correspond a AUCUN article officiel present
+# parmi les passages retrouves. Ne verifie pas le sens de la citation (un
+# numero present mais cite pour un mauvais sujet ne serait pas detecte) -
+# c'est un filet minimal contre l'invention pure d'un numero, pas une
+# verification semantique complete.
+_CITATION_RE = re.compile(
+    r"\bart(?:icle)?s?\.?\s*([A-Z]?[0-9]+(?:[/-][0-9]+)*"
+    r"(?:bis|ter|quater|quinquies|sexies|septies|octies)?)",
+    re.IGNORECASE,
+)
+
+
+def check_citation_integrity(results, answer_text):
+    """Retourne la liste (triee) des numeros d'article cites dans
+    answer_text qui ne correspondent a aucun article officiel (statut_entree
+    != "reference_interne") parmi les passages effectivement fournis au
+    modele dans `results`."""
+    cited = {m.upper() for m in _CITATION_RE.findall(answer_text)}
+    if not cited:
+        return []
+    available = {
+        str(meta["numero"]).strip().upper()
+        for _, meta in results
+        if meta.get("statut_entree") != "reference_interne" and meta.get("numero")
+    }
+    return sorted(n for n in cited if n not in available)
 
 
 def embed_query(client, query):
@@ -321,7 +368,12 @@ def answer_question(query, embeddings_path="embeddings.npz", top_k=10, verbose=T
         temperature=0.1,  # faible temperature : priorite a la precision factuelle
     )
 
-    return completion.choices[0].message.content
+    answer = completion.choices[0].message.content
+    unverified = check_citation_integrity(results, answer)
+    if verbose and unverified:
+        print(f"[ATTENTION - citation(s) non verifiee(s), possible invention : {unverified}]\n")
+
+    return answer
 
 
 def main():

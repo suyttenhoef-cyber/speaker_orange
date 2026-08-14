@@ -57,6 +57,11 @@ matière/public.
   `verify_corpus_coverage.py` (audit de couverture — détecte un trou d'extraction structurel
   comme celui du chapitre "changement de nom", art. 370/1-370/9, découvert et corrigé le
   2026-08-11 suite à un cas réel remonté par un utilisateur).
+- ✅ Nouvelle loi communale du 24/06/1988 (NLC) reçue et traitée le 2026-08-12 : la quasi-
+  totalité du texte (gouvernance communale générale) est hors périmètre pour ce chatbot ;
+  seuls les art. 154-155 (personnel de l'état civil) ont été extraits. L'art. 126
+  (délégation) n'a volontairement pas été dupliqué car il recoupe le CDLD art. L1123-25,
+  déjà indexé et documenté comme base légale wallonne en vigueur depuis 2019.
 - ⏳ Le "nouveau" Code civil (recodification en cours, notamment cohabitation légale,
   art. 1475/1476) n'a pas été obtenu ; ces entrées restent au statut
   `extraits_cites_source_secondaire`.

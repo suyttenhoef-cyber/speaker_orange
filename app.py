@@ -34,7 +34,7 @@ from openai import OpenAI
 from retrieve import Retriever, format_results_for_prompt, DEFAULT_MIN_SCORE
 from rag_answer import (
     SYSTEM_PROMPT, EMBEDDING_MODEL, CHAT_MODEL, NO_RESULTS_MESSAGE, DISCLAIMER_TEXT,
-    build_user_message, filter_applicable_practices,
+    build_user_message, check_citation_integrity, filter_applicable_practices,
 )
 
 load_dotenv()  # charge OPENAI_API_KEY depuis un fichier .env si present (dev local)
@@ -214,6 +214,12 @@ def main():
 
             st.markdown(answer)
             if results:
+                unverified = check_citation_integrity(results, answer)
+                if unverified:
+                    st.error(
+                        f"⚠️ Reference(s) legale(s) non verifiee(s) automatiquement dans les "
+                        f"sources : {', '.join(unverified)}. A verifier imperativement."
+                    )
                 st.caption(f"*{DISCLAIMER_TEXT}*")
             if show_sources and results:
                 with st.expander("📚 Sources citées"):

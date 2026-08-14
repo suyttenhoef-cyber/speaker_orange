@@ -11,9 +11,10 @@ spécifique à l'état civil).
   (OpenAI), bot Teams (Bot Framework SDK), télémétrie (Application Insights). Copié depuis
   `chatbot_cpas` puis adapté (voir ci-dessous).
 - **Corpus : construit et déployé.** 3 matières (`etat_civil`, `population`, `etrangers`),
-  311 articles de textes officiels (dont l'extraction quasi complète de l'Ancien Code civil,
-  Livre Ier "Des personnes"), 777 pratiques validées (dont ~530 issues de l'export FAQ
-  Connect), 67 documents sources. Fichiers dans `corpus_par_matiere/`.
+  313 articles de textes officiels (dont l'extraction quasi complète de l'Ancien Code civil,
+  Livre Ier "Des personnes", et les art. 154-155 de la Nouvelle loi communale sur le
+  personnel de l'état civil), 777 pratiques validées (dont ~530 issues de l'export FAQ
+  Connect), 68 documents sources. Fichiers dans `corpus_par_matiere/`.
 - **Pipeline de retrieval a 2 etages** : `rag_answer.py` fait d'abord une recherche par
   similarite (embeddings `text-embedding-3-small`), puis une passe de **verification** par un
   second appel LLM (`filter_applicable_practices`) qui rejette les pratiques dont les

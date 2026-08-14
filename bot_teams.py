@@ -20,7 +20,7 @@ from openai import OpenAI
 
 from rag_answer import (
     CHAT_MODEL, DISCLAIMER_TEXT, NO_RESULTS_MESSAGE, SYSTEM_PROMPT, build_user_message,
-    embed_query, filter_applicable_practices,
+    check_citation_integrity, embed_query, filter_applicable_practices,
 )
 from retrieve import format_results_for_prompt
 from retrieve_azure_search import AzureSearchRetriever
@@ -37,12 +37,16 @@ MAX_HISTORY_TURNS = 6  # meme borne que chat_loop.py
 CAS_PARTICULIERS_MARKER = "Attention, cas particuliers"
 
 
-def build_answer_card(answer_text: str):
+def build_answer_card(answer_text: str, unverified_citations=None):
     """Adaptive Card avec la reponse, en pleine largeur (msTeams.width=full -
     sans ca, Teams limite la carte a ~400px), suivie du disclaimer en
     italique/police reduite. Si le modele a produit une section "Attention,
     cas particuliers", elle est extraite et affichee dans un encart distinct
-    (fond orange) plutot que comme un simple titre au milieu du texte."""
+    (fond orange) plutot que comme un simple titre au milieu du texte. Si
+    check_citation_integrity() a detecte un numero d'article cite qui ne
+    correspond a aucune source retrouvee (regle B3 du SYSTEM_PROMPT), un
+    encart rouge distinct l'indique - filet de securite minimal contre une
+    reference fabriquee, pas une garantie absolue."""
     main_text = answer_text
     cas_particuliers_text = None
     marker_idx = answer_text.find(CAS_PARTICULIERS_MARKER)
@@ -72,6 +76,25 @@ def build_answer_card(answer_text: str):
                     "type": "TextBlock",
                     "text": cas_particuliers_text,
                     "wrap": True,
+                }
+            ],
+        })
+    if unverified_citations:
+        refs = ", ".join(unverified_citations)
+        body.append({
+            "type": "Container",
+            "style": "attention",
+            "spacing": "Medium",
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "text": (
+                        f"⚠️ Reference(s) legale(s) non verifiee(s) automatiquement dans les "
+                        f"sources disponibles : {refs}. Verifiez imperativement ce numero "
+                        f"d'article avant de vous y fier - il pourrait etre incorrect."
+                    ),
+                    "wrap": True,
+                    "weight": "Bolder",
                 }
             ],
         })
@@ -109,6 +132,7 @@ class EtatCivilAssistantBot(ActivityHandler):
         history = await self.history_accessor.get(turn_context, list)
         usage = None
         verif_usage = None
+        unverified_citations = []
 
         with timed() as t:
             query_embedding = embed_query(self.openai_client, query)
@@ -136,6 +160,7 @@ class EtatCivilAssistantBot(ActivityHandler):
                 )
                 answer = completion.choices[0].message.content
                 usage = completion.usage
+                unverified_citations = check_citation_integrity(results, answer)
 
         prompt_tokens = (usage.prompt_tokens if usage else 0) + (verif_usage.prompt_tokens if verif_usage else 0)
         completion_tokens = (usage.completion_tokens if usage else 0) + (verif_usage.completion_tokens if verif_usage else 0)
@@ -155,7 +180,7 @@ class EtatCivilAssistantBot(ActivityHandler):
 
         if results:
             await turn_context.send_activity(
-                MessageFactory.attachment(build_answer_card(answer))
+                MessageFactory.attachment(build_answer_card(answer, unverified_citations))
             )
         else:
             # NO_RESULTS_MESSAGE est deja lui-meme un avertissement -

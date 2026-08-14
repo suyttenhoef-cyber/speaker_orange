@@ -22,8 +22,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from rag_answer import (
-    CHAT_MODEL, NO_RESULTS_MESSAGE, SYSTEM_PROMPT, build_user_message, embed_query,
-    filter_applicable_practices,
+    CHAT_MODEL, NO_RESULTS_MESSAGE, SYSTEM_PROMPT, build_user_message,
+    check_citation_integrity, embed_query, filter_applicable_practices,
 )
 from retrieve import Retriever, format_results_for_prompt
 
@@ -73,11 +73,13 @@ def run_one(client, retriever, query, top_k=14):
         temperature=0.1,
     )
 
+    answer = completion.choices[0].message.content
     return {
         "question": query,
         "resultats_bruts": raw_summary,
         "resultats_apres_verification": filtered_summary,
-        "reponse": completion.choices[0].message.content,
+        "reponse": answer,
+        "citations_non_verifiees": check_citation_integrity(filtered_results, answer),
     }
 
 
