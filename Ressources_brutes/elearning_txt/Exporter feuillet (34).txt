@@ -1,0 +1,133 @@
+Actes de mariage
+Nom:
+Actes de mariage
+Titre, page:
+BAEC - Actes de mariage
+Texte, instruction:
+Texte, introduction:
+Ce module est subdivisé en 6 chapitres, qui sont : 
+Vérifications préliminaires
+Mentions obligatoires pour la déclaration de mariage
+Dresser l'acte de déclaration de mariage
+Mentions obligatoires pour l'acte de mariage
+Dresser un acte de mariage
+Documents à délivrer
+Texte:
+1. Vérifications préliminaires :
+La déclaration de mariage se fait auprès de l'OEC :
+   - de la commune où l'un des futurs époux est inscrit
+   - de la résidence actuelle de l'un des futurs époux
+   - de la commune de la dernière inscription en Belgique (si l'un des deux est belge)
+   - de la commune où un parent jusqu'au deuxième degré de l'un des futurs époux belge est inscrit
+   - à défaut, de Bruxelles (si l'un des deux est belge)
+Remarque : Pour les points 3,4,et 5, ce n'est possible que si l'un des futurs époux est belge et qu'aucun n'est inscrit en Belgique.
+La déclaration de mariage est faite par l'un des futurs époux ou par les deux.
+La déclaration de mariage se fait minimum 14 jours et maximum 6 mois et 14 jours avant la date de célébration.
+La déclaration de mariage peut être faite par une tierce personne munie d'une procuration spéciale et authentique de la part d'un ou des deux futurs époux.
+Remarque : Il s'agit d'une procuration spécifique, avec légalisation de signature pour celui qui est absent, sur laquelle il est indiqué son souhait de se marier avec le ou la futur(e) épou(x)(se) et qu'il donne procuration pour effectuer la déclaration de mariage.
+Le mariage est célébré le jour désigné par les futurs époux, à l'exception des dimanches et des jours fériés (sauf  décision du Conseil).
+Le mariage est célébré à la maison communale. Le conseil communal peut dresser une liste des lieux publics à caractère neutre, dont la commune à l'usage exclusif, pour célébrer les mariages.
+Il n'y a plus :
+   - de carnet de mariage. La commune peut toutefois décider de continuer la tradition
+   - de lecture de l'acte de mariage mais toujours des droits et obligations
+   - de signature de registre mais la Loi n'interdit pas de continuer la tradition
+Les documents nécessaires :
+   1. La copie de la carte d'identité
+   2. L'acte de naissance
+   3. Le certificat de domicile
+   4. Le certificat de célibat ou de divorce
+Il va sans dire que pour les personnes inscrites au R.P. ou au R.E., vous pouvez vérifier certaines données directement avec le Registre national.
+Pour les personnes inscrites au R.A., il y a lieu de fournir la preuve de l'ETCV.
+Avant de réclamer un acte d'ETCV à une personne, vérifiez si cet acte n'est pas dans la BAEC.
+Tous les actes étrangers qui ont servi à l'établissement de l'acte de mariage devront être intégrés dans la BAEC. Vous pourrez ainsi les rendre aux intéressés.
+Attention à l'éventuelle légalisation des actes étrangers.
+Rendez-vous sur le site de la diplomatie belge (Affaires étrangères) en utilisant ce lien https://diplomatie.belgium.be/fr
+Ensuite, cliquez sur :
+   - Légalisation de documents
+   - Cliquez sur ICI (en petit caractères)
+   - Remplissez les critères de recherche
+   - Affichez le résultat
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner face à cette situation ?
+Feedback:
+La loi défini le nombre de témoin(s) : de 0 à 4 maximum. Dons dans
+le cas présent, ce n’est pas possible.
+Texte:
+2. Mentions obligatoires de la déclaration de mariage :
+- le nom
+- le prénom
+- la date de naissance
+- le lieu de naissance
+- la date du mariage
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner face à cette situation ?
+Feedback:
+Si le lieu demandé se trouve dans une liste préétablie par le Conseil
+communal alors pas de problème. S’il n’existe pas de liste, le mariage doit
+avoir lieu à la commune. La liste peut être modifiée à tout moment.
+Texte:
+3. Dresser l'acte de déclaration de mariage
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général :
+Texte:
+Créer.
+Dans l'onglet général : Déclaration de mariage et OK.
+Texte:
+Toujours dans l'onglet général, ajoutez le signataire.
+Toutes les autres informations se complètent automatiquement.
+Texte:
+Dans l'onglet détail.
+Déclarant(s) : Suivant le cas.
+La date du mariage et l'heure du mariage.
+Texte:
+Dans la colonne de gauche.
+Signalétique : conjoint 1 : indiquez le NN. Si la personne n'a pas de NN, cochez non résident et remplissez les cases nécessaires à l'identification de la personne.
+Réitérer l'opération pour le conjoint 2.
+Texte:
+Validez au moyen de la flèche verte (au-dessus).
+Cet acte ne se migre pas dans la BAEC.
+Texte:
+4. Mentions obligatoires de l'acte de mariage :
+- Le(s) nom(s) - le(s) prénom(s) - la date de naissance - le lieu de naissance des époux
+- La date de mariage
+- Le lieu du mariage
+- Le(s) nom(s) - le(s) prénom(s) - la date de naissance - le lieu de naissance pour les éventuels témoins
+Texte:
+5. Dresser l'acte de mariage.
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général
+Texte:
+Créer.
+Onglet général.
+Type d'acte.
+Mariage.
+OK.
+Texte:
+Toujours dans l'onglet général.
+Indiquez l'OEC qui officiera lors de la cérémonie dans : Signataire.
+La date et l'heure du mariage.
+Texte:
+Signalétiques (colonne de gauche)
+Conjoint 1 : Indiquez le NN.
+--> Si pas de NN, cocher "non-résident".
+Effectuez la même opération pour le conjoint 2.
+Texte:
+Toujours dans "signalétiques", encodez les témoins. Pour rappel, il peut y avoir de 0 à 4 témoins lors du mariage.
+En fonction de la situation :
+  
+- Cliquez droit sur témoin pour le supprimer.
+- Cliquez droit sur "signalétiques" pour créer un témoin.
+Si vous connaissez le(s) témoin(s), encodez le NN et s'il n'a pas de RN - Cochez "non-résident".
+Validez en cliquant sur la flèche verte. Votre acte de mariage est prêt dans l'attente du jour J.
+Le jour J et après avoir lancé la musique de circonstance, modifiez l'acte s'il y a eu du changement par rapport à ce que vous aviez  pré-encodé.
+Dans la mesure du possible, il y a lieu de faire signer l'acte à l'OEC le jour même ou le plus rapidement possible en cas de mariage décentralisé.
+Texte:
+Petite précision : 
+Pour le rituel des photos, vous pouvez faire signer fictivement un acte de mariage ou autre document qui n'a aucune valeur juridique. 
+Il en va de même pour le livret de mariage qui n'est plus d'actualité. Vous pouvez également continuer à en délivrer symboliquement.
+Validez avec la flèche verte.
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN

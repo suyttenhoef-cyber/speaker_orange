@@ -1,0 +1,620 @@
+La nationalité belge
+Nom:
+La nationalité belge
+Titre, page:
+Qu'est-ce que la nationalité belge?
+Texte:
+Avez-vous tout compris?
+Question:
+La nationalité belge est:
+Option de réponse:
+une des matières reprise dans le Code civil.
+Option de réponse:
+une matière à part entière reprise dans le Code de nationalité belge.
+Feedback si réponse incorrecte:
+Les dispositions concernant la nationalité belge ont leur propre Code.
+Feedback si réponse correcte:
+En effet, les dispositions concernant la nationalité belge sont reprises dans un Code à part entière.
+Titre, accordéon:
+Le Code de la nationalité belge
+Texte, accordéon:
+Les ouvrages
+Titre, barre d’accordéon:
+Le Code de la nationalité belge
+Titre, barre d’accordéon:
+Etat civil 5 - Nationalité
+Texte:
+Testez vos connaissances ou votre intuition en répondant aux questions suivantes.
+Question:
+Il est possible d'obtenir la qualité de belge, à l'état civil, suivant :
+Option de réponse:
+une attribution.
+Option de réponse:
+une déclaration d'acquisition.
+Option de réponse:
+un recouvrement.
+Option de réponse:
+par option.
+Option de réponse:
+une naturalisation.
+Option de réponse:
+par choix lorsque l'intéressé à atteint 18 ans.
+Feedback si réponse incorrecte:
+Les articles 8, 2° b) et 11 concerne l'attribution de la nationalité belge;
+L'article 12bis concerne l'acquisition de la nationalité belge;
+L'article 24 concerne le recouvrement de la nationalité belge;
+L'article 19 concerne la naturalisation.
+Feedback si réponse correcte:
+En effet, voici les différents articles auxquels se rapportent les différents termes :
+Les articles 8, 2° b) et 11 concerne l'attribution de la nationalité belge;
+L'article 12bis concerne l'acquisition de la nationalité belge;
+L'article 24 concerne le recouvrement de la nationalité belge;
+L'article 19 concerne la naturalisation.
+Question:
+Il est possible de perdre la qualité de belge à la suite :
+Option de réponse:
+de l'acquisition d'une autre nationalité.
+Option de réponse:
+d'une déchéance.
+Option de réponse:
+d'une renonciation.
+Option de réponse:
+d'un mariage avec un homme de nationalité étrangère.
+Feedback si réponse incorrecte:
+Ce sont les articles 22 et 23 du Code de la nationalité belge qui fixe les modalités pratiques quant à la perte de la nationalité belge.
+Feedback si réponse correcte:
+Correct, les modalités pratiques sont fixées aux articles 22 et 23 du CNB.
+Titre, page:
+L'attribution automatique de la nationalité belge
+Texte, instruction:
+Texte, introduction:
+Avant de détailler chaque article qui permet l'obtention de la nationalité via une déclaration volontaire ou l'un de ses parents, il est important de (re)voir qu'il est possible de se voir attribuer une nationalité de manière automatique. 
+Simplement, par le fait d'y avoir droit. Ce droit est repris dans le Code de la nationalité belge.
+L'attribution automatique de la nationalité belge concerne les enfants mineurs pour lesquels aucune déclaration d'attribution ne doit être effectuée.
+Les articles concernés sont : 
+l'article 8§1er, 1° du CNB;
+l'article 8§1er, 2°, a) ou c) du CNB;
+l'article 9, 1° du CNB;
+l'article 9, 2° a) ou c) du CNB;
+l'article 10 du CNB;
+l'article 11 du CNB;
+l'article 12 du CNB.
+Titre, accordéon:
+Les différents articles de l'attribution automatique de la nationalité belge :
+Texte, accordéon:
+Titre, barre d’accordéon:
+L'article 8§1er, 1° CNB
+Texte:
+Cet article vise l'attribution automatique de la nationalité belge par le fait que l'enfant soit né en Belgique d'un parent belge au moment de la naissance de l'enfant.
+Lorsque la commune de naissance établira l'acte de naissance via la BAEC, elle encodera directement la nationalité de l'enfant. Au moment de la signature de l'acte, la BAEC enverra la donnée au Registre National de sorte que la nationalité de l'enfant soit indiquée dans les données de l'enfant. 
+Aucune manipulation humaine n'est dès lors nécessaire.
+Titre, barre d’accordéon:
+L'article 8§1er, 2° a) ou c) CNB
+Texte:
+Le point "a)" de cet article vise l'attribution automatique de la nationalité belge à l'enfant né à l'étranger d'un auteur belge né en Belgique et qui était belge au moment de la naissance de son enfant.
+En ce qui concerne l'auteur, on entend par "né en Belgique", les territoires soumis à la souveraineté belge ou confiés à l'administration de la Belgique.
+Tandis que le point "c)" de cet article vise l'auteur belge né à l'étranger attribuant de manière automatique la nationalité belge à son enfant dans le cas où ce dernier n'aurait aucune nationalité avant ses 18 ans.
+L'inscription de la nationalité se fera soit sur base de l'inscription au Registre National, soit par l'enregistrement de l'acte de naissance étranger (de l'enfant) dans la BAEC en y indiquant directement le code nationalité.
+Titre, barre d’accordéon:
+L'article 9, 1° du CNB;
+Texte:
+Cet article vise l'attribution automatique de la nationalité belge par le fait que l'enfant soit né en Belgique d'un adoptant belge au moment de la naissance de l'enfant.
+Titre, barre d’accordéon:
+L'article 9, 2° a) ou c) CNB
+Texte:
+Le "a)" de cet article vise l'attribution automatique de la nationalité belge à l'enfant né à l'étranger d'un adoptant belge né en Belgique.
+Par "né en Belgique" en ce qui concerne l'adoptant, les territoires soumis à la souveraineté belge ou confiés à l'administration de la Belgique sont à considérer comme le fait d'être "né en Belgique".
+Tandis que le "c)" de cet article vise l'adoptant belge né à l'étranger attribuant de manière automatique la nationalité belge à son enfant dans le cas où ce dernier n'aurait aucune nationalité avant ses 18 ans.
+La nationalité belge est attribuée le jour où l'adoption produit ses effets, sauf si l'adopté est majeur au moment des effets de l'adoption.
+Titre, barre d’accordéon:
+L'article 10 CNB
+Texte:
+Cet article vise des cas bien particuliers. Il s'agit de cas où l'enfant, né en Belgique, ne pourrait obtenir aucune autre nationalité. Dans ce cas, la nationalité belge doit être attribuée à l'enfant. 
+Cependant cet article ne sera pas appliqué si : 
+L'enfant peut obtenir une autre nationalité alors que ce sont les parents qui doivent effectuer une démarche administrative auprès de leurs autorités ;
+L'enfant obtient une autre nationalité avant ses 18 ans, la nationalité belge sera remplacée par la nouvelle obtenue.
+En cas de doute quant à l'application de cet article, le représentant légal de l'enfant pourra transmettre à l'OEC de la commune de naissance toutes les pièces qui confirment la "non possession" d'une nationalité pour l'enfant. 
+L'OEC pourra ensuite transmettre, pour avis, le dossier au procureur du Roi de son arrondissement qui remettra un avis dans les plus brefs délais. 
+Le but étant que chaque commune de naissance se fasse sa propre "jurisprudence" au fur et à mesure des situations présentées. De sorte qu'un dossier similaire à un autre ne soit pas transmis systématiquement au procureur du Roi. 
+En effet, la nationalité pourra ainsi être déterminée rapidement lors de la détermination du nom par exemple. Et ainsi le Registre National sera directement créé avec la nationalité belge.
+Titre, barre d’accordéon:
+L'article 11 CNB
+Texte:
+Cet article vise l'attribution de la nationalité belge de manière automatique lorsque l'enfant est né en Belgique et que l'un de ses parents est également né en Belgique. 
+C'est ce qu'on appelle les "belges de deuxième génération".
+L'article 11 reprend deux points 1° (le parent) et le 2° (l'adoptant), les règles d'attributions sont : 
+L'auteur ou l'adoptant doit être né en Belgique et
+L'auteur ou l'adoptant doit avoir eu sa résidence principale en Belgique durant 5 ans au cours des 10 dernières années précédant la naissance de l'enfant ou la date de prise d'effet de l'adoption.
+A noter que si l'enfant est majeur au moment de la date de prise d'effet de l'adoption, la nationalité belge ne lui est pas attribuée automatiquement.
+Titre, barre d’accordéon:
+L'article 12 CNB
+Texte:
+Il s'agit de l'article qui permet aux enfants de moins de 18 ans de se voir attribuer la nationalité belge de leur parent (re)devenu belge suite à une acquisition volontaire ou un recouvrement de sa part. Ce que l'on appelle communément "Belge par effet collectif".
+Depuis 2013, pour que l'enfant puisse obtenir ce droit, il faut que : 
+La filiation soit établie au moment de l'obtention de la nationalité belge ;
+L'enfant ait sa résidence principale en Belgique.
+Avant le 1er janvier 2013, l'enfant ne devait pas résider en Belgique pour se voir attribuer un "effet collectif". La condition était que la filiation devait être établie au moment de l'obtention de la nationalité belge par l'auteur et que ce dernier en ait l'autorité parentale.
+Si aujourd'hui, un parent se présente pour réclamer "l'effet collectif" pour son enfant, il est important de vérifier les dates de prise d'effet en ce qui concerne l'obtention de la nationalité, la filiation, ...
+Texte:
+Avez-vous tout compris ?
+Question:
+En cas de doute quant à l'attribution automatique selon les articles CNB repris ci-dessus, je sollicite ...
+Option de réponse:
+... parfois l'avis du parquet.
+Option de réponse:
+... toujours l'avis du parquet.
+Option de réponse:
+... l'avis du tribunal.
+Option de réponse:
+... l'avis d'aucune personne, en tant qu'OEC je dois connaître les textes de loi.
+Option de réponse:
+... je ne sais pas trop mais il doit bien y avoir quelqu'un vers qui me tourner ?
+Feedback si réponse incorrecte:
+Et non. 
+L'avis du Parquet peut être sollicité en ce qui concerne l'article 10 CNB uniquement. Et c'est la commune de naissance de l'enfant qui se chargera de ce dossier.
+Pour les autres articles, en cas de doute, c'est l'Autorité centrale en matière de nationalité du SPF Justice qui pourra émettre un avis quant à l'attribution automatique ou non de la nationalité belge.
+Feedback si réponse correcte:
+Oui, c'est bien ça !
+L'avis du Parquet peut être sollicité en ce qui concerne l'article 10 CNB uniquement. Et c'est la commune de naissance de l'enfant qui se chargera de ce dossier.
+Pour les autres articles, en cas de doute, c'est l'Autorité centrale en matière de nationalité du SPF Justice qui pourra émettre un avis quant à l'attribution automatique ou non de la nationalité belge.
+Texte:
+Les demandes d'avis :
+L'Autorité Centrale en matière de nationalité
+Inséré par la loi du 6 décembre 2022, l'article 24ter CNB prévoit qu'une Autorité Centrale en matière de nationalité soit créée au sein du SPF Justice.
+Cette autorité pourra, à la demande de l'OEC ou du détenteur des registres de la population, remettre un avis non contraignant en ce qui concerne une question sur la nationalité. Pour ce faire, sera transmis tout le dossier reçu par la commune. L'Autorité centrale pourra réclamer tout autre document complémentaire. Un avis sera rendu dans les 6 mois, délai qui peut être prolongé de 6 mois supplémentaires par cette Autorité centrale en matière de nationalité.
+Quel type d'avis peut être demandé ?
+Voici un exemple : Un homme de 27 ans, non inscrit en Belgique, se présente avec son acte de naissance français. On y lit que son père réside en 1958 en République Démocratique du Congo.
+L'intéressé pourrait-il être belge depuis la naissance car son père est né au Congo belge, "territoire soumis à la souveraineté belge" à l'époque ? Quid de la filiation ? Quid du fait que l'intéressé soit majeur aujourd'hui?
+Des questions qui, en cas de doute, trouveront des réponses auprès de cette nouvelle Autorité centrale en matière de nationalité.
+Au procureur du Roi
+Modifié par la loi du 6 décembre 2022, l'article 10 CNB prévoit que l'enfant né en Belgique et ne possédant aucune nationalité est Belge.
+En cas de doute quant à l'application de cet article, c'est le procureur du Roi qu'il faut interpeller. Il émettra son avis dans les plus brefs délais. Le texte de loi ne mentionne aucune durée précise.
+L'OEC du lieu de naissance de l'enfant transmettra toutes les pièces que le représentant légal de l'enfant lui aura transmises afin de prouver que l'enfant ne possède aucune nationalité. 
+Il ne s'agit donc pas de l'OEC du lieu d'inscription de l'enfant. Le texte ainsi rédigé permettra aux OEC de naissance de se faire leur propre "jurisprudence" dans des cas similaires. Ainsi lorsqu'une situation se rapporte à une autre déjà connue, pouvoir appliquer les mêmes règles que la situation précédente.
+Titre, page:
+L'attribution de la nationalité belge
+Texte, introduction:
+L'attribution de la nationalité belge concerne les enfants mineurs pour lesquels le ou les parents effectuent une déclaration auprès de l'administration communale.
+Les articles concernés sont : 
+l'article 8, §1er, 2°, b) du CNB;
+l'article 9, 2°, b) du CNB;
+l'article 11 bis du CNB.
+Texte:
+L'article 8, §1er, 2°, b) du CNB
+Conditions pour effectuer la déclaration :
+L'enfant doit être né à l'étranger;
+L'enfant doit avoir moins de 5 ans au moment de la déclaration;
+Le parent est également né à l'étranger et doit être belge au moment de la naissance de l'enfant;
+La filiation envers l'auteur belge doit être établie conformément au droit belge.
+Si toutes ces conditions ne sont pas remplies, la déclaration d'attribution n'est pas possible.
+Si la filiation envers l'auteur belge n'est pas correctement établie, il y aura lieu d'effectuer une reconnaissance pour (r)établir la filiation conformément au droit belge.
+Lorsque la déclaration d'attribution de nationalité belge est effectuée, l'enfant devient belge à dater de la déclaration.
+Titre, téléchargement:
+Le schéma de la procédure
+Texte:
+L'article 9, 2°, b) du CNB
+Conditions pour effectuer la déclaration :
+L'enfant doit être né à l'étranger;
+La déclaration d'attribution doit être effectuée dans les 5 ans de de la date de prise d'effet de l'adoption;
+L'enfant ne peut pas avoir plus de 18 ans (même si nous sommes dans les 5 ans de la date de prise d'effet de l'adoption);
+Le parent est également né à l'étranger et doit être belge au moment de l'adoption de l'enfant.
+Si toutes ces conditions ne sont pas remplies, la déclaration d'attribution n'est pas possible.
+Lorsque la déclaration d'attribution de nationalité belge est effectuée, l'enfant devient belge à dater de la date de prise d'effet de l'adoption.
+NB : La procédure de cet article est la même que la précédente.
+Texte:
+L'article 11bis du CNB
+Conditions pour effectuer la déclaration :
+L'enfant doit être né en Belgique;
+L'enfant doit avoir moins de 12 ans au moment de la déclaration;
+Les parents étrangers sont domiciliés en Belgique depuis 10 ans pour chacun;
+Un des deux parents doit être autorisé à séjourner de manière illimitée dans le Royaume au moment de la déclaration.
+Si toutes ces conditions ne sont pas remplies, la déclaration d'attribution devra être déclarée irrecevable par l'OEC.
+Lorsque la déclaration d'attribution de nationalité belge est effectuée, le dossier est transmis au Parquet du Procureur du Roi.
+Dans un délai de 4 mois, le Procureur du Roi remettra un avis positif ou négatif. En cas d'absence d'avis, celui-ci sera réputé positif.
+L'enfant se verra attribuer la nationalité belge après ce délai légal.
+Titre, téléchargement:
+Le schéma de la procédure
+Titre, page:
+L'article 12bis §1er du Code de la nationalité belge
+Texte, introduction:
+Dans ce chapitre, nous allons nous intéresser à l'article le plus communément utilisé en matière de nationalité belge, à savoir l'article 12bis §1er.
+Vous trouverez les généralités liées à cet article et ensuite les particularités de chaque condition.
+Texte:
+Généralités
+Tout étranger qui souhaite acquérir la nationalité belge devra respecter les conditions fixées à l'article 12 bis §1er du Code de la nationalité belge.
+La première condition qui doit être respectée concerne la résidence principale et le séjour légal.
+L'étranger devra au minimum résider en Belgique depuis 5 ans. 
+Cette preuve de résidence principale et de séjour légal sera établie par le registre national de l'intéressé. Il sera nécessaire que ce dernier n'ait pas d'interruption pour cause de radiation.
+Titre, téléchargement:
+Le schéma de la procédure
+Texte:
+Testez vos connaissances ou votre intuition en répondant à la question suivante.
+Question:
+Que pouvez-vous dire concernant la notion de séjour légal repris dans le Code de la nationalité belge?
+Feedback:
+La notion de séjour légal prévoit que l'étranger soit en ordre au niveau de ses titres de séjour ainsi que de sa résidence principale.
+Le séjour légal signifiera : 
+ en ce qui concerne le moment de l'introduction de la demande ou déclaration : avoir été admis ou autorisé au séjour illimité dans le Royaume ou à s'y établir en vertu de la loi sur les étrangers;
+ en ce qui concerne la période qui précède : avoir été admis ou autorisé à séjourner plus de trois mois dans le Royaume ou autorisé à s'y établir conformément à la loi sur les étrangers ou la loi de régularisation.
+Cela signifie qu'il y aura une vérification pour la période qui précède la déclaration ET une vérification au moment de la déclaration.
+En effet, l'arrêté royal du 14 janvier 2013 a établi quels étaient les titres de séjour valables avant la déclaration et au moment de la déclaration.
+Texte:
+La notion de séjour légal
+Texte:
+L'article 12 bis prévoit 5 cas dans lesquels un étranger peut faire une déclaration d'acquisition de la nationalité belge. 
+ L'étranger qui :
+a atteint l'âge de dix-huit ans;
+et est né en Belgique et y a fixé sa résidence principale sur la base d'un séjour légal depuis sa naissance.
+        2. L'étranger qui :
+a atteint l'âge de dix-huit ans;
+et a fixé sa résidence principale en Belgique sur la base d'un séjour légal depuis cinq ans;
+et apporte la preuve de la connaissance d'une des trois langues nationales;
+et prouve son intégration sociale :
+                 - ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement organisé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+                 - ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente;
+                 - ou bien en ayant, selon le cas, fourni la preuve délivrée par l'autorité compétente, du suivi avec succès du trajet d'intégration, du parcours d'accueil ou du parcours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame celui-ci; 
+                  - ou bien en ayant travaillé de manière ininterrompue au cours des cinq dernières années comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique et/ou comme travailleur indépendant à titre principal;
+et prouve sa participation économique :
+                 - soit en ayant travaillé pendant au moins 468 journées de travail au cours des cinq dernières années en tant que travailleur salarié et/ou agent statutaire dans la fonction publique;
+                  - soit en ayant payé, en Belgique, dans le cadre d'une activité professionnelle indépendante exercée à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins six trimestres au cours des cinq dernières années.
+La durée de la formation suivie dans les cinq ans qui ont précédé la demande visée au 2°, d), premier et/ ou deuxième tirets, est déduite de la durée de l'activité professionnelle requise de 468 jours minimum ou de la durée de l'activité professionnelle indépendante à titre principal.
+        3. L'étranger qui :
+a atteint l'âge de dix-huit ans; 
+et a fixé sa résidence principale en Belgique sur la base d'un séjour légal depuis cinq ans;
+et apporte la preuve de la connaissance d'une des trois langues nationales;
+et est marié avec une personne de nationalité belge, si les époux ont vécu ensemble en Belgique pendant au moins trois ans, ou est  l'auteur ou l'adoptant d'un enfant belge qui n'a pas atteint l'âge de dix-huit ans ou n'est pas émancipé avant cet âge; 
+et prouve son intégration sociale :
+             - ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement organisé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+              - ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente, et en ayant travaillé, au cours des cinq dernières années, pendant au moins 234 journées comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique ou en ayant payé en Belgique, dans le cadre d'une activité professionnelle indépendante à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins trois trimestres;
+              - ou bien en ayant, selon le cas, fourni la preuve délivrée par l'autorité compétente, du suivi avec succès du trajet d'intégration, du parcours d'accueil ou du parcours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame celui-ci.
+        4. L'étranger qui :
+a atteint l'âge de dix-huit ans;
+et  a fixé sa résidence principale en Belgique sur la base d'un séjour légal  depuis cinq ans;
+et apporte la preuve qu'il ne peut, en raison d'un handicap ou d'une invalidité, ni occuper un emploi ni exercer une activité économique, ou a atteint l'âge de la pension.
+NB: L'âge légal de la pension en Belgique est fixée à 66 ans. L'intéressé doit donc avoir atteint cet âge pour effectuer une déclaration d'acquisition sur base de la condition "atteint l'âge de la pension".
+      5. L'étranger qui :
+a atteint l'âge de dix-huit ans;
+et a fixé sa résidence principale en Belgique sur la base d'un séjour légal depuis dix ans;
+et apporte la preuve de la connaissance d'une des trois langues nationales;
+et justifie de sa participation à la vie de sa communauté d'accueil. Cette preuve peut être apportée par toutes voies de droit, et contient des éléments attestant que le demandeur prend part à la vie économique et/ou socioculturelle de cette communauté d'accueil.
+La déclaration comporte, préalablement à la signature de l'étranger, la mention suivante, écrite de la main de l'étranger : "Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales."
+Texte:
+Avez-vous tout compris? 
+Au sujet de l'article 12 bis CNB:
+Question:
+L'article 12bis §1er CNB énonce plusieurs cas où il est possible d'acquérir la nationalité belge. Combien?
+Option de réponse:
+5 cas.
+Option de réponse:
+3 cas.
+Option de réponse:
+7 cas.
+Feedback si réponse incorrecte:
+L'article 12bis §1er compte 5 cas d'acquisition de la nationalité belge.
+Feedback si réponse correcte:
+Parfait, saurez-vous les différencier?
+Texte:
+Au sujet du 1er cas de l'article 12 bis CNB:
+Question:
+L'article 12bis §1er, 1° concerne le citoyen qui :
+Option de réponse:
+est mineur et qui habite en Belgique depuis 5 ans.
+Option de réponse:
+qui est majeur, né en Belgique et y a toujours vécu.
+Option de réponse:
+qui est mineur, né en Belgique et y a toujours vécu.
+Feedback si réponse incorrecte:
+L'acquisition de la nationalité belge via l'article 12bis §1er visera toujours une personne majeure.
+De plus le 1° de cet article ne concerne que le citoyen étranger né en Belgique et y avoir toujours été domicilié.
+Feedback si réponse correcte:
+C'est juste ! Attention toujours à la notion de séjour légal.
+Question:
+L'étranger qui souhaitera effectuer une déclaration d'acquisition sur base de cette condition devra fournir :
+Option de réponse:
+Son acte de naissance.
+Option de réponse:
+Son certificat de résidence avec historique d'adresse et de titres de séjour.
+Option de réponse:
+Son casier judiciaire.
+Option de réponse:
+La preuve du paiement du droit d'enregistrement payé via l'application Myminfin du SPF Justice.
+Feedback si réponse incorrecte:
+L'intéressé étant né en Belgique, l'acte devra être disponible dans la BAEC. Le certificat de résidence généré via le registre national sera également joint par l'OEC qui reçoit la déclaration.
+Il ne devra donc qu'apporter la preuve de s'être acquitté du droit d'enregistrement à la nationalité belge.
+Le paiement peut être effectué via le site du SPF Finances : myminfin.be
+Feedback si réponse correcte:
+L'intéressé étant né en Belgique, l'acte devra être disponible dans la BAEC. Le certificat de résidence généré via le registre national sera également joint par l'OEC qui reçoit la déclaration.
+Il ne devra donc qu'apporter la preuve de s'être acquitté du droit d'enregistrement à la nationalité belge.
+Le paiement peut être effectué via le site du SPF Finances : myminfin.be
+Texte:
+Au sujet du 2ème cas de l'article 12 bis CNB:
+Question:
+L'article 12bis §1er, 2° concerne le citoyen qui :
+Option de réponse:
+est âgé de 18 ans
+Option de réponse:
+prouve la connaissance d'une des trois langues nationales
+Option de réponse:
+a des parents belges
+Option de réponse:
+habite en Belgique depuis au moins 5 ans sur base d'un séjour légal
+Option de réponse:
+peut prouver son intégration sociale et sa participation économique
+Option de réponse:
+est propriétaire de son propre bien
+Feedback si réponse incorrecte:
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+apporter la preuve de la connaissance d'une des trois langues nationales;
+prouver son intégration sociale;
+prouver sa participation économique.
+Feedback si réponse correcte:
+Tout à fait ! 
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+apporter la preuve de la connaissance d'une des trois langues nationales;
+prouver son intégration sociale;
+prouver sa participation économique.
+Texte:
+Au sujet du 3ème cas de l'article 12 CNB:
+Question:
+L'article 12bis §1er, 3° concerne le citoyen qui :
+Option de réponse:
+est âgé de 18 ans.
+Option de réponse:
+habite avec son enfant mineur belge.
+Option de réponse:
+a un enfant mineur belge.
+Option de réponse:
+a un conjoint belge avec qui il réside depuis 3 ans précédent immédiatement la déclaration.
+Option de réponse:
+a un conjoint belge avec qu'il a résidé pendant au moins 3 ans.
+Option de réponse:
+apporte la preuve de son intégration sociale.
+Option de réponse:
+apporte la preuve de sa connaissance d'une des trois langues nationales.
+Option de réponse:
+apporte la preuve de sa participation économique.
+Option de réponse:
+est domicilié en Belgique depuis au moins 5 ans sur base d'un séjour légal.
+Feedback si réponse incorrecte:
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+apporter la preuve de la connaissance d'une des trois langues nationales;
+prouver son intégration sociale.
+Il doit également être le parent d'un mineur belge (sans forcément habiter avec lui) ou bien être marié depuis au moins 3 ans et avoir vécu avec son conjoint belge durant les 3 dernières années précédents directement la déclaration.
+Attention particulière concernant le conjoint belge : Le compte des 3 années de vie commune ne commencent qu'à partir du moment où les intéressés sont mariés ensemble.
+Feedback si réponse correcte:
+C'est correct. 
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+apporter la preuve de la connaissance d'une des trois langues nationales;
+prouver son intégration sociale.
+Il doit également être le parent d'un mineur belge (sans forcément habiter avec lui) ou bien être marié depuis au moins 3 ans et avoir vécu avec son conjoint belge durant les 3 dernières années précédents directement la déclaration.
+Attention particulière concernant le conjoint belge : Le compte des 3 années de vie commune ne commencent qu'à partir du moment où les intéressés sont mariés ensemble.
+Texte:
+En ce qui concerne le 4ème cas de l'article 12 bis CNB:
+Question:
+L'article 12bis §1er, 4° concerne le citoyen qui :
+Option de réponse:
+est âgé de 18 ans.
+Option de réponse:
+est pensionné.
+Option de réponse:
+a atteint l'âge de la pension légale.
+Option de réponse:
+qui est atteint d'un handicap qui l'empêche d'exercer une activité professionnelle.
+Option de réponse:
+est domicilié en Belgique durant les 5 dernières sur base d'un séjour légal.
+Feedback si réponse incorrecte:
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+avoir atteint l'âge de la pension ou être atteint d'un handicap empêchant l'exercice d'une activité professionnelle et en apporter la preuve.
+Note : Avoir atteint l'âge de la pension signifie que c'est l'âge légal de la pension qui doit être prise en compte. Et non le fait d'être pensionné.
+Actuellement en Belgique, l'âge légal de la pension est de 65 ans.
+Feedback si réponse correcte:
+En effet !
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 5 ans sur base d'un séjour légal;
+avoir atteint l'âge de la pension ou être atteint d'un handicap empêchant l'exercice d'une activité professionnelle et en apporter la preuve.
+Note : Avoir atteint l'âge de la pension signifie que c'est l'âge légal de la pension qui doit être prise en compte. Et non le fait d'être pensionné.
+Actuellement en Belgique, l'âge légal de la pension est de 65 ans.
+Texte:
+Au sujet du 5ème cas de l'article 12 bis CNB:
+Question:
+L'article 12bis §1er, 5° concerne le citoyen qui :
+Option de réponse:
+est âgé de 18 ans.
+Option de réponse:
+est domicilié en Belgique durant les 10 dernières années précédant la déclaration sur base d'un séjour légal.
+Option de réponse:
+prouve la connaissance d'une des trois langues nationales.
+Option de réponse:
+apporte la preuve de sa participation économique et/ou socioculturelle de sa communauté de vie d'accueil.
+Option de réponse:
+peut choisir la nationalité belge par option car il réside en Belgique depuis une très longue durée.
+Feedback si réponse incorrecte:
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 10 ans sur base d'un séjour légal;
+prouver la connaissance d'une des trois langues nationales;
+apporter la preuve de sa participation économique et/ou socioculturelle à sa communauté de vie d'accueil.
+Feedback si réponse correcte:
+C'est bien ça !
+L'étranger qui souhaite effectuer sa déclaration sur base de cette base légale doit donc :
+être âgé de 18 ans;
+résider en Belgique depuis au moins 10 ans sur base d'un séjour légal;
+prouver la connaissance d'une des trois langues nationales;
+apporter la preuve de sa participation économique et/ou socioculturelle à sa communauté de vie d'accueil.
+Texte:
+Des documents à présenter
+La quittance du bureau de sécurité juridique
+Il s'agit de la preuve du paiement effectué par le citoyen qui donne droit au dépôt du dossier à l'OEC compétent. C'est le seul document toujours obligatoire.
+Depuis le 29 juillet 2025, le montant est de 1.000,00€ et est payé via le site myminfin.be. Il est également prévu que ce montant soit indexé chaque année.
+      2. L'acte de naissance
+Si l'étranger est né en Belgique, l'acte de naissance sera disponible dans la BAEC.
+Si l'étranger n'est pas né en Belgique, il fournira lui-même son acte de naissance. Il proviendra soit :
+du lieu de naissance avec les légalisations et/ou traduction d'usage;
+en cas d'impossibilité, il pourra provenir des autorités étrangères en Belgique à condition que ces pays aient été déterminés comme étant des pays où il était difficile voire impossible d'obtenir son acte de naissance;
+d'un acte de notoriété ou d'une prestation de serment effectuée en Belgique. 
+Dans le cas où l'étranger est réfugié reconnu ou apatride, il fournira son acte de naissance du CGRA.
+      3. Le certificat de résidence avec historique
+Vous pourrez générer ce document via votre logiciel métier.
+      4. La preuve de la connaissance d'une des trois langues nationales
+Il y a différentes possibilités pour l'étranger de  prouver qu'il connait le français, le néerlandais ou l'allemand :
+Présenter un diplôme, de niveau minimum CESS, obtenu en Belgique;
+Présenter un diplôme universitaire pour autant que les cours aient été donnés dans l'une des trois langues nationales;
+Avoir réussi un test de langues de niveau A2;
+Avoir suivi une formation professionnelle de minimum 400 heures;
+Avoir suivi le parcours d'intégration;
+Avoir travaillé durant 5 ans de manière ininterrompue.
+      5. La preuve de l'intégration sociale
+Dans le cadre de l'article 12bis §1er 2°, cette condition se prouve :
+par l'obtention d'un diplôme, d'un niveau minimum CESS, délivré par un établissement belge;
+par le suivi du parcours d'intégration;
+par l'attestation de suivi d'une formation professionnelle de minimum 400 heures qui a été organisée par un office régional de l'emploi;
+par le fait d'avoir travaillé durant 5 ans de manière ininterrompue.
+Dans le cadre de l'article 12bis §1er 3°, cette condition se prouve :
+par l'obtention d'un diplôme, d'un niveau minimum CESS, délivré par un établissement belge;
+par le suivi du parcours d'intégration;
+par l'attestation de suivi d'une formation professionnelle de minimum 400 heures qui a été organisée par un office régional de l'emploi ET par l'accomplissement de 234 journées de travail durant les 5 dernières années qui précédent la déclaration.
+      6. La preuve de la participation économique
+Alors que les autres preuves à apporter ne sont pas limitées dans le temps, il n'en est pas de même en ce qui concerne la participation économique.
+Les différentes preuves doivent couvrir les 5 dernières précédents immédiatement la déclaration d'acquisition de la nationalité belge.
+Le principe de base est d'avoir travaillé durant 468 jours en tant qu'employé ou 6 trimestres en tant qu'indépendant à titre principal.
+A ces jours de travail peuvent être déduits, les jours de formation professionnelles et/ou d'études qui ont été sanctionnées par un diplôme.
+Par exemple : Un employé qui a travaillé 420 jours pourrait ajouter une formation professionnelle de 400 heures (correspondant à 52,5 jours) afin d'obtenir un total égal ou supérieur à 468 jours. 
+Il est nécessaire que cette formation ait eu lieu dans les 5 ans avant la déclaration.
+      7. De l'âge de la pension et de la preuve du handicap
+Uniquement dans le cadre de l'article 12bis, §1er, 4° CNB.
+Il n'y a aucun document à fournir lorsque l'étranger doit prouver qu'il a atteint l'âge de la pension. Sa date de naissance suffira à prouver qu'il a bel et bien 65 ans.
+Pour la preuve d'handicap (ou invalidité), celle-ci devra être fournie par l'intéressé.
+Titre, page:
+La possession d'état selon l'article 17 CNB
+Texte, introduction:
+C'est un cas très rare où une personne pense sincèrement posséder la nationalité belge (elle a des passeports belges, etc.) et qu'on se rend compte soudainement qu'elle n'aurait pas dû l'avoir. 
+La personne de bonne foi à qui la nationalité belge a été octroyée erronément et qui a, de façon constante durant au moins dix années, été considérée comme Belge par les autorités belges, peut, si la nationalité belge lui est contestée, acquérir la nationalité belge conformément à l'article 15.
+La déclaration doit être faite avant l'expiration d'un délai d'un an prenant cours à la date à laquelle une autorité belge conteste définitivement la détention de la nationalité belge par la personne.
+Ce délai est prorogé jusqu'à l'âge de dix-neuf ans si le déclarant est une personne dont la filiation à l'égard d'un auteur belge a cessé d'être établie alors qu'il n'était pas émancipé et n'avait pas atteint l'âge de dix-huit ans.
+Lorsque la validité des actes passés antérieurement à l'acquisition de la nationalité belge était subordonnée à la détention de la nationalité belge, cette validité ne peut être contestée pour le seul motif que le déclarant n'avait pas cette nationalité. Il en est de même des droits acquis antérieurement à l'acquisition de la nationalité belge pour lesquels la nationalité belge était requise. 
+Le dossier est également envoyé au Procureur du Roi.
+Titre, page:
+L'article 19 du Code de la nationalité belge, la naturalisation
+Texte:
+Testez vos connaissances ou votre intuition en répondant à la question suivante.
+Question:
+Que pourriez-vous dire au citoyen afin d'expliquer la différence entre la procédure d'acquisition de la nationalité belge et la procédure de naturalisation?
+Feedback:
+La procédure de naturalisation a la même finalité mais la naturalisation est transmise à la Chambre des représentants et ce sont les parlementaires qui se saisiront le dossier.
+Il n'y a pas de condition liée à une ancienneté de séjour. Dès que le citoyen est en possession d'un titre de séjour illimité, il peut introduire une demande. Il n'y a que si l'étranger est reconnu apatride qu'il devra prouver sa résidence en Belgique depuis 2 ans au moins.
+Enfin, et hormis en cas d'apatridie, l'étranger qui souhaite entamer la procédure de naturalisation doit prouver une qu'il peut faire valoir un mérite exceptionnel dans un domaine sportif, socioculturel ou scientifique.
+Contrairement à la procédure d'acquisition de nationalité belge, aucun délai n'a cours en ce qui concerne la naturalisation.
+Titre, téléchargement:
+Le schéma de la procédure
+Titre, page:
+La renonciation à la nationalité belge - article 22§1er,  2° CNB
+Texte, introduction:
+L'article 22§1er, 2° prévoit que perd  la qualité de Belge celui qui, ayant atteint l'âge de dix-huit ans, déclare renoncer à la nationalité belge.
+Cette déclaration ne peut être faite que si le déclarant prouve qu'il possède une nationalité étrangère ou qu'il l'acquiert ou la recouvre par l'effet de la déclaration si cette acquisition ou ce recouvrement ne suit pas immédiatement la déclaration de renonciation et a, en outre, pour résultat de rendre l'intéressé apatride, cette déclaration ne produit des effets juridiques qu'au moment de l'acquisition ou du recouvrement effectifs de la nationalité étrangère.
+Titre, téléchargement:
+Le schéma de la procédure
+Titre, page:
+Le recouvrement de la nationalité belge - article 24 CNB
+Texte, introduction:
+Celui qui a perdu la nationalité belge autrement que par déchéance peut la recouvrer: 
+par une déclaration faite conformément à l'article 15, 
+s'il est âgé d'au moins dix-huit ans; 
+s'il a sa résidence principale en Belgique depuis au moins douze mois, sur la base d'un séjour légal ininterrompu; 
+s'il est, au moment de la déclaration, admis ou autorisé au séjour pour une durée illimitée. 
+Si la perte de la nationalité belge procède d'une renonciation, le procureur du Roi peut néanmoins juger ne pas devoir émettre d'avis négatif, après avoir apprécié les circonstances dans lesquelles le déclarant a perdu la nationalité belge, ainsi que les raisons pour lesquelles il veut la recouvrer. 
+Si la perte de la nationalité belge résulte de l'impossibilité de faire la déclaration telle que prévue à l'article 22, § 1er, 5°, et si l'intéressé ne satisfait pas aux deux dernières conditions visées au premier alinéa, le procureur du Roi peut néanmoins juger ne pas devoir émettre d'avis négatif, après avoir apprécié les circonstances dans lesquelles le déclarant a perdu la nationalité belge, ainsi que les raisons pour lesquelles il veut la recouvrer.
+Titre, téléchargement:
+Le schéma de la procédure
+Titre, page:
+Le traitement du dossier
+Texte, instruction:
+Les articles 11bis, 12bis, 17 et 24 du Code de la nationalité prévoient qu'une déclaration de la nationalité belge soit effectuée conformément à l'article 15 CNB. Cette déclaration est transmise au Procureur du Roi dans les 5 jours.
+La déclaration comportera sa signature et la phrase suivante qu'il recopiera : 
+"Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ".
+Ainsi que l'identité du demandeur et sur quelle base légale, il souhaite obtenir la nationalité belge.
+Titre, accordéon:
+L'article 15 du CNB
+Texte, accordéon:
+En théorie
+Titre, barre d’accordéon:
+Le texte législatif
+Texte:
+Article 15
+                                                                                  
+§ 1er. L'étranger fait la déclaration devant l'officier de l'état civil de sa résidence principale.
+Si le nom ou le prénom de l'étranger n'est pas orthographié de la même façon dans le registre de la population, le registre des étrangers, le casier judiciaire ou les documents présentés, la demande est suspendue jusqu'à ce que l'orthographe ait été uniformisée dans tous les registres et documents.
+Si l'étranger n'a pas de nom ou de prénom, l'officier de l'état civil propose à l'étranger d'introduire gratuitement une procédure conformément au livre Ier, titre VIII/1, chapitre 3 du Code civil, auquel cas la demande est suspendue jusqu'à ce que l'étranger ait un nom et un prénom.
+§ 2. L'officier de l'état civil examine l'exhaustivité de la déclaration dans les trente jours ouvrables qui suivent le dépôt de celle-ci.
+Lorsqu'une déclaration est incomplète, l'officier offre au demandeur la possibilité de réparer l'oubli dans un délai de deux mois. L'officier de l'état civil indique dans un formulaire établi par le Roi, par arrêté délibéré en Conseil des ministres, quelles sont les pièces qui font défaut dans la déclaration.
+S'il n'est pas ou pas suffisamment fait usage de la possibilité de réparer l'oubli, la [ déclaration ] est déclarée irrecevable.
+Si la déclaration est complète et recevable et si le droit d'enregistrement mentionné à l'article 238 du Code des droits d'enregistrement, d'hypothèque et de greffe, a été acquitté, l'officier de l'état civil délivre un récépissé, soit dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration si la déclaration a immédiatement été jugée complète, soit dans les quinze jours ouvrables suivant l'expiration du délai accordé à l'étranger pour réparer l'oubli.
+Si la déclaration est jugée incomplète, il en est donné connaissance par lettre recommandée dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration ou dans les quinze jours ouvrables suivant l'expiration du délai accordé à l'étranger pour réparer l'oubli. Le paiement tardif du droit d'enregistrement ne peut toutefois pas être régularisé.
+Si le récépissé ou le caractère incomplet de la déclaration n'a pas été notifié dans les délais, la déclaration est réputée complète. La déclaration expresse d'irrecevabilité peut faire l'objet d'un recours en annulation devant la section du contentieux administratif du Conseil d'Etat, ainsi que le prévoit l'article 14, § 1er, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, et sur la proposition du ministre de la Justice, les actes et justificatifs à joindre à la demande pour apporter la preuve que les conditions sont réunies et que le dossier a été jugé complet, comme le prévoit l'alinéa 1er.
+L'officier transmet, pour avis, une copie de l'intégralité du dossier au procureur du Roi du tribunal de première instance du ressort, au plus tard dans les cinq jours ouvrables de la délivrance du récépissé. Le procureur du Roi en accuse réception sans délai.
+En même temps qu'il communique au procureur du Roi copie du dossier complet, l'officier de l'état civil en transmet également copie à l'Office des étrangers et à la Sûreté de l'Etat.
+§ 3. Dans un délai de quatre mois à compter de la date du récépissé visé au § 2, le procureur du Roi peut émettre un avis négatif sur l'acquisition de la nationalité belge lorsqu'il existe un empêchement résultant de faits personnels graves, qu'il doit préciser dans les motifs de son avis, ou lorsque les conditions de base, qu'il doit indiquer, ne sont pas remplies.
+Si, en violation du § 2, alinéa 8, la déclaration visée au § 1er est communiquée tardivement dans le courant du dernier mois du délai, celui-ci est d'office prolongé d'un mois à dater de la communication du dossier au procureur du Roi.
+Si le procureur du Roi estime ne pas devoir émettre d'avis négatif, il envoie à l'officier de l'état civil une attestation signifiant l'absence d'avis négatif. Sur la base de la déclaration, un acte de nationalité est établi conformément à l'article 22, § 4.
+A l'expiration du délai de quatre mois, le cas échéant, prolongé conformément à l'alinéa 2, et à défaut d'avis négatif ou de transmission d'une attestation signifiant l'absence d'avis négatif un acte de nationalité est d'office établi sur la base de la déclaration conformément à l'article 22, § 4. Toutefois, à défaut de la transmission visée au paragraphe 2, alinéa 8, l'établissement de l'acte de nationalité n'a pas lieu et l'officier de l'état civil en informe immédiatement l'intéressé.
+Notification de l'établissement de l'acte de nationalité est faite à l'intéressé par l'officier de l'état civil.
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.
+§ 4. L'avis négatif du procureur du Roi doit être motivé. Il est notifié à l'officier de l'état civil et, par lettre recommandée, à l'intéressé par les soins du procureur du Roi.
+§ 5. L'intéressé peut inviter l'officier de l'état civil, par lettre recommandée, à transmettre son dossier au tribunal de la famille dans les quinze jours suivant la réception de l'avis négatif visé au paragraphe 3 ou du non-établissement de l'acte de nationalité visé au paragraphe 3, alinéa 4, dernière phrase.
+Après avoir entendu ou appelé l'intéressé, le tribunal de la famille statue par voie de décision motivée sur le bien-fondé de l'absence d'établissement de l'acte de nationalité visée au paragraphe 3, alinéa 4, dernière phrase ou sur l'avis négatif visé au paragraphe 3.
+La décision est notifiée à l'intéressé et au parquet par le greffe. Dans les quinze jours de la notification, l'intéressé et le procureur du Roi peuvent interjeter appel de la décision par requête adressée à la chambre de la famille de la cour d'appel. La prorogation des délais en raison des vacances judiciaires a lieu conformément à l'article 50, alinéa 2, du Code judiciaire.
+La cour d'appel statue, après avis du procureur général, et après avoir entendu ou appelé l'intéressé.
+Les notifications sont effectuées conformément à l'article 1030 du Code judiciaire. Le calcul des délais en cas de notification a lieu conformément aux articles 52 et suivants du Code judiciaire.
+Le greffier transmet immédiatement à l'officier de l'état civil via la BAEC, les données de la décision passée en force de chose jugée par laquelle l'avis négatif est déclaré non fondé, nécessaires à l'établissement de l'acte de nationalité. Celui-ci établit l'acte de nationalité, conformément à l'article 22, § 4.
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.
+§ 6. A défaut du consentement de l'un des auteurs ou des adoptants exigé à l'article 11, § 2, alinéa 2, la déclaration peut néanmoins être faite par l'autre auteur ou adoptant, devant l'officier de l'état civil de la résidence principale de l'enfant. Celui-ci la communique immédiatement au parquet du tribunal de première instance du ressort. Le procureur du Roi en dresse acte, sans délai.
+Sur avis du procureur du Roi et après avoir entendu ou appelé les auteurs ou les adoptants, le tribunal de la famille se prononce sur l'agrément de la déclaration. Il l'agrée s'il estime le refus de consentement abusif et si la déclaration ne vise pas d'autre but que l'intérêt de l'enfant à se voir attribuer la nationalité belge. La décision est motivée.
+La décision est notifiée aux auteurs ou aux adoptants par les soins du procureur du Roi. Dans les quinze jours de la notification, les auteurs ou les adoptants, ainsi que le procureur du Roi, peuvent interjeter appel de la décision du tribunal, par requête adressée à [ la chambre de la famille de ] la cour d'appel. La cour statue, après avis du procureur général et après avoir entendu ou appelé les auteurs ou les adoptants.
+Les citations et notifications se font par la voie administrative.
+Le dispositif de la décision d'agrément passée en force de chose jugée mentionne l'identité complète de l'enfant; il est transcrit à la diligence du ministère public sur le registre mentionné à l'article 25 du lieu de la résidence principale de l'enfant.
+La déclaration a effet à compter de la transcription.
+Texte:
+En pratique
+L'OEC réceptionnera le dossier et vérifiera qu'il soit bien complet.
+Si le dossier est complet, il le transmet au Procureur du Roi.
+Si le dossier n'est pas complet, dans un délai de 30 jours ouvrables, l'OEC notifie au déclarant quels sont les documents qui font défaut. L'intéressé aura un délai de 2 mois pour réparer l'oubli.
+Dans le cas où le dossier n'a pas été complété, l'OEC devra notifier dans un délai de 15 jours à l'intéressé que le dossier est irrecevable.
+Le courrier d'irrecevabilité reprendra la raison pour laquelle le dossier n'est pas complet. Dans le mois, un recours peut être introduit auprès du Conseil d'Etat.
+Texte:
+Ecoutez le résumé ci-dessous.
+Texte:
+Le délai légal du Procureur du Roi
+Durant le délai légal, le Parquet du Procureur du Roi émettra un avis positif ou négatif. 
+S'il n'y a pas de d'avis dans le délai légal l'avis est réputé comme étant positif.
+En cas d'avis négatif
+L'intéressé et l'OEC sont informés de cet avis par voie de recommandé. Dans ce cas, l'intéressé a un droit de recours devant le tribunal de la famille dans les 15 jours de la notification du refus. 
+Pour cela, l'OEC est invité par le citoyen et par courrier recommandé à transmettre le dossier au tribunal compétent.
+En cas d'avis positif ou d'absence d'avis dans le délai légal
+L'OEC est tenu d'établir l'acte de nationalité. Depuis le 1er janvier 2024, la déclaration de nationalité n'est plus annexée dans la BAEC.
+La nationalité prend cours à la date de l'établissement de l'acte de nationalité.
+Texte:
+Cas particuliers
+Identité différente
+Le nom et les prénoms de l'intéressé ne sont pas conformes dans tous les documents? 
+Dans ce cas, la demande est suspendue jusqu'à ce que tous les documents reprennent la même identité.
+Il n'y a aucun délai qui court durant ce laps de temps.
+La saisine au tribunal
+Dans le cas où le Procureur du Roi a émis un avis négatif, l'intéressé a donc le droit de saisir le tribunal de la famille contre la décision du Procureur du Roi.
+Si le tribunal autorise finalement l'intéressé à obtenir la qualité de Belge, le jugement sera envoyé à l'OEC de l'état civil qui avait reçu la déclaration de la nationalité.
+Si ce n'est pas vous qui aviez reçu la déclaration, il sera nécessaire soit de renvoyer le jugement au greffe du tribunal soit de transférer les documents à la commune compétente.
+NB : La nationalité prendra effet à la date de l'établissement de l'acte de nationalité
+Titre, page:
+Conclusion
+Titre, page:
+Les différents articles législatifs

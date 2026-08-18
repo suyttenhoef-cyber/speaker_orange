@@ -1,0 +1,87 @@
+Intégrer un acte étranger dans la BAEC
+Nom:
+Intégrer un acte étranger dans la BAEC
+Description:
+Titre, page:
+BAEC - Intégrer un acte étranger dans la BAEC
+Texte:
+1.  Prérequis
+De manière générale, tous les actes étrangers ayant servi à 
+l'établissement d'un acte en Belgique doivent être intégrés dans la 
+BAEC.
+L’officier de l'état civil peut intégrer un acte d’état civil étranger dans la BAEC dans deux cas :
+1. Un Belge ou son représentant légal en fait la demande.
+L’OEC compétent est :
+ - l’OEC de l’inscription au registre de la population, au registre des étrangers ou au registre d’attente ou, à défaut ;
+ - le lieu de la dernière inscription ou, à défaut ;
+ - Bruxelles
+2. Lorsqu’un acte d’état civil étranger lui est présenté dans le 
+cadre de l’établissement ou de la modification d’un acte d’état civil 
+belge, peu importe la nationalité de la personne concernée.
+Ceci étant, il y a lieu de vérifier la véracité des actes que l'on vous présente.
+1. Vérifiez si l'acte doit être légalisé ou apostillé via le site du Ministères des Affaires étrangères.
+Texte:
+Vous arrivez sur cette interface du SPF Affaires étrangères
+Légende, image (150 caractères maximum):
+Site web du SPF Affaires étrangères
+Texte:
+Remplissez les critères de recherche en fonction de la situation. Encodez un pays ou une région et choisissez dans la liste proposée.
+Ensuite consultez les informations sur la légalisation/apostille du pays/région concerné.
+Texte:
+2. Vérifiez que la légalisation est bien un original. 
+   
+         Pour ce faire, téléchargez sur votre Smartphone ou votre IPhone une application lecteur QR Code :
+Texte:
+3. Si vous avez un doute sérieux quant à l'application des règles DIP lors de la rédaction d'un acte, vous pouvez saisir l'Autorité centrale de l'état civil.
+Afin d’obtenir une réponse dans les meilleurs délais, les demandes d’avis émanant des communes doivent impérativement être transmises par courrier postal au SPF Justice, Autorité Centrale de l’état civil, Boulevard de Waterloo 115, 1000 Bruxelles ou par e-mail à cette adresse etatcivil.burgstand@just.fgov.be.
+Les dossiers doivent être les plus complets possibles (copies de l’acte, des recto-versos de documents, des légalisations et des traductions). En cas de mauvaise lisibilité ou de doute sur la nature du document, l’Autorité Centrale de l’état civil peut demander qu’on lui transmette les pièces originales.
+Texte:
+2.  Intégrer l'acte étranger dans la BAEC.
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général :
+Date et heure d'établissement de l'acte.
+Dans le menu déroulant : Type d'acte (selon le cas présent). Ensuite, choisissez le signataire.
+Texte:
+Toujours dans l'onglet général.
+Dans le sous-onglet "BAEC Base d'établissement".
+Dans le menu déroulant "Type d'acte", choisissez "Acte étranger".
+Dans le menu déroulant "Catégorie de décision", choisissez "Acte de (suivant le cas présent).
+Texte:
+Dans l'onglet "Détail", sélectionnez le sous-onglet "Décès".
+A compléter : 
+- Code commune 99999 et indiquez la commune du lieu de l'évènement.
+- Pays (Attention aux dates de créations des états)
+- Code postal 9999.
+- Numéro d'habitation : 0
+- Date de l'évènement.
+Texte:
+Signalétique défunt (dans le cas présent) : indiquez le numéro national du défunt (dans le cas présent). Les données s'afficheront directement mais vérifiez que les informations correspondent à l'acte.
+Si l'intéressé n'a pas du NN, cochez "non-résident" et complétez :
+Nom(s)
+Prénom(s)
+La date de naissance (si la date est inconnue, noter une date fictive du genre "01/01/1900) et cochez la case "Cacher date de naissance")
+Le lieu de naissance
+Le pays de naissance
+Le sexe
+Le code nationalité au moment de l'évènement
+Il y a lieu de remettre l'état civil au moment de l'évènement en cliquant droit sur l'intéressé.
+Lorsque l'on parle d'intéressé, il peut s'agir du défunt, des conjoints, du père, de la mère, de la coparente ... toujours suivant le cas.
+Texte:
+Toujours dans la colonne de gauche, cliquez droit sur 'Documents annexes" et cliquez sur "Créer".
+Scannez l'acte étranger. 
+Cliquez sur "Créer" et allez récupérer le scan de l'acte. Une fenêtre s'ouvre 
+et sélectionnez le scan de l'acte avant de cliquer sur "Ouvrir".
+Texte:
+Titre : Tapez "Base d'établissement"
+Document lié à l'acte original à transmettre à la BAEC.
+Texte:
+Type de document : Etranger.
+Langue du document : Appuyez sur le menu déroulant.
+Pays d'origine du document.
+Texte:
+Validez.
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN. Intégration - Brouillon (pour relecture) - A signer avec votre code PIN.
+Vérifiez si les mises à jour au RN ont eu lieu.
+Vous pouvez rendre les originaux à l'intéressé.
+Texte:
+Vous êtes les meilleurs.

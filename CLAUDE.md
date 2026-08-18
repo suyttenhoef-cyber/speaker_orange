@@ -29,7 +29,7 @@ matière/public.
 - `c:\dev\chatbot_cpas\Doc\catalogue_offres.md` — structure de l'offre commerciale (formation
   + outil + mises à jour, axes autonome/délégué et Base/Premium).
 
-## État actuel de CE projet (chatbot_etat_civil) — mis à jour 2026-08-11
+## État actuel de CE projet (chatbot_etat_civil) — mis à jour 2026-08-14
 
 - ✅ Socle de code copié et adapté depuis `chatbot_cpas` (retrieval numpy en local + Azure AI
   Search en production, bot Teams/Bot Framework, télémétrie Application Insights avec
@@ -40,11 +40,20 @@ matière/public.
   structure/ton). Pipeline de retrieval à 2 étages : recherche par similarité puis
   `filter_applicable_practices()` (second appel LLM qui verifie que les premisses d'une
   pratique retrouvée correspondent bien à la question), avec garde-fou anti-sur-rejet.
-- ✅ **Corpus construit** : 3 matières (`etat_civil`, `population`, `etrangers`), 311 articles
+- ✅ **Garde-fou anti-citation-fabriquée** (2026-08-13, suite à un cas réel sur le statut de
+  résident de longue durée où le bot avait inventé un numéro d'article inexistant malgré une
+  règle de prompt explicite l'interdisant - le prompt seul ne suffit pas) :
+  `check_citation_integrity()` dans `rag_answer.py` compare après coup chaque numéro d'article
+  cité dans la réponse aux numéros réellement présents dans les passages retrouvés ; en cas de
+  citation non vérifiée, un encart d'alerte rouge s'affiche (Adaptive Card Teams, app.py, champ
+  `citations_non_verifiees` du rapport de test). Voir mémoire
+  `citation_fabriquee_faible_grounding`.
+- ✅ **Corpus construit** : 3 matières (`etat_civil`, `population`, `etrangers`), 333 articles
   (dont l'extraction quasi complète de l'Ancien Code civil, Livre Ier "Des personnes" — 11
-  titres), 777 pratiques validées (dont ~530 issues de l'export FAQ Connect filtré sur
-  description non vide), 67 documents sources. Détail et conventions de schéma dans le
-  `README.md` de ce projet.
+  titres, plus l'art. 15bis de la loi du 15/12/1980 sur le résident de longue durée), 786
+  pratiques validées (dont ~530 issues de l'export FAQ Connect filtré sur description non
+  vide), 69 documents sources. Détail et conventions de schéma dans le `README.md` de ce
+  projet.
 - ✅ **Infrastructure Azure déployée** (POC) : Phases 1 à 5 validées de bout en bout
   (retrieval Azure AI Search → bot Bot Framework → canal Teams → App Service → Application
   Insights). Identité entièrement séparée de `chatbot_cpas` (nouvelle App Registration,
@@ -62,6 +71,17 @@ matière/public.
   seuls les art. 154-155 (personnel de l'état civil) ont été extraits. L'art. 126
   (délégation) n'a volontairement pas été dupliqué car il recoupe le CDLD art. L1123-25,
   déjà indexé et documenté comme base légale wallonne en vigueur depuis 2019.
+- ✅ Loi du 17/06/2026 sur le Conseil du contentieux des étrangers (CCE) reçue et évaluée le
+  2026-08-13, volontairement **non intégrée** (procédure judiciaire pour avocats, pas pour
+  agents communaux ; voir `Ressources_brutes/Loi_CCE_17_06_2026_non_integree.md`).
+- ✅ **Nouvelle source de corpus : les modules e-learning de formation** (Vanden Broele
+  OrangeConnect). Pilote réalisé le 2026-08-14 sur le module "Domicile" (registres de
+  population) : 19 entrées `articles` (notions/procédures) + 9 nouvelles pratiques validées
+  (PV-POP-188 à 196). Méthodologie détaillée dans le `README.md` (section "Ingestion des
+  modules e-learning"). Une trentaine d'autres syllabus, un par matière/sujet, sont annoncés
+  par l'utilisateur (à venir dans un dossier) - à traiter un par un (ou petits lots) selon le
+  même moule, jamais en un seul gros lot parallèle (risque de mixup de fichier déjà rencontré
+  lors de l'extraction systématique de l'Ancien Code civil).
 - ⏳ Le "nouveau" Code civil (recodification en cours, notamment cohabitation légale,
   art. 1475/1476) n'a pas été obtenu ; ces entrées restent au statut
   `extraits_cites_source_secondaire`.
@@ -71,13 +91,22 @@ matière/public.
 Le retrieval par similarité cosinus reste structurellement instable près du seuil de
 pertinence sur les sujets denses du corpus (variance de re-embedding d'un appel a l'autre) —
 ce n'est pas un bug à corriger en boucle par patch cas-par-cas, voir la mémoire
-`retrieval_fragilite_residuelle` pour le raisonnement complet.
+`retrieval_fragilite_residuelle` pour le raisonnement complet. De même, la fabrication d'une
+citation par le modèle sous faible grounding n'est pas totalement éliminée par le prompt seul
+(voir `citation_fabriquee_faible_grounding`) - le garde-fou technique `check_citation_integrity`
+est un filet de sécurité complémentaire, pas une garantie absolue.
 
 ## Prochaine étape concrète
 
-Pas de chantier bloquant identifié. Le mode de fonctionnement établi est : l'utilisateur
-remonte un cas réel testé (idéalement avec une correction d'un expert métier), on diagnostique
-la cause (contenu manquant/incorrect vs. instabilité de retrieval vs. fidélité du prompt), on
-corrige le corpus ou le prompt de façon **générale** (pas seulement pour la question qui a
-soulevé le problème), on relance le pipeline (`chunk_builder` → `embed_chunks` →
-`azure_search_setup`), on revalide localement puis en production.
+L'utilisateur prépare un dossier regroupant une trentaine de syllabus e-learning
+supplémentaires (un par matière/sujet, sur le modèle du module "Domicile" déjà traité). Dès
+réception : traiter chaque syllabus selon la méthodologie documentée dans le `README.md`
+(section "Ingestion des modules e-learning"), un par un, avec test local + push Azure après
+chaque syllabus (ou petit lot de 2-3).
+
+En parallèle, le mode de fonctionnement établi pour les cas réels reste : l'utilisateur remonte
+un cas testé (idéalement avec une correction d'un expert métier), on diagnostique la cause
+(contenu manquant/incorrect vs. instabilité de retrieval vs. fidélité du prompt), on corrige le
+corpus ou le prompt de façon **générale** (pas seulement pour la question qui a soulevé le
+problème), on relance le pipeline (`chunk_builder` → `embed_chunks` → `azure_search_setup`), on
+revalide localement puis en production.

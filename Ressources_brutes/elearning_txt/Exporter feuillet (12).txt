@@ -1,0 +1,183 @@
+Etablir un acte de reconnaissance et cas particuliers
+Nom:
+Etablir un acte de reconnaissance et cas particuliers
+Description:
+En Belgique, il y a trois façons d'établir un lien de filiation entre un enfant et son/ses parents: 
+dans l'acte de naissance; 
+dans un acte d'état civil distinct (reconnaissance); 
+par voie judiciaire (adoption et établissement judiciaire de l'acte. 
+Dans ce module, nous nous pencherons sur les deux premiers cas, le troisième ne nécessitant presque plus l'intervention des agents communaux.
+Titre, page:
+En pratique: l'établissement des actes de déclaration de reconnaissance et de reconnaissance et la lutte contre les reconnaissances frauduleuses
+Légende, image (150 caractères maximum):
+Aperçu de la procédure
+Texte:
+1ère étape: la déclaration de reconnaissance
+En pratique, les parents se présenteront devant vous en vous annonçant leur
+intention de faire acter la reconnaissance de leur enfant. 
+Il faudra avant toute chose s'assurer que le droit national de chacun des auteurs leur permette bien d'acter une reconnaissance dans ce cas précis. Si tel  n'est pas le cas, la procédure peut directement être interrompue et il reviendra aux parents de faire le nécessaire. 
+Si la reconnaissance est envisageable pour chacun des auteurs, il faudra réclamer la liste des documents précités. 
+Si tous les documents vous sont remis et ne soulèvent aucune question sur leur validité, vous pourrez acter la déclaration de reconnaissance immédiatement. 
+Si vous avez un doute quant à la validité des document, vous pourrez profiter d'un délai d'un mois pour les analyser. Vous devrez alors accuser réception des documents. Ce délai peut être prolongé de deux mois. 
+Si les documents ne vous sont pas remis et que les parents insistent, vous pourrez refuser purement et simplement d'acter la reconnaissance. Ce refus est passible d'un recours en justice (délai d'un mois pour agir)  et à ce titre, devra être motivé. 
+Le courrier de refus mentionnera le délai dans lequel les intéresser doivent agir et devant quelle instance, le tribunal de la famille.
+Au stade de la déclaration de reconnaissance donc, il n'est pas encore question d'analyser l'éventuel caractère frauduleux de la reconnaissance. Cela se fera dans un second temps, au moment de l'analyse du fond du dossier de la reconnaissance. 
+La déclaration de reconnaissance est donc bien un préalable formel obligatoire pour toute reconnaissance en Belgique. Par contre, lorsqu'on reconnaît un acte de reconnaissance étranger, il ne faut pas faire une déclaration de reconnaissance. 
+A noter que ni
+la déclaration de reconnaissance et ni l’acte de reconnaissance ne sont signés
+par les déclarants. Seul l’OEC ou l’agent délégué signera l’acte de
+reconnaissance.
+A noter également qu'il
+n’y a que l’acte de reconnaissance qui établit le lien de filiation entre le
+déclarant et l’enfant. La déclaration n’est que l’intention d’établir ce lien.
+Titre, accordéon:
+Les références légales
+Légende, image (150 caractères maximum):
+Procédure: reconnaissance de filiation
+Titre, téléchargement:
+La procédure de la reconnaissance en téléchargement
+Question:
+Avez-vous tout compris? 
+L'OEC pourrait décider de ne pas signer la déclaration de reconnaissance dans le cas où:
+Option de réponse:
+Il émet un doute quant à un des documents reçus (sa forme, la légalisation, ...).
+Option de réponse:
+Il n'en a pas envie.
+Option de réponse:
+Un des documents réclamés est manquant.
+Option de réponse:
+La loi nationale du déclarant ne lui permet pas d'effectuer la reconnaissance.
+Option de réponse:
+Il n'est pas compétent.
+Option de réponse:
+La seconde filiation est déjà établie.
+Option de réponse:
+Les deux parents ne sont pas inscrits en Belgique.
+Feedback si réponse incorrecte:
+Si les parents sont domiciliés ou résident sur votre territoire, vous êtes compétents pour recevoir la déclaration de reconnaissance.
+L'OEC peut donc refuser de signer la déclaration de reconnaissance car : 
+Les citoyens sont inscrits en Belgique mais pas dans votre commune;
+La loi nationale du déclarant ne permet pas cette reconnaissance (article 62 du CoDip);
+La seconde filiation est déjà établie et il y a donc lieu d'abord d'effecteur un désaveu de paternité;
+Les documents remis ne sont pas conformes ou il en manque un conformément à l'article 327/2 du Code civil.
+Feedback si réponse correcte:
+Tout à fait, l'OEC ne peut pas refuser de signer une déclaration uniquement si les conditions reprises à l'article 327/1 du Code civil ne sont pas respectées.
+Question:
+L'OEC aura un droit à analyser les documents remis, avec accusé de réception, dans un délai :
+Option de réponse:
+d'1 mois, qu'il pourra prolonger de 2 mois en prévenant les intéressés
+Option de réponse:
+d'1 mois, qu'il pourra prolonger de 2 mois en prévenant le déclarant.
+Option de réponse:
+dans un délai de 3 mois.
+Feedback si réponse incorrecte:
+Bien que le délai total puisse être de 3 mois, il est important de souligner que c'est bel et bien un délai d'1 mois + 2 mois et que l'OEC se doit de prévenir le déclarant de cette prolongation.
+Feedback si réponse correcte:
+Tout à fait, c'est bien un délai 1 mois + 2 mois dont on dispose l'OEC. De plus, c'est le déclarant qui sera avisé de cette prolongation.
+Question:
+Si l'OEC refuse de signer la déclaration, que doit-il faire ? Et quel recours existe-t-il?
+Feedback:
+Dans le cas où l'OEC refuserait de signer la déclaration, il devra notifier sa décision de refus au déclarant. Celui-ci, dans un délai d'1 mois, pourra saisir le tribunal contre la décision de l'OEC.
+Texte:
+2ème étape:  l'acte de reconnaissance. 
+Si toutes les conditions pour la reconnaissance sont remplies et qu'il n'y a aucun doute quant au caractère frauduleux de celle-ci, la reconnaissance pourra être actée dans la foulée de la déclaration de reconnaissance. 
+Le caractère frauduleux à prendre en compte n'est pas général mais ne concerne que le fraude qui viserait un avantage au séjour pour l'un des intéressés. Dans le cas où l'intention unique des parties est d'assurer un avantage en matière de séjour à l'un d'entre eux, il y a fraude. 
+En d'autres termes, une jeune femme belge fait reconnaître son enfant par un vieillard belge milliardaire à des fins d'héritages, ce n'est pas une fraude au sens de cette loi. La fraude pourra certes être dénoncée au Procureur du Roi mais la procédure que nous allons développer ici ne sera pas d'application.
+Quid s'il y a un doute sur le caractère frauduleux de la reconnaissance?
+Dans le cas où vous vous trouvez face à une possible reconnaissance frauduleuse qui aurait pour unique but d'ouvrir le séjour à un étranger, l'OEC pourra soit directement refuser d'acter la reconnaissance soit décider de surseoir à la reconnaissance pour enquête complémentaire.
+Ce qui peut éveiller les soupçons de l'OEC : 
+Le déclarant a reconnu un grand nombre d'enfants chez plusieurs partenaires, que cela ait des conséquences en matière de séjour ou pas;
+Le déclarant et le parent à l'égard duquel la filiation est établie ne se sont jamais rencontrés avant la déclaration de reconnaissance;
+Le déclarant et le parent à l'égard duquel la filiation est établie ne connaissent pas leur nom ou leur nationalité respectives;
+Le déclarant et le parent à l'égard duquel la filiation est établie n'ont pas eu de relation affective et n'ont pas constitué une famille ou du moins résidé à la même adresse;
+Il n'y a aucune chance que le déclarant soit le père biologique sur base de l'attestation de grossesse;
+Le déclarant ou le parent à l'égard duquel la filiation est établie ignore l'endroit où l'autre travaille;
+Il y a une divergence manifeste entre les déclarations sur les circonstances de la rencontre ou de la relation;
+Une des parties se trouve dans une position sociale précaire (p.ex. une mère isolée, etc.);
+Le déclarant est marié ou vit avec une autre personne que le parent à l'égard duquel la filiation est établie;
+Une somme d'argent ou d'autres valeurs sont promises pour faire la reconnaissance ou donner son consentement préalable à la reconnaissance;
+La reconnaissance semble revêtir un caractère organisé (p. ex. l'intervention d'un intermédiaire, etc.);
+Le déclarant ou le parent à l'égard duquel la filiation est établie a déjà fait une ou plusieurs tentatives de mariage de complaisance ou de cohabitation légale de complaisance;
+Le déclarant ou le parent à l'égard duquel la filiation est établie a déjà tenté de faire acter une reconnaissance frauduleuse à une ou plusieurs reprises;
+Le déclarant ou le parent à l'égard duquel la filiation est établie a échoué dans toutes ses tentatives légales de s'établir en Belgique : lorsqu'une des parties se trouve en situation précaire ou illégale, que les demandes de séjour antérieures se sont soldées par un refus, qu'il y a eu un ordre de quitter le territoire, qu'il y a un risque que la reconnaissance de l'enfant n'ait d'autre objectif que de régulariser son séjour;
+Une grande ou une trop petite différence d'âge entre le déclarant et l'enfant;
+Une grande différence d'âge entre le déclarant et le parent à l'égard duquel la filiation est établie;
+Dans ce cadre, l'officier de l'état civil peut se fonder, entre autres, sur :
+ Les déclarations ou les témoignages des parties elles-mêmes ou de tiers qu'il a vérifiés;
+ Certains écrits des parties elles-mêmes ou de tiers;
+ Des enquêtes effectuées par des services de police sur demande du ministère public.
+Si l'OEC sursoit à établir l'acte de reconnaissance, il aura un délai de deux mois pour se prononcer. S'il saisit le procureur du Roi, celui-ci pourra également prolonger ce délai de trois mois. 
+Notons que chaque décision de prolongation du délai doit être notifiée aux intéressés sans quoi, la prolongation n'est pas valable et l'acte devra être établi immédiatement. Notons également que si le délai est dépassé, la reconnaissance devra être actée d'office. Une éventuelle action en annulation d'acte de reconnaissance pour fraude pourra alors être intentée au Tribunal de la Famille.
+Légende, image (150 caractères maximum):
+Procédure: reconnaissance de filiation
+Question:
+Dans le cas où l'OEC décide de surseoir à la reconnaissance, dans quel délai l'OEC doit-il rendre son avis?
+Option de réponse:
+Dans un délai de 5 mois.
+Option de réponse:
+Dans un délai de 2 mois. Cependant si l'OEC a prévenu le Procureur du Roi, ce dernier pourra prolongé de 3 mois supplémentaires.
+Option de réponse:
+Dans un délai de 2 mois. Cependant si l'OEC a prévenue le procureur du Roi, le délai est d'office prolongé de 3 mois supplémentaires.
+Feedback si réponse incorrecte:
+L'OEC de l'état civil a le droit de surseoir à signer l'acte de reconnaissance. Dans ce cas, il devra prendre une décision dans un délai de 2 mois.
+Il peut, s'il le souhaite, recueillir l'avis du Procureur du Roi. 
+Le Procureur du Roi pourra prolonger ce premier délai pour 3 mois supplémentaires.
+Feedback si réponse correcte:
+Tout à fait, l'OEC a un premier délai de 2 mois. Si le Procureur du Roi est prévenu, il pourra décider de prolonger le délai initial de 3 mois supplémentaires.
+Question:
+Si le Procureur du Roi décide de prolonger de 3 mois le délai initial, que doit faire l'OEC?
+Option de réponse:
+Il doit prévenir le déclarant.
+Option de réponse:
+Il doit prévenir les intéressés.
+Option de réponse:
+Il ne doit rien faire.
+Feedback si réponse incorrecte:
+Contrairement à la déclaration de reconnaissance où seul le déclarant doit être prévenu, en ce qui concerne l'acte de reconnaissance ce sont bien les intéressés qui doivent être prévenu d'une prolongation du délai d'enquête.
+Feedback si réponse correcte:
+Tout à fait, ce sont bien les intéressés qui doivent être prévenus alors qu'en ce qui concerne la déclaration de reconnaissance ce sera juste le déclarant qui devra l'être.
+Titre, page:
+Cas particuliers
+Texte:
+Les procédures judiciaires
+Dans certains cas, une procédure judiciaire sera nécessaire dans le cadre de la filiation. 
+Dans le cas où les personnes qui doivent consentir refusent de le faire. 
+Si c'est la mère ou l'enfant qui refusent de consentir à l'établissement de filiation, toutes les parties sont entendues en chambre du conseil. S'il y a un accord donné au sein de la chambre du conseil, la reconnaissance peut être actée. S'il n'y a pas de consentement mais que le juge estime que ce refus est abusif, sa décision peut remplacer le consentement manquant. 
+Si c'est le second parent qui refuse de consentir à l'établissement de filiation, la mère ou l'enfant pourront entamer une action en recherche de paternité devant le Tribunal de la Famille. 
+       2. Dans le cas où l'un des parents dans l'acte n'est pas le vrai parent de l'enfant 
+Il peut arriver qu'un homme soit repris comme père dans l'acte de naissance d'un enfant car il y avait encore une présomption de paternité dans son chef lors de la naissance. Il peut également arriver qu'une mère soit reprise dans l'acte de naissance car c'est son nom qui était dans la notification de naissance fournie par l'hôpital. Dans ce cas, il appartiendra aux parties de faire une action de contestation de paternité ou de maternité devant le tribunal de la Famille. 
+ 
+      3. Dans le cas où le second parent, alors que marié avec la mère, n'est pas repris dans l'acte de naissance
+Il peut arriver que le registre national d'une mère ne soit pas en ordre et en contienne pas son mariage. Dès lors, ce mariage étant inconnu (ou en cours de reconnaissance dans une autre procédure), il ne sera pas pris en compte et la présomption de filiation ne pourra être formellement indiquée sur l'acte. Il faudra donc faire rectifier l'acte de naissance une fois la situation régularisée. 
+       4. Dans le cas où le second parent ne peut pas voir sa filiation établie via un acte d'état civil compte tenu de son droit national
+C'est le cas si le droit national de la coparente ne permet pas à cette dernière d'être présumée coparente ou de reconnaître son enfant. Il faudra en passer par l'adoption.
+Titre, accordéon:
+Les actions en justice
+Texte, accordéon:
+Les différentes sources législatives
+Légende, image (150 caractères maximum):
+Extrait de la Circulaire du 24 août 2020 concernant le mariage enregistré après la déclaration de naissance
+Texte:
+La naissance ou la reconnaissance a eu lieu à l'étranger
+Si les parents présentent un acte de naissance qui a été établi à l'étranger, il doit, dans tous les cas être muni des légalisations et le cas échéant de la traduction.
+Par ailleurs, l'article 27 du CoDip prévoit que les actes authentiques étrangers sont reconnus en Belgique pour autant qu'ils aient été établis conformément à la loi de l'État où ils ont été établis et en vertu des articles 18 et 21 du CoDip, à savoir : 
+Art. 18 : Fraude à la loi. Par exemple avoir effectué une reconnaissance à l'étranger dans le but d'échapper aux contrôles liées aux reconnaissances frauduleuses.
+Art. 21 : Exception d'ordre public. Par exemple, une reconnaissance effectuée à l'étranger sans le consentement de la mère de l'enfant. Certains Procureurs du Roi estiment que cette pratique est contraire à l'ordre public belge.
+Enfin, il faudra être attentif au respect du droit international privé dans l'analyse de la filiation. 
+En cas de présomption de paternité du mari belge, il conviendra de vérifier s'il n'y a pas une séparation active de plsu de 300 jours (attention que si les époux n'ont jamais résidé ensemble, il n'y a pas de séparation active). 
+En cas de reconnaissance, si le père ou la coparente est belge est qu'il/elle a reconnu l'enfant, le consentement de la mère devra être indiqué dans l'acte.
+Titre, accordéon:
+La reconnaissance des actes étrangers selon le Code de droit international privé
+Texte, accordéon:
+Le Code de droit international privé
+Texte:
+Un des intéressés est à l'étranger
+Si la mère est à l'étranger
+Si la présomption de paternité joue, l'acte de naissance pourra être reconnu directement. 
+S'il faut une reconnaissance, elle devra faire établir par notaire un acte de consentement spéciale et authentique stipulant qu'elle autorise le père à reconnaître l'enfant. C'est bien son consentement qu'elle donnera par acte authentique et non une procuration. Elle peut également donner procuration à quelqu'un de consentir à sa place à la reconnaissance devant l'OEC. 
+       
+       2. Si l'enfant est à l'étranger
+Il n'y a rien de spécial si l'enfant a moins de 12 ans: son absence ne change rien. 
+S'il a plus de douze ans et qu'il doit être reconnu, il devra suivre la même démarche que celle de la mère. 
+       3. Si le père est à l'étranger
+Il peut soit reconnaître l'enfant à l'étranger soit faire établir une procuration spéciale et authentique, autorisant une personne à reconnaître l'enfant en son nom devant l'OEC belge.

@@ -1,0 +1,1385 @@
+Analyse d'actes étrangers
+Nom:
+Analyse d'actes étrangers
+Titre, page:
+Introduction à l'analyse d'actes étrangers
+Texte, instruction:
+Texte:
+L'évaluation des conditions de reconnaissance d'un acte ou d'un jugement étranger est un exercice complexe et souvent déroutant.
+Le Code de Droit international privé (CoDIP) constitue le "mode d'emploi" de la reconnaissance de documents d'état civil étrangers. 
+Il faut cependant noter que dans certaines matières, des conventions internationales ou des règlements européens peuvent aussi intervenir et priment sur le Code.
+Le CoDIP part du principe d'une reconnaissance de plano, ce qui signifie que toute commune ou autre autorité administrative peut reconnaitre un document étranger sans que le demandeur ne soit obligé de demander la reconnaissance devant un tribunal. 
+La commune devra donc déterminer si le document répond aux conditions de légalisation mais aussi si le droit applicable a été correctement mis en oeuvre ou si les conditions de reconnaissance de la décision judiciaire sont remplies. Cet examen devra être fait systématiquement, ce qui demande du temps et de l'expertise.
+Le fait que le document soit légalisé ne garantit pas qu'il puisse être reconnu. En effet, la légalisation ne permet que de s'assurer de la signature de la personne ayant délivré l'acte.
+La commune peut toujours refuser immédiatement la reconnaissance du document 
+si celui-ci est clairement contraire à public ( par exemple le mariage d'un enfant de 12 ans)
+il s'agit d'une fraude à la loi (par exemple changement de nom dans un pays avec lequel la personne n'a pas de lien en vue de contourner les règles applicables)
+si l'acte n'a pas été valablement établi en vertu de la loi applicable (application d'une loi fantaisiste)
+si l'acte ne remplit pas les conditions requises par la loi du pays où il a été établi pour son authenticité (le modèle d'acte ne correspond pas, il a été établi par un organisme non-officiel, etc).
+Si suite à cet examen, le doute sérieux quant à la reconnaissance du document étranger persiste, la commune peut transmettre celui-ci pour avis à l'Autorité centrale de l'état civil (article 31 CoDIP). Celle-ci remettra un avis indicatif relatif aux conditions de reconnaissance de Droit international privé, dans les trois mois de l'envoi, prorogeable de trois mois.
+La commune peut également, si le doute porte sur l'authenticité ou le contenu du document demander une enquête par le biais des Affaires étrangères/poste consulaire de carrière (article 34 du Code consulaire).
+Si le doute porte plutôt sur l'intention des parties (mariage fauduleux), la commune peut demander l'avis du Procureur du Roi. 
+Si la question porte sur le fait de savoir si le document est faux ou falsifié, il peut peut être transmis aux services de police.
+Légende, image (150 caractères maximum):
+Arbre décisionnel - Analyse d'un jugement étranger
+Légende, image (150 caractères maximum):
+Arbre décisionnel - Analyse d'un acte et d'une décision administrative étrangère
+Titre, page:
+Les grands principes
+Texte:
+Introduction et rappels théoriques :
+Légalisation
+Application du DIP en Belgique
+Règles de Fond et de Forme
+ACEC
+Texte:
+En matière d'état civil, le principe est la reconnaissance des documents étrangers sans devoir passer par un juge (de plano). 
+Chaque autorité belge est censée pouvoir reconnaître le document étranger si celui-ci satisfait aux règles de reconnaissance des actes (article 27 du Code de Droit international privé CoDIP) ou de la décision étrangère (articles 24 et 25 CoDIP).
+Titre, page:
+Légalisation
+Texte:
+Principe
+Une décision judiciaire étrangère ou un acte authentique étranger doit être légalisé pour être produit en Belgique (article 30 CoDIP)
+Définition
+La légalisation est la confirmation de l'authenticité de la signature de la personne qui a délivré un document.  Elle ne garantit pas l'authenticité du contenu du document.
+A quoi sert la légalisation ?
+La légalisation n'atteste que la véracité de la signature, la qualité en laquelle le signataire de l'acte a agi et, le cas échéant, l'identité du sceau ou timbre dont l'acte est revêtu.
+La légalisation ne permet donc pas d'affirmer que le contenu du document est vrai mais qu'il a bien été signé par la personne dont la signature figure sur le document.
+Exceptions
+RÈGLEMENT (UE) 2016/1191 DU PARLEMENT EUROPÉEN ET DU CONSEIL 
+du 6 juillet 2016 
+visant à favoriser la libre circulation des citoyens en simplifiant les conditions de présentation de 
+certains documents publics dans l'Union européenne, et modifiant le règlement (UE) no 1024/2012
+Les documents d'état civil émis par les pays de l'Union européenne sont dispensés de légalisation.
+Par exemple : un acte de naissance espagnol est dispensé d'apostille
+Conventions multilatérales CIEC, notamment celles relatives aux formulaires multilingues n°16 et n° 34 CIEC
+Les formulaires multilingues émis par les parties ces conventions sont dispensés de légalisation (image d'un formulaire multilingue)
+Autres conventions multilatérales/conventions bilatérales
+Par exemple : Convention consulaire entre la Belgique et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord avec Annexe et Protocole de signature – Bruxelles
+Légende, image (150 caractères maximum):
+Légalisation nécessaire ?
+Texte:
+Où vérifier si la légalisation est nécessaire ? 
+Il s'agit d'une compétence du SPF Affaires étrangères. Il faut donc aller sur le site:  www.diplomatie.belgium.be
+Légalisation ou apostille ?
+Qu'est-ce qu'une légalisation belge ?
+Un document étranger est légalisé par un poste consulaire belge à l'étranger au moyen d'un autocollant pourvu d'un «numéro de contrôle» composé d'au moins 12 chiffres. (insérer l'image d'une légalisation )
+La légalisation s'effectue dans le pays d'origine du document. Le document est d'abord présenté aux autorités étrangères du pays d'émission qui certifient la signature de la personne qui a délivré le document.
+Il est ensuite légalisé par le poste consulaire belge compétent pour ce pays. La légalisation s'effectue donc toujours en au moins deux temps.
+Où vérifier une légalisation ?
+Le site Legal Web
+Qu'est-ce qu'une apostille ?
+Source : Convention du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers. 
+L'apostille est une forme de légalisation simplifiée. 
+Les Etats contractants à la Convention apostille dispensent de légalisation ordinaire les actes auxquels s'applique la Convention et qui doivent être produits sur son territoire. 
+Les autorités compétentes du pays émetteur attestent de la qualité du signataire de l'acte.
+L'apostille est apposée sur l'acte lui-même ou sur une allonge ; 
+elle doit être conforme au modèle annexé à la Convention.
+elle peut être rédigée dans la langue officielle de l'autorité qui la délivre. Les mentions qui y figurent peuvent également être données dans une deuxième langue. 
+le titre « Apostille (Convention de La Haye du 5 octobre 1961) » doit être mentionné en langue française.
+Des renseignements sur l'apostille ?
+Site web de la Convention de La Haye
+D'autres questions sur la légalisation ?
+elegalisation@diplobel.fed.be
+Légende, image (150 caractères maximum):
+Légalisation
+Légende, image (150 caractères maximum):
+Apostille
+Titre, page:
+Traduction
+Texte, introduction:
+Les traductions sont un accessoire de l'acte étranger et suivent les mêmes règles.
+Texte:
+Document rédigé dans une autre langue que celle(s) de la commune
+L'Officier de l'état civil et le gestionnaire des registres sont chargés de rédiger les actes de l'état civil ou de tenir à jour les registres dans la ou les langue(s) applicable(s) à leur commune. 
+Si le document étranger qu'on leur demande de reconnaître n'est pas rédigé dans la langue ou l' une des langues applicables à la commune, ils peuvent exiger une traduction jurée du document.
+La traduction jurée éventuelle est jointe en annexe de l'acte dans la BAEC.
+Texte:
+Traduction jurée à l'étranger
+Elle doit être légalisée sauf si dispense de légalisation. Les mêmes règles de dispenses s'appliquent.
+Traduction jurée en Belgique
+Jusqu'au 30 novembre 2022, les traducteurs et traducteurs-interprètes assermentés légalisaient leurs traductions assermentées en apposant un cachet physique officiel.
+Depuis le 1er décembre 2022, le cachet physique officiel est remplacé par la signature électronique du traducteur assermenté ou du traducteur-interprète. 
+Dispense de traduction/Aide à la traduction
+Les documents émis sur formulaires multilingues des conventions CIEC (n°16 et 34) sont dispensés de traduction.
+Les documents délivrés en application du Règlement Documents Publics (Règlement (UE) 2016/1191 du Parlement européen et du Conseil du 6 juillet 2016 visant à favoriser la libre circulation des citoyens en simplifiant les conditions de présentation de certains documents publics dans l'Union européenne, et modifiant le règlement (UE) n° 1024/2012) peuvent être accompagnés d'une aide à la traduction délivrée par l'autorité émettrice de l'acte. Cette aide à la traduction est un document annexe à l'acte, sans valeur juridique propre. 
+Ils permettent d'éviter le recours à une traduction et sont dispensés de légalisation.
+Titre, page:
+Usage du document
+Texte:
+Dans quel contexte le document est-il présenté?
+L'acte de naissance est présenté dans le cadre d'une déclaration de nationalité, d'une inscription de filiation dans le Registre national, d'un mariage,..
+Le jugement de divorce est présenté dans le cadre d'un dossier de mariage,en vue de rédiger un acte BAEC,...
+En fonction de son usage, le document devra être présenté en copie ou en extrait. 
+Le principe est l'extrait, sauf en matière de nationalité ou d'adoption. 
+Cependant, si l'OEC ne s'estime pas suffisamment informé, s'il ne peut pas vérifier les conditions de reconnaissance du document étranger, il peut peut en demander une copie intégrale.
+Certains pays ne délivrent que des extraits.
+Titre, page:
+Forme du document: copie ou extrait
+Texte, instruction:
+Forme du document
+L'autorité compétente peut délivrer une copie conforme (complète) ou un extrait de l'acte, conformément à sa législation.
+Conventions n°16 et 34 CIEC
+"La CIEC est une organisation intergouvernementale dont le but est de promouvoir la coopération internationale en matière d'état civil et d'améliorer le fonctionnement des services nationaux d'état civil." CIEC
+Deux conventions CIEC sont particulièrement utiles en matière de reconnaissance d'acte étranger. 
+Convention n°16 relative à la délivrance d'extraits plurilingues d'actes de l'état civil signée à Vienne le 8 septembre 1976
+Convention n°34 relative à la délivrance d'extraits et de certificats plurilingues et codés d'actes de l'état civil signée à Strasbourg le 14 mars 2014 
+Elles visent à faciliter la circulation des extraits d'actes d'état civil entre les Etats parties aux Conventions
+en les délivrant sur un formulaire multilingue standardisé ce qui évite une traduction jurée
+en dispensant les extraits CIEC de légalisation.
+Ces conventions ne mettent pas obstacle à l'obtention d'expéditions littérales d'actes de l'état civil établies conformément aux règles de droit interne du pays où ces actes ont été dressés ou transcrits.
+Si l'OEC ne s'estime pas suffisamment informé, il peut demander une copie conforme de l'acte + traduction jurée éventuelle.
+Modèle extrait de naissance - Convention n°16
+Modèle extrait de décès - Convention n°16
+Modèle extrait de mariage - Convention n°16 
+Modèle d'extraits - Convention n°34
+Règlement européen en matière de délivrance de documents publics
+Règlement (UE) 2016/1191 du Parlement européen et du Conseil du 6 juillet 2016 visant à favoriser la libre circulation des citoyens en simplifiant les conditions de présentation de certains documents publics dans l'Union européenne, et modifiant le règlement (UE) n° 1024/2012.
+Ce règlement européen poursuit les mêmes buts que les Convention n°16 et 34 de la CIEC : favoriser la circulation des extraits d'actes d'état civil entre les pays membres de l'Union européenne
+en joignant au document original un formulaire multilingue d'aide à la traduction
+en dispensant le document original (et l'aide à la traduction) de légalisation.
+Le citoyen peut choisir d'utiliser un autre système l'exemptant de l'exigence de légalisation que celui visé par ce règlement ou un formulaire multilingue CIEC.
+Si l'OEC ne s'estime pas suffisamment informé, il peut demander une copie conforme de l'acte + traduction jurée éventuelle.
+Titre, page:
+Nature du document et conditions de reconnaissance
+Texte:
+Examen externe de l'acte
+L'examen externe de l'acte est important en vue d'en déterminer sa nature. Le Codip prévoit en effet des règles différentes selon qu'il s'agit d'une décision judiciaire ou d'un acte authentique.
+Acte authentique
+Un acte authentique peut être reconnu après vérification des conditions visées à l'article 27, § 1er (et selon les cas, aux articles 39 et 57). 
+L'article 27 prévoit qu'un acte authentique étranger est reconnu en Belgique par toute autorité sans qu'il faille recourir à aucune procédure si sa validité est établie conformément au droit applicable en vertu du CODIP, en tenant spécialement compte des articles 18 (fraude à la loi)  et 21(ordre public international belge).
+L'acte doit réunir les conditions nécessaires à son authenticité selon le droit de l'Etat dans lequel il a été établi. 
+Par exemple : 
+Un acte de naissance espagnol établissant la filiation entre un enfant et ses parents, une femme marocaine et un homme belge, doit avoir été rédigé conformément aux règles de forme espagnoles et aux règles de fond marocaines pour la mère et belges pour le père.
+Décision judiciaire
+Une décision judiciaire peut être reconnue si elle satisfait aux conditions prévues aux articles  24 et 25, et selon les cas, aux articles 39 (nom), 57 (répudiation) et 72 (adoption) CoDIP.
+Une décision judiciaire étrangère n'est ni reconnue (ni déclarée exécutoire) si :
+  1° L'effet de la reconnaissance ou de la déclaration de la force exécutoire serait manifestement incompatible avec l'ordre public; cette incompatibilité s'apprécie en tenant compte, notamment, de l'intensité du rattachement de la situation avec l'ordre juridique belge et de la gravité de l'effet ainsi produit; Voir article 21.
+  2° Les droits de la défense ont été violés; (c'est particulièrement le cas dans dans des dossiers de divorce)
+  3° La décision a été obtenue, en une matière où les personnes ne disposent pas librement de leurs droits, dans le seul but d'échapper à l'application du droit désigné par la présente loi (fraude à la loi); (ce motif de refus est souvent très difficile à établir)
+Voir article 18.
+  4° Sans préjudice de l'article 23, § 4, elle peut encore faire l'objet d'un recours ordinaire selon le droit de l'Etat dans lequel elle a été rendue;
+La partie demanderesse apporte une preuve du caractère définitif de la décsion (certificat de non-appel, certificat article 39 Règlement Bruxelles II bis,...).
+  5° Elle est inconciliable avec une décision rendue en Belgique ou avec une décision rendue antérieurement à l'étranger et susceptible d'être reconnue en Belgique;
+  6° La demande a été introduite à l'étranger après l'introduction en Belgique d'une demande, encore pendante, entre les mêmes parties et sur le même objet; (ces deux conditions sont pratiquement impossibles à vérifier pour l'OEC)
+  7° Les juridictions belges étaient seules compétentes pour connaître de la demande; (sans objet en matière d'état civil)
+  8° La compétence de la juridiction étrangère était fondée uniquement sur la présence du défendeur ou de biens sans relation directe avec le litige dans l'Etat dont relève cette juridiction; (ce critère est difficile à établir et est rare en matière d'état civil)
+  9° la reconnaissance ou la déclaration de la force exécutoire se heurte à l'un des motifs de refus visés aux articles 39 (nom), 57 (répudiation), 72 (adoption), 95, 115 et 121.
+  
+§ 2. En aucun cas, la décision judiciaire étrangère ne peut faire l'objet d'une révision au fond.
+Les motifs de refus de reconnaissances sont plus réduits dans le cadre d'une décion judiciaire que d'un acte authentique. Si le jugement ne rencontre aucun des motifs de refus de l'article 25, il est reconnu.
+L'interdiction de la révision au fond implique que même si le juge étranger n'a pas appliqué correctement le droit, il n'appartient pas à l'autorité belge de remettre en cause sa décion sauf si un des motifs de refus précités existe.
+Ce critère est souvent difficile à appréhender. La décision judiciaire, même si le juge a incorrectement appliqué le droit, doit être reconnue, contrairement à l'acte authentique. Le législateur accorde une confiance plus importante aux jugements qu'aux actes authentiques. L'OEC ne doit pas opérer l'analyse du droit applicable comme il doit le faire pour un acte authentique. 
+Autres
+La décision administrative de divorce ou de changement de nom étrangère ne peut être reconnue qu'après vérification des conditions visées à l'article 27, § 1er et selon les cas, aux articles 39 (nom) et 57 (répudiation).
+De nouvelles formes de divorce, purement administratives, existent désormais. Si une personne a divorcé à l'étranger par un divorce administratif, il faut vérifier si les conditions de l'article 27 sont remplies et s'il ne s'agit pas d'une répudiation.
+Titre, page:
+Origine du document
+Texte:
+Le document doit avoir été rédigé et délivré par une autorité compétente, déterminée par la loi applicable.
+Tous les pays ne sont pas organisés de la même manière.
+Exemples : 
+Par un pays : un document délivré par une commune portugaise.
+Par une subdivision de pays :  Un acte de mariage célébré par l'Etat du Nevada à Las Vegas
+Par une autorité religieuse: Un acte de mariage célébré par une autorité musulmane au Liban.
+Titre, page:
+Instruments et outils juridiques
+Texte:
+Les conventions internationales
+Convention de La Haye n°33 du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption 
+Convention n° 4 concernant certaines questions relatives aux conflits de lois sur la nationalité signée à La Haye le 12 avril 1930
+Les règlements européens
+En matière de divorce
+Règlement (CE) n o 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n o 1347/2000 dit "Bruxelles II bis"
+Règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l’exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu’à l’enlèvement international d’enfants (refonte) dit "Bruxelles II ter"
+Ces deux règlements s'appliquent entre tous les Etats de l'Union européenne à l'exception du Danemark.
+Les décisions relatives aux divorces et aux séparations de corps sont reconnues dans les autres Etats membres sans qu'il soit nécessaire de recourir à une procédure.
+Les règlements priment sur le CoDIP.
+L'OEC demande l'expédition authentique de la décision et le certificat prévu à l'article 39 du Règlement Bruxelles II bis ou 65 du Règlement Bruxelles II ter.
+En matière de délivrance de documents publics
+Règlement (UE) 2016/1191 du Parlement européen et du Conseil du 6 juillet 2016 visant à favoriser la libre circulation des citoyens en simplifiant les conditions de présentation de certains documents publics dans l'Union européenne, et modifiant le règlement (UE) n° 1024/2012
+Le Code de Droit international privé (CoDIP)
+Le Code de Droit international privé (mettre lien) est, à l'exception de quelques articles, entré en vigueur le 01 octobre 2004.
+Son article 2 précise que : "Sous réserve de l'application des traités internationaux, du droit de l'Union européenne ou de
+dispositions contenues dans des lois particulières, la présente loi régit, dans une situation internationale, la
+compétence des juridictions belges, la détermination du droit applicable et les conditions de l'efficacité en
+Belgique des décisions judiciaires et actes authentiques étrangers en matière civile et commerciale."
+Pour la commune, ces deux derniers points sont essentiels.
+Le Code constitue un mode d'emploi permettant de déterminer le droit applicable à une situation internationale et si les documents d'état civil étrangers peuvent être reconnus.
+En matière de droit applicable, on distingue deux grandes catégories de règles :
+Règles de fond
+Les règles de fond sont celles applicables aux personnes en fonction, la plupart du temps de leur nationalité. Par exemple, dans le cadre d'un mariage, chaque conjoint doit satisfaire aux conditions de fond prévues par son droit national (article 46 Codip)
+Règles de forme
+Les règles de forme s'attachent aux formalités prévues par le droit de l'Etat sur le
+territoire duquel l’événement juridique intervient, l'acte est rédigé. Par exemple, dans le cadre d'un mariage, les conditions de forme sont les formalités prévues par le droit de l'Etat de la célébration du mariage.
+Pour être reconnu, un document d'état civil étranger doit satisfaire aux conditions de fond et aux conditions de forme.
+La circulaire relative aux aspects de la loi du 16 juillet 2004 portant le Code de droit international privé concernant le statut personnel 
+Circulaire Elle apporte des précisions sur l'application du CoDIP.
+Titre, page:
+Détermination du droit applicable-facteurs de rattachement
+Texte:
+Si le CoDIP est applicable car il n'y a pas de convention internationale ou de Règlement européen qui entre en jeu, il faut déterminer quel droit sera d'application.
+En fonction de ce que la commune cherche à établir (filiation, statut marital, nom, ...), de ce à quoi doit servir le document, les facteurs de rattachement ne seront pas les mêmes.
+Exemples : 
+Nom : article 39 CoDIP
+Droit de la nationalité ou de la résidence habituelle de l'intéressé
+Mariage : articles 46 et 47 CoDIP
+Conditions de fond : article 46, nationalité de chaque conjoint
+Conditions de forme : article 47, formalités du lieu de célébration du mariage
+Divorce : article 55 CoDIP
+Répudiation : article 57 CoDIP
+Filiation : articles 62 et 64 CoDIP
+Conditions de fond : article 62 Codip : droit de la nationalité de celui qui veut faire établir son lien de filiation
+Conditions de forme en cas d'établissement volontaire de la filiation (reconnaissance) : article 64 CoDIP: droit de la nationalité de celui qui veut faire établir son lien de filiation ou droit du lieu de la reconnaissance.
+Titre, page:
+Dispositions générales du CoDIP
+Texte, introduction:
+Les articles mentionnés dans la première partie du CoDIP ont une valeur générale. Nous allons examiner quelques-uns de ces articles de base.
+La nationalité et la résidence habituelle permettent de déterminer les critères de rattachement et donc le droit applicable, par exemple en matière de filiation.
+Texte:
+Nationalité - Article 3
+§ 1er. La question de savoir si une personne physique a la nationalité d'un Etat est régie par le droit de cet Etat.
+Chaque Etat détermine qui sont ses nationaux et les modes de preuve de cette nationalité. Il s'agit d'une compétence exclusive.
+En pratique, la personne intéressée présente un document établissant sa nationalité si celle-ci n'est pas encore connue de l'Autorité belge.
+§ 2. Toute référence faite par le Codip à la nationalité d'une personne physique qui a deux ou plusieurs nationalités vise :
+la nationalité belge si celle-ci figure parmi ses nationalités;                                                                                                                    Lorsqu'une personne est plurinationale, on retiendra toujours sa nationalité belge pour déterminer le droit applicable sauf si le droit prévoit des exceptions (ex. nom)
+dans les autres cas, la nationalité de l'Etat avec lequel, d'après l'ensemble des circonstances, cette personne possède les liens les plus étroits, en tenant compte, notamment, de la résidence habituelle.                                                                                            Si la personne est plurinationale, mais pas Belge, on retient le droit des liens les plus étroits. Il s'agit d'un examen de fait. Un des critères à privilégier est celui de la résidence habituelle de la personne.
+  
+§ 3. Toute référence faite par la présente loi à la nationalité d'une personne physique qui a la qualité d'apatride ou de réfugié en vertu de la loi ou de traités internationaux liant la Belgique, est remplacée par une référence à la résidence habituelle.
+Il s'agit des apatrides judiciairement reconnus et des réfugiés reconnus. Une personne sous statut de candidat réfugié se voit appliquer le droit de sa nationalité.
+  § 4. Toute référence faite par la présente loi à la nationalité d'une personne physique dont il est impossible d'établir la nationalité est remplacée par une référence à la résidence habituelle.
+Une personne qui n'est pas réfugiée, apatride et pour laquelle dont il n'a pas été possible d'établir la nationalité, se voit appliquer le droit de sa résidence habituelle.
+Résidence habituelle - Article 4
+Le domicile se comprend comme le lieu où une personne physique est inscrite à titre principal, en Belgique, sur les registres de la population, sur les registres des étrangers ou sur le registre d'attente;
+  
+La résidence habituelle se comprend comme le lieu où une personne physique s'est établie à titre principal, même en l'absence de tout enregistrement et indépendamment d'une autorisation de séjourner ou de s'établir; pour déterminer ce lieu, il est tenu compte, en particulier, de circonstances de nature personnelle ou professionnelle qui révèlent des liens durables avec ce lieu ou la volonté de nouer de tels liens.
+Domicile et résidence habituelle coïncident souvent mais pas toujours. Si le Code se réfère à la résidence habituelle de la personne, celle-ci est déterminée sur la base d'éléments de faits. La personne n'est pas nécessairement inscrite à cette adresse.
+Texte:
+Application du droit étranger - Article 15 
+§ 1er. Le contenu du droit étranger désigné par la présente loi est établi par le juge.  Le droit étranger est appliqué selon l'interprétation reçue à l'étranger.
+  
+§ 2. Lorsque le juge ne peut pas établir ce contenu, il peut requérir la collaboration des parties.
+Lorsqu'il est manifestement impossible d'établir le contenu du droit étranger en temps utile, il est fait application du droit belge.
+L'OEC belge doit rechercher le droit étranger et l'appliquer comme le ferait l'autorité étrangère. 
+Certaines législations sont bien connues ou facilement accessibles sur internet ou dans des sites de documentation (voir la partie sources). 
+Le contenu de la loi étrangère peut aussi être transmis via un certificat de coutume délivré par l'autorité étrangère compétente.  
+Système plurilégislatif Article 17 
+§ 1er. Lorsque le CoDIP désigne le droit d'un Etat comprenant deux ou plusieurs systèmes de droit, chacun d'eux est considéré comme le droit d'un Etat aux fins de la détermination du droit applicable.
+Exemple : Les Etats-Unis d'Amérique regroupent 50 Etats qui disposent chacun de leur propre système juridique. Si un mariage est célébré à Las Vegas, on examinera les règles du Nevada en matière de mariage.
+§ 2. Une référence faite au droit de l'Etat dont une personne physique a la nationalité vise, au sens du § 1er, le système désigné par les règles en vigueur dans cet Etat ou, à défaut de telles règles, le système avec lequel cette personne a les liens les plus étroits.
+Une référence faite au droit d'un Etat comprenant deux ou plusieurs systèmes de droit applicables à des catégories différentes de personnes vise, au sens du § 1er, le système désigné par les règles en vigueur dans cet Etat ou, à défaut de telles règles, le système avec lequel le rapport juridique a les liens les plus étroits.
+Exemple : Au liban, les règles en matière de droit de la famille sont déterminées par la religion à laquelle la personne appartient.
+Fraude à la loi - Article 18 
+Pour la détermination du droit applicable en une matière où les personnes ne disposent pas librement de leurs droits, il n'est pas tenu compte des faits et des actes constitués dans le seul but d'échapper à l'application du droit désigné par la présente loi.
+Exemples :
+Une personne née en Irlande, se rend en Guinée, pays avec lequel elle n'a aucun lien, dans le seul but d'y faire établir un acte de naissance mentionnant la filiation qu'elle souhaite.
+Un homme camerounais et une femme belgo-allemande partent faire célébrer leur mariage au Danemark où les conditions de célébration d'une union sont relativement simples.
+Madame X, de nationalité belge est mariée avec Monsieur Y de
+nationalité belge. Elle va accoucher en France et n’indique pas son conjoint
+sur l’acte de naissance afin que son compagnon, Z, de nationalité belge et marié avec Madame A.,  puisse reconnaitre l’enfant en France et lui
+donner son nom. 
+La définition du seul but est importante et la nuance n'est pas toujours facile à établir.
+Ex. un homme belge fait établir un acte de naissance canadien pour un enfant né en Ontario (Canada) par gestation pour autrui. Cependant, il y habite depuis 5 ans et est en couple avec un résident canadien. Il n'y a pas de fraude à la loi dans ce cas car Monsieur n'a pas utilisé la loi de l'Ontario dans le seul but d'obtenir l'établissement d'un lien de filiation avec l'enfant. 
+ATTENTION : La fraude à la loi n'est pas la même chose que la fraude documentaire ou l'intention frauduleuse (notamment en matière de mariage ou de reconnaissance). Il s'agit d'une notion spécifique au droit international privé.
+Un acte peut être un faux matériel ou dans on contenu tout en n'étant pas un cas de fraude à la loi.
+Exemple : Une personne fait établir contre paiement un acte de naissance mentionnant un nom qui n'est pas le sien ou utilise l'acte d'une autre personne. Ceci est constitutif d'une fraude mais pas d'une fraude à la loi.
+Clause d'exception - Article 19
+Le droit désigné par la présente loi n'est exceptionnellement pas applicable lorsqu'il apparaît manifestement qu'en raison de l'ensemble des circonstances, la situation n'a qu'un lien très faible avec l'Etat dont le droit est désigné, alors qu'elle présente des liens très étroits avec un autre Etat. Dans ce cas, il est fait application du droit de cet autre Etat.
+  
+Lors de l'application de l'alinéa 1er, il est tenu compte notamment :
+du besoin de prévisibilité du droit applicable, et
+de la circonstance que la relation en cause a été établie régulièrement selon les règles de droit international privé des Etats avec lesquels cette relation présentait des liens au moment de son établissement.
+  
+Règles spéciales d'applicabilité - Article 20 
+Les dispositions de la présente loi ne portent pas atteinte à l'application des règles impératives ou d'ordre public du droit belge qui entendent régir une situation internationale quel que soit le droit désigné par les règles de conflit de lois, en vertu de la loi ou en raison de leur but manifeste.
+Lors de l'application, en vertu de la présente loi, du droit d'un Etat, il peut être donné effet aux dispositions impératives ou d'ordre public du droit d'un autre Etat avec lequel la situation présente un lien étroit, si et dans la mesure où, selon le droit de ce dernier Etat, ces dispositions sont applicables quel que soit le droit désigné par les règles de conflit de lois. Pour décider si effet doit être donné à ces dispositions, il est tenu compte de leur nature et de leur objet ainsi que des conséquences qui découleraient de leur application ou de leur non-application.
+Cas exceptionnels : On peut citer les mesures prises pour lutter contre les reconnaissances (330/1 a.C.c. mettre lien), cohabitations légales et mariages frauduleux (146 bis a.C.c.) mettre lien.
+Exception d'ordre public - Article 21
+Principe
+L'application d'une disposition du droit étranger désigné par le Codip est écartée dans la mesure où elle produirait un effet manifestement incompatible avec l'ordre public.
+La cour de Cassation, par un arrêt du 4 mai 1950, définit la notion d'ordre public international privé: « Attendu qu’une loi d’ordre public interne n’est d’ordre public international privé que pour autant que le législateur ait entendu consacrer, par les dispositions de celle-ci, un principe qu’il considère comme essentiel à l’ordre moral, politique ou économique établi, et qui, pour ce motif, doit nécessairement exclure l’application en Belgique de toute règle contraire ou différente inscrite dans le statut personnel de l’étranger »
+Cette incompatibilité s'apprécie en tenant compte, notamment, de l'intensité du rattachement de la situation avec l'ordre juridique belge et de la gravité de l'effet que produirait l'application de ce droit étranger.
+Lorsqu'une disposition du droit étranger n'est pas appliquée en raison de cette incompatibilité, une autre disposition pertinente de ce droit ou, au besoin, du droit belge, est appliquée.
+Il s'agit ici de l'ordre public international belge. Cette notion est mouvante et évolutive. Ce qui pouvait être considéré comme normal il y a quelques décennies peut être devenu totalement incompatible avec les valeurs fondamentales actuelles de la société belge.
+Par exemple : L'interdiction totale pour un homme de faire établir sa filiation par rapport à un enfant né hors mariage sera considérée comme contraire à l'ordre public international belge.
+Application de l'ordre public atténué.
+Si les faits se sont déroulés il y a longtemps, alors que les intéressés n'avaient pas encore de lien avec la Belgique, on applique parfois l'ordre public atténué.
+Exemple 1: Madame est Syrienne, elle s'est mariée en 1990 à l'âge de 15 ans et 11 mois en Syrie. Le couple est toujours marié et trois enfants sont issus de ce mariage. En 2024 Madame vient rejoindre son conjoint, qui vient d'être reconnu réfugié en Belgique et y habite depuis 2022. 
+En principe, un mariage d'une personne mineure est contraire à l'ordre public international belge. Cependant ici, la proximité avec la Belgique est très faible, le mariage ayant eu lieu bien avant l'arrivée des conjoints en Belgique. Le fait qu'au moment du mariage Madame avait près de 16 ans, que des enfants soient issus de cette union et que le couple soit toujours ensemble sont des éléments souvent retenus par les juridictions belges pour appliquer l'ordre public atténué et reconnaître le mariage.
+Exemple 2 : Un mariage polygamique est contraire à l'ordre public international belge. Les effets de ce type d'union sont néanmoins parfois reconnus par rapport aux enfants nés de cette union polygamique. Ceux-ci ne doivent pas subir les conséquences des choix effectués par les parents. 
+Le mariage des parents ne sera pas reconnu mais les liens de filiation pourraient l'être.
+En cas de doute sur la possibilité d'appliquer l'ordre public atténué, il est toujours prudent de prendre contact avec le Procureur du Roi.
+Texte:
+Pièces à produire pour la reconnaissance ou la déclaration de la force exécutoire d'une décision étrangère - Article 24
+La partie qui invoque la reconnaissance ou demande la déclaration de la force exécutoire d'une décision judiciaire étrangère doit produire :
+  1° une expédition de la décision, réunissant les conditions nécessaires à son authenticité selon le droit de l'Etat dans lequel elle a été rendue;
+Le jugement est délivré par l'autorité compétente selon les formes prévues par le droit applicable. 
+Exemple: le greffe du tribunal a délivré une expéditon du jugement à la partie qui la demande.
+  2° s'il s'agit d'une décision par défaut, l'original ou une copie certifiée conforme du document établissant que l'acte introductif d'instance ou un acte équivalent a été signifié ou notifié à la partie défaillante selon le droit de l'Etat dans lequel la décision a été rendue;
+Si la décision a été rendue par défaut, c'est à dire qu'une partie ne s'est pas présentée au tribunal ou ne s'est pas fait représenter, il faut exiger la preuve que la personne absente a bien été appelée au tribunal pour y faire valoir ses moyens.
+  3° tout document de nature à établir que, selon le droit de l'Etat dans lequel la décision a été rendue, celle-ci est exécutoire et a été signifiée ou notifiée.
+Exemple: un certificat de non-appel.
+La preuve de signification éventuelle à la partie adverse, à l'OEC.
+Texte:
+Motifs de refus d'une décion judiciaire - Article 25
+Outre les conditions générales prévues à l'article 25 (lien), l'OEC dans les matières du nom, de la répudiation, (de l'adoption cfr. compétence de l'Autorité centrale en matière d'adoption) doit vérifier si les conditions de reconnaissance de ces matières ont bien été respectées. On vérifie le droit applicable !
+Exemple: une dame belge fait modifier son nom par jugement au Congo.
+Elle ne possède plus la nationalité congolaise, elle l'a perdue en devenant volontairement belge.
+Elle a sa résidence habituelle en Belgique.
+Les critères de l'article 39 ne sont pas rencontrés (nationalité ou résidence habituelle). Le jugement de changement de nom ne peut pas être reconnu.
+Texte:
+Reconnaissance et force exécutoire des actes étrangers - Article 27
+Le siège de cette matière se trouve à l'article 27 CoDIP.
+Reconnaissance
+§ 1er. : Un acte authentique étranger est reconnu en Belgique par toute autorité sans qu'il faille recourir à aucune procédure si sa validité est établie conformément au droit applicable en vertu de la présente loi, en tenant spécialement compte des articles 18 (fraude à la loi) et 21 (ordre public).
+ 
+Le principe est la reconnaissance de plano. Un acte authentique ne doit pas être présenté à un juge pour être reconnu et recevoir effet en Belgique. L'OEC est compétent pour faire l'analyse et prendre la décision de reconnaître ou pas le document.
+L'acte doit réunir les conditions nécessaires à son authenticité selon le droit de l'Etat dans lequel il a été établi.
+L'article 24 est, pour autant que de besoin, applicable.
+ 
+L'acte doit avoir été dressé et délivré dans les formes et par l'autorité compétente du pays de rédaction.
+Exemple: un acte de naissance est délivré en copie intégrale ou en extrait par l'OEC du lieu de naissance français.
+Lorsque l'autorité refuse de reconnaître la validité de l'acte, un recours peut être introduit (...), conformément à la procédure visée à l'article 23. Le recours est introduit devant le tribunal de la famille si l'acte authentique étranger concerne une compétence visée à l'article 572bis du Code judiciaire (état des personnes).
+Dans les matières d'état civil, le tribunal compétent est le tribunal de la famille. La procédure à suivre est celle prévue à l'article 23 CoDIP.
+Le recours est introduit par une requête unilatérale.
+  
+Déclaration de force exécutoire (exequatur) :
+§ 2. Un acte authentique étranger, s'il est exécutoire dans l'Etat où il a été établi, est déclaré exécutoire en Belgique (...) conformément à la procédure visée à l'article 23 et après vérification des conditions visées au § 1er. La demande en déclaration de force exécutoire d'un acte authentique étranger est introduite devant le tribunal de la famille si cet acte concerne une compétence visée à l'article 572bis du Code judiciaire.
+Lorsque l'intéressé veut obtenir un titre exécutoire quant à l'acte étranger (par exemple en matière de contribution financière), il peut saisir le tribunal de la famille.
+Il ne s'agit pas ici d'une compétence de l'OEC.
+Texte:
+Recours en cas de refus de reconnaissance ou de reconnaissance partielle - Article 23
+En cas de reconnaissance partielle ou de refus de reconnaissance de l'acte étranger ou la décision étrangère, l'intéressé peut introduire un recours devant le tribunal de la famille. Le recours est introduit par requête unilatérale. 
+Si le juge décide de reconnaitre le document étranger (acte ou jugement), sa décision s'impose à toutes les autorités belges.
+Exemple: un couple d'hommes belges, Jean et Patrick, mariés entre eux, ont eu recours à une mère porteuse en Californie. 
+Les jumeaux, Caroline et John-John sont nés à Santa Monica le 12 décembre 2023. 
+Le juge californien a ordonné la rédaction d'un acte de naissance pour chaque enfant indiquant les deux pères comme étant les parents légaux des enfants. 
+La commune de résidence du couple a reconnu la paternité de Jean, qui est le père biologique des enfants et a conseillé à Patrick de les adopter. 
+Le couple ne veut pas passer par la procédure d'adoption et veut faire reconnaitre le double lien de filation paternelle. Il saisit le juge qui lui donne raison au nom de l'intérêt des enfants. 
+L'OEC devra établir les actes de naissance belges des enfants en indiquant le double lien de filiation paternelle.
+Titre, page:
+Sources
+Texte:
+Belgium.be 
+Région de Bruxelles-Capitale
+Région wallonne
+Communauté germanophone
+Région - Communauté flamande
+Site de la Convention de La Haye
+Site des traités des Nations Unies
+Site relatif au droit européen 
+Portail e-Justice européen - Documents publics (europa.eu)
+Orange Connect
+Informations pays
+Législation pays
+National Documentation Packages - Immigration and Refugee Board of Canada
+JustFamNat
+Titre, page:
+Application de la loi dans le temps
+Texte, instruction:
+L'art. 127 du Code de droit international privé traite des règles transitoires.
+Le § 1er précise que "La présente loi détermine le droit applicable aux actes et aux faits juridiques qui sont survenus
+après son entrée en vigueur (01/10/2004). 
+Elle détermine le droit applicable aux effets produits après son entrée en vigueur par un acte ou un fait juridique
+survenu avant son entrée en vigueur.
+§ 2. Un choix du droit applicable par les parties antérieur à l'entrée en vigueur de la présente loi est valide s'il
+satisfait aux conditions de la présente loi. 
+§ 3. L'article 46, alinéa 2, s'applique au mariage célébré à partir du 1er juin 2003 (mariage de personnes de même sexe). 
+§ 4. Les articles 55 et 56 s'appliquent aux demandes introduites après l'entrée en vigueur de la présente loi (divorce). 
+§ 5. Les articles 62 à 64 s'appliquent aux demandes introduites après l'entrée en vigueur de la présente loi.
+Toutefois, ils n'affectent pas un lien de filiation valablement établi avant cette date. 
+En matière de filiation, si celle-ci a été correctement établie selon les lois en vigueur à l'époque, elle peut être reconnue même si elle ne correspond pas aux normes actuelles prévues par le CoDIP. Le but est de ne pas remettre en cause une filiation qui a déjà valablement été établie.
+Exemple: Madame Saelens-Fernandez est née au Honduras en 2002. Sa filiation a été établie conformément à la loi hondurienne (loi de sa nationalité) au moment de sa naissance. Son père, Monsieur Saelens l'a reconnue sans le consentement de la mère. Le facteur de rattachement étant à l'époque la nationalité de l'enfant, la filiation peut être reconnue même si la mère n'a pas consenti à la reconnaissance.
+Titre, page:
+Etablissement et modification des actes de l'état civil sur la base d'un acte authentique étranger ou d'une décision judiciaire etrangère en matière d'état et de capacité
+Texte, instruction:
+Texte, introduction:
+L'article 31 du CoDIP (lien) détermine si 
+Un acte authentique étranger concernant l'état civil ou 
+une décision administrative de divorce ou de changement de nom étrangère
+peuvent servir de base pour l'établissement ou la modification d'un acte de l'état civil ou pour l'inscription dans le registre de la population, le registre des étrangers ou le registre d'attente.
+L'OEC doit vérifier qu'après vérification conditions visées à l'article 27, § 1er et selon les cas, aux articles 39 (nom) et 57 (répudiation)
+  
+Le même article précise qu'une décision judiciaire étrangère ne peut servir de base pour l'établissement ou la modification d'un acte de l'état civil ou pour l'inscription dans le registre de la population, le registre des étrangers ou le registre d'attente qu'après vérification des conditions visées aux articles 24 et 25, et selon les cas, aux articles 39 (nom), 57 (répudiation) et 72 (adoption) CoDIP.
+  
+§ 2. La vérification est effectuée par l'officier de l'état civil ou par le détenteur du registre de la population, du registre des étrangers ou du registre d'attente à qui l'acte ou la décision est présenté.
+En cas de doute sérieux sur le conditions de reconnaissance, l'OEC ou le gestionnaire des registres peut transmettre une demande à l'Autorité Centrale de l'Etat Civil (ACEC). Celle-ci lui répondra dans un délai de trois mois.
+Texte:
+Dans le cadre de l'établissement et la modification des actes de l'état civil (article 31 CoDIP) et de la reconnaissance des documents d'état civil étrangers, l'OEC est amené à établir un acte belge basé sur l'acte ou la décision étrangers
+Les articles 68, 69 et 70 de l'ancien Code civil traitent des actes établis sur une base étrangère.
+1°) De l'acte établi sur la base d'un acte étranger (article 68 a.C.c.)
+A partir du 1er janvier 2025, chaque Belge, ou son représentant légal, présente à l'officier de l'état civil tout acte authentique étranger le concernant pour autant que celui-ci entraîne une modification de l'état de la personne. L'officier de l'état civil établit l'acte de l'état civil visé par le présent chapitre sur la base d'un acte authentique étranger.
+ 
+Le Belge ou son représentant légal présente le document s'il y a une modification de l'état de la personne. La formulation est plus impérative qu'auparavant où la personne pouvait demander l'établissement d'un acte.
+Compétence de l'OEC: L'acte authentique étranger est présenté à l'officier de l'état civil compétent à l'égard de la personne qui présente l'acte.
+Il peut donc s'agit de l'OEC compétent pour le parent non-belge qui présente l'acte relatif à son enfant belge.
+Le procureur du Roi peut demander qu'un acte soit établi sur la base d'un acte étranger. (68§1 a.C.c.)
+L'officier de l'état civil établit un acte sur la base d'un acte étranger si un acte authentique étranger lui est présenté lors de l'établissement ou de la modification d'un acte de l'état civil ou lors d'une adaptation du registre de la population, du registre des étrangers ou du registre d'attente. (article 68§2 a.C.c.)
+Par rapport à l'ancienne formulation, la présentation de l'acte est aussi nécessaire quand il faut adapter le RN.
+L'article 69 a.C.c. traite de la manière dont l'acte sur la base de l'acte étranger est rédigé.
+§ 1er. L'acte de l'état civil sur la base d'un acte étranger mentionne uniquement les données telles que prévues dans ce chapitre et qui peuvent être reconnues conformément à l'article 27 (18 et 21) du Code de droit international privé.
+Lorsque l'acte étranger contient une erreur matérielle visée à l'article 34, constatée sur la base d'un acte enregistré dans la BAEC, l'acte sur la base d'un acte étranger mentionne les données de l'acte étranger rectifiées ou complétées par l'officier de l'état civil.
+   
+§ 2. Une copie ou un extrait de l'acte étranger ainsi que, le cas échéant, sa traduction jurée, est enregistrée en tant qu'annexe dans la BAEC." 
+ 
+2°) De l'acte établi sur la base d'une décision judiciaire étrangère ou administrative étrangère (article 70 a.C.c.)
+ A partir du 01/01/2025 : 
+ § 1er. Chaque Belge ou son représentant légal présente à l'officier de l'état civil toute décision judiciaire étrangère coulée en force de chose jugée ou toute décision administrative étrangère définitive le concernant pour autant que celle-ci entraîne une modification de l'état de la personne. L'officier de l'état civil établit un acte de l'état civil sur la base d'une décision judiciaire étrangère ou d'une décision administrative étrangère, ou modifie un acte de l'état civil conformément au chapitre 1er, section 6, sur la base de cette décision.
+   
+Compétence de l'OEC: La décision étrangère est présentée à l'officier de l'état civil compétent de la personne qui présente la décision étrangère.
+   
+Le procureur du Roi peut demander qu'un acte soit établi sur la base d'une décision judiciaire ou administrative étrangère.
+   
+§ 2. L'officier de l'état civil établit un acte de l'état civil visé dans ce chapitre, sur la base d'une décision judiciaire ou administrative étrangère ou modifie un acte de l'état civil si une décision judiciaire étrangère coulée en force de chose jugée ou une décision admi-nistrative définitive étrangère lui est présentée lors de l'établissement ou de la modification d'un acte de l'état civil ou lors d'une adaptation du registre de la population, du registre des étrangers ou du registre d'attente.
+   
+§ 3. Une copie de la décision judiciaire étrangère ou de la décision administrative étrangère ainsi que, le cas échéant, sa traduction jurée, est enregistrée en tant qu'annexe dans la BAEC
+Les mêmes remarques que celles relatives à l'article 68 sont applicables.
+Titre, page:
+Autorité centrale de l'état civil (ACEC)
+Texte, introduction:
+L'autorité centrale de l'état civil a été mise en place à l'occasion de la modernisation de l'état civil de 2019.
+Sa base légale se trouve à l'article 31 CODIP
+Texte:
+Compétences
+L'ACEC rend des avis juridiques non contraignants en matière de reconnaissance d'actes authentiques, de décisions judiciaires d'état civil étrangers et de décisions administratives étrangères en matière de nom et de divorce.
+Qui peut saisir l'ACEC ?
+Les communes et les consulats belges.
+Les particuliers ne peuvent pas saisir directement l'ACEC.
+Un projet d'arrêté royal étendant la possibilité de saisine à L'Office des étrangers est en cours de rédaction.
+Comment saisir l'ACEC ?
+Par e-mail etatcivil.burgstand@just.fgov.be 
+Ce mode de saisine est à privilégier pour gagner du temps. 
+Il faut transmettre un dossier complet, indiquant dans quel contexte la saisine est demandée (demande de nationalité, reconnaissance d'enfant,...), Si possible le NN des parties ou les renseignements les plus complets possibles.
+Par courrier postal au SPF Justice, Autorité Centrale de l’état 
+civil, Boulevard de Waterloo 115, 1000 Bruxelles
+Délai de réponse
+3 mois à partir de la réception par l'ACEC du dossier complet, prorogeable de 3 mois.
+Si le dossier est urgent, il faut l'indiquer, l'ACEC essaye en fonction de ses moyens de le traiter en priorité.
+Est-ce qu'il faut attendre l'avis de l'ACEC avant de prendre sa décision ?
+Pas nécessairement. L'OEC reste le seul à prendre une décision. L'avis est non-contraignant et constitue seulement une aide à la décision.
+Est-ce que l'ACEC est compétent en matière de fraude, d'intention frauduleuse ou de faux documents ?
+Non. Ses avis ne portent que sur les conditions juridiques de reconnaissance des décisions et actes étrangers.
+Si des questions de plusieurs natures se posent, l'OEC peut saisir concomitamment différentes autorités qui répondront dans le cadre de leurs compétences.
+Texte:
+Autres acteurs
+Le procureur du Roi
+Procédures prévues aux articles 167,330/2 (1476quater) C. c. en matière de mariage, de reconnaissance (ou de cohabitation légale) lorsqu’il existe une présomption sérieuse que de telles situations sont contraires à l’ordre public (simulation ou fraude). 
+Circulaires du Collège des Procureurs généraux près les Cours d’appel COL. 10/2009 sur les mariages simulés et COL.13/2015 portant Directives relatives à l’avis du Ministère public en matière civile en application de la loi du 19 octobre 2015 modifiant le droit de la procédure civile et portant des dispositions diverses en matière de justice.
+Les questions relatives à L'ordre public et à l'application de l'ordre public atténué peuvent être soumises au PR.
+ 
+Exemple : Madame, d'origine palestinienne, arrivée en Belgique en 2024, s'est mariée à Gaza en 2015 alors qu'elle était âgée de 17 ans et 9 mois.
+La police
+La police peut être saisie en cas de fraude documentaire
+Le consulat belge à l'étranger
+Article 34 du Code consulaire
+Lorsqu'un doute sérieux existe sur l'authenticité d'une décision judiciaire ou d'un acte authentique émanant de l'étranger ou s'il existe des doutes sérieux sur l'authenticité du contenu d'une décision judiciaire ou d'un acte authentique émanant de l'étranger, toute autorité belge à laquelle le document est soumis peut demander une enquête sur l'authenticité, la conformité avec la législation locale ou l'authenticité du contenu du document.
+  
+L'enquête est réalisée sous la direction du poste consulaire de carrière dans la circonscription consulaire duquel l'acte a été établi.
+L'enquête est effectuée par une des entités suivantes :
+Le poste consulaire de carrière lui-même;
+Via les services d'un poste consulaire de carrière d'un Etat membre de l'Union européenne;
+Via une personne désignée à cet effet par le poste consulaire de carrière qui possède l'expertise requise.
+  
+Dans ce cadre, tant les administrations locales compétentes, les administrations centrales compétentes que les personnes qui étaient présentes à l'événement décrit dans l'acte peuvent être interrogées.
+  
+Les frais de l'enquête sont à la charge de la ou des personnes concernées par le document ou à charge de celui qui soumet le document si l'enquête démontre que le document est faux, n'est pas conforme à la législation locale ou n'est pas authentique en ce qui concerne son contenu.
+Le résultat de l'enquête est mentionné sur l'acte. Le Roi fixe la composition et les plafonds des frais d'enquête, et règle les modalités de versement et de remboursement de ceux-ci. 
+En matière d'adoption : Autorité centrale en matière d'adoption (ACF)
+Adoption antérieure à 2005 reconnue au niveau de la commune et dont mention est donc faite au RN (TI 110)
+Dossier
+traité au niveau de l’ACF qui émet uniquement une attestation à l’attention de
+l’Officier de l’Etat civil sur base de l’article 367/2 de l’ancien Code civil
+et de l’article 24 loi du 24 avril 2003 réformant l’adoption après vérification
+de la procédure d’adoption. 
+Informations
+en vue de l’établissement des actes transmises à la commune via une
+notification BAEC
+ 
+Adoption reconnue par l’ACF mais où aucun acte n’a été établi en son
+temps – l’ACF a émis une décision de reconnaissance et une attestation
+d’enregistrement
+Dossier
+traité au niveau de la commune qui peut directement établir les actes sur base
+de ses propres vérifications. L’ACF est à disposition des communes sur base de
+ses archives pour fournir certains documents aux communes si besoin est.
+ 
+Adoption dont une reconnaissance est demandée aujourd’hui : le
+dossier est complètement traité par l’ACF qui reconnait le cas échéant
+l’adoption et émet une attestation à l’attention de l’Officier de l’Etat
+civil sur la base de l’article 367/2 de l’ancien Code civil après
+vérification de la procédure d’adoption.
+Informations en vue de l’établissement des actes transmises à la commune via une
+notification BAEC
+Légende, image (150 caractères maximum):
+Quand demander une enquête "article 34 Code consulaire" ou une demande d'analyse à l'ACEC ?
+Question:
+Une dame belge se présente au guichet avec un acte de mariage égyptien. Elle avait pris des renseignements pour se marier en Belgique mais a déclaré que c'était trop compliqué. Le mari, animateur de club de vacances, est égyptien et a 15 ans de moins que Madame. Il s'agit du troisième mariage de Madame avec un Egyptien. Les deux premiers mariages ont ouvert le droit au séjour au conjoint. Le consulat belge en Egypte n'a pas délivré le certificat de non-empêchement à mariage suite à un avis négatif du Procureur du Roi.
+Que puis-je faire ?
+Option de réponse:
+C'est un mariage frauduleux. Je demande un avis à l'ACEC.
+Option de réponse:
+Je n'interroge que le Procureur du Roi car je n'ai de doutes que sur l'intention des parties.
+Option de réponse:
+C'est un mariage frauduleux, je demande un avis à l'ACEC et au Procureur du Roi. On verra qui répondra le plus vite sur l'intention des parties.
+Option de réponse:
+Je demande un avis à l'ACEC sur les conditions juridiques de reconnaissance de l'acte et au Procureur du Roi sur l'intention des parties.
+Option de réponse:
+Je refuse directement car je n'ai pas de doute sur le fait qu'il s'agit d'un mariage frauduleux et j'envoie mon refus motivé la dame.
+Option de réponse:
+Rien de vaut une analyse de terrain. Je demande au Collège communal de financer mon voyage à Sharm El Sheikh en fin d'année pour aller vérifier la réalité du mariage sur place.
+Texte:
+IMI (Système d'information du marché intérieur)
+À propos de l’IMI - Le marché unique de l’UE - Commission européenne (europa.eu)
+Dans le cadre du droit à la libre circulation des personnes, des biens, des services et des capitaux entre États membres, une coopération et une communication entre les autorités des différents pays de l’UE devait être mise en place. 
+À cette fin, la Commission européenne a mis au point un outil en ligne appelé système d’information du marché intérieur (IMI).
+L'ACEC  peut recevoir des demandes en provenance d'autres pays de l'Union quant à des documents d'état civil délivrés en Belgique. Elle contacte alors la commune concernée pour obtenir des renseignements. 
+Ex. Une commune allemande a reçu un acte de naissance BAEC mais dont elle ne parvient pas à lire le QR code. Elle se demande donc si l'acte est bien correct. L'ACEC lui répondra directement ou contactera la commune d'émission si nécessaire.
+Titre, page:
+Reconnaissance - Reconnaissance partielle - Refus de reconnaissance
+Texte, instruction:
+L'article 31 § 4. détermine qu'en cas de refus d'établir ou de modifier un acte de l'état civil sur la base d'un acte étranger ou d'une décision étrangère, ou en cas de reconnaissance partielle d'un acte étranger ou d'une décision  étrangère par l'officier de l'état civil, l'OEC en informe immédiatement les parties intéressées et le procureur du Roi de l'arrondissement du domicile ou de la résidence habituelle des parties intéressées.
+  
+Un recours peut être introduit contre le refus ou la reconnaissance partielle devant le tribunal de la famille de l'arrondissement du domicile ou de la résidence habituelle des parties intéressées, conformément à la procédure visée à l'article 23 CoDIP.
+  
+Lorsque le tribunal de la famille accueille le recours, il se prononce, le cas échéant, sur les rectifications à apporter aux données qui doivent être mentionnées dans l'acte de l'état civil sur la base d'un acte étranger.
+Le document étranger peut faire l'objet d'une reconnaissance totale, d'une reconnaissance partielle ou d'un refus.
+Exemple de reconnaissance partielle : un acte de naissance d'un enfant né au G.D. de Luxembourg de deux parents belges non-mariés entre eux et qui a été reconnu au lieu de naissance par le père, sans le consentement de la mère. 
+La condition de fond du droit belge applicable relative au consentement de la mère n'est pas respectée. 
+On reconnait l'acte et la filiation maternelle mais pas la filiation paternelle.
+Exemple de refus total : un mariage célébré à l'étranger en 2024 entre un homme belge de 39 ans et une jeune fille de 11 ans. L'acte sera refusé totalement pour contrariété à l'ordre public international belge. 
+Le droit belge ne reconnait pas le mariage des enfants. Même si la jeune fille peut se marier à partir de sa puberté selon son droit national, la règle d'ordre public prévaut.
+En cas de refus ou de reconnaissance partielle, il est plus que recommandé d'envoyer une notification écrite au demandeur.
+La décision doit être motivée. L'OEC peut reprendre les éléments de l'avis éventuel de l'ACEC et/ou du PR pour motiver sa décision.
+Il faut toujours mentionner la voie de 
+recours : art. 23 CoDIP => Tribunal de la Famille
+Question:
+Un homme belge de 50 ans, marié en Belgique avec une dame marocaine de 45 ans, fournit un acte de mariage  mauritanien légalisé où figure son union avec une jeune femme mauritanienne de 25 ans. L'acte indique qu'il s'agit de la deuxième épouse de Monsieur. L'épouse marocaine est présente au guichet et indique qu'elle est d'accord avec ce deuxième mariage.
+Pouvez-vous reconnaitre cet acte ?
+Option de réponse:
+Oui, Monsieur est belge et est majeur, la deuxième épouse est mauritanienne, majeure et a respecté la loi mauritanienne et la première épouse est marocaine, le Maroc permet la polygamie et Madame est consentante.
+Option de réponse:
+Non, j'indique à Monsieur que son deuxième mariage ne peut pas être reconnu en Belgique car la polygamie est interdite et contraire à l'ordre public international belge.
+Option de réponse:
+Non, mais uniquement car la différence d'âge entre Monsieur et la dame mauritanienne est trop grand à mon avis.
+Feedback si réponse incorrecte:
+L'ordre public international belge s'oppose à ce qu'un belge contracte une union polygamique. Certains effets, notamment en matière de filiation des enfants issus de ce type de mariage sont néanmoins souvent reconnus. Dans ce cas, il est conseillé de prendre contact avec le procureur du Roi.
+Titre, page:
+Naissance
+Texte, instruction:
+L'acte de naissance est un des documents les plus présentés. Il permet de déterminer le nom, l'âge, la filiation  et parfois l'état civil d'une personne.
+Texte:
+L'acte de naissance doit répondre aux conditions de fond et de forme nécessaires à sa reconnaissance.
+Conditions de forme
+Les conditions de forme sont déterminées par la loi du pays où l'acte a été dressé, où la naissance a eu lieu.
+Exemple : L'acte dressé en Algérie doit correspondre aux conditions de forme algériennes. 
+Il doit être rédigé par l'autorité compétente (l 'OEC, le registar, le mukthar, un notaire,...)
+Il doit être rédigé dans les délais prévus par la loi du pays de la naissance, de la rédaction (3 jours, un mois, deux mois, dans l'année de la naissance,...).
+S'il s'agit d'un acte tardif, il doit suivre les règles prévues par le droit du pays de naissance.
+La déclaration de naissance doit être effectuée par certaines personnes (le père, la mère, une personne ayant assisté à l'accouchement, le médecin, la sage-femme, ...)
+Texte:
+Transcription ?
+En général, l'acte qui est présenté doit être celui émis par le pays de naissance. Ce n'est que dans des cas très particuliers où il est impossible ou très difficile d'obtenir l'acte de base que l'on accepte la transcription.
+Exemple : Un Belgo-Espagnol est né au Maroc et a acquis la nationalité espagnole. A cette occasion, il a changé de nom et a pris un nom espagnol composé du nom de son père et de sa mère.
+On demandera l'acte marocain et l'acte espagnol ce qui permettra de justifier le changement de nom.
+Si la transcription peut être reconnue mais pas l'acte de base, il ne faut pas reconnaitre la transcription.
+Texte:
+Acte tardif
+Si l'acte n'a pas été rédigé dans les délais prévus par la loi applicable, il doit faire l'objet d'un établissement tardif conformément aux règles prévues par le droit du pays de naissance.
+Exemple: En RDC, si l'acte n'a pas été rédigé dans les délais, il peut faire l'objet d'un jugement supplétif qui ordonnera à l'OEC de dresser un acte de naissance.
+L’acte de naissance de Madame est dressé sur base d’un jugement congolais. 
+Une décision judiciaire étrangère ne peut servir de base à l'établissement ou à la modification d'un acte d'état civil ou à l'inscription au registre de la population, des étrangers ou d'attente qu'après examen des conditions visées aux articles 24 et 25 du CoDIP. 
+Madame a bien fourni un certificat de non-appel légalisé. 
+ 
+Les autres motifs de refus sont sans objet.
+ 
+L’Acte de naissance 
+Facteurs de rattachement / Loi applicable 
+Les actes de naissance doivent avoir été dressé par l’autorité compétente et selon les formes prévues par la législation du pays où il a été rédigé. Dans ce cas, l’acte doit être conforme à la législation congolaise.  
+ 
+Contenu de la législation congolaise : 
+ 
+La naissance de Madame, "en raison de méconnaissance de la loi", n’a pas été déclarée dans les délais prévus par la loi congolaise. Par conséquent, la naissance a dû être constatée par jugement supplétif, sur base duquel un acte de naissance a été dressé. 
+ 
+Le défaut d’acte de l’état civil peut être suppléé par jugement rendu par le Tribunal de paix ou par le Tribunal pour enfants, selon le cas, sur simple requête présentée au tribunal du lieu où l’acte aurait dû être dressé. (Article 106 Code de la famille) 
+A défaut d’acte de l’état civil constatant la naissance, le décès ou le mariage postérieur à la présente loi, toute personne étant dans l’impossibilité de se procurer l’acte de l’état civil peut demander, par requête motivée, au Président du Tribunal de paix ou celui du Tribunal pour enfants, selon le cas, du ressort de l’état civil où l’acte aurait dû être dressé, l’établissement d’un acte de notoriété supplétif en précisant à quelles fins celui-ci est destiné. (Article 157 Code de la famille) 
+ 
+Le jugement supplétif doit donc être rendu par le Tribunal de paix du lieu où l’acte aurait dû être dressé, à savoir le lieu de résidence des parents. Les parents résidaient à Kinshasa, le Tribunal de paix de Kinshasa était donc compétent. 
+   
+Suite au jugement supplétif, un acte de naissance a été dressé. Il doit également répondre aux conditions légales du code de la famille.
+ 
+Les mentions requises sont indiquées mis à part l’heure à laquelle l’acte a été dressé. 
+ 
+Les actes sont signés par l'officier de l'état civil, par les personnes qui comparaissent devant lui et par les témoins éventuels. Si une ou plusieurs personnes ne sont pas en mesure de signer, elles doivent placer leurs empreintes digitales à la place de leur signature ou indiquer la raison pour laquelle elles n'ont pas pu signer ; (Article 96) 
+L’acte est signé par les parties requises. 
+  
+Les mentions requises sont inscrites dans l’acte de naissance.
+Texte:
+Filiation
+Droit applicable/Règles de base
+Article 62 CoDIP. Le droit national du parent au moment de la naissance ou s'il s'agit d'un établissement volontaire, au moment de cet établissement.
+Chaque parent se voit appliquer son propre droit national (exceptions: article 3 CoDIP, droit de la résidence habituelle).
+Filiation maternelle
+Dans la plupart des droits, la mère est celle qui donne naissance à l'enfant, dont le nom est mentionné dans l'acte de naissance. Il faut vérifier dans le droit national de la mère comment sa filiation est établie.
+Filiation paternelle/comaternelle
+Dans la plupart des droits elle résulte du mariage des parents, d'un établissement volontaire (reconnaissance) ou d'un établissement judiciaire.
+Il faut vérifier dans le droit applicable si l'enfant peut se voir appliquer la présomption de paternité (enfant né plus de 300 jours après la séparation de fait des époux, etc)
+Quid si plusieurs filiations sont en concurrence ? Plusieurs hommes (coparentes) revendiquent la filiation?
+Exemple 1 : Un enfant est né en France et sa mère belge est mariée à un Belge.  Un homme français le reconnait en France.
+Le droit national du parent marié (loi belge) à la mère détermine si la filiation du mari de la mère peut être écartée. 
+Si c'est le cas, c'est le droit du parent qui revendique la filiation qui devra être examiné (droit français).
+Exemple 2 : L'enfant est né en août 2024 au Luxembourg. Sa mère est de nationalité bulgare. Elle est mariée à un homme de nationalité marocaine. L'enfant a été reconnu au Luxembourg par un Belge, sans le consentement de la mère.
+La filiation paternelle reprise dans l’acte de naissance luxembourgeois ne pourra pas être reconnue dans l’ordre juridique belge.  
+ 
+Puisque Madame est toujours mariée au ressortissant marocain, et que le droit marocain établi une filiation paternelle envers le mari pour l’enfant né dans le mariage, il faut procéder à une action en contestation de paternité devant les tribunaux belges.  
+ 
+L’action en contestation de paternité permettra d’écarter la présomption de paternité du mari établie en vertu du droit marocain, puis il faudra procéder à une déclaration de reconnaissance devant les autorités belges afin d’établir une filiation paternelle envers le ressortissant belge.  
+Adoption
+La personne qui a fait l'objet d'une adoption à l'étranger doit faire reconnaître sa filiation par l'Autorité Centrale Fédérale en matière d'adoption (ACF). L'OEC n'est pas compétent pour reconnaître lui-même l'adoption. Il devra par contre dresser l'acte de naissance à la belge et l'acte d'adoption. L'ACF lui envoie les documents qui serviront de base à l'établissement des actes (prise d'effet de l'adoption, nom, type d'adoption).
+Reconnaissance
+Art. 64. CoDIP) L'acte de reconnaissance (forme) est établi selon les formalités prévues, soit par le droit applicable à la filiation (droit national de celui qui veut établir son lien) soit par le droit de l'Etat sur le territoire duquel il est établi (droit du pays de la rédaction de l'acte).
+Cfr. Avis CPEC / 2020 / 002
+"Un enfant est né en Belgique. Une personne de nationalité camerounaise souhaite le reconnaître au moment de sa naissance mais en raison d’une enquête pour suspicion de reconnaissance de complaisance, il n’est plus en mesure de reconnaître l’enfant dans l’acte de naissance, seulement ultérieurement.
+Or, le droit camerounais dont l’auteur a la nationalité prévoit que la reconnaissance de paternité devant l’officier de l’état civil ne peut avoir lieu qu’au moment de la naissance de l’enfant. Toute reconnaissance postnatale ne peut avoir lieu que par la voie judiciaire.
+Peut-on admettre qu’une reconnaissance postnatale puisse avoir lieu devant l’officier de l’état civil et éviter ainsi que l’auteur camerounais ne doive recourir à une procédure judiciaire pour établir son lien de filiation ?
+Le fait que le droit camerounais prévoit que la reconnaissance peut être faite par voie judiciaire ne fait pas obstacle à ce qu’une reconnaissance postnatale puisse toujours avoir lieu devant un officier de l’état civil belge.
+En effet, la manière d’effectuer la reconnaissance ou l’autorité devant laquelle elle est faite, est considérée comme une formalité."
+Consentement
+Article 62, §1er, al 2 : "Lorsque le droit applicable ne prévoit de consentement à la reconnaissance d'un enfant, l'exigence et les
+conditions du consentement de l'enfant, ainsi que le mode d'expression de ce consentement, sont régis par le
+droit de l'Etat sur le territoire duquel l'enfant a sa résidence habituelle au moment de ce consentement." 
+L'enfant a sa résidence habituelle en Belgique.
+L'application de l'article 62, paragraphe 1, deuxième alinéa, du CIDP est actuellement contestée. 
+L'ACEC est d'avis, avec certaines nuances, que si l'enfant ne doit pas donner son consentement en vertu de la législation nationale, un tel consentement doit quand même être donné puisque la reconnaissance a eu lieu lorsque l'enfant avait sa résidence habituelle en Belgique. Si l’enfant a moins de 12 ans, notre service estime que ce consentement est exprimé par l’intermédiaire de la mère. 
+En revanche, d'autres SPF et certains autres acteurs de l'état civil considèrent que le consentement ne concerne que l'enfant au sens strict, et que si l'enfant a moins de 12 ans, aucun consentement ne doit être donné.  
+Étant donné que la question n'a pas encore été tranchée, il convient de noter qu'il est plus prudent de demander le consentement de l'enfant de plus de 12 ans, ou de la mère pour l’enfant en dessous de 12 ans .
+Question:
+Un couple franco-belge non-marié vivant en France a un enfant belge qui nait à Marseille. La mère est belge et le père est français. Le père déclare la naissance et reconnait l'enfant à la mairie de Marseille sans la présence et le consentement de la mère.
+La filiation paternelle est-elle établie? Pourquoi ?
+Option de réponse:
+Non, l'enfant est belge, il faut appliquer le droit belge. Le consentement est nécessaire.
+Option de réponse:
+Non, la mère et l'enfant sont belges, il faut demander le consentement de la mère.
+Option de réponse:
+Oui, on applique le droit francais qui ne demande pas de consentement de la mère ou de l'enfant et l'enfant a sa résidence habituelle dans un pays où il ne faut pas de consentement.
+Option de réponse:
+Oui, le père est français et a reconnu l'enfant en France. Si l'OEC français a indiqué le nom du père, c'est que la filiation est correctement établie.
+Feedback si réponse incorrecte:
+Dommage, réessayez. Petit tip, vérifiez la nationalité du père et le lieu de résidence habituelle de l'enfant.
+Feedback si réponse correcte:
+Parfait, vous avez compris la logique ! On applique le droit francais qui ne demande pas de consentement de la mère ou de l'enfant et l'enfant a sa résidence habituelle dans un pays où il ne faut pas de consentement.
+Texte:
+Mise en situation
+Question:
+Quelle réponse peut apporter l'agent à ce citoyen ?
+Feedback:
+Compétence
+territoriale : commune d’inscription du papa : ok
+Présenter
+l’acte de naissance. Document luxembourgeois est dispensé de légalisation
+Filiation :
+les parents ne sont pas mariés, il faut avoir fait une reconnaissance de
+paternité conforme au droit belge (article 62 CoDIP : nationalité
+père= belge).
+- Le
+droit belge exige le consentement préalable de la maman.
+- Le
+consentement de la maman ne ressort pas du
+dossier  => la filiation paternelle n’est pas reconnue.
+Solution ?
+refaire une reconnaissance en Belgique avec le consentement de la maman
+(consentement sur place ou via un acte authentique)
+Si
+la filiation est ok, le père peut faire une déclaration attributive de
+nationalité dans sa commune les 5 ans de la naissance de l’enfant en
+application de l’article 8 §1 2° b) du Code la nationalité belge.
+Titre, page:
+Nom
+Texte:
+Détermination ou changement de nom ou de prénoms intervenus à l'étranger
+Comment ? Une décision judiciaire ou administrative étrangère ou un acte dressé par une autorité étrangère
+Facteur de rattachement ? 
+Art. 39 CODIP
+Nationalité au moment de la décision ou de l'acte ou
+Résidence habituelle au moment de la décision ou de l'acte de l'enfant/de l'intéressé (pas de ses parents)
+La circulaire du 7 décembre 2017 précise, « Si les conditions pour faire la déclaration de choix de la loi applicable ne sont pas remplies ou si les personnes concernées n’effectuent pas cette déclaration ou ne parviennent pas à s’entendre sur la faculté de le faire, c’est l’autorité belge compétente qui déterminera si la condition du respect de la loi applicable est remplie. 
+Il suffira que l’acte ou la décision étrangers soient conformes à une des lois applicables désignées par l’article 39, § 1er, du Code de droit international privé pour qu’ils soient reconnus ». 
+Ainsi, le nom déterminé à la naissance peut être reconnu s’il est conforme aux dispositions du droit de la nationalité ou de la résidence habituelle applicables au moment de la naissance de l’intéressé. 
+Exemple: Un enfant belge né en Suisse verra son nom reconnu s'il est conforme au droit belge ou au droit suisse.
+L'article 39 est une exception à l'article 3 CoDIP qui prescrit que si une personne a plusieurs nationalités dont la belge, on doit toujours retenir le droit belge.
+L’article 50 de la loi du 6 juillet 2017 portant simplification, harmonisation, informatisation et modernisation de droit civil et de procédure civile ainsi que du notariat, et portant diverses mesures en matière de justice a modifié complètement l’article 39 CDIP qui concerne la reconnaissance des décisions et actes étrangers en matière d’attribution et de changement de nom ou de prénoms. 
+Cette disposition est entrée en vigueur le 1er janvier 2018. 
+Le législateur n’a pas prévu de disposition transitoire quant au nouveau régime de reconnaissance consacré par l’article 39 CDIP. 
+Toutefois la Commission permanente de l’état civil (CPEC) a rendu un avis sur le sujet.  
+L’avis de la CPEC n°2018/2 (disponible sur le site: http://www.justfamnat.be/bel/fra/) indique : 
+« Le nouveau régime est d’application pour les décisions et actes étrangers pris après le 1er janvier 2018, et pour les décisions et actes étrangers antérieurs à cette date qui n’ont fait l’objet d’aucune décision de reconnaissance ou de non-reconnaissance par une autorité belge. La date à prendre en considération est celle de l’inscription ou de la mention de la décision ou de l’acte étranger dans les registres de la population, cette date étant considérée comme celle de la demande de sa reconnaissance par l’autorité belge.  
+Il en résulte que, s’il n’y a pas encore eu d’inscription ou de mention de l’acte ou de la décision étrangers dans un registre tenu par une autorité belge au 1er janvier 2018, l’autorité belge pourra appliquer le nouveau régime de reconnaissance aux actes et décisions antérieurs à cette date. 
+En revanche, s’il existe une inscription ou une mention dans un registre tenu par une autorité belge de l’acte ou de la décision antérieure au 1er janvier 2018, l’ancien régime de reconnaissance s’appliquera à cet acte ou à cette décision. ». 
+Il faut comprendre de la lecture de cet avis que s’il y a eu au moment de l’inscription dans le registre de la population, registre des étrangers ou du registre d’attente, une reconnaissance d’un nom sur la base d’un acte, d’une décision étrangère ou d’une décision administrative étrangère, il faut appliquer l’ancien article 39 CDIP (ancien régime de reconnaissance).  
+Le régime antérieur était plus strict : 
+Une décision judiciaire ou administrative étrangère concernant la détermination ou le changement de nom ou de prénoms d'une personne n'est pas reconnue en Belgique si, outre l'existence d'un motif de refus visé à l'article 25 :
+1° en cas de changement par acte volontaire, cette personne était belge lors du changement, à moins que le nom obtenu soit conforme aux règles relatives à la détermination du nom applicables dans l'Etat membre de l'Union européenne dont la personne possède également la nationalité;ou
+2° ou la détermination du nom ou des prénoms n'est pas conforme au droit belge lorsque cette personne était belge lors de cette détermination;ou
+3° dans les autres cas, cette détermination ou ce changement n'est pas reconnu dans l'Etat dont cette personne a la nationalité.
+Le critère de rattachement était donc la nationalité. La résidence habituelle ne jouait pas de rôle (sauf réfugiés, apatrides et nationalité indéterminée).
+Texte:
+Choix de la loi applicable
+Si le nom déterminé à l'étranger ne correspond pas au souhait des personnes concernées ou des parents, la loi belge permet une déclaration de choix de la loi applicable auprès de la première autorité belge saisie (consulat, commune) de la reconnaissance de l'acte (inscription dans les registres ou établissement d'un acte belge).
+Exemple : un enfant nait à l'étranger d'un couple belge. Le nom qui figure dans l'acte de naissance a été déterminé conformément aux règles de ce pays de naissance (nom du père exclusivement) mais ne correspond pas à la volonté des parents qui souhaitent attribuer à l'enfant le double nom. Les parent pourront solliciter, par une déclaration de choix de la loi applicable, que l'autorité belge applique la loi belge en vue d'attribuer à l'enfant le nom qui leur convient.
+Conditions : 
+au moment de l'inscription dans un registre de la population, un registre consulaire de la population, un registre des étrangers ou un registre d'attente d'une décision ou d'un acte étrangers relatifs au nom et prénoms ou 
+           au moment de l'établissement de l'acte belge sur la base de l'acte étranger ou de la décision judiciaire ou administrative          étrangère conformément à l'article 68 ou l'article 70 de l'ancien Code civil.
+La déclaration doit intervenir au plus tard dans les cinq ans qui suivent le prononcé de la décision étrangère ou la rédaction de l'acte relatifs à la détermination ou au changement de nom ou des prénoms. 
+Cette déclaration n'est possible que si le droit de l'Etat dans lequel la décision a été rendue ou l'acte a été dressé ne prévoit pas cette possibilité de choix !
+Si les parents ont eu la possibilité d'attribuer le double nom au moment de la naissance et ne l'ont pas fait, la déclaration de choix de la loi applicable n'est pas possible.
+Est-ce que la déclaration de choix de la loi applicable est obligatoire ? Non
+Si le nom est conforme au droit de la nationalité de l'enfant (de la personne concernée) ou de sa résidence habituelle, il peut être reconnu.
+Est-ce que le choix de la loi applicable est réservé aux Belges ? Non, des parents étrangers ou une personne étrangère peuvent solliciter un choix de la loi applicable. 
+La déclaration de choix de la loi applicable est annexée dans la BAEC.
+Texte:
+Un franco-belge majeur, Monsieur Dumont, né en France et domicilié en Belgique a changé de nom dans sa commune de naissance française et a pris le nom de sa mère, Bélier.
+Ce changement de nom peut-il être reconnu?
+Droit applicable: le droit français ou le droit belge sont applicables étant donné que Monsieur est binational.
+Monsieur ayant sa résidence habituelle en Belgique, le droit français ne serait pas applicable sur cette base.
+Le droit français permet à un adulte, une fois dans sa vie de changer de nom en vue d'adopter le nom de son autre parent (article Article 61-3-1 du Code civil français). 
+Monsieur s'est adressé à l'autorité compétente selon le droit français à savoir sa commune de naissance.
+Monsieur est recherché en Belgique pour des faits pénaux.  Est-ce que ça change quelque chose ?
+Si Monsieur a utilisé la loi étrangère en vue d'échapper à des poursuites pénales, le changement de nom ne peut pas être reconnu car il est contraire à l'ordre public international belge.
+Texte:
+Un franco-belge mineur de 13 ans voit son nom modifié en France car son père français a changé de nom pour adopter le double nom "Père-Mère" . L'enfant est né en Belgique.
+La mairie française a appliqué le droit français. L'enfant a donné son consentement.
+Le changement de nom de l'enfant peut-il être reconnu?
+Le changement de nom du père peut être reconnu en droit belge s’il est effectué conformément au droit français. 
+ 
+Le Code civil français a été modifié afin de simplifier cette procédure le 1er juillet 2022.  
+ Toute personne majeure peut demander à l'officier de l'état civil de son lieu de résidence ou dépositaire de son acte de naissance son changement de nom en vue de porter l'un des noms prévus aux premier et dernier alinéas de l'article 311-21 (nom de l'un des parents ou double nom dans la limite d'un nom de famille pour chacun d'eux ). 
+Sans préjudice de l'article 61, ce choix ne peut être fait qu'une seule fois. (Article 61-3-1, §1er) 
+Le demandeur doit solliciter le changement de nom auprès de l’Officier de l’état civil compétent et après un mois, confirmer sa demande. Si les enfants ont plus de 13 ans ils doivent donner leur consentement. 
+ 
+La circulaire relative à cette procédure recommande d’utiliser pour ce faire un formulaire normalisé mais ne l’impose pas. Il s’agit du formulaire 2-1 « Modèle de changement de nom d’une personne majeure ». 
+ 
+Si le demandeur confirme sa volonté, l’OEC complète le formulaire et se charge ensuite de faire apposer les mentions sur les actes de l’état civil de l’intéressé.  
+L’avantage de ce document est qu’il établit également le changement de nom des enfants de l’intéressé et leur consentement. 
+  
+Le consentement de l'enfant majeur ou de plus de 13 ans doit intervenir au plus tard le jour de la confirmation de la demande de changement de nom. Après cette date, les enfants du bénéficiaire ne peuvent plus bénéficier de l'effet collectif du changement de nom. Le cas échéant, ils devront recourir eux-mêmes - ä leur majorité - ä la procédure simplifiée pour obtenir le changement de leur nom et celui de leurs éventuels enfants mineurs.
+ 
+En ce qui concerne Monsieur, sous réserve qu’il présente le document adéquat, le changement de nom qui respecte le droit français peut donc être reconnu dans l’ordre juridique belge sur base de l’article 39 CoDIP. 
+En ce qui concerne le changement de nom de son enfant, d’autres règles s’appliquent. La ou les nationalités à prendre considération dans le cadre de l’application de l’article 39 CoDIP sont celles de la personne concernée (enfant) et non celles de leurs représentants légaux (par exemple, les parents,…).  
+L’enfant possède la nationalité belge et la nationalité française.  
+Le changement de nom de l'enfant pourrait donc, outre les conditions énoncées ci-dessus, être reconnu dans l’ordre juridique belge s’il prouve qu’il a consenti audit changement conformément au droit français.  
+ 
+Son père présente le formulaire 2.1 qui confirme son consentement et son changement de nom. 
+Le changement de nom est reconnu.
+Quid si la mairie française avait appliqué le droit belge? L'enfant belge de 12 ans doit avoir donné son consentement.
+Texte:
+Une dame belgo-turque s'est mariée en Turquie et a pris le nom de son conjoint.
+Le nom turc peut-il être reconnu?
+Madame ne souhaite pas porter le nom de son conjoint et voudrait porter son nom de naissance en Belgique. Est-ce possible ?
+Son nom peut être reconnu car il est conforme au droit d'une de ses nationalités, ici la turque.
+En Turquie, Madame n'a pas eu le choix et a dû prendre le nom de conjoint au moment du mariage.
+Madame peut faire une déclaration de loi applicable dans un délai de 5 ans après l'établissement de l'acte de mariage qui modifie son nom, afin de conserver son propre nom conformément au droit belge.
+Texte:
+Madame Johanna (prénom) G (middle name) P (nom de famille), de nationalité philippine et résidant aux Philippines est venue se marier à en Belgique avec Monsieur F . de nationalité belge. 
+Lors de son mariage, son nom n'a pas été modifié sur l'acte belge.
+Lorsqu’elle est
+retournée aux Philippines, elle a fait reconnaître son mariage et a demandé le
+nom de F (nom de famille du conjoint) comme nouveau nom de famille
+ Johanna (prénom) 
+P. (ancien nom de famille devenu middle name) comme son pays l’ y autorise. 
+Elle y a obtenu un passeport avec sa nouvelle identité. Pour les autorités philippines, elle porte désormais le nom de son conjoint. Elle revient s'installer en Belgique sous le nouveau nom défini par le passeport Johanna P. F.
+En octobre 2023,
+Madame F. introduit sa demande de nationalité belge. Lors de la réception des documents, la commune ne remarque pas la
+différence de nom entre l’acte de naissance transmis (nom d'origine) et celui repris au RN (nouveau nom philippin) et transmet le dossier au Parquet.
+Début 2024, le Procureur du Roi émet un avis positif quant à l’obtention de la
+nationalité belge de Madame F. 
+Lorsque la commune tente d'introduire
+l’acte de nationalité, elle constate la contradiction des informations.
+Que doit faire la commune ?
+Le nom de l'épouse peut être changé par un acte de changement de nom sur la
+base du nouveau passeport philippin de Madame
+Conformément
+à l’article 39 Code de droit
+international privé une décision administrative étrangère concernant la
+détermination ou le changement de nom ou de prénoms d'une personne peut être
+reconnu.
+La décision
+administrative est définie de manière très large.
+Ainsi, un
+passeport peut être considéré comme une décision administrative. Il appartient
+à l'OEC qui prépare l'acte de changement de nom de déterminer si le passeport
+constitue une base suffisante pour établir l'acte de changement de nom. 
+L'acte
+est alors établi en application de l'article 70 de l'ancien Code civil.
+Texte:
+Mise en situation
+Question:
+Quelle réponse peut apporter l'agent à ce citoyen ?
+Feedback:
+Compétence
+territoriale : les parents habitent la commune : ok
+L’acte
+de naissance est présenté sous la forme d’une convention CIEC n°16 :
+cet acte est dispensé de légalisation.
+Filiation :
+les parents sont mariés : ok (article 62 CoDIP), la filiation est
+établie pour chaque parent en fonction de leur nationalité respective.
+Pour le père belge, application de l’article 315 de l’ancien Code civil)
+Nationalité
+de l’enfant : l’enfant est belge
+L’acte
+de naissance a été rédigé il y a moins de 5 ans et est présenté lors de la
+première inscription de l’enfant : un choix de la loi applicable
+belge est possible ( article 39 du CoDIP)
+Titre, page:
+Mariage - Divorce - Répudiation
+Texte:
+Mariage
+Il faut analyser les conditions de fond et de forme et les éventuels motifs de refus (ordre public, fraude à la loi, intention frauduleuse= Procureur du Roi).
+Conditions de Fond 
+Facteur de rattachement => art. 46 CODIP : Nationalité
+Le système est distributif =  on applique à chaque époux son droit national.
+Si les conditions ne sont pas réunies dans le chef d'un des époux mais pour l'autre oui, le mariage ne sera pas reconnu (effet cumulatif). 
+Ex1. Monsieur Dupont et Madame Durant vivent ensemble en Belgique depuis 5 ans et on décidé de se marier à Madagascar lors d'un voyage organisé par une agence spécialisée dans l'organisation de mariages "all in". 
+Monsieur Dupont est français et Madame Durant, belge, 
+On vérifie quelles sont les conditions de fond du droit français pour Monsieur (âge, célibat, consentement, degré de parenté) et les conditions de fond belges pour Madame (âge, célibat, consentement, degré de parenté).
+Exemple 1 : Monsieur est célibataire, a 34 ans et a consenti au mariage.
+Madame a 32 ans, a consenti au mariage et est séparée de son conjoint, Monsieur Smith depuis 7 ans mais est encore en instance de divorce. Elle ne sera divorcée qu'après leur retour de voyage de noces.
+On ne peut pas reconnaitre le mariage car Madame ne remplit pas une des conditions de fond prévues par le droit belge (célibat).
+Exemple 2 : Mari :  Réfugié palestinien au Liban,  devenu Belge avant le mariage=>art. 3§2CoDIP (on retient le Droit belge). Monsieur remplit les conditions de fond prévues par le droit belge.
+Epouse : Réfugiée palestinienne au Liban. En tant que réfugiée on applique le droit de la résidence habituelle => Droit Libanais
+Le Droit libanais est un système plurilégislatif (art. 17 CoDIP) 
+Droit lié à la religion des parties, il n'y a pas de mariage civil.
+Madame est musulmane sunnite. On lui applique les règles de sa communauté musulmane : Acceptation-âge-tuteur-empêchements à mariage-les deux 
+conjoints sont musulmans-pas de polygamie (possible pour les hommes mais ne 
+serait pas reconnue car le conjoint est Belge)-viduité-dot. 
+Madame remplit les conditions prévues par son droit applicable
+Au niveau des conditions de fond, le mariage peut être reconnu.
+Mariage de personnes de même sexe : 
+L'application d'une disposition du droit désigné en vertu de l'alinéa 1er (de l'article 46= droit de la nationalité) est écartée si cette disposition prohibe le mariage de personnes de même sexe, lorsque l'une d'elles a la nationalité d'un Etat ou a sa résidence habituelle sur le territoire d'un Etat dont le droit permet un tel mariage (art. 46 alinéa 2 CoDIP)
+Exemple : Un Belge a épousé en France son compagnon marocain, domicilié à Lille. 
+Le droit marocain interdit le mariage de personnes de même sexe. Les conditions de base ne sont donc pas réunies pour le ressortissant marocain. Cependant, on écartera le droit marocain pour cet empêchement car il a sa résidence habituelle en France, pays qui permet le mariage de personnes de même sexe.
+Conditions de Forme 
+Facteur de rattachement => art. 47 CODIP : Droit de l'Etat sur le territoire 
+duquel le mariage est célébré
+ 
+C'est ce droit qui détermine :
+si le mariage peut être célébré par procuration, 
+si un mariage religieux est valable, éventuellement moyennant enregistrement, 
+qui peut célébrer le mariage, 
+est-ce que des publications sont nécessaires, 
+s'il faut des témoins, combien ?
+...
+Exemple : Droit libanais :  
+Affichage/publication
+2 témoins capables musulmans
+Juge de la Charia
+Consentements des conjoints
+Juge établit l’acte (dot !). Elle a été fixée dans le contrat de mariage.
+Signaler le mariage 
+à l’état civil
+Règles particulières pour les réfugiés palestiniens. 
+Toutes les conditions de forme sont remplies
+Le mariage est reconnu
+Légende, image (150 caractères maximum):
+Mariage Libanais.
+Légende, image (150 caractères maximum):
+Mariage à Las Vegas
+Question:
+Madame L. et monsieur D. se sont mariés en janvier 2024 à Las Vegas, aux États-Unis. 
+Ils ont tous les deux la nationalité belge et sont majeurs. 
+Monsieur est célibataire et madame est divorcée depuis 2006. Ils ne sont pas liés par une cohabitation légale à d'autres personnes.
+Une copie certifiée conforme de l’acte de mariage original, délivrée par les autorités du Nevada en février 2024, est présentée aux autorités communales belges. 
+Le mariage a été célébré à Las Vegas, dans l’État du Nevada, aux Etats-Unis.  
+Les États-Unis sont un État fédéral qui dispose d’un système pluri-législatif (17, §1er, CoDIP). 
+Il faut se référer aux règles relatives au mariage prévues par la législation du Nevada car le droit des personnes n’est pas unifié au niveau fédéral aux États-Unis. 
+Les dispositions relatives au mariage se retrouvent dans le « Nevada Revised Statutes (2021) » et plus spécifiquement au «Title 11 – Domestic Relations, Chapter 122 – Marriage » 
+ 
+L'expression "célébrant de mariage" désigne une personne, autre qu'un ministre du culte, un autre représentant de l'église ou religieux autorisé à célébrer un mariage ou un notaire public, qui obtient un certificat d'autorisation de célébrer des mariages conformément aux dispositions des NRS 122.062 à 122.073 (NRS 122.004) ; 
+Le mariage, en ce qui concerne sa validité, est un contrat civil, pour lequel le consentement des parties légalement autorisées à contracter est indispensable. Le consentement seul ne constitue pas un mariage ; il doit être suivi d'une cérémonie telle qu'autorisée et prévue par le présent chapitre. 
+Les époux doivent d’abord obtenir une licence auprès d’un fonctionnaire du comté afin de pouvoir se marier  ;  
+Le mariage est célébré par un ministre ordonné, qui est recensé dans la base de données des personnes autorisées à célébrer un mariage . Le célébrant possède une licence pour célébrer les mariages 
+Les époux ont déclaré devant le ministre ordonné et devant un témoin qu’ils se prenaient pour époux  ;  
+L’acte de mariage contient la date de naissance des époux  ;  
+Toutes les informations figurant sur l'acte de mariage doivent être dactylographiées ou imprimées lisiblement à l'encre noire, à l'exception des signatures. La signature de la personne qui contracte le mariage doit être une signature originale. ; 
+Une copie conforme de l’acte de mariage est délivrée aux époux par l’officier d’état civil du comté, après que l’acte ait été signé par le ministre ordonné et enregistré auprès du bureau du Comté.  
+Il ressort de l’acte présenté, qui est une copie conforme de l’acte de mariage délivrée par l’officier de l’état civil du comté, que les conditions de formes ont été respectées. 
+Cette copie conforme correspond aux modèles d’acte de mariage émis par les autorités du Nevada. 
+Le mariage peut-il être reconnu en Belgique ?
+Option de réponse:
+Non car le mariage à Las Vegas n'a pas de valeur légale, c'est juste pour le fun.
+Option de réponse:
+Oui car les conditions de fond prévues par le droit belge et de forme prévues par le droit du Nevada sont remplies.
+Option de réponse:
+Non, s'ils veulent se marier ils doivent obligatoirement le faire en Belgique.
+Texte:
+Mise en situation
+Question:
+Quelle réponse peut apporter l'agent à ce citoyen ?
+Feedback:
+Pour
+savoir les documents à apporter et les conditions liées à un mariage en
+Jamaïque, Madame doit se renseigner auprès des autorités jamaïquaines.
+Compétence
+pour la reconnaissance du mariage jamaïquain : madame habite dans la
+commune : ok
+Légalisation :
+apostille, vérifier si ok
+Conditions
+de fond du mariage (article 46 CoDIP) (empêchements au mariage, âge,
+célibat, consentement,…) : droit népalais pour monsieur et belge pour
+Madame. Madame est liée par une cohabitation légale avec une autre
+personne ce qui constitue un empêchement à mariage (article 147 2° ancien
+Code civil, en vigueur le 11/03/2023). Il faudra mettre fin à la
+cohabitation légale avant la célébration du mariage.
+Conditions
+de forme (article 47 CoDIP) : conditions du droit jamaïquain
+(ex. publication, compétence territoriales, …)
+Autre
+problème ? Madame ne connait pas la nationalité de son futur
+conjoint, ne veut pas que la personne avec qui elle est en cohabitation
+légale soit au courant et veut maintenir cette cohabitation légale,… s’il
+y a des doutes sérieux relatifs au consentement et à l'intention du ou des futurs conjoints, l’OEC peut saisir le
+procureur du Roi (Ordre public).
+Titre, accordéon:
+Divorce - Répudiation
+Titre, barre d’accordéon:
+Divorce
+Texte:
+Instrument juridique applicable/règles de rattachement
+Bruxelles II bis ou II ter au sein de l'UE (sauf le Danemark) ou
+Règle de rattachement articles 25 et 55 CoDIP hors de l'UE
+Les divorces antérieurs au CODIP étaient traditionnellement régis par le droit national des conjoints (ce qui posait de nombreux problèmes en cas de nationalité différente)
+Texte:
+Divorce européen
+Il faut d'abord déterminer quelle est l'autorité qui a prononcé le divorce. S'il s'agit d'un divorce européen (sauf le Danemark), postérieur à mars 2005 il faudra appliquer Bruxelles II bis ou Bruxelles II ter selon la date de la procédure.
+Le but du règlement est de faciliter la reconnaissance et l’exécution du divorce, de la séparation de corps et d’annulation du mariage. Il contient des dispositions relatives à la compétence mais ne traite ni des causes de divorce ou de la loi applicable. Le principe est la reconnaissance de plano, sans devoir passer par une reconnaissance judiciaire (exequatur)
+Le règlement Bruxelles II bis est applicable depuis le 1er mars 2005 (24 pays européens, y compris le Royaume-Uni à l'époque).
+Pour la Bulgarie et en Roumanie, il est applicable depuis le 1er janvier 2007 et depuis le 1er juillet 2013 pour la Croatie. 
+Royaume-Uni : Bruxelles IIbis a continué à s’appliquer aux procédures introduites avant le 1er janvier 2021.
+Il prime le droit national. Ceci signifie que le CoDIP ne s'applique pas pour ces divorces.
+Le Règlement s'applique :
+aux actions judiciaires pertinentes intentées à partir du 1er mars 2005, 
+aux actes authentiques reçus, 
+aux accords entre parties conclus postérieurement au 1er mars 2005 
+ATTENTION: il existe des règles transitoires pour les actions judiciaires intentées avant le 1er mars 2005 dans tois catégories de décisions (voir article 64 du Règlement).
+Guide pratique pour l'application du Règlement Bruxelles II bis
+Exemple : Une Allemande souhaite se marier en Belgique.
+Elle fournit son jugement de divorce allemand daté de 2007 et le certificat prévu à l’article 39 de Bruxelles II bis 
+Analyse: Il s'agit d'un divorce européen, postérieur à l'entrée en vigueur du Règlement Bruxelles II bis et antérieur au règlement Bruxelles II ter. L'instrument juridique applicable est donc Bruxelles II bis (Divorce européen Bruxelles II bis (Règlement européen)) 
+Pièces à fournir : Certificat Article 39 du Règlement + expédition authentique de la décision.
++ En cas de décision par défaut : 
+l'original ou une copie certifiée conforme du document établissant que l'acte introductif d'instance ou un acte équivalent a été signifié ou notifié à la partie défaillante; ou 
+tout document indiquant que le défendeur a accepté la décision de manière non équivoque
+Ces documents sont dispensés de légalisation. 
+Motifs de refus de reconnaissance
+Ils sont extrêmement rares. (article 22 du Règlement)
+ 
+La reconnaissance d’une décision ne peut être refusée que pour un nombre restreint de motifs : 
+si la reconnaissance est manifestement contraire à l’ordre public de l’État membre d’exécution; 
+lorsque le défendeur est défaillant, si l’acte introductif d’instance ne lui a pas été signifié ou notifié en temps utile pour qu’il puisse pourvoir à sa défense, excepté s’il a clairement accepté la décision; 
+si la décision est inconciliable avec une décision rendue dans une instance opposant les mêmes parties dans l’État membre requis; 
+si la décision est inconciliable avec une décision qui a été rendue dans une affaire opposant les mêmes parties dans un autre État et qui peut être reconnue dans l’État membre requis
+Si les pièces fournies sont correctes, et qu'il n'existe aucun élément de refus, le divorce doit être reconnu.
+    2. Bruxelles II ter est entré en vigueur le 1er août 2022. Il s'agit de la refonte de Bruxelles IIbis et les principes demeurent donc les mêmes.
+Les documents à fournir sont  expédition authentique de la décision+le certificat annexe II (article 36).
+Guide pratique pour l'application du Règlement Bruxelles II ter
+Texte:
+Divorce européen sans juge
+Les règlements européens ne concernent pas uniquement les procédures judiciaires de divorce mais aussi de nouvelles formes de divorce, administratifs, sans intervention d'un juge.
+Certains pays permettent de divorcer devant un OEC ou un notaire.
+Exemple: Divorce Portugais 2021-148
+Le droit portugais permet le divorce devant l'OEC. 
+ 
+L'ACEC est d’avis que le divorce par consentement mutuel des époux devant l’officier de l’état civil portugais tombe sous le champ d’application du Règlement « Bruxelles IIbis ». 
+La partie qui invoque la reconnaissance du divorce en Belgique doit produire :  
+une expédition de la décision étrangère réunissant les conditions nécessaires à son authenticité (article 37.1.a), du Règlement « Bruxelles IIbis ») ; et 
+un certificat « article 39 » annexé au Règlement « Bruxelles IIbis » (article 37.1.b), du Règlement « Bruxelles IIbis »). 
+Le divorce peut être reconnu dans l’ordre juridique belge puisque les documents requis ont été présentés par les intéressés (document intitulé : « compte rendu de conférence » et certificat « article 39 ») et aucun motif de non-reconnaissance visé à l’article 22 du Règlement « Bruxelles IIbis » n’est rencontré.  
+ 
+Divorce français postérieur au 1er août 2022 (Bruxelles II ter)
+Le nouveau divorce extrajudiciaire est entré en vigueur le 1er janvier 2017 en France.  
+Contrairement au divorce portugais, ce divorce ne fait pas l'objet d'un acte authentique. Les conjoints désignent chacun un avocat qui négocient un accord. Une fois que celui-ci est finalisé, les avocats le déposent au rang des minutes d'un notaire ce qui lui donne date certaine. Cependant, ce dépôt ne change pas la nature de l'accord qui ne devient pas un acte authentique pour autant.
+L'ACEC estime que le divorce français « sans juge » peut tomber sous le champ d’application du Règlement Bruxelles IIter (articles 2.2.3), 64 et 65 du Règlement). 
+Ce divorce français pourra être reconnu dans l’ordre juridique belge à condition que le certificat visé à l’article 66 du Règlement soit présenté aux autorités communales belges (voir annexe VIII au règlement). 
+  
+Selon le Règlement un « acte authentique » est un acte dressé ou enregistré formellement en tant qu’acte authentique dans tout État membre dans les matières relevant du champ d’application du règlement et dont l’authenticité porte sur la signature et le contenu de l’acte et, a été établie par une autorité publique ou toute autre autorité habilitée à le faire. 
+ 
+Selon le Règlement un « accord ,» est un acte qui n’est pas un acte authentique, qui a été conclu par les parties dans les matières relevant du champ d’application du règlement, et qui a été enregistré par une autorité publique .  
+ 
+En ce qui concerne la France, il apparait que les autorités publiques compétentes pour enregistrer un accord sont les notaires et les greffiers.  
+ 
+L’article 65 du Règlement indique que les actes authentiques et les accords relatifs au divorce qui ont un effet juridique contraignant dans l’État membre d’origine sont reconnus dans les autres États membres sans qu’il soit nécessaire de recourir à aucune procédure.  
+ 
+La juridiction ou l’autorité compétente de l’État membre d’origine devra toutefois délivrer un certificat concernant un acte authentique ou un accord en matière matrimoniale au moyen du formulaire figurant à l’annexe VIII du Règlement (article 66.1, du Règlement). 
+ 
+En ce qui concerne la France, le président du tribunal judiciaire (par délégation le juge) est compétent pour délivrer un tel certificat. 
+ 
+Le certificat pourra être délivré uniquement si les conditions suivantes sont remplies (article 66.2, du Règlement) : 
+a) l’État membre qui a habilité l’autorité publique ou une autre autorité à dresser ou enregistrer l’acte authentique ou à enregistrer l’accord est celui dont les juridictions sont compétentes au titre du chapitre II, et 
+b) l’acte authentique ou l’accord a un effet juridique contraignant dans cet État membre.  
+ 
+À défaut de production du certificat, l’acte authentique ou un accord n’est ni reconnu ni exécuté dans un autre État membre (article 66.5, du Règlement). 
+ 
+Il faut également rappeler qu’il existe des motifs de refus de reconnaissance qui sont prévus à l’article 68 du Règlement.  
+ 
+Divorce français antérieur au 1er août 2022 (Bruxelles II bis )
+Ce règlement s’applique, quelle que soit la nature de la juridiction, aux matières civiles relatives au divorce, à la séparation de corps et à l’annulation du mariage. 
+Juridiction ? 
+On entend par juridiction, toutes les autorités compétentes des Etats membres dans les matières relevant du champ d’application du présent règlement. 
+Décision ? 
+On entend notamment par décision toute décision de divorce rendue par une juridiction d’un Etat membre, quelle que soit la dénomination de la décision, y compris les termes « arrêt », « jugement » ou « ordonnance ». 
+Acte authentique ou accord ? 
+Les actes authentiques et les accords entre parties qui sont exécutoires dans un État membre devraient être assimilés à des «décisions» aux fins de l'application des règles de reconnaissance et d'exécution. 
+L’article 22 concerne les motifs de non-reconnaissance d’une décision de divorce : 
+a) si la reconnaissance est manifestement contraire à l'ordre public de l'État membre requis ; 
+b) si l'acte introductif d'instance ou un acte équivalent n'a pas été signifié ou notifié au défendeur défaillant en temps utile et de telle manière qu'il puisse pourvoir à sa défense, à moins qu'il ne soit établi que le défendeur a accepté la décision de manière non équivoque ; 
+c) si elle est inconciliable avec une décision rendue dans une instance opposant les mêmes parties dans l'État membre requis ; ou 
+d) si elle est inconciliable avec une décision rendue antérieurement dans un autre État membre ou dans un État tiers dans une affaire opposant les mêmes parties, dès lors que cette première décision réunit les conditions nécessaires à sa reconnaissance dans l'État membre requis. 
+Par ailleurs, l’article 37.1 du règlement prévoit que la partie qui invoque la reconnaissance d'une décision ou sollicite la délivrance d'une déclaration constatant sa force exécutoire doit produire :  
+a) une expédition de celle-ci réunissant les conditions nécessaires à son authenticité ; et  
+b) le certificat visé à l'article 39. La production de ce certificat permet de savoir quelle est l’autorité ou la juridiction à l’origine du divorce (voir annexe I au règlement). 
+ 
+Un arrêt de la Cour de l'Union européenne du 15 novembre 2022 précise ce qu'on entend par décision de divorce :  
+ 
+« Le législateur de l’Union a ainsi explicité, dans une perspective de continuité, le fait que des accords de divorce, qui ont été approuvés par une autorité judiciaire ou extrajudiciaire à l’issue d’un examen sur le fond mené conformément aux législations et aux procédures nationales, constituent des « décisions », au sens de l’article 2, point 4, du règlement Bruxelles II bis et des dispositions du règlement Bruxelles II ter venues se substituer à cette disposition, et que c’est précisément cet examen sur le fond qui distingue ces décisions des actes authentiques et des accords, au sens de ces règlements . 
+ 
+Partant, dès lors qu’une autorité extrajudiciaire compétente approuve, après un examen sur le fond, un accord de divorce, celui-ci est reconnu en tant que « décision », conformément à l’article 21 du règlement Bruxelles II bis et à l’article 30 du règlement Bruxelles II ter, tandis que d’autres accords de divorce qui ont un effet juridique contraignant dans l’État membre d’origine sont reconnus, selon le cas, en tant qu’actes authentiques ou accords, conformément à l’article 46 du règlement Bruxelles II bis et à l’article 65 du règlement Bruxelles II ter (§60). 
+ 
+Dans ce contexte, il convient de relever que, comme la Commission l’a indiqué à juste titre lors de l’audience, il résulte de la genèse du considérant 14 et de l’article 65 du règlement Bruxelles II ter que, en adoptant ce règlement, le législateur de l’Union a visé non pas à innover et à introduire des règles nouvelles, mais uniquement à « clarifier », d’une part, la portée de la règle déjà inscrite à l’article 46 du règlement Bruxelles II bis et, d’autre part, le critère permettant de distinguer la notion de « décision » de celles d’« acte authentique » et d’« accord entre parties », à savoir le critère relatif à l’examen sur le fond ». 
+ 
+Le Code civil français contient les dispositions relatives à ce type de divorce :  
+ 
+Lorsque les époux s'entendent sur la rupture du mariage et ses effets, ils constatent, assistés chacun par un avocat, leur accord dans une convention prenant la forme d'un acte sous signature privée contresigné par leurs avocats et établi dans les conditions prévues à l'article 1374. 
+Cette convention est déposée au rang des minutes d'un notaire, qui contrôle le respect des exigences formelles. 
+Il s'assure également que le projet de convention n'a pas été signé avant l'expiration du délai de réflexion. 
+Ce dépôt donne ses effets à la convention en lui conférant date certaine et force exécutoire ; 
+l'enfant mineur du couple doit être informé de son droit d'être entendu par un juge.
+La convention comporte expressément, à peine de nullité : 
+1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux, la date et le lieu de mariage, ainsi que les mêmes indications, le cas échéant, pour chacun de leurs enfants ; 
+2° Le nom, l'adresse professionnelle et la structure d'exercice professionnel des avocats chargés d'assister les époux ainsi que le barreau auquel ils sont inscrits ; 
+3° La mention de l'accord des époux sur la rupture du mariage et sur ses effets dans les termes énoncés par la convention ; 
+4° Les modalités du règlement complet des effets du divorce conformément au chapitre III du présent titre, notamment s'il y a lieu au versement d'une prestation compensatoire ; 
+5° L'état liquidatif du régime matrimonial, le cas échéant en la forme authentique devant notaire lorsque la liquidation porte sur des biens soumis à publicité foncière, ou la déclaration qu'il n'y a pas lieu à liquidation ; 
+6° La mention que le mineur a été informé par ses parents de son droit à être entendu par le juge dans les conditions prévues à l'article 388-1 et qu'il ne souhaite pas faire usage de cette faculté ;  
+La convention de divorce et ses annexes sont transmises au notaire, à la requête des parties, par l'avocat le plus diligent, aux fins de dépôt au rang des minutes du notaire, dans un délai de sept jours suivant la date de la signature de la convention. 
+Le dépôt de la convention intervient dans un délai de quinze jours suivant la date de la réception de la convention par le notaire. 
+Mention du divorce est portée en marge de l'acte de mariage ainsi que de l'acte de naissance de chacun des époux, à la requête de l'intéressé ou de son avocat, au vu d'une attestation de dépôt délivrée par le notaire. L'attestation mentionne l'identité des époux et la date du dépôt. 
+ 
+Application au cas d’espèce (divorce d'avril 2021)
+ 
+Les intéressés ont divorcé par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire. Ce divorce a pris effet en avril 2021.  
+  
+L'ACEC est d’avis que le notaire ne procède ni à un examen sur le fond du divorce, ni ne se prononce sur le consentement des époux (rôle de l’avocat). Il ne contrôle que le respect des exigences formelles prévues par la législation française.  
+ 
+Par conséquent, cet accord de divorce n’est pas reconnu en tant que « décision » mais qu’il s’agit d’un accord de divorce qui a un effet juridique contraignant dans l’État membre d’origine et qu’il est reconnu en tant qu’accord conformément à l’article 46 du règlement Bruxelles II bis.  
+ 
+Selon l'article 37 du règlement, la partie qui demande ou conteste la reconnaissance d'une décision ou qui demande une déclaration de force exécutoire doit produire les documents suivants :  
+ 
+Une copie de la décision remplissant les conditions nécessaires pour en établir l'authenticité ; et  
+Le certificat visé à l'article 39.  
+ 
+En ce qui concerne la reconnaissance du certificat visé à l’article 39 du règlement, l'article 21, §1 et §2 stipule que :  
+ 
+1. Les décisions rendues dans un État membre sont reconnues dans les autres États membres sans qu'il soit nécessaire de recourir à aucune procédure. 
+2. En particulier, et sans préjudice du paragraphe 3, aucune procédure n'est requise pour la mise à jour des actes d'état civil d'un État membre sur la base d'une décision rendue dans un autre État membre en matière de divorce, de séparation de corps ou d'annulation du mariage, qui n'est plus susceptible de recours selon la loi de cet État membre.  
+ 
+En outre, l'article 22 stipule qu’une décision rendue en matière de divorce, de séparation de corps ou d'annulation du mariage n'est pas reconnue : 
+ 
+a) si la reconnaissance est manifestement contraire à l'ordre public de l'État membre requis ; 
+b) si l'acte introductif d'instance ou un acte équivalent n'a pas été signifié ou notifié au défendeur défaillant en temps utile et de telle manière qu'il puisse pourvoir à sa défense, à moins qu'il ne soit établi que le défendeur a accepté la décision de manière non équivoque ; 
+c) si elle est inconciliable avec une décision rendue dans une instance opposant les mêmes parties dans l'État membre requis ; ou 
+d) si elle est inconciliable avec une décision rendue antérieurement dans un autre État membre ou dans un État tiers dans une affaire opposant les mêmes parties, dès lors que cette première décision réunit les conditions nécessaires à sa reconnaissance dans l'État membre requis. 
+ 
+Le divorce français peut être reconnu dans l’ordre juridique belge.
+Texte:
+Divorce extra-européen sans juge
+Règle de rattachement article 55 CoDIP hors de l'UE 
+Divorce administratif japonais 
+Monsieur M F, de nationalité belge, et Madame M K, de nationalité japonaise, se sont mariés en 2018 au Japon 
+Les intéressés présentent une déclaration de divorce par consentement mutuel signée par le Bourgmestre de T., au Japon. 
+Le divorce est totalement extra-judiciaire et a été conclu conformément au droit japonais.
+Loi applicable 
+L’acte de divorce en question n’étant pas un jugement, l’Autorité centrale de l’état civil considère que les articles 22 à 26 de CoDIP ne s’appliquent pas. 
+En matière de divorce, le Code de droit international privé le désigne à l’article 55 CoDIP :  
+ § 1er. Le divorce et la séparation de corps sont régis: 
+  1° par le droit de l'Etat sur le territoire duquel l'un et l'autre époux ont leur résidence habituelle lors de l'introduction de la demande; 
+  2° à défaut de résidence habituelle sur le territoire d'un même Etat, par le droit de l'Etat sur le territoire duquel se situait la dernière résidence habituelle commune des époux, lorsque l'un d'eux a sa résidence habituelle sur le territoire de cet Etat lors de l'introduction de la demande; 
+  3° à défaut de résidence habituelle de l'un des époux sur le territoire de l'Etat où se situait la dernière résidence habituelle commune, par le droit de l'Etat dont l'un et l'autre époux ont la nationalité lors de l'introduction de la demande; 
+  4° dans les autres cas, par le droit belge. 
+  § 2. Toutefois, les époux peuvent choisir le droit applicable au divorce ou à la séparation de corps. 
+  Ils ne peuvent désigner que l'un des droits suivants: 
+  1° le droit de l'Etat dont l'un et l'autre ont la nationalité lors de l'introduction de la demande; 
+  2° le droit belge. 
+ 
+Monsieur apporte la que les époux ont eu une résidence habituelle au Japon après leur résidence habituelle en Belgique. 
+ 
+Droit japonais 
+Le divorce, prononcé au Japon, doit avoir respecté les règles qui se trouvent dans le Code de la Famille et dans le règlement mettant en œuvre la loi sur l’enregistrement de la famille : 
+ 
+Un mari et une femme peuvent divorcer d'un commun accord. C'est le cas ici
+ 
+Dans le cas d'un divorce par voie conventionnelle, les questions à régler relativement à la garde de l'enfant, telles que la garde de l'enfant, le droit de visite et les autres contacts entre le père ou la mère et l'enfant, ainsi que le partage des frais découlant de la garde de l'enfant, seront déterminés dans ledit accord. Dans un tel cas, l'intérêt supérieur de l'enfant devrait avoir la plus haute priorité lors de l'examen de ces questions. 
+(2) Si l'accord visé à l'alinéa précédent n'est pas conclu ou si des discussions en vue d'un tel accord ne peuvent être menées, les questions visées à l'alinéa précédent sont réglées par le tribunal de la famille. 
+(3) Le tribunal de la famille peut modifier une décision en vertu des dispositions des deux alinéas précédents et ordonner toute autre décision appropriée concernant la garde de l'enfant s'il l'estime nécessaire. 
+(4) Les droits et obligations parentaux autres que la tutelle ne sont pas affectés par les dispositions des trois alinéas précédents. (Article 766) 
+ 
+En l’espèce, les ex-époux n’ont, d’après l’acte de divorce, pas d’enfants communs. 
+ 
+(1)Une partie à un divorce par convention peut demander à l'autre partie de procéder au partage des biens. 
+(2) Si aucune entente n'est conclue entre les parties sur le partage des biens en vertu de l'alinéa précédent ou si des discussions en vue d'une telle entente ne peuvent avoir lieu, l'une ou l'autre des parties peut demander au tribunal de la famille de rendre une ordonnance tenant lieu d'une telle entente ; à condition toutefois que cela ne s'applique pas une fois que deux ans se sont écoulés depuis la date du divorce. 
+(3) Dans le cas visé à l'alinéa précédent, le tribunal de la famille détermine si les parties doivent faire l'objet d'un partage des biens, ainsi que la valeur et le mode de partage, en tenant compte de la valeur des biens acquis conjointement par leurs efforts conjoints et de toutes autres circonstances. (Article 768 du Code civil) 
+ 
+En l’espèce, l'acte de divorce contient les signatures et les cachets des deux ex-époux, ainsi que des témoins adultes. L'acte de divorce indique que les ex-époux n’ont pas d’enfant.  
+De plus, les actes de divorce japonais doivent reprendre les mentions suivantes : 
+ 
+Les informations visées à l'article 76, paragraphe ii, de la loi sur le registre de la famille sont les suivantes : 
+(i) le fait que le  divorce est un divorce contractuel ; 
+(ii) si l'une des parties est étrangère, la nationalité de cette partie ; 
+(iii)  le nom des parents des parties et leurs liens de parenté avec les parents et, si l'une des parties est un enfant adopté, autre qu'un enfant adopté spécial, le nom des parents adoptifs ; 
+(iv)le mois et l'année où les parties ont commencé à vivre ensemble ; 
+(v)le mois et l'année au cours desquels les parties ont commencé à vivre séparément ; 
+(vi)l' adresse des parties avant qu'elles n'emménagent dans une résidence séparée ; 
+(vii)  l'occupation principale du ménage avant que les parties ne s'installent dans une résidence séparée, et avant la notification faite entre le 1er avril de l'année au cours de laquelle le recensement est effectué et le 31 mars de l'année suivante, les activités des parties ; Et 
+(viii)  le nom du chef de famille des parties. 
+ 
+Les mentions sont bien reprises dans l’acte de divorce et l’acte semble conforme aux actes de divorce japonais; il peut être reconnu en Belgique.
+Légende, image (150 caractères maximum):
+Divorce extrajudiciaire japonais
+Texte:
+Répudiation article 57 CoDIP
+Définition : Un acte établi à l'étranger constatant la volonté du mari de dissoudre le mariage sans que la femme ait disposé d'un droit égal.
+De nombreux pays de droit musulman connaissent ce type de dissolution du mariage, souvent à côté d'autres formes de dissolution ouvertes aux deux conjoints. 
+Si certaines formes de dissolution relèvent clairement de la répudiation (Talak) d'autres sont plus difficiles à qualifier (Khôl, acte par lequel la femme invite son mari à la répudier moyennant une compensation qu'elle lui verse.). Les travaux préparatoires du CoDIP sont cependant clairs: le khôl entre dans la définition de la répudiation et ne peut donc être reconnu que si les conditions cumulatives de l'article 57 sont remplies. 
+Il existe cependant de la jurisprudence plus souple qui reconnait, en fonction des circonstances, ce type de dissolution. 
+Facteur de rattachement : Article 57 CoDIP 
+En principe cette forme de dissolution d'un mariage ne peut pas être reconnue en Belgique.
+Toutefois, un tel acte peut être reconnu en Belgique après vérification des conditions cumulatives suivantes : 
+1° l'acte a été homologué par une juridiction de l'Etat où il a été établi; 
+2° lors de l'homologation, aucun époux n'avait la nationalité d'un Etat dont le droit ne connaît pas cette forme de dissolution du mariage; 
+3° lors de l'homologation, aucun époux n'avait de résidence habituelle dans un Etat dont le droit ne connaît pas cette forme de dissolution du mariage; 
+4° la femme a accepté de manière certaine et sans contrainte la dissolution du mariage; 
+5° aucun motif de refus visé à l'article 25 ne s'oppose à la reconnaissance. 
+Exemple 1: Monsieur, de nationalité marocaine, arrivé en Belgique en 2010, présente un talak (répudiation fondée sur la volonté du mari) avec son épouse marocaine, restée au Maroc. La répudiation a eu lieu en 2008 et est homologuée. Madame a accepté la répudiation de manière certaine et sans contrainte.
+La répudiation remplit l'ensemble des conditions cumulatives et peut être reconnue.
+Exemple 2 : Monsieur, de nationalité espagnole depuis 2007 et d'origine marocaine,  est arrivé en Belgique en 2010. Il présente un talak (répudiation fondée sur la volonté du mari) avec son épouse marocaine, restée au Maroc. La répudiation a eu lieu en 2008 et est homologuée. Madame a accepté la répudiation de manière certaine et sans contrainte.
+La condition de nationalité n'est pas remplie: au moment de la répudiation Monsieur possédait la nationalité d'un pays qui ne connait pas cette forme de dissolution du mariage (Espagne).
+La répudiation ne remplit pas l'ensemble des conditions cumulatives et peut pas être reconnue.
+ 
+Répudiation avant 1/10/2004 
+Anciens articles 570 et 586 du Code Judiciaire
+•  un conjoint est Belge. Refus car une des conditions de base n'est pas respectée
+• pas de Belge ► peut être reconnue si 
+o pas de contrariété à l’ordre international public 
+ o respect des droits de la défense 
+ o juge d’origine pas uniquement compétent en raison de la nationalité du demandeur 
+ o décision passée en force de chose jugée 
+ o Expédition authentique
+Texte:
+Mise en situation
+Question:
+Quelle réponse peut apporter l'agent à ce citoyen ?
+Feedback:
+Compétence :
+vérifier si la commune est compétente en application des articles 13,68 et
+70 de l’ancien Code civil
+-
+lieu d'inscription au registre de la population, au registre des étrangers ou
+au registre d'attente de l'intéressé, des intéressés ou de l'un d'entre eux; ou
+à défaut,
+ - dernier lieu d'inscription au registre
+de la population, au registre des étrangers ou au registre d'attente de
+l'intéressé, des intéressés ou de l'un d'entre eux; ou à défaut, 
+ - la résidence actuelle de l'intéressé,
+des intéressés ou de l'un d'entre eux; ou à défaut,
+-  Bruxelles.
+Divorce
+de février 2021. Application du règlement Bruxelles IIbis
+Documents
+à demander : la convention de divorce par consentement mutuel et le
+certificat visé à l’article 39 du règlement Bruxelles II bis.
+L’attestation de dépôt au rang des minutes du notaire n’est pas seule
+suffisante
+Légalisation
+: document français et Bruxelles II bis, dispense de légalisation
+Texte:
+Partenariat
+Articles 58 à 60.
+Définition
+Le régime régissant la vie commune de deux personnes prévu par la loi, dont l'enregistrement est obligatoire en vertu de ladite loi et qui répond aux exigences juridiques prévues par ladite loi pour sa création.
+Conditions 
+ l’existence d’un engagement de vie commune, 
+le respect 
+du cadre légal qui fixe les règles de sa validité et de son 
+existence 
+une obligation légale d’enregistrement.
+Droit applicable 
+Droit de l'Etat sur le territoire duquel il a donné lieu à un enregistrement pour la première fois (Brésil, France, ...).
+La nationalité des partenaires n'a pas d'influence.
+ Ce droit détermine 
+les conditions d'établissement (enregistement, devant quelle autorité, sous quelle forme )
+les effets du partenariat sur les biens des parties
+les causes et les conditions de la cessation du partenariat.
+Relation de vie commune assimilée au mariage
+Cette notion a été abrogée. Désormais, chaque catégorie est étanche : un mariage est un mariage soumis aux règles des articles 46 et 47 CoDIP tandis qu'un partenariat est soumis aux règles de l'article 60. Ces deux notions s’excluent même l’une de l’autre. 
+Il appartient au droit de l’État dans lequel 
+le partenariat est enregistré et non plus aux autorités 
+belges de déterminer s’il s’agit d’un partenariat enregistré 
+ou d’un mariage. Exemple, en droit français, le mariage est ouvert aux couples de même sexe ou de sexe différent. Le couples qui ne désirent pas se marier peuvent opter pour le Pacte civil de solidarité (PACS) qui est un partenariat enregistré de droit français.
+Un partenariat est reconnu comme tel, il ne faut plus analyser s'il équivaut à un mariage ou pas. 
+Cette assimilation avait des conséquences lourdes pour les partenaires notamment le fait de devoir divorcer lorsque le partenariat avait été assimilé à un mariage par les autorités belges. 
+La nouvelle définition du partenariat s'applique aux partenariats enregistrés reconnus par les autorités belges après le 08/04/2024.
+Les partenariats enregistrés 
+conclus avant le 08/04/2024 et non encore portés 
+à la connaissance des autorités belges relèvent de la nouvelle définition de l’article 58.
+Exemple, un partenariat étranger conclu le 11/01/2023 est présenté aux autorités belge le 04/11/2024 : les règles du partenariat enregistré s'appliquent. Il est enregistré comme un partenariat.
+Les relations de vie commune étrangères reconnues et ayant sortis leurs effets en Belgique avant le 08/04/2024 restent soumises à l'ancien régime. 
+Si elles ont été assimilées à un mariage, on leur applique les règles du mariage (par exemple le fait de devoir divorcer pour mettre fin à leur union). 
+Leur enregistrement au Registre national ne doit pas être modifié.
+Exemple : le partenariat enregistré de droit allemand qui était réservé aux couples de même sexe et visait à offrir à ces couples un statut comparable au mariage, réservé aux couples de sexe différent.
+Titre, page:
+Questions particulières
+Texte:
+Gestation pour autrui (GPA)
+Texte:
+La gestation pour autrui (GPA) n'est pas réglementée en Belgique mais n'est pas interdite. 
+Elle est pratiquée par certains hôpitaux belges selon des règles internes à l'hôpital. 
+Certains couples ou des personnes seules, qui ne rencontrent pas les critères fixés par les hôpitaux, choisissent de faire appel à la gestation pour autrui à l'étranger.
+Les Etats-unis ou le Canada disposent, selon les Etats ou Provinces, de législations relatives à la gestation pour autrui. La plupart du temps, les parents d'intention devront passer par un juge local qui ordonnera la rédaction d'un acte de naissance. L'analyse devra être faite sur la base du jugement (article 25 CoDIP).
+Dans d'autres pays, comme l'Ukraine, les parents d'intentions reçoivent directement un acte de naissance, il n'y a pas de jugement. Les critères à appliquer sont ceux de la reconnaissance d'un acte (article 27 CoDIP).
+En fonction des règles légales propres au pays où se déroule la gestation, la mère porteuse peut ou non être la mère génétique. Si elle n'est pas la mère génétique (GPA de haute technologie) l'ovule vient d'une donneuse, anonyme ou non.
+Titre, accordéon:
+Jugement étranger relatif à une gestation pour autrui
+Texte, accordéon:
+Lorsque la filiation a été établie sur la base d'un jugement étranger puis d'un acte de naissance qui n'en est que la conséquence, qui n'établit pas pas en lui-même la filiation, il faut demander :
+le jugement 
+la preuve qu'il est définitif 
+l'acte.
+Dans des pays comme les Etats-unis d'Amérique ou le Canada, les parents d'intention obtiennent la plupart du temps un jugement les désignant comme les parents légaux de l'enfant et ordonant la rédaction d'un acte de naissance où ils figurent en tant que parents. 
+La mère porteuse et son éventuel mari ou compagnon y déclarent ne pas être les parents de l'enfant et renoncer à tout droit sur celui-ci.
+Une décision judiciaire étrangère ne peut servir de base pour l'établissement ou la modification d'un acte de l'état civil ou pour l'inscription dans le registre de la population, le registre des étrangers ou le registre d'attente, qu'après vérification des conditions visées aux articles 24 et 25, et selon les cas, aux articles 39, 57 et 72. (article 31, §1er, alinéa 2, CoDIP)
+Les deux motifs de refus les plus souvent soulevés sont : 
+Ordre public
+La convention de gestation pour autrui (le contrat signé entre le ou les parent(s) d'intention et la mère porteuse) est nulle en raison de l’illicéité de son objet et de sa cause, aux principes d’inviolabilité du corps humain et de l’indisponibilité de l’état des personnes et du corps humain.
+Toutefois, il convient de dissocier la question de l’établissement du lien de filiation entre l’enfant et les parents d’intention, où il s’agit d’examiner la validité au regard de l’ordre public belge de l’établissement des liens de filiation par l’acte authentique étranger de celle de la convention de gestation pour autrui. En décider autrement reviendrait à faire supporter par l’enfant les conséquences préjudiciables d ’un contrat auquel il n’est pas partie (N GALLUS, « Gestation pour autrui et reconnaissance des actes de l’état civil étrangers », J.T. T., 2010, p.424)
+En outre, même en cas d’incompatibilité avec l’ordre public interne, l’intérêt supérieur de l’enfant doit toujours primer.
+Ce n'est pas parce que la convention est contraire à l'ordre public international belge que l'enfant ne peut pas voir sa filiation reconnue. 
+Dans la plupart des décisions judiciaires actuelles, l'argument de l'ordre public international belge n'est plus soulevé pour justifier une non-reconnaissane de la filiation.
+Fraude à la loi
+L’article 25, §1er, alinéa 3, CoDIP énonce qu'il ne peut y avoir reconnaissance d'une décision judiciaire étrangère si cette décision a été obtenue, en une matière où les personnes ne disposent pas librement de leurs droits (ce qui est le cas de la filiation), dans le seul but d'échapper à l'application du droit désigné par la présenté loi (= le Code de droit international privé).  
+Les cours et tribunaux belges appliquent de manière variée la notion de fraude à la loi lorsqu’ils sont saisis dans le cadre de la reconnaissance d’un jugement étranger relatif à une gestation pour autrui. 
+La jurisprudence est donc partagée entre une interprétation large et une interprétation stricte. Il appartient en principe à la Cour de cassation de trancher entre les courants de jurisprudence. 
+Modification du facteur de rattachement  
+Il ressort de plusieurs décisions qu’il y a fraude à la loi s’il y a eu une modification artificielle du facteur de rattachement dans le seul but d’échapper à la loi désignée comme applicable par le CDIP. Cette conception stricte s’inspire de la notion de fraude à la loi de l’article 18 CoDIP.  
+ Les cours et tribunaux considèrent donc que les requérants doivent avoir modifié leur nationalité pour retenir la fraude à la loi.  
+Le tribunal de Liège(Civ. Liège (3e ch.), 15 mars 2013, Rev. trim. dr. fam., 2013/3, p.720.) a le raisonnement suivant : 
+« Certes, les requérants sont allés en Californie pour obtenir ce qu’ils n’auraient pas obtenu en Belgique mais ce n’est pas pour autant qu’il y a fraude à la loi.  
+L’article 18 CODIP précise la notion de fraude à la loi.  
+La fraude à la loi permet de sanctionner la modification artificielle du facteur de rattachement dans l’unique but d’échapper à la loi désignée par le CODIP.  
+En matière de filiation, la loi désignée par l’article 62 CODIP est la loi nationale de la personne dont la paternité (ou la maternité) est en cause.  
+Dès lors que les requérants n’ont pas artificiellement acquis une autre nationalité, par exemple californienne, dans le but exclusif de voir leur filiation d’intention légitimée, il ne peut être question de fraude à la loi (voy. N. GALLUS et S. PFEIFF, op. cit., p. 366), d’autant que ni la loi belge pour ce qui concerne monsieur P., ni le droit néerlandais pour ce qui concerne monsieur B. ne prohibent spécifiquement la gestation pour autrui, les systèmes juridiques belge et néerlandais l’assumant seulement différemment».  
+Les cours et tribunaux ont en principe tendance à reconnaitre la paternité dans le chef du père biologique en s’appuyant sur les enseignements de la jurisprudence de la Cour européenne des droits de l’homme. 
+ 
+Déplacement à l’étranger  
+Il ressort d’autres décisions que les cours et tribunaux font application de la fraude à la loi dès que les parties se sont rendues à l’étranger afin d’obtenir un droit qu’elles ne pouvaient pas obtenir dans leur État d’origine.  
+Dans la majorité des décisions, les cours et tribunaux se demandent donc si un lien de filiation aurait pu être établi conformément à la loi belge. En effet, dans ces décisions le ou les parties étaient des ressortissants belges pour lesquels le droit désigné en matière d’établissement de la filiation est la loi belge.  
+En ce qui concerne le père biologique, les cours et tribunaux arrivent à la conclusion que celui-ci aurait pu faire établir sa filiation en Belgique conformément au droit belge. 
+En résumé : 
+L'officier de l'état civil saisi d'une demande de reconnaissance d'une GPA étrangère basée sur un jugement doit examiner s'il existe un motif de refus prévu par l'article 25 CoDIP (ordre public, respect des droits de la défense, fraude à la loi, jugement non-définitif ,...)
+S'il estime qu'aucun de ces motifs n'est présent, il peut reconnaître la GPA étrangère et inscrire l'acte de naissance de l'enfant.
+Dans le cas contraire, il peut refuser de reconnaître la GPA étrangère ou reconnaître l'acte partiellement, le plus souvent en faveur du parent biologique.
+En cas de refus ou de reconnaissance partielle, le ou les parent(s) d'intention peut (peuvent) saisir le tribunal selon la procédure de l'article 23 CoDIP).
+Titre, barre d’accordéon:
+Acte étranger relatif à la gestation pour autrui
+Texte:
+Certains pays comme l'Ukraine pratiquent la gestation pour autrui, y compris en faveur de couples mariés étrangers.
+Les parents d'intention obtiennent un acte de naissance apostillé mentionnant directement les parents d'intention comme les seuls parents de l'enfant. Aucune mention relative à la mère porteuse n'est indiquée. Il n'y a pas de jugement ordonnant la rédaction d'un acte de naissance.
+L'OEC saisi doit analyser l'acte en appliquant les critères de l'article 27 CoDIP et examiner plus particulièrement s'il estime qu'il y a fraude à la loi (article 18 CoDIP).
+L'acte en lui-même ne permet pas de déterminer si l'un des parents d'intention a un lien biologique avec l'enfant.
+En cas de refus de reconnaissance ou de reconnaissance partielle, les parents d'intention peuvent saisir le tribunal suivant la procédure prévue à l'article 23 CoDIP.
+Titre, barre d’accordéon:
+Intérêt de l'enfant
+Texte:
+La Cour européenne des droits de l’homme place l’intérêt de l’enfant au cœur de sa jurisprudence : « les effets de la non-reconnaissance en droit français du lien de filiation entre les enfants ainsi conçus (par GPA NDLR) et les parents d'intention ne se limitent pas à la situation de ces derniers, ils portent aussi sur celle des enfants eux-mêmes, dont le droit au respect de la vie privée, qui implique que chacun puisse établir la substance de son identité, y compris sa filiation, se trouve significativement affecté. Se pose donc une question grave de compatibilité de cette situation avec l'intérêt supérieur des enfants, dont le respect doit guider toute décision les concernant»  (Cour eur. D.H., arrêt Mennesson c. France, 26 juin 2014, § 99 ; Cour eur. D.H., arrêt Labassee c. France, 26 juin 2014, § 78.)  
+La Cour ne définit cependant pas quel est l’intérêt de l’enfant et comment le mettre en œuvre. 
+Dans son avis du 10 avril 2019, la Cour considère que l’article 8 de la Convention n’impose pas une obligation générale pour les États de reconnaître ab initio un lien de filiation entre l’enfant et la mère d’intention. Ce que requiert l’intérêt supérieur de l’enfant – qui s’apprécie avant tout in concreto plutôt qu’in abstracto – c’est que ce lien, légalement établi à l’étranger, puisse être reconnu au plus tard lorsqu’il s’est concrétisé. Il appartient en principe non pas à la Cour (des droits de l’homme) mais en premier lieu aux autorités nationales d’évaluer, à la lumière des circonstances particulières de l’espèce, si et quand ce lien s’est concrétisé.  
+La Cour considère toutefois que l’impossibilité générale et absolue d’obtenir la reconnaissance du lien de filiation entre un enfant né d’une gestation pour autrui pratiquée à l’étranger et la mère d’intention n’est pas conciliable avec l’intérêt supérieur de l’enfant, qui exige pour le moins un examen de chaque situation au regard des circonstances particulières qui la caractérisent. 
+Le droit au respect de la vie privée de l’enfant, au sens de l’article 8 de la Convention, requiert que le droit interne offre une possibilité de reconnaissance d’un lien de filiation entre cet enfant et la mère (le parent) d’intention, désignée dans l’acte de naissance légalement établi à l’étranger comme étant la « mère légale » (le parent légal) ; 
+Ce droit ne requiert pas que cette reconnaissance se fasse par la transcription sur les registres de l’état civil de l’acte de naissance légalement établi à l’étranger ; elle peut se faire par une autre voie, telle que l’adoption de l’enfant par la mère (le parent) d’intention, à la condition que les modalités prévues par le droit interne garantissent l’effectivité et la célérité de sa mise en œuvre, conformément à l’intérêt supérieur de l’enfant.  
+Un autre arrêt précise que « l’existence d'un lien génétique n'a pas pour conséquence que le droit au respect de la vie privée de l'enfant requiert que la reconnaissance du lien de filiation entre l'enfant et le père d'intention, puisse se faire spécifiquement par la voie de la transcription de son acte de naissance étranger». 
+Il existe une jurisprudence de plus en plus importante en cette matière. On voit que les Cours supérieures accordent une grande importance à l'appréciation concrète des circonstances et de l'intérêt de l'enfant.
+ 
+Qui apprécie l'intérêt de l'enfant ? 
+« Les officiers de l’état civil sont des autorités administratives chargées, dans chaque commune, de dresser les actes concernant l’état des personnes.  
+Leur action se situe donc à la charnière entre le droit administratif, qui règle, de façon générale, leur action, et le droit civil, auquel ressortissent les actes d’état civil qu’ils dressent (…)  
+(…) L’officier de l’état civil, en tant qu’autorité administrative, n’a de compétences – autrement dit, de pouvoirs– que si celles-ci lui ont été attribuées. Ce principe trouve son fondement à l’article 105 de la Constitution qui prévoit que « le Roi n’a d’autres pouvoirs que ceux que lui attribuent la Constitution et les lois particulières portées en vertu de la Constitution même.  
+Par extension, les limitations des pouvoirs du Roi, chef de l’exécutif, donc de l’administration, sont étendues a fortiori à l’ensemble des autorités administratives» (C. LEPINOIS, A. VAN GYSEL, L’état des personnes, les officiers d’état civil et le droit administratif, Rev. dr. commun., 2009, liv. 1, 3-14..) 
+ 
+Les compétences de l’officier d’état civil se limitent à dresser les actes d’état civil sans pouvoir apprécier de manière concrète la situation. Il se limite à appliquer la loi.  
+Ce n’est que quand le législateur lui a explicitement confié une compétence précise qu’il doit avoir un rôle plus étendu par exemple dans le cadre des unions de complaisance ou des reconnaissances frauduleuses.  
+Ici encore, les éléments doivent être objectifs et il ne lui appartient pas de faire une appréciation in concreto de l’intérêt de l’enfant (cf. Arrêt Cour constitutionnelle n° 58/2020 du 7 mai 2020, points B.17.3 et B.17.4).  
+ 
+En outre, si l’officier d’état civil refuse de reconnaître un acte ou un jugement, le litige porte en définitive sur un droit subjectif.  
+L’article 144 de la Constitution réserve aux tribunaux de l’ordre judiciaire une compétence exclusive pour trancher des contestations dont l’objet est un droit subjectif. 
+Le juge saisi examinera l'intérêt de l'enfant.
+Titre, barre d’accordéon:
+Reconnaissance partielle de la filiation en faveur du parent d'intention biologique
+Légende, image (150 caractères maximum):
+Acte de naissance d'un enfant issu d'une GPA en Californie. Parent biologique reconnu.
+Titre, barre d’accordéon:
+Reconnaissance partielle de la filiation en faveur du parent d'intention biologique
+Légende, image (150 caractères maximum):
+Jugement californien en matière de GPA
+Titre, barre d’accordéon:
+Recours
+Texte:
+En cas de refus de reconnaissance ou de reconnaissance partielle, le ou les parent(s) d'intention peu(ven)t saisir le tribunal de la famille  de l'arrondissement du domicile ou de la résidence habituelle des parties intéressées à la procédure prévue à l'article 23 CoDIP.
+Le juge se prononcera sur la reconnaissance des documents étrangers mais aussi sur l'intérêt de l'enfant.
+Si la décision est favorable aux demandeurs, l'OEC devra dresser l'acte de naissance (sur la base d'un acte étranger) de l'enfant dans la BAEC.
+Texte:
+Acte de décès
+L'acte de décès doit subir la même analyse que celle prévue à l'article 27 CoDIP.
+Qui peut demander la reconnaissance de l'acte de décès et la rédaction d'un acte de décès basé sur un acte étranger ?
+Le citoyen belge qui fait l'objet de l'acte ne peut évidemment pas le demander lui-même. Son décès induit qu'il n'a plus de personnalité juridique et donc plus de représentant légal.
+La FAQ BAEC répond à cette question: 2.10.8. Chaque acte de décès étranger d'un Belge doit-il être enregistré dans la BAEC sur la base 
+d'un acte étranger ? 
+À la demande de qui ? 
+Tout Belge ou son représentant légal peut demander à l'officier de l’état civil d'établir un acte sur la base 
+d'un acte étranger le concernant (art. 68 §1 de l'ancien Code civil). 
+Les héritiers ne 
+peuvent donc pas le demander. Toutefois, étant donné que l'article 68 §1 de l'ancien Code civil se veut une 
+reprise de l'ancien article 48 du Code civil et de l'ancien article 
+48 (introduit avec le CoDIP), il était principalement nécessaire de fournir une base juridique pour le 
+principe qui prévoit que la transcription des actes étrangers ne peut être refusée (circulaire CoDIP 2004, 
+M.B. 28/09/2004, p. 1). 69601). 
+Il semble opportun - comme dans la pratique actuelle - de ne pas 
+refuser l'établissement d'un acte de décès sur la base d'un acte de décès étranger d'un Belge lorsqu'il 
+est présenté, par exemple, par les héritiers
+En outre, chaque acte de décès - présenté pour l’inscription du décès dans les registres de population, 
+qu'il soit belge ou non belge - devra être enregistré dans la BAEC (art. 31 du CoDIP).
+Texte:
+Documents de remplacement
+L'AR 17/01/2013 portant la liste des pays où l'obtention d'actes de naissance est impossible ou engendre des difficultés sérieuses : 
+Afghanistan 
+Angola (seule l’enclave Cabinda)
+Somalie
+Soudan du Sud.
+Si la naissance a eu lieu dans un de ces 4 territoires, la personne peut recourir à une attestation consulaire de naissance. Elle est présumée ne pas pouvoir obtenir de document de naissance.
+Dans quel cadre ?
+Acte de naissance demandé dans le cadre d'un mariage  Art. 164/3 à 7 a.C.c.
+D'une reconnaissance 327/2 a.C.c. 
+D'une demande de Nationalité Art. 5 du Code de la nationalité belge 
+1° Si la personne est née dans un des pays AR 17/01/2013 : 
+a) soit un document équivalent délivré par les autorités diplomatiques ou consulaires de son pays de naissance; 
+b) soit en cas d'impossibilité ou de difficultés sérieuses à se procurer ce dernier document, un acte de notoriété délivré par le juge de paix de sa résidence principale; 
+Si l'intéressé est dans l'impossibilité de se procurer cet acte de notoriété, il peut y être suppléé, avec l'autorisation du tribunal, donnée sur requête, le ministère public entendu, par une déclaration sous serment de l'intéressé lui-même.
+2° Si la personne n'est pas née dans l'un  de ces pays : 
+Soit un acte de notoriété délivré par le juge de paix de sa résidence principale. 
+Soit une déclaration sous serment autorisée par le tribunal.
+ + AR 14/01/2013 portant exécution de la loi du 4 décembre 2012 modifiant le Code de la
+nationalité belge afin de rendre l'acquisition de la nationalité belge neutre du point de vue de l'immigration : si le demandeur est réfugié ou apatride reconnu, un
+certificat de naissance délivré par le Commissariat général aux réfugiés et aux apatrides (CGRA)
+ATTENTION: ces documents de remplacements ne peuvent pas faire l'objet d'actes dans la BAEC. On ne peut pas dresser d'acte de naissance belge sur cette base. 
+Ils constituent une annexe de l'acte principal (mariage, reconnaissance, nationalité.)
+Pour tout acte manquant (naissance, mariage etc.) Art. 26 a.C.c. 
+Si un acte de l'état civil a été détruit ou perdu, l'acte peut être remplacé conformément à l'article 35 de l'ancien Code civil.
+La procédure est accessible aux Belges et aux étrangers.
+Si la demande est acceptée, le demandeur obtiendra la rédaction d'un acte belge de remplacement, inscrit dans la BAEC et utilisable dans toutes les procédures.

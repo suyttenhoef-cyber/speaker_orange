@@ -1,0 +1,813 @@
+Analyses détaillées
+Nom:
+Analyses détaillées
+Titre, page:
+Quelques cas pratiques
+Titre, page:
+La filiation
+Texte, introduction:
+La filiation est le lien juridique qui existe entre un enfant et ses parents. 
+En droit belge, la filiation maternelle est établie de plein droit. 
+Cela signifie que la femme qui accouche est considérée comme la mère de l'enfant (Mater semper certa est). 
+Dans certains cas assez rare, il est possible d'intenter une action judiciaire en contestation de maternité. 
+Le lien de filiation entre un enfant et le second parent peut être établi de 3 manières différentes :
+- Présomption de paternité/coparentalité : Si les parents sont mariés, l'époux de la mère est considéré comme père de l'enfant. Cette présomption s'étend jusqu'à 300 jours suivant la dissolution du mariage. Si la mère s'est remariée durant ce délai, le nouveau mari sera considéré comme le père de l'enfant. 
+--> La filiation établie par présomption peut être contestée via une action en contestation, devant le tribunal de première instance. 
+- Reconnaissance :
+Prénatale : Le parent reconnaissant se rend auprès du service de l'état civil de sa commune. Il devra apporter un certificat attestant de la grossesse et de la date présumée de l'accouchement ;
+Au moment de la déclaration de naissance : La reconnaissance peut se faire au moment où la déclaration de naissance est dressée ;
+Postnatale : La reconnaissance peut également avoir lieu après la naissance. Cette dernière peut se faire qu'importe l'âge de l'enfant. 
+- Action judicaire : Une action en recherche de filiation peut être intentée devant le tribunal de première instance afin de faire établir un lien de filiation. Cette méthode n'intervient que si la présomption et la reconnaissance n'ont pas pu aboutir. 
+Attention, lors de l'établissement de la filiation par une autre voie que la présomption, le consentement de la mère est toujours nécessaire. 
+Le consentement de l'enfant sera demandé à partir de l'âge de 12 ans.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Articles 312 et suivants du Code civil
+Titre, barre d’accordéon:
+Loi du 1er juillet 2006 modifiant des dispositions du Code civil relatives à l’établissement de la filiation et aux effets de celle-ci, entrée en vigueur, le 1er juillet 2007.
+Question:
+Refus motivé de reconnaissance postnatale
+Un couple se présente avec leur nouveau-né afin de faire dresser une reconnaissance postnatale. Quelques mois plus tôt, ils avaient essayé de faire enregistrer leur mariage étranger mais cela avait été refusé car, après enquête, il apparaissait que le mariage était un mariage blanc. A noter, que les intéressés ont bien reçu un refus motivé et signé par l'officier de l'état civil.
+Lors de leur rendez-vous au service des naissances, le couple retombe sur le même agent qui leur avait signifié le refus d'encodage du mariage. 
+Après une analyse de la demande de reconnaissance, l'agent est à nouveau obligé de leur soumettre un refus, cette fois-ci pour la reconnaissance. Ils reçoivent donc un refus motivé et signé par l'OEC. 
+Les intéressés sont enragés et décident ne pas en rester là. Ils sont persuadés que l'agent veut leur nuire. 
+Ils décident alors de l'attaquer directement en justice. 
+Selon vous, les intéressés se sont-ils attaqués à la bonne personne ?
+Option de réponse:
+Oui, l'agent est vraiment sans cœur et veut vraiment les empêcher de vivre heureux
+Option de réponse:
+Non, l'agent n'a pas agi sur base ses sentiments personnels mais au nom de l'OEC en notifiant les refus tel que prévu par la loi
+Option de réponse:
+Non, les intéressés ne peuvent s'en prendre qu'à eux-mêmes
+Feedback si réponse incorrecte:
+Non,
+L'agent a agit sur base de l'autorisation spéciale et écrite que l'officier d'état civil octroie aux agents communaux, notamment pour la rédaction des actes d'état civil. 
+Le mécanisme de la première immunité s'applique pour l'agent. 
+L'officier d'état civil reste le civilement responsable.
+Feedback si réponse correcte:
+Tout à fait, 
+L'agent a agit sur base de l'autorisation spéciale et écrite que l'officier d'état civil octroie aux agents communaux, notamment pour la rédaction des actes d'état civil. 
+Le mécanisme de la première immunité s'applique pour l'agent. 
+L'officier d'état civil reste le civilement responsable.
+Question:
+Refus non motivé de déclaration de naissance
+Un couple marié se présente au guichet afin de déclarer la naissance de leur enfant. 
+Ce jour-là, l'agent prévu au guichet est en colère car la veille, sa femme a demandé le divorce. 
+Lorsqu'il voit arriver le couple remplit de bonheur, sa colère s'accentue. 
+Il décide alors de ne pas acter la déclaration de naissance car il ne comprend pas pourquoi les autres auraient droit au bonheur et pas lui. 
+Qui pourrait voir sa responsabilité engagée dans ce cas-ci ?
+Option de réponse:
+L'officier de l'état civil, car l'agent agit toujours en son nom
+Option de réponse:
+L'agent, il ne doit pas faire intervenir ses sentiments personnels dans son travail
+Option de réponse:
+La commune, qui a embauché un agent avec des sentiments sensibles
+Feedback si réponse incorrecte:
+Incorrect !
+Dans ce cas-ci, l'agent dans un cadre qui dépasse celui de ses fonctions et ne pourra pas bénéficier de la double immunité. 
+L'agent engage donc sa propre responsabilité car il doit répondre de son dol (= volonté de nuire).
+Feedback si réponse correcte:
+Exact ! Dans ce cas-ci, l'agent dans un cadre qui dépasse celui de ses fonctions et ne pourra pas bénéficier de la double immunité. 
+L'agent engage donc sa propre responsabilité car il doit répondre de son dol (= volonté de nuire).
+Texte:
+L'attribution d'un prénom
+L'attribution d'un prénom est une matière réglée par la loi du 15 mai 1987 relative aux noms et prénoms. 
+Le choix d'un prénom pour un enfant, par les parents est libre mais doit respecter quelques principes tels que :
+Le prénom ne doit pas nuire à la personne ou à autrui ;
+Le prénom ne doit pas prêter à confusion. 
+Le refus d'acter un prénom doit être motivé formellement et se baser sur des justifications légales. 
+Si le refus répond à ces conditions, seule la responsabilité de l'officier de l'état civil rentre en cause. 
+Si le refus est basé sur d'autres justifications, comme d'ordre personnelles, la responsabilité de l'agent émettant le refus peut être mise en cause.
+Question:
+Ecoutez l'extrait sonore ci-dessous et indiquez ensuite la meilleure réponse à apporter au problème posé.
+Sur quelle base l'agent au guichet peut refuser les prénoms que la citoyenne souhaite donner à ses enfants ? 
+A qui incombe la responsabilité de ce refus ?
+Feedback:
+L'agent présent au guichet se base sur les critères légaux concernant le choix des prénoms. 
+En effet, le choix des prénoms est libre mais doit respecter deux principes : 
+- Le prénom ne doit pas nuire à la personne ou à autrui ;
+- Le prénom ne doit pas porter à confusion. 
+Dès lors, vu que l'agent motive son refus via une base légale, il agit au nom de l'officier d'état civil en vertu de l'autorisation écrite. 
+Seule la responsabilité de l'officier de l'état civil pourra être engagée, l'agent bénéficie de son immunité.
+Titre, page:
+Mariage
+Texte, introduction:
+La matière des mariages est prévue aux articles 143 et suivants du Code civil.
+Y sont énumérés les conditions pour pouvoir contracter mariage ainsi que tous les documents nécessaires à la constitution du dossier. 
+Les citoyens doivent en effet fournir certains documents et dresser une déclaration de mariage minimum 14 jours avant la date de célébration prévue. 
+Le jour de la célébration, l'acte de mariage est signé électroniquement par l'officier de l'état civil.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Article 54 du Code civil qui précise le contenu de l'acte de mariage.
+Titre, barre d’accordéon:
+Article 9, alinéa 2, 1° selon lequel seul l'officier de l'état civil peut signer l'acte de mariage. Aucune autorisation spéciale n'est permise pour les agents communaux.
+Question:
+Lieu de célébration du mariage (article 164/1 §1 al.1 du Code civil)
+Luc et Robin souhaitent réserver une date pour leur
+mariage civil. Depuis toujours, ils rêvent de saluer la foule depuis le balcon
+de l'hôtel de Ville et décident de prendre contact avec le service des mariages.
+L’agent communal les renseigne et confirme la réservation faite dans l’agenda des mariages à la date du 16 juillet. Une belle
+journée de soleil est attendue.
+Catastrophe, quelques jours plus tard, en regardant le dossier de plus près,
+l’agent communal constate que les citoyens ne sont pas domiciliés dans la commune. 
+Sachant que seul l’officier de l’état civil de
+la commune où l’un des futur époux est inscrit est compétent pour recevoir la déclaration de mariage, l’agent communal reprend
+contact avec les intéressés pour annuler leur réservation.
+Dans l’intervalle Luc et Robin ont déjà envoyé
+les invitations et payé un acompte pour la privatisation d'un restaurant proche de la célébration. 
+Ils souhaitent se faire indemniser pour les dommages
+occasionnés. 
+Qui est responsable ?
+Option de réponse:
+L'officier de l'état civil, territorialement incompétent
+Option de réponse:
+La Ville de Bruxelles, employeur de l'agent administratif
+Option de réponse:
+L'agent administratif qui a commis la faute de réservation et n'a pas analysé convenablement le dossier
+Feedback si réponse incorrecte:
+L'agent administratif a ici commis une faute occasionnelle qui n'est pas habituelle. Il bénéficie dès lors d'une immunité prévue par l'article 18 de la loi du 3 juillet 1978. Suivant cette immunité, l'employeur engage sa responsabilité.
+Feedback si réponse correcte:
+Dans l'hypothèse où l'agent administratif commet cette faute de manière occasionnelle et non habituelle, (ce qui semble être ici le cas), c'est l'employeur, en l'espèce, la Ville de Bruxelles, qui engage sa responsabilité. 
+Luc et Robin peuvent donc solliciter de celui-ci une indemnisation pour le dommage occasionné.
+Question:
+Rectification d'un acte de mariage 
+Ce samedi, Madame Gisèle et Madame Gertrude se marient en présence de leur témoin Madame Elsa.
+L'acte de mariage est signé par l'officier de l'état civil.  
+Inspirée par cet évènement, Madame Elsa décide de se marier à son tour, dans sa commune. Cette commune prend contact avec vous car l'agent en charge de ce nouveau dossier rencontre des difficultés lorsqu'il prépare l'acte de mariage. En effet, vous avez commis une erreur manifeste : il s'agissait de Elisa et non Elsa - et cette erreur créé une incohérence dans la BAEC. 
+Que faire?
+Option de réponse:
+Il faut diriger les citoyens vers une procédure en rectification devant le Tribunal de la Famille
+Option de réponse:
+Rectifier cette erreur, purement matérielle
+Feedback si réponse incorrecte:
+Il s'agit bien d'une erreur matérielle puisque lors de l'établissement de l'acte de mariage, l'officier de l'état civil a enregistré par erreur une donnée qui ne correspond pas entièrement à l'identité de cette personne et qui figurait pourtant sur les attestations officielles dont il était en possession au moment de la signature. 
+Qui plus est, l'article 34 §1 alinéa 2, 6°, précise expressément qu'on entend par erreur matérielle "une erreur dans les données ou l'absence des données d'un témoin dans l'acte de mariage"
+L'agent administratif peut rectifier cette erreur (article 9 du Code civil).
+Feedback si réponse correcte:
+Il s'agit bien d'une erreur matérielle puisque lors de l'établissement de l'acte de mariage, l'officier de l'état civil a enregistré par erreur une donnée qui ne correspond pas entièrement à l'identité de cette personne et qui figurait pourtant sur les attestations officielles dont il était en possession au moment de la signature. 
+Qui plus est, l'article 34 §1 alinéa 2, 6°, précise expressément qu'on entend par erreur matérielle "une erreur dans les données ou l'absence des données d'un témoin dans l'acte de mariage"
+L'agent administratif peut rectifier cette erreur (article 9 du Code civil).
+Question:
+Ecoutez l'extrait sonore ci-dessous et indiquez  ensuite la meilleure réponse à apporter au problème posé.
+Quelle est la nature de cette erreur au sein de l'acte d'état civil ? Qui peut être tenu comme responsable et voir sa responsabilité engagée ?
+Feedback:
+Dans ce cas-ci, il s'agit d'une erreur matérielle. 
+L'officier de l'état civil a la possibilité de rectifier ce genre d'erreurs lorsque les données ne correspondent pas aux données contenues au sein d'autres actes authentiques. 
+Si les citoyens souhaitent porter plainte, l'agent administratif bénéficie de la première immunité. 
+La responsabilité de l'officier de l'état civil sera la seule qui pourra être engagée, à moins qu'il s'agisse d'une faute récurrente dans le chef de l'agent.
+Question:
+Refus de célébration 
+Monsieur Smith et Madame Cavallo souhaitent se marier. Monsieur Smith est en séjour irrégulier en Belgique. L'enquête réalisée relève des éléments particulièrement inquiétants concernant les intéressés. 
+Il ne fait aucun doute que l'unique intention manifeste d'au moins l'un des deux est d'obtenir un avantage en matière de séjour par le biais de ce mariage. 
+L'agent en charge du dossier dresse donc un refus de célébrer sur base de l'article 167 du Code civil.
+Le refus dûment motivé par les éléments du dossier est notifié aux intéressés.
+Furieux de ce qu'ils lisent, Monsieur Smith et Madame Cavallo débarquent à vos guichets et cherchent un coupable! 
+Qui est responsable?
+Option de réponse:
+L'agent communal qui a rédigé le refus
+Option de réponse:
+L'officier de l'état civil
+Feedback si réponse incorrecte:
+Incorrect ! 
+Le refus repose sur une justification légale. 
+L'agent, lorsqu'il rédige ce refus, agit sur base d'une autorisation spéciale et écrite octroyée par l'officier de l'état civil. 
+Ce dernier est seul responsable.
+Feedback si réponse correcte:
+Exactement ! 
+Le refus repose sur une justification légale. 
+L'agent, lorsqu'il rédige ce refus, agit sur base d'une autorisation spéciale et écrite octroyée par l'officier de l'état civil. 
+Ce dernier est seul responsable.
+Question:
+Motivation formelle des actes administratifs 
+La réponse sera-t-elle la même si le refus notifié aux intéressés ne repose sur aucune justification de sorte que les citoyens ignorent pour quelles raisons leur célébration est refusée? Autrement dit, la lettre de refus reçue à leur domicile ne contient pas de motivation.
+Option de réponse:
+Oui
+Option de réponse:
+Non
+Feedback si réponse incorrecte:
+Le refus doit contenir des considérations de droit et de fait servant de fondement à la décision.
+Cette décision doit également être adéquate, exacte et pertinente. 
+Cette obligation figure expressément dans la loi du 29  juillet 1991 sur la motivation formelle des actes administratifs. 
+Pour autant, c'est bien l'officier de l'état civil qui engage sa responsabilité civile à l'égard des citoyens lorsqu'il signe un tel refus. 
+Ceci n'empêche pas en interne de rectifier le tir auprès de l'agent s'il est démontré que celui-ci a commis une faute au moment de la préparation du refus. Si la faute est légère et occasionnelle, l'agent est entièrement immunisé. S'il devait par contre s'avérer que le refus non motivé repose sur des considérations personnelles, la faute grave pourrait être avancée.
+Feedback si réponse correcte:
+Le refus doit contenir des considérations de droit et de fait servant de fondement à la décision.
+Cette décision doit également être adéquate, exacte et pertinente. 
+Cette obligation figure expressément dans la loi du 29  juillet 1991 sur la motivation formelle des actes administratifs. 
+Pour autant, c'est bien l'officier de l'état civil qui engage sa responsabilité civile à l'égard des citoyens lorsqu'il signe un tel refus. 
+Ceci n'empêche pas en interne de rectifier le tir auprès de l'agent s'il est démontré que celui-ci a commis une faute au moment de la préparation du refus. Si la faute est légère et occasionnelle, l'agent est entièrement immunisé. S'il devait par contre s'avérer que le refus non motivé repose sur des considérations personnelles, la faute grave pourrait être avancée.
+Titre, page:
+Cohabitation légale
+Texte, introduction:
+Attention, l’enregistrement d’une cohabitation légale
+ne fixe ou ne modifie pas l’état d’une personne. Il ne s’agit donc pas d’un
+acte d’état civil.
+Cette matière reste pour autant pertinente en matière de responsabilité
+civile car l’agent communal est amené au jour le jour à enregistrer et à cesser
+les cohabitations légales des citoyens de sa commune sous l’autorisation de
+son officier de l’état civil. 
+Comme pour la matière des mariages, le législateur encadre la mission de l'officier de l'état civil lorsqu'il enregistre ou cesse une cohabitation légale. 
+De manière analogue, il est notamment prévu que l'officier de l'état civil refuse d'enregistrer une cohabitation légale s'il ressort d'une combinaison de circonstances que l'intention d'au moins une des parties vise manifestement uniquement à l'obtention d'un avantage en matière de séjour, lié au statut de cohabitant légal. (article 1476 bis du Code civil).
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Articles 1475 et suivants du Code civil à propos de la cohabitation légale
+Question:
+Refus d'enregistrer la cohabitation légale pour des considérations personnelles 
+Deux citoyens se présentent auprès de leur administration communale en vue d'enregistrer une cohabitation légale. 
+C'est Alain qui les sert ce matin. Par hasard, Alain est le voisin de l'intéressée et celui-ci en est follement mais secrètement amoureux. 
+Vert de jalousie, il décide de renvoyer les citoyens chez eux.
+Abasourdis par ce refus de servir, les citoyens cherchent un coupable. 
+Qui est responsable?
+Option de réponse:
+L'officier de l'état civil, en charge d'enregistrer les cohabitations légales des citoyens de sa commune.
+Option de réponse:
+L'agent qui refuse d'enregistrer la cohabitation légale.
+Feedback si réponse incorrecte:
+Dans ce cas c'est bien la responsabilité de l'agent qui sera engagée car celui-ci a refusé d'enregistrer une cohabitation légale pour des raisons personnelles qui ne devraient pas interférer dans son travail.
+Aucune justification légale n'a été invoquée de sorte que la responsabilité de l'officier de l'état civil ne pourrait être engagée.
+Feedback si réponse correcte:
+Dans ce cas c'est bien la responsabilité de l'agent qui sera engagée car celui-ci a refusé d'enregistrer une cohabitation légale pour des raisons personnelles qui ne devraient pas interférer dans son travail.
+Aucune justification légale n'a été invoquée de sorte que la responsabilité de l'officier de l'état civil ne pourrait être engagée.
+Question:
+Délais (sursis et déclaration de cohabitation légale le même jour)
+Deux citoyens souhaitent enregistrer une cohabitation légale dans leur commune. 
+Le 6 janvier, les citoyens se présentent aux guichets avec les documents utiles à leur demande. 
+L'agent communal les reçoit et, après vérification des documents, invite les citoyens à réserver une date pour une interview qu'ils fixent ensemble le 15 février. 
+Renseignés auprès de leur avocat, les citoyens reviennent à la charge quelques semaines plus tard. Ils accusent l'agent communal de retarder volontairement les délais d'enquête ainsi que leur possibilité d'enregistrer une cohabitation légale. 
+Quel est le problème? 
+Cet agent n'a pas respecté la procédure légale. En effet, la loi encadre l'enregistrement de la cohabitation légale avec des délais strictes. 
+Notamment, lorsque les citoyens déposent les documents demandés l'agent communal qui souhaite procéder à une enquête (interview) doit immédiatement notifier un sursis. Dans notre cas, l'agent aurait dès lors du dresser un sursis dès le 6 janvier. 
+En procédant de la sorte, l'agent commet une faute qui créé préjudice aux citoyens. 
+Quelle responsabilité est engagée?
+Option de réponse:
+La commune, employeur de l'agent communal
+Option de réponse:
+L'officier de l'état civil, responsable de l'enregistrement de la cohabitation légale
+Feedback si réponse incorrecte:
+Réponse incorrecte ! 
+Dans ce cas, nous ne sommes pas face à une surséance ou un refus sur base de justifications légales.
+C'est l'agent communal qui commet une faute.
+Il est par contre raisonnable de penser que cette faute n'est pas volontaire mais qu'il s'agit plutôt d'une confusion dans le respect des délais. Sa faute, pouvant être qualifiée de légère et occasionnelle, engage dès lors la responsabilité de son employeur, la commune.
+Feedback si réponse correcte:
+C'est bien cela.
+Nous ne sommes pas face à une surséance ou un refus sur base de justifications légales.
+C'est l'agent communal qui commet une faute.
+Il est par contre raisonnable de penser que cette faute n'est pas volontaire mais qu'il s'agit plutôt d'une confusion dans le respect des délais. Sa faute, pouvant être qualifiée de légère et occasionnelle, engage dès lors la responsabilité de son employeur, la commune.
+Question:
+Refus d'enregistrer dûment motivé
+Monsieur Alvaro et Madame Delatte se voient notifier un refus d'enregistrer leur cohabitation légale.
+A la lecture du refus, ils apprennent que plusieurs éléments de l'enquête permettent d'attester de leur unique intention manifeste d'obtenir un avantage en matière de séjour par le biais de cette cohabitation légale. 
+Le refus bien que dûment motivé leur parait insensé. Ils décident alors d'exercer leur droit de recours et saisissent le tribunal de la famille dans les délais impartis. 
+Contre qui le recours sera dirigé?
+Option de réponse:
+L'officier de l'état civil qui a signé le refus
+Option de réponse:
+L'agent administratif qui, dans les faits, a rédigé le refus
+Feedback si réponse incorrecte:
+C'est l'officier de l'état civil qui peut voir sa responsabilité civile engagée lorsqu'il signe un refus d'enregistrer la cohabitation légale.
+Dans ce cas, l'agent ne peut être tenu responsable puisque le refus est dûment motivé et repose sur des justifications légales.
+Feedback si réponse correcte:
+C'est l'officier de l'état civil qui peut voir sa responsabilité civile engagée lorsqu'il signe un refus d'enregistrer la cohabitation légale.
+Dans ce cas, l'agent ne peut être tenu responsable puisque le refus est dûment motivé et repose sur des justifications légales.
+Question:
+Procédure judiciaire 
+A la suite de cette procédure, le Tribunal saisi se prononce en faveur du couple.
+En effet, les éléments relevés lors de la procédure sont de nature à rassurer quant aux intentions du couple, de sorte que le Tribunal condamne à l'enregistrement de la cohabitation légale.
+Qui est condamné?
+Option de réponse:
+L'agent communal, qui a commis une erreur de jugement en traitant le dossier
+Option de réponse:
+L'officier de l'état civil
+Feedback si réponse incorrecte:
+C'est l'officier de l'état civil qui reste compétent bien que le Tribunal ne se rallie pas aux observations relevées dans le refus d'enregistrer.
+En effet, ce refus était dûment motivé en faits et en droit. 
+C'est donc l'officier de l'état civil qui est condamné, ainsi qu'aux dépens de l'instance.
+Dans les faits, c'est l'agent administratif qui se chargera d'enregistrer la cohabitation légale des intéressés.
+Feedback si réponse correcte:
+C'est l'officier de l'état civil qui reste compétent bien que le Tribunal ne se rallie pas aux observations relevées dans le refus d'enregistrer.
+En effet, ce refus était dûment motivé en faits et en droit. 
+C'est donc l'officier de l'état civil qui est condamné, ainsi qu'aux dépens de l'instance.
+Dans les faits, c'est l'agent administratif qui se chargera d'enregistrer la cohabitation légale des intéressés.
+Titre, page:
+Décès
+Texte, introduction:
+L'établissement de l'acte de décès est le document indispensable qui autorise le transport et l'inhumation ou crémation du défunt. 
+Ce dernier joue également un rôle majeur dans la suite des procédures administratives, notamment en matière de succession. 
+La matière des décès est régie par les articles 55 à 60 de l'ancien Code civil. 
+Par exemple, l'article 55 prévoit que l'acte de décès doit être dressé sans délais dès réception de l'attestation de décès. 
+L'article 56, quant à lui, indique les données qu'un acte de décès doit contenir.
+Les articles suivants portent sur le cas d'un décès se produisant à bord d'un navire ou un aéronef mais également de la situation de l'enfant né sans vie.
+Question:
+Erreur de rédaction d'un acte
+Un agent se retrouve à devoir gérer l'ensemble de la rédaction des actes de décès car ses collègues sont absents.
+Dans ce contexte de travail sous pression, il rédige un acte de décès pour Madame Deck alors que c'est bien son époux qui est décédé. 
+Madame  Deck s'en rend compte lorsqu'elle se rend à la commune, deux mois plus tard, pour faire renouveler sa carte d'identité où l'agent présent lui annonce qu'elle est considérée comme décédée depuis 2 mois déjà. 
+Qui peut-elle contacter ?
+Option de réponse:
+L'agent, c'est lui qui a rédigé l'acte
+Option de réponse:
+L'Officier d'état civil, responsable de la rédaction des actes
+Option de réponse:
+La commune qui a engagé l'agent
+Feedback si réponse incorrecte:
+Non, l'officier d'état civil est responsable de la rédaction de l'ensemble des actes d'état civil. 
+Dans ce cas-ci, la mauvaise rédaction de l'acte de décès n'a pas été faite dans une volonté de nuire mais est due à une erreur humaine. 
+Le législateur permet à l'officier d'état civil d'annuler certains actes (sous conditions).
+Feedback si réponse correcte:
+Bien sûr, l'officier d'état civil est responsable de la rédaction de l'ensemble des actes d'état civil. 
+Dans ce cas-ci, la mauvaise rédaction de l'acte de décès n'a pas été faite dans une volonté de nuire mais est due à une erreur humaine. 
+Le législateur permet à l'officier d'état civil d'annuler certains actes (sous conditions).
+Question:
+Retard pour dresser un acte 
+Monsieur Jean est décédé le 10 août 2023. La commune du lieu de décès de ce dernier réceptionne l'attestation de décès rédigée par le médecin le jour même. 
+Après une semaine sans nouvelles, la famille de Monsieur Jean se rend auprès de la commune pour savoir ce qu'il en est. 
+Sur place, on leur répond que l'acte n'a toujours pas été dressé, sans donner de justifications supplémentaires. 
+Le fait que l'acte de décès ne soit toujours pas rédigé empêche la famille de procéder à la crémation du défunt et d'accomplir la suite des démarches administratives. 
+Scandalisée par la situation, la famille veut savoir qui est tenu pour responsable dans cette situation. 
+A votre avis, qui peut être tenu pour responsable dans ce cas ?
+Option de réponse:
+La commune du lieu de décès du défunt
+Option de réponse:
+Le service communal des décès
+Option de réponse:
+L'Officier d'état civil
+Feedback si réponse incorrecte:
+Non, dans cas-ci, c'est la responsabilité de l'officier de l'état civil qui peut être mise en cause. 
+L'officier de l'état civil est responsable de la rédaction de l'ensemble des actes de l'état civil. 
+Dans ce cadre, sa responsabilité pourra être engagée tandis que l'agent bénéficiera de son immunité. 
+Attention, si le dépassement des délais a été réalisée avec une volonté de nuire de la part d'un agent, c'est bien ce dernier qui sera tenu pour responsable.
+Feedback si réponse correcte:
+Non, dans cas-ci, c'est la responsabilité de l'officier de l'état civil qui peut être mise en cause. 
+L'officier de l'état civil est responsable de la rédaction de l'ensemble des actes de l'état civil. 
+Dans ce cadre, sa responsabilité pourra être engagée tandis que l'agent bénéficiera de son immunité. 
+Attention, si le dépassement des délais a été réalisée avec une volonté de nuire de la part d'un agent, c'est bien ce dernier qui sera tenu pour responsable.
+Question:
+Erreur matérielle dans l'acte
+Un agent rédige l'acte de décès de Monsieur Dupont, né le 25 décembre 1940. 
+Lors de la réception de l'acte de décès, sa famille se rend compte que sur l'acte, l'identité de Monsieur est reprise ainsi "Monsieur Dupond".
+Sa famille crie donc au scandale et demande la correction de l'acte. 
+Vers qui peuvent ils se tourner?
+Option de réponse:
+La commune
+Option de réponse:
+L'agent
+Option de réponse:
+L'officier d'état civil
+Feedback si réponse incorrecte:
+Non, le législateur a prévu le coup en accordant à l'officier d'état civil la possibilité de rectifier certaines erreurs commises lors de la rédaction des actes d'état civil, notamment lorsque les données transcrites ne correspondent pas aux données contenues au sein des actes authentiques. 
+L'agent bénéficie alors du mécanisme de la première immunité. 
+Dans les faits, l'agent s'occupera de faire la correction, sur base de l'autorisation prévue à l'article 9 du Code civil.
+Feedback si réponse correcte:
+Tout à fait.
+Le législateur a prévu le coup en accordant à l'officier d'état civil la possibilité de rectifier certaines erreurs commises lors de la rédaction des actes d'état civil, notamment lorsque les données transcrites ne correspondent pas aux données contenues au sein des actes authentiques. 
+L'agent bénéficie alors du mécanisme de la première immunité. 
+Dans les faits, l'agent s'occupera de faire la correction, sur base de l'autorisation prévue à l'article 9 du Code civil.
+Titre, page:
+Nationalité
+Texte, introduction:
+L'ancien Code civil ne contient qu'un seul article concernant la nationalité belge. 
+Cet article 67 précise les données qui doivent être contenues au sein d'un acte de nationalité et de déchéance de nationalité. 
+La matière de la nationalité belge dispose de son propre Code : Le Code de la Nationalité Belge. 
+Ce dernier explicite et cadre les deux manières d'acquérir la nationalité belge :  
+- L'attribution ;
+- L'acquisition. 
+L'attribution de la nationalité belge concerne les enfants mineurs tandis que l'acquisition de la nationalité belge est réservée aux majeurs. 
+Ces dernières contiennent chacune des conditions spécifiques auxquelles il faut répondre pour obtenir la nationalité belge. 
+Le Code de la Nationalité belge a été rédigé en ce sens et explicite les diverses possibilités. 
+La naturalisation est également une manière d'obtenir la nationalité belge. 
+Contrairement à l'attribution ou l'acquisition, la naturalisation est une faveur exceptionnelle accordée aux personnes majeures ou émancipées qui font une demande en ce sens après de la Chambre des représentants.
+Question:
+Refus d'attribution de la nationalité
+Monsieur Diallo se présente auprès du service de la nationalité afin de devenir belge. Sur place, on l'informe qu'il peut demander la nationalité sur base de l'article 12bis, 2° qui prévoit notamment qu'il faut disposer d'un séjour légal en Belgique depuis au moins 5 ans. 
+Problème, Monsieur ne dispose d'un séjour légal que depuis 3 ans. 
+L'agent présent ce jour là notifie un refus dûment motivé concernant la procédure de nationalité belge vu qu'une des conditions est manquante. 
+Monsieur Diallo est très déçu et refuse de croire l'agent. Il est persuadé que l'agent est juste de mauvaise volonté. 
+Qui est tenu responsable du refus adressé à Monsieur Diallo ?
+Option de réponse:
+L'officier de l'état civil, responsable de la rédaction des actes
+Option de réponse:
+L'agent
+Option de réponse:
+Monsieur Diallo qui n'a pas lu le Code de la Nationalité belge
+Feedback si réponse incorrecte:
+Non, le refus se base sur un manquement aux conditions légales prévues par le Code la Nationalité belge. 
+Ce refus n'est pas dû à l'unique volonté de l'agent. L'agent a agit sur base de l'autorisation spéciale et écrite que l'officier d'état civil octroie aux agents communaux, notamment pour la rédaction des actes de l'état civil. 
+C'est donc bien la responsabilité de l'officier de l'état civil qui pourra être remise en cause. 
+Le principe de la première immunité rentre en action.
+Feedback si réponse correcte:
+Exactement !
+Le refus se base sur un manquement aux conditions légales prévues par le Code la Nationalité belge. 
+Ce refus n'est pas dû à l'unique volonté de l'agent. L'agent a agit sur base de l'autorisation spéciale et écrite que l'officier d'état civil octroie aux agents communaux, notamment pour la rédaction des actes d'état civil. 
+C'est donc bien la responsabilité de l'officier de l'état civil qui pourra être remise en cause.. 
+Le principe de la première immunité rentre en action.
+Question:
+Manquement dans les conditions prévues pour l'attribution de la nationalité
+Monsieur Gomez est devenu papa d'un petit Léo. Monsieur n'est pas marié avec la mère de l'enfant. 
+Quelques mois après la naissance, Monsieur se rend auprès du service nationalité pour procéder à une attribution de la nationalité en faveur du petit Léo. 
+Sur place, l'agent ne vérifie pas le mode d'établissement de la filiation. 
+En effet, l'enfant a été inscrit comme "né dans le mariage" alors que ses parents ne sont pas mariés et que Monsieur aurait du procéder à une reconnaissance postnatale. 
+Malgré cette erreur, l'agent dresse l'acte d'attribution de la nationalité belge et le petit Léo est à présent belge. 
+Quelques mois plus tard, suite à une enquête interne, il apparait que cet agent a délibérément dressé plusieurs actes de nationalité en sachant que ces derniers étaient incorrects à cause d'un mauvais enregistrement de la filiation. 
+Suite à l'enquête, il apparait que l'agent était conscient des conséquences et particulièrement des inconvénients que cela engendraient pour tous ces enfants. 
+Dès lors, Monsieur Gomez apprend que l'acte de nationalité de Léo va être annulé et que son fils perd alors la nationalité belge. 
+Furieux, Monsieur cherche un coupable. 
+Qui peut être tenu responsable dans ce contexte ?
+Option de réponse:
+L'officier de l'état civil, responsable de la rédaction des actes
+Option de réponse:
+L'entièreté du service nationalité
+Option de réponse:
+L'agent ayant agi frauduleusement
+Feedback si réponse incorrecte:
+Non, c'est bien l'agent qui est responsable dans ce cas. Il est bien conscient de ses actes et n'agit pas comme on pourrait l'attendre toute personne prudente et diligente placée dans les mêmes conditions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité. 
+En effet, il apparait clairement qu'il a agit délibérément.
+Feedback si réponse correcte:
+Tout à fait, c'est bien l'agent qui est responsable dans ce cas. Il est bien conscient de ses actes et n'agit pas comme on pourrait l'attendre toute personne prudente et diligente placée dans les mêmes conditions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité. 
+En effet, il apparait clairement qu'il a agit délibérément.
+Question:
+Erreur d'attribution de la nationalité
+Madame Dupond souhaite devenir belge. Pour cela, elle se renseigne auprès du service adéquat. 
+En analysant la situation de cette dernière, il apparait qu'elle rentre dans les conditions pour acquérir la nationalité sur base de l'article 12bis, 2°. 
+Le jour de son rendez-vous pour signer sa déclaration de nationalité, l'agent dresse un acte d'acquisition de la nationalité sur base de l'article 12bis, 1°. 
+Après quelques mois, cette erreur est relevée. Par conséquent, l'acte de nationalité se voit annulé. 
+Qui pourrait être tenu pour responsable ?
+Option de réponse:
+Madame Dupont qui n'a pas relu la déclaration avant de signer
+Option de réponse:
+L'agent distrait
+Option de réponse:
+L'officier de l'état civil
+Feedback si réponse incorrecte:
+Non, l'officier d'état civil est responsable de la rédaction de l'ensemble des actes d'état civil. 
+Dans ce cadre, sa responsabilité pourra être engagée tandis que l'agent bénéficiera de son immunité. 
+Dans ce cas-ci, la mauvaise rédaction de l'acte de nationalité n'a pas été faite dans une volonté de nuire mais est due à une erreur humaine. 
+D'ailleurs, le législateur permet à l'officier d'état civil d'annuler certains actes (sous conditions).
+Feedback si réponse correcte:
+Bien sûr, l'officier d'état civil est responsable de la rédaction de l'ensemble des actes d'état civil. 
+Dans ce cadre, sa responsabilité pourra être engagée tandis que l'agent bénéficiera de son immunité. 
+Dans ce cas-ci, la mauvaise rédaction de l'acte de nationalité n'a pas été faite dans une volonté de nuire mais est due à une erreur humaine. 
+D'ailleurs, le législateur permet à l'officier d'état civil d'annuler certains actes (sous conditions).
+Titre, page:
+Actes étrangers
+Texte, introduction:
+Lorsqu'un citoyen se rend à l'étranger pour accomplir un acte qui touche à son état civil, il doit en informer la commune où il est domicilié. 
+De même un citoyen belge domicilié à l'étranger peut accomplir de tels actes. Dès lors, il doit en informer les autorités belges. 
+L'article 27 du CoDIP prévoit que les actes étrangers peuvent être reconnus, sans que d'autres procédures soient engagées par les intéressés. 
+La reconnaissance doit notamment être faite dans le respect des articles 18 et 21 du CoDIP (Fraude à la loi et exception de droit public). 
+Si les intéressés se voient opposer un refus de reconnaissance, ils peuvent toujours introduire un recours auprès du Tribunal de première instance (Article 23 du CoDIP).
+Question:
+Refus non motivé
+Un agent refuse de reconnaitre un mariage célébré en Russie car il est il trouve que la guerre actuelle envers l'Ukraine est immorale. 
+Qui est responsable ?
+Option de réponse:
+L'agent
+Option de réponse:
+L'officier de l'état civil
+Option de réponse:
+Les citoyens
+Feedback si réponse incorrecte:
+Non, c'est bien l'agent qui est responsable dans ce cas car il agit dans un cadre qui excède ses fonctions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité. 
+Le refus de reconnaissance de l'acte étranger est basé uniquement sur des sentiments personnels et non des éléments de droit. La responsabilité de l'officier de l'état civil ne pourra pas être mise en cause.
+Feedback si réponse correcte:
+Exactement, c'est bien l'agent qui est responsable dans ce cas car il agit dans un cadre qui excède ses fonctions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité. 
+Le refus de reconnaissance de l'acte étranger est basé uniquement sur des sentiments personnels et non des éléments de droit. La responsabilité de l'officier de l'état civil ne pourra pas être mise en cause.
+Question:
+Ecoutez l'extrait sonore ci-dessous et indiquez ensuite la meilleure réponse à apporter au problème posé.
+Qui peut voir sa responsabilité engagée dans ce contexte et quelle est la nature de la faute ?
+Feedback:
+Ici, seul l'agent peut être tenu pour responsable. En effet, ce dernier opère en dehors du cadre de ses fonctions et de la mission qui lui est confié par l'Officier d'état civil. 
+Nous sommes dans le domaine de la responsabilité civile et il s'agit clairement d'une faute lourde. 
+Dès lors, une action en dommages et intérêts pourra être diligentée à son encontre. 
+De même, l'employeur pourra engager une procédure disciplinaire.
+Question:
+Erreur de vérification
+Un couple se présente aux guichets afin de faire reconnaitre leur mariage célébré en Tunisie. 
+Il présente l'acte de mariage tunisien ainsi que le QR Code relatif à l'acte (LegalWeb), selon leurs dires. 
+L'agent réceptionne les documents mais oublie de vérifier si le QR Code présenté concerne bien l'acte de mariage. 
+Qui est responsable de ce défaut de vérification ?
+Option de réponse:
+L'agent
+Option de réponse:
+Le couple qui visiblement a menti
+Option de réponse:
+La commune
+Feedback si réponse incorrecte:
+Non, la responsabilité de la commune sera la seule engagée dans ce cas-ci. 
+En effet, l'agent a commis une faute dans le cadre de ses fonctions, qualifiée de faute légère (Loi du 3 juillet 1978). 
+Ici, il n'est pas question de dol, d'une faute lourde ou d'une faute légère habituelle et volontaire qui pourrait engagée la responsabilité personnelle de l'agent.
+Feedback si réponse correcte:
+Oui, la responsabilité de la commune sera la seule engagée dans ce cas-ci. 
+En effet, l'agent a commis une faute dans le cadre de ses fonctions, qualifiée de faute légère (Loi du 3 juillet 1978). 
+Ici, il n'est pas question de dol, d'une faute lourde ou d'une faute légère habituelle et volontaire qui pourrait engagée la responsabilité personnelle de l'agent.
+Question:
+Contradiction à l'ordre juridique belge
+Un citoyen belge se présente au guichet avec un acte de mariage étranger daté de 2022. 
+Après une vérification au sein du Registre national, l'agent constate que Monsieur est déjà marié en Belgique depuis 1999 et qu'aucun divorce n'a eu lieu. 
+L'agent refuse alors d'annoter le mariage de 2022 au sein du Registre national, ce qui met en colère le citoyen belge. 
+Qui pourrait voir sa responsabilité engagée ?
+Option de réponse:
+L'agent
+Option de réponse:
+L'officier de l'état civil
+Option de réponse:
+Son épouse depuis 1999
+Feedback si réponse incorrecte:
+Non, l'officier de l'état civil est la seule personne dont la responsabilité peut être engagée. 
+En effet, dans ce contexte, l'agent agit au nom de l'officier de l'état civil en vertu de l'autorisation reçue. 
+L'agent bénéficie du principe de la première immunité. 
+Attention, le refus devra être motivé et basé sur des éléments de droit, comme la contrariété à l'ordre public belge (Art. 21 CoDIP)
+Feedback si réponse correcte:
+Exactement, l'officier de l'état civil est la seule personne dont la responsabilité peut être engagée. 
+En effet, dans ce contexte, l'agent agit au nom de l'officier de l'état civil en vertu de l'autorisation reçue. 
+L'agent bénéficie du principe de la première immunité. 
+Attention, le refus devra être motivé et basé sur des éléments de droit, comme la contrariété à l'ordre public belge (Art. 21 CoDIP)
+Question:
+Conditions non remplies par le citoyen
+Un citoyen belge né en Chine désire faire transcrire son acte de naissance en Belgique pour des questions de facilités. 
+Lorsqu'il se rend auprès de sa commune, il ne présente que l'acte de naissance original, rédigé en chinois. 
+L'agent refuse alors la transcription de l'acte de naissance car ce dernier ne possède pas de traduction en français ou néerlandais. 
+Le citoyen trouve injuste le fait que l'agent refuse l'acte rédigé en chinois car il ne le comprend pas. 
+Qui est responsable du refus ?
+Option de réponse:
+L'officier de l'état civil
+Option de réponse:
+La commune
+Option de réponse:
+L'agent qui ne comprend pas le chinois
+Feedback si réponse incorrecte:
+Non, l'officier de l'état civil est la seule personne dont la responsabilité est engagée. 
+En effet, l'agent délégué agit au nom de ce dernier et en vertu de l'autorisation écrite. 
+Dans ce cas-ci, le refus est motivé par le manque de la traduction de l'acte. 
+Il ne s'agit pas d'une demande propre à l'agent, mais une exigence légale.
+Feedback si réponse correcte:
+Bien sûr, l'officier de l'état civil est la seule personne dont la responsabilité est engagée. 
+En effet, l'agent délégué agit au nom de ce dernier et en vertu de l'autorisation écrite. 
+Dans ce cas-ci, le refus est motivé par le manque de la traduction de l'acte. 
+Il ne s'agit pas d'une demande propre à l'agent, mais une exigence légale.
+Titre, page:
+Population
+Texte, introduction:
+En Belgique, toute personne âgée de plus de 15 ans accomplis a l'obligation d'avoir une carte d'identité. Cependant, il est possible d'obtenir une carte d'identité à partir de l'âge de 12 ans accomplis. 
+La carte d'identité prouve l'inscription au sein des registres de population. 
+La carte d'identité contient plusieurs informations personnelles telles que :
+- Le nom et le(s) prénom(s) ;
+- La date de naissance ;
+- La nationalité ;
+- Le numéro national ;
+- La photo du titulaire ;
+- ...
+Si lors de la délivrance d'une carte d'identité, une erreur est constatée il faut déterminer la nature de l'erreur. 
+En effet, la carte d'identité est censée refléter les informations contenues au sein du Registre national de la personne. 
+Dès lors, il faudra vérifier si les informations du RN sont correctes. 
+Si ce n'est pas le cas, il faut chercher à comprendre la nature de l'erreur. 
+Est-elle due à une erreur d'encodage par l'administration ou un problème informatique ? 
+Est-elle due au fait que le citoyen a présenté des documents contenant des erreurs ? 
+Cette identification est essentielle afin de déterminer quelles responsabilités peuvent être mise en cause.
+Question:
+Erreur sur la carte d'identité
+Un citoyen se présente à sa commune afin de renouveler sa carte d'identité qui arrive à expiration. Ce dernier est servi par un agent qui se trouve être une ancienne connaissance. 
+En souvenir des blagues qu'ils se faisaient entre eux durant leur jeunesse, l'agent commande la carte d'identité mais décide de changer le nom de famille de son ami en un nom ridicule, persuadé que cela allait le faire rire. 
+Lorsque le citoyen vient récupérer sa nouvelle carte d'identité, il ne trouve pas ça drôle du tout et s'énerve. 
+Qui peut-il tenir responsable de cette mauvaise blague ?
+Option de réponse:
+La commune qui a engagé un agent farceur
+Option de réponse:
+Le citoyen qui n'a pas d'humour
+Option de réponse:
+L'agent qui dépasse le cadre de ses fonctions
+Feedback si réponse incorrecte:
+Non, c'est bien l'agent qui est responsable dans ce cas car il agit dans un cadre qui excède ses fonctions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité.
+Feedback si réponse correcte:
+Tout à fait, c'est bien l'agent qui est responsable dans ce cas car il agit dans un cadre qui excède ses fonctions. 
+Dès lors, sa responsabilité personnelle est engagée et il ne bénéficie pas du mécanisme de la double immunité
+Question:
+Erreur sur la carte d'identité
+Un citoyen de nationalité indienne se présente auprès de l'administration afin de faire corriger son identité. 
+En effet, au sein du Registre national son prénom est repris comme "Kimar". Il présente à l'agent un acte de naissance avec le prénom "Kemar". La correction est donc faite en ce sens. Le citoyen en profite pour demander une nouvelle carte d'identité. 
+Lors de la réception de sa carte d'identité, il se présente à l'administration en indiquant qu'il y a une erreur au niveau de son prénom. 
+En effet, il explique que son prénom est "Kumar". 
+Après vérifications, l'agent lui explique qu'il a présenté un acte de naissance avec le nom "Kemar" lorsqu'il est venu pour corriger son identité et que ce n'est donc pas une erreur venant de l'administration. 
+Dans ce cas-ci, qui peut être tenu responsable ?
+Option de réponse:
+L'agent
+Option de réponse:
+Le citoyen
+Option de réponse:
+L'officier de l'état civil
+Feedback si réponse incorrecte:
+Non, ici l'erreur tire son origine dans le fait du citoyen. 
+En effet, le citoyen a présenté un acte de naissance erroné sur lequel l'agent s'est légitimement basé pour corriger l'identité du citoyen. 
+Ni l'agent, ni la commune, ni l'officier de l'état civil ne peuvent être tenus responsables de cette erreur.
+Feedback si réponse correcte:
+Tout à fait, ici l'erreur tire son origine dans le fait du citoyen. 
+En effet, le citoyen a présenté un acte de naissance erroné sur lequel l'agent s'est légitimement  basé pour corriger l'identité du citoyen. 
+Ni l'agent, ni la commune, ni l'officier de l'état civil ne peuvent être tenus responsables de cette erreur.
+Texte:
+Le changement de prénom
+Le changement de prénom est une matière réglée par la loi du 15 mai 1987 relative aux noms et prénoms. 
+Le principe est que toute personne possède le droit de changer de prénom. 
+Le choix d'un prénom est libre mais doit respecter quelques principes tels que :
+Le prénom ne doit pas nuire à la personne ou à autrui ;
+Le prénom ne doit pas prêter à confusion. 
+Le refus d'acter un changement de prénom doit être motivé formellement et se baser sur des justifications légales. 
+Si le refus répond à ces conditions, seule la responsabilité de l'OEC rentre en cause. 
+Si le refus est basé sur d'autres justifications, comme d'ordres personnelles, la responsabilité de l'agent émettant le refus peut être mise en cause.
+Question:
+Refus de changement de prénom
+Un citoyen se présente au guichet et désire changer de prénom. Son choix se porte sur le prénom "Alexandre". 
+L'agent qui le reçoit au guichet refuse d'acter ce nouveau prénom, car c'est le prénom de son ex et cela lui rappelle de mauvais souvenirs. 
+Quelle responsabilité est engagée dans ce cas ?
+Option de réponse:
+Le citoyen insensible aux sentiments du guichetier
+Option de réponse:
+L'agent
+Option de réponse:
+L'officier de l'état civil
+Feedback si réponse incorrecte:
+Non, seule la responsabilité de l'agent pourra être mise en cause. 
+En effet, le refus ne se base que sur un ressentiment personnel, sans justification légale de refus. 
+L'agent agit en dehors du cadre de sa fonction et ne pourra pas bénéficier du principe de la double immunité.
+Feedback si réponse correcte:
+Evidemment, seule la responsabilité de l'agent pourra être mise en cause. 
+En effet, le refus ne se base que sur un ressentiment personnel, sans justification légale de refus. 
+L'agent agit en dehors du cadre de sa fonction et ne pourra pas bénéficier du principe de la double immunité.
+Question:
+Changement de prénom (confusion)
+Deux parents se présentent au guichet pour demander un changement de prénom pour leur fils.
+En effet, à sa naissance, les parents ont décider de l'appeler Gabriel. 
+Après quelques mois de réflexion, ils ont décidé de changer le prénom de leur enfant pour l'appeler Anna. 
+Face à cette demande, l'agent refuse d'acter le nouveau prénom, ce qui mets les parents en colère et ils ne comprennent pas ce refus. La motivation repose essentiellement sur la confusion que ce prénom pourrait apporter. 
+Qui est responsable de ce refus ?
+Option de réponse:
+L'officier de l'état civil
+Option de réponse:
+Les parents
+Option de réponse:
+L'agent
+Feedback si réponse incorrecte:
+Non, seule la responsabilité de l'officier de l'état civil pourra être mise en cause. 
+En effet, c'est l'agent qui oppose le refus mais ce dernier le fait dans le cadre de ces fonctions, c'est à dire en représentation de l'officier d'état civil.  
+Le refus d'acter le nouveau prénom se base sur une exclusion légale prévue au sein de la loi du 15 mai 1987.
+Le principe de la première immunité sera applicable à cette situation.
+Feedback si réponse correcte:
+Oui, seule la responsabilité de l'officier de l'état civil pourra être mise en cause. 
+En effet, c'est l'agent qui oppose le refus mais ce dernier le fait dans le cadre de ces fonctions, c'est à dire en représentation de l'officier d'état civil.  
+Le refus d'acter le nouveau prénom se base sur une exclusion légale prévue au sein de la loi du 15 mai 1987.
+Le principe de la première immunité sera applicable à cette situation.
+Question:
+Ecoutez l'extrait sonore ci-dessous et indiquez indiquez ensuite la meilleure réponse à apporter au problème posé.    
+Quelle est la nature de la faute et qui pourra être tenu comme responsable ?
+Feedback:
+Dans ce cas-ci, nous sommes face à une faute légère occasionnelle (= faute à laquelle toute personne normalement attentive reste exposée). 
+Ainsi, c'est bien la commune (employeur de l'agent) qui verra sa responsabilité engagée.
+Titre, page:
+Gestion du guichet et contacts citoyens
+Question:
+Manquements dans l'exercice des fonctions 
+Nicolas est agent administratif. Ce matin, il est convoqué par son responsable. 
+Cela fait des mois que plusieurs faits lui sont reprochés: 
+- Erreurs à répétition dans différents actes d'état civil remis aux citoyens.
+- Violences verbales à l'encontre de citoyens.
+- Absentéisme pendant les heures de travail.
+Nicolas peut-il se prévaloir de l'immunité dont bénéficie les agents administratifs dans l'exercice de leur fonction?
+Option de réponse:
+Non
+Option de réponse:
+Oui
+Feedback si réponse incorrecte:
+Le comportement de Nicolas est constitutif :
+- De faute habituelle voire inexcusable. 
+- D'un manquement à un devoir professionnel ouvrant la possibilité d'une procédure disciplinaire.
+Il ne peut dès lors brandir l'immunité de l'agent administratif qui le protège que de sa faute légère et occasionnelle.
+Feedback si réponse correcte:
+Le comportement de Nicolas est constitutif :
+-De faute habituelle voire inexcusable. 
+- D'un manquement à un devoir professionnel ouvrant la possibilité d'une procédure disciplinaire.
+Il ne peut dès lors brandir l'immunité de l'agent administratif qui le protège que de sa faute légère et occasionnelle.
+Question:
+Corruption
+Un citoyen se rend auprès de son administration communale pour obtenir un titre de séjour.  
+Malheureusement, l'agent lui annonce qu'il ne remplit pas les conditions et que différents documents doivent encore être déposés. 
+Désespéré, il explique à l'agent les raisons pour lesquelles il doit absolument recevoir ce titre de séjour aujourd'hui tout en lui glissant 50 euros dans sa poche pour sa bonne compréhension. 
+Sachant que le Code pénal prévoit en matière de corruption :
+ Art. 246. (...) Est constitutif de corruption active le fait de proposer, directement ou par interposition de personnes, à une personne exerçant une fonction publique une offre, une promesse ou un avantage de toute nature, pour elle-même ou pour un tiers, afin qu'elle adopte un des comportements visés à l'article 247.
+Art. 247 (...) § 2. Lorsque la corruption a pour objet l'accomplissement par la personne qui exerce une fonction publique d'un acte injuste à l'occasion de l'exercice de sa fonction ou l'abstention de faire un acte qui rentrait dans l'ordre de ses devoirs, la peine sera un emprisonnement [">1 d'un an à quatre ans et une amende de 100 euros à 50 000 euros. 
+Que risque l'agent?
+Option de réponse:
+Une indemnisation pour des dommages et intérêts
+Option de réponse:
+Une sanction pénale
+Option de réponse:
+Une sanction pénal et une sanction disciplinaire
+Feedback si réponse incorrecte:
+La corruption étant une infraction pénale donnant lieu à une sanction pénale, l'agent concerné risque une procédure devant le juge pénal. 
+Par ailleurs, ceci n'empêche pas l'administration d'ouvrir un dossier disciplinaire à l'encontre de l'agent.
+Feedback si réponse correcte:
+La corruption étant une infraction pénale donnant lieu à une sanction pénale, l'agent concerné risque effectivement une procédure devant le juge pénal. 
+Par ailleurs, ceci n'empêche pas l'administration d'ouvrir un dossier disciplinaire à l'encontre de l'agent.
+Question:
+Perte de documents par un agent communal 
+Après de nombreuses démarches dans leurs pays d'origine, deux citoyens se rendent auprès de leur administration communale afin de déposer les documents énoncés par la loi en vue de dresser leur déclaration de mariage. 
+Un agent les reçoit et conserve ces documents originaux afin de les analyser. 
+Trois jours plus tard, impossible de remettre la main sur ce dossier qui a manifestement été égaré involontairement. Tous les documents récoltés minutieusement par les citoyens sont perdus. 
+Les citoyens se plaignent auprès de leur officier de l'état civil et l'agent administratif est convoqué par son responsable. 
+Comment qualifier cette faute?
+Option de réponse:
+Faute légère occasionnelle
+Option de réponse:
+Faute légère habituelle
+Option de réponse:
+Dol
+Option de réponse:
+Erreur
+Feedback si réponse incorrecte:
+La faute de l'agent n'est ni répétitive ni intentionnelle, il s'agit donc d'une faute légère occasionnelle engageant la responsabilité de l'employeur.
+Feedback si réponse correcte:
+La faute de l'agent n'est ni répétitive ni intentionnelle, il s'agit donc d'une faute légère occasionnelle engageant la responsabilité de l'employeur.
+Question:
+Consultation du RN sans autorisation
+ 
+Julien est agent communal. Il arrive au travail ce matin avec beaucoup d'émotions. 
+Depuis quelques semaines, sa fiancée a mis fin à leur relation et a quitté le domicile conjugal. 
+Il reste sans nouvelle de sa part et ignore où celle-ci réside. 
+Il doute qu'elle ait emménagé au domicile d'un ami commun et qu'une relation ait débuté entre eux. 
+Alors qu'il essaye de reprendre ses esprits, il décide de consulter le registre national de son ex fiancée et relève sa nouvelle adresse... 
+Quelle responsabilité pourrait être engagée?
+Option de réponse:
+Celle de l'employeur, responsable des faits de ses travailleurs
+Option de réponse:
+Celle du travailleur, qui ne peut pas consulter le registre national dans le cadre de sa vie privée
+Feedback si réponse incorrecte:
+En agissant de la sorte le travailleur manque clairement à ses devoirs professionnels. 
+L'agent encourt à tout le moins une sanction disciplinaire. 
+S'agissant d'un fait grave, l'employeur ne peut être tenu pour responsable.
+Feedback si réponse correcte:
+En agissant de la sorte le travailleur manque clairement à ses devoirs professionnels. 
+L'agent encourt à tout le moins une sanction disciplinaire. 
+S'agissant d'un fait grave, l'employeur ne peut être tenu pour responsable.
+Question:
+Faux 
+Monsieur Peeters, de nationalité belge, se présente auprès de son administration
+communale avec un nouveau-né Matéo. 
+Il explique à l'agent communal en charge du dossier qu'il n'est pas le père de cet enfant mais qu'il souhaite établir sa filiation paternelle afin que cet enfant puisse bénéficier d'une vie meilleure. 
+L’agent, touché par cet élan d’altruisme, accepte de dresser
+l’acte faisant outre des conditions légales strictes à l'établissement d'un acte de naissance. 
+Quelques mois plus tard, le subterfuge est découvert.
+Quelle responsabilité est engagée ?
+Option de réponse:
+L'officier de l'état civil
+Option de réponse:
+L'agent administratif
+Option de réponse:
+La commune
+Feedback si réponse incorrecte:
+L'agent administratif qui commet une faute grave dans l'exercice de ses fonctions engage sa responsabilité personnelle.
+Feedback si réponse correcte:
+L'agent administratif qui commet une faute grave dans l'exercice de ses fonctions engage sa responsabilité personnelle.
+Question:
+Délit dans le cadre de la vie privée 
+Marie travaille dans une administration communale. 
+Ce week-end, c'est l'anniversaire de sa grand-mère. Elle veut que tout soit parfait. 
+Elle commande des fleurs au magasin Le petit fleuri, dont elle connait la réputation, puisqu'ils sont adjudicataires de l'administration communale où elle travaille. 
+Lorsque la livraison de fleurs arrive pour l'évènement, Marie constate avec effroi que les fleurs ne correspondent pas à ses attentes. 
+Elle s'emporte et se rend au magasin où elle détruit un étalage. Le vendeur est évidemment sous le choc. 
+Quel risque est encouru?
+Option de réponse:
+L’employeur de
+Marie, l’administration communale, peut voir sa responsabilité civile engagée.
+Option de réponse:
+Marie risque une sanction disciplinaire pour des faits survenus dans sa
+vie privée.
+Option de réponse:
+Marie risque une
+poursuite devant le juge civil en vue d’obtenir la réparation du dommage.
+Feedback si réponse incorrecte:
+Marie risque à la fois: 
+Des poursuites devant le juge civil : Par sa faute, Marie a causé un dommage (frais engendrés pour la réparation) disproportionné à la situation. Le petit fleuri pourrait donc réclamer des dommages et intérêts devant le juge civil.  
+Et une sanction disciplinaire : Marie risque également une sanction disciplinaire! 
+En effet, si un délit commis dans sa vie privée porte atteinte à l’intérêt du service, à la dignité ou à l’honorabilité de ses fonctions une sanction disciplinaire peut se justifier.
+Comme nous l’avons vu, le droit disciplinaire vise à sanctionner un manquement à l’ordre professionnel et peut ainsi punir des agissements qui relèvent de la vie privée d’un agent afin de maintenir la confiance du public envers le service public.
+Dans ce cas, le comportement (privé) de Marie peut effectivement également avoir des répercussions sur l’image et l’honneur de sa profession et s’avérer donc incompatible avec le bon exercice de sa fonction.
+Feedback si réponse correcte:
+Marie risque à la fois: 
+Des poursuites devant le juge civil : Par sa faute, Marie a causé un dommage (frais engendrés pour la réparation) disproportionné à la situation. Le petit fleuri pourrait donc réclamer des dommages et intérêts devant le juge civil.  
+Et une sanction disciplinaire : Marie risque également une sanction disciplinaire! 
+En effet, si un délit commis dans
+sa vie privée porte atteinte à l’intérêt du service, à la dignité ou à
+l’honorabilité de ses fonctions une sanction disciplinaire peut se justifier.
+Comme nous l’avons
+vu, le droit disciplinaire vise à sanctionner un manquement à l’ordre
+professionnel et peut ainsi punir des agissements qui relèvent de la vie privée
+d’un agent afin de maintenir la confiance du public envers le service public.
+Dans ce cas, le
+comportement (privé) de Marie peut effectivement également avoir des
+répercussions sur l’image et l’honneur de sa profession et s’avérer donc
+incompatible avec le bon exercice de sa fonction.

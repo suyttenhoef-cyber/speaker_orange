@@ -29,6 +29,9 @@ SELECT_FIELDS = [
     "base_legale_associee",
 ]
 
+# Doit correspondre a SEMANTIC_CONFIG_NAME dans azure_search_setup.py.
+SEMANTIC_CONFIG_NAME = "default-semantic-config"
+
 
 def azure_score_to_cosine(azure_score):
     """Inverse de score_azure = 1 / (2 - cosinus) -> cosinus = 2 - 1/score_azure."""
@@ -85,6 +88,73 @@ class AzureSearchRetriever:
 
         candidates.sort(key=lambda x: x[0], reverse=True)
         return candidates[:top_k]
+
+    def search_hybrid(self, query_text, query_embedding, top_k=5, exclude_historique=True,
+                       categorie=None, sous_categorie=None, matiere=None):
+        """Recherche hybride : combine BM25 (search_text, sur le champ
+        'text_for_embedding') et recherche vectorielle - Azure AI Search
+        fusionne les deux classements via RRF (Reciprocal Rank Fusion) et
+        renvoie un score de fusion, PAS une similarite cosinus. Le seuil
+        min_score/DEFAULT_MIN_SCORE (calibre sur l'echelle cosinus) n'a donc
+        pas de sens ici : on ne filtre pas par score, on se repose sur top_k
+        et sur filter_applicable_practices() en aval pour la precision
+        semantique fine."""
+        k = max(top_k * 5, 50)
+        vector_query = VectorizedQuery(
+            vector=list(query_embedding), k_nearest_neighbors=k, fields="content_vector"
+        )
+        filter_str = _build_filter(exclude_historique, categorie, sous_categorie, matiere)
+
+        results = self.client.search(
+            search_text=query_text,
+            vector_queries=[vector_query],
+            filter=filter_str,
+            select=SELECT_FIELDS,
+            top=top_k,
+        )
+
+        candidates = []
+        for r in results:
+            meta = {f: r.get(f) for f in SELECT_FIELDS}
+            # Score de fusion RRF (pas une similarite cosinus) - conserve tel
+            # quel pour information/tri, ne pas le comparer a DEFAULT_MIN_SCORE.
+            candidates.append((r["@search.score"], meta))
+
+        return candidates
+
+    def search_semantic(self, query_text, query_embedding, top_k=5, exclude_historique=True,
+                         categorie=None, sous_categorie=None, matiere=None):
+        """Recherche vectorielle + BM25 pour constituer un pool de candidats,
+        puis reranking par le semantic ranker Azure (cross-encoder, pas une
+        fusion de rangs comme le RRF de search_hybrid) - le score renvoye est
+        le reranker_score du modele, pas une similarite cosinus. Disponible
+        en plan gratuit avec quota mensuel limite (verifie via `az search
+        service show` : semanticSearch: "free")."""
+        k = max(top_k * 5, 50)
+        vector_query = VectorizedQuery(
+            vector=list(query_embedding), k_nearest_neighbors=k, fields="content_vector"
+        )
+        filter_str = _build_filter(exclude_historique, categorie, sous_categorie, matiere)
+
+        results = self.client.search(
+            search_text=query_text,
+            vector_queries=[vector_query],
+            filter=filter_str,
+            select=SELECT_FIELDS,
+            query_type="semantic",
+            semantic_configuration_name=SEMANTIC_CONFIG_NAME,
+            top=top_k,
+        )
+
+        candidates = []
+        for r in results:
+            meta = {f: r.get(f) for f in SELECT_FIELDS}
+            score = r.get("@search.reranker_score")
+            if score is None:
+                score = r["@search.score"]
+            candidates.append((score, meta))
+
+        return candidates
 
     def available_matieres(self):
         results = self.client.search(search_text="*", select=["matiere"], top=1000)

@@ -1,0 +1,50 @@
+Actes de naissance
+Nom:
+Actes de naissance
+Description:
+Titre, page:
+[h2][b]BAEC - Actes de naissance[br][/b][/h2][h1][/h1]
+Texte, instruction:
+[h1][br][/h1][ol][/ol]
+Texte, introduction:
+[p]Ce chapitre est subdivisé en 3 parties, qui sont :[/p][h2][ul][li]Les vérifications préliminaires[/li][li]Comment dresser un acte de naissance (outil métier)[/li][li]Les documents à délivrer[/li][/ul][/h2]
+Texte:
+[b]Les vérifications préliminaires[/b][br][b][br][/b][br]La naissance doit impérativement avoir lieu sur le territoire de votre commune.[br]L&apos;acte de naissance prouve la naissance et établit l&apos;identité juridique de l&apos;enfant.[br]L&apos;acte de naissance est nécessaire pour que la personne soit enregistrée dans les registres de la population.[br][br]La notification doit être envoyée à l&apos;OEC du lieu de naissance le plus rapidement possible,[br]&nbsp;&nbsp;&nbsp;&nbsp; - soit par l&apos;hôpital.[br]&nbsp;&nbsp;&nbsp;&nbsp; - soit par le médecin, l&apos;accoucheuse ou les autres personnes qui ont assisté à l&apos;accouchement.[br][br]Il n&apos;y a pas de modèle type pour la notification mais il faut une attestation médicale.[br][br]La déclaration de naissance doit être faite dans les 15 jours calendrier non-compris celui de la naissance.[br]Si les intéressés ne sont pas venus endéans ce délai, vous établissez l&apos;acte de naissance sur base de la notification.
+Texte:
+[h2][b]Dresser l&apos;acte de naissance[/b][/h2][br]- [u]Documents nécessaires[/u] :[u][br][/u][br]L&apos;attestation de naissance.[br]Le livret de mariage (si mariage) et indiquer l&apos;enfant dans celui-ci.[br]L&apos;attestation de reconnaissance prénatale. Si le déclarant n&apos;a pas le document, vous pouvez évidemment la retrouver dans la BAEC.[br]Le(s) carte(s) d&apos;identité des parents ou à tout le moins celle du déclarant.[br][br]Eventuellement, la déclaration de choix de nom.[u][br][/u][br]- [u]Qui fait la déclaration de naissance[/u] ?[u][/u][br][ul][li]La maman[/li][li]Le papa ou la coparente[/li][li]Vous en cas de dépassement des 15 jours[br][/li][/ul]
+Texte:
+[p][b]Les mentions obligatoires :[/b][/p][u]Mentions obligatoires pour l&apos;enfant[/u] :[u][br][/u][ul][li]Le(s) Nom(s)[/li][li]Le(s) prénom(s)[/li][li]Le sexe[/li][li]La date de naissance[/li][li]Le lieu de naissance[/li][li]L&apos;heure de naissance[/li][/ul][br][u]Mentions obligatoires pour les parents[/u] :[br][ul][li]Le(s) Nom(s)[/li][li]Le(s) prénom(s)[/li][li]La date de naissance[/li][li]Le lieu de naissance[/li][/ul][br][u]Mentions obligatoires suivant le cas[/u] :[br][ul][li]Le numéro BAEC de l&apos;acte de reconnaissance prénatale et le lieu de l&apos;établissement.[/li][li]La reconnaissance par le père ou la coparente, en mentionnant le consentement de la mère.[/li][/ul][br]Si les parents sont mariés ou ont fait une reconnaissance prénatale, suivez la procédure ci-dessous.[br]Si les parents ne sont pas mariés et n&apos;ont pas fait de reconnaissance prénatale, il y a lieu d&apos;établir une reconnaissance dans l&apos;acte. Pour ce faire, il faut établir uniquement une déclaration de reconnaissance (Voir module ci-dessus). Mais au lieu d&apos;indiquer "reconnaissance prénatale" mettre "reconnaissance dans l&apos;acte".[br][u][br][/u][br][i][b][u]Remarques[/u] : [br][/b][br]Si le prénom prête à confusion ou peut nuire à l&apos;enfant ou à des tiers, la commune peut faire signer un papier aux parents pour éviter toutes contestations ultérieures.[br][br]Sur l&apos;avis de naissance, faites signer le déclarant pour accord sur l&apos;orthographe du nom et prénom(s). Là aussi pour éviter toutes contestations ultérieures.[/i]
+Texte:
+[h2][b]Mise en situation[/b][/h2][i](Cliquez sur la piste audio ci-dessous)[/i]
+Question:
+[b]Quelle réponse devez-vous donner dans cette situation ?[/b]
+Feedback:
+Vu qu’il y a un enfant né après le 01/06/2014, le choix de nom a déjà
+été établi pour la fratrie. Seul un arrêté royal pourrait changer le nom.
+Texte:
+[u]Manipulation dans un outil métier :&nbsp;[/u][u][br][/u][br]Ci-dessous, vous trouverez les manipulations nécessaires pour intégrer un acte de naissance à l&apos;aide de l&apos;outil SAPHIR de Civadis.[br][br]Pour commencer, ouvrer le logiciel ad-hoc et choisissez le module "Etat civil"[br][br]Ensuite, cliquez sur "C[i]réer[/i]" puis l&apos;onglet général.[br][br]Type d&apos;acte : [i]Naissance[/i] et cliquez ensuite sur [i]OK[/i]
+Texte:
+Toutes les notifications reçues par la clinique doivent se retrouver sur votre écran.[br]Choisissez la notification concernée.
+Texte:
+Toujours dans l&apos;onglet "Général"[br]Sous onglet : "Acte"[br][br]Indiquez le signataire.&nbsp;Le reste des informations se complèteront automatiquement.
+Texte:
+Dans l&apos;onglet "Détail"[br]Naissance[br]Date et heure de naissance[br]Déclarant (menu déroulant)[br]Nombre d&apos;enfant du père ou de la coparente[br]Nombre d&apos;enfant de la mère[br]Parents conjoints, s&apos;ils sont mariés[br]Déclaration de choix de nom si celle-ci a été formulée[br]Lieu de naissance
+Texte:
+Si les parents sont mariés, passez cette étape.[br][br]Si reconnaissance dans l&apos;acte, dans "type " reconnaissance dans l&apos;acte.[br]&nbsp;&nbsp;&nbsp;&nbsp; Consentement de la mère[br]&nbsp;&nbsp;&nbsp;&nbsp; Code commune[br]&nbsp;&nbsp;&nbsp;&nbsp; Devant : OEC[br]&nbsp;&nbsp;&nbsp;&nbsp; Code pays : 150[br][br]Si reconnaissance prénatale, dans "type " reconnaissance prénatale.[br]&nbsp;&nbsp;&nbsp;&nbsp; N° rec. prénatale dans la BAEC[br]&nbsp;&nbsp;&nbsp;&nbsp; Consentement de la mère[br]&nbsp;&nbsp;&nbsp;&nbsp; Code commune[br]&nbsp;&nbsp;&nbsp;&nbsp; Devant : OEC[br]&nbsp;&nbsp;&nbsp;&nbsp; Code pays : 150
+Texte:
+Il y a lieu de remplir les statistiques concernant les parents.
+Texte:
+Dans "signalétiques" : Enfant.[br][br]Suite à la récupération de la notification, le nom, le prénom et le sexe se mettent automatiquement. Il y a lieu d&apos;ajouter les prénoms et adapter le nom si besoin (déclaration de choix de nom). Cocher double nom si nécessaire.[br]Code nationalité.[br][br][i][u]Remarque[/u]  : [b]Tous les enfants de la fratrie&nbsp;des parents portent le même nom. [/b][/i]
+Texte:
+Toujours dans "signalétiques", encodez les NN des parents et tout se met automatiquement.[br][br]Si pas de NN, cochez "non-résident" et encodez les données en votre possession.[br][br]--&gt; Dans le cas d&apos;une filiation uniquement maternelle, clic droit sur père et supprimez.[br]--&gt; Dans le cas d&apos;une coparente, supprimez &apos;père" et clic droit sur "signalétiques" pour créer la coparente.
+Texte:
+Appuyez sur le flèche verte pour valider.[br][br]Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+Texte:
+[h2][b]Les documents à délivrer[/b][/h2][ul][li]Le document pour la mutuelle[/li][li]Le document pour les allocations familiales[/li][li]Eventuellement, l&apos;acte de naissance ou le télécharger via votre guichet électronique[/li][/ul]
+Texte:
+[h2][b]Mise en situation[/b][/h2]
+Question:
+[b]Quelle réponse devez-vous donner dans cette situation ?[/b]
+Feedback:
+Il n’y a aucune règle quant au nombre de prénom. Vous devez donc
+accepter la liste en présence.

@@ -1,0 +1,62 @@
+Cas particuliers : saisonniers, mobilité, frontaliers,....
+Nom:
+Cas particuliers : saisonniers, mobilité, frontaliers,....
+Titre, page:
+L'enregistrement des européens et assimilés en pratique
+Texte, instruction:
+Texte, introduction:
+Texte:
+La demande d'attestation d'enregistrement peut être faite dès qu'un citoyen européen ou assimilé apporte la preuve de sa nationalité via une carte d'identité national ou un passeport.  
+Cette nationalité peut être également apportée par d'autre preuve, l'idéal étant de contacter l'office des étrangers dans ce cas.  
+Si cette preuve ne peut être apportée, la commune notifie à l'intéressé une annexe 19quinquies.
+Texte:
+1. Les travailleurs UE saisonniers pour une période de plus de trois mois et les étudiants UE  dans le cadre d'une mobilité
+Texte:
+2. Les frontaliers
+4.1 Les étudiants frontaliers
+Les documents à présenter sont les mêmes que les autres étudiants européens. 
+La procédure est un peu différente: l'étudiant doit se présenter auprès de sa commune de résidence dans les 8 jours ouvrables de son entrée en Belgique.
+La commune devra délivrer une annexe 33. Elle pourra être renouvelée si: 
+la demande de renouvellement a été faite avant l'expiration de l'annexe; 
+l'étudiant réside dans un pays limitrophe; 
+produit une attestation d’inscription dans un établissement d’enseignement organisé, reconnu ou subsidié par les pouvoirs publics ; 
+maintien sa résidence habituelle dans le pays limitrophe et y retourne en principe chaque weekend.
+4.2 Les travailleurs frontaliers
+Le travailleur doit prouver sa citoyenneté auprès de la commune où se situe son lieu de travail.
+La commune délivre une annexe 15  et barre la mention « La présente attestation couvre provisoirement le séjour jusqu’au… ».
+Titre, accordéon:
+Exemples de titres d'identité européens
+Titre, barre d’accordéon:
+Exemples de titres d'identité européens
+Question:
+Un Européen peut prouver sa citoyenneté grâce à :
+Option de réponse:
+sa carte d'identité nationale en cours de validité;
+Option de réponse:
+son passeport en cours de validité;
+Option de réponse:
+son passeport périmé;
+Option de réponse:
+il ne doit pas prouver son identité;
+Option de réponse:
+Sa carte d'identité nationale périmée.
+Feedback si réponse incorrecte:
+Faux.
+Pour prouver sa citoyenneté, il pourra fournir: 
+une carte d’identité ou passeport en cours de validité ou non  ; 
+tout autre document prouvant la qualité de citoyen de l’Union, en ce compris des documents périmés. Dans ce cas, seul l'OE pourra prendre la décision d'entrée sur le territoire.
+Feedback si réponse correcte:
+Vrai.
+Pour prouver sa citoyenneté, il pourra fournir: 
+une carte d’identité ou passeport en cours de validité  ou non ; 
+tout autre document prouvant la qualité de citoyen de l’Union, en ce compris des documents périmés. Dans ce cas, seul l'OE pourra prendre la décision d'entrée sur le territoire.
+Titre, accordéon:
+La base légale
+Titre, barre d’accordéon:
+Lien vers les textes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, barre d’accordéon:
+Les annexes

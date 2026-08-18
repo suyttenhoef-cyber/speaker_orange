@@ -1,0 +1,121 @@
+Généralités
+Nom:
+Généralités
+Titre, page:
+Le court séjour des ressortissants non Européens
+Texte, instruction:
+Une personne ressortissant d'une pays tiers dans le cadre d'un séjour touristique peut demeurer en Belgique au maximum 90 jours  sur une période de 180 jours .  
+Pour le calcul de ce délai, ce sont les cachets d'entrée et de sortie dans l'espace Schengen qui sont pris en compte.  A chaque cachet de sortie, le calcul est interrompu pour reprendre au cachet d'entrée suivant et ainsi de suite.  
+Attention, dans tous les cas de figure, dans ce calcul des 90 jours, les jour de l'arrivée et du départ sont compris.
+Texte, introduction:
+Texte:
+1. La déclaration d'arrivée 
+Toute personne qui entre en Belgique dans le cadre d'un court séjour doit se présenter  pour obtenir ce document dans les 3 jours ouvrables de son arrivée en Belgique dans la commune où il loge, sauf :
+s'il est hospitalisé ;
+s'il est détenu ;
+s'il loge à l'hôtel ou assimilé .
+Texte:
+Pour éviter des calculs compliqués accompagnés d'un calendrier, le ministère a mis à la disposition de tous un calculateur qui permet d'encorder  les dates d'entrées/sorties et de déterminer la date de validité de la déclaration d'arrivée.  
+Attention, il ne fonctionne que pour les séjours touristiques de 90 jours, il ne sera donc pas utile pour les visa d'une durée inférieure.
+Texte:
+a. La personne est soumise au visa C 
+Sur ce visa sont mentionnés : 
+la date de l'entrée prévue (la personne ne peut entrer sur Schengen avant cette date là) ;
+la durée de séjour prévue (maximum 90 jours) ; 
+le nombre d'entrée autorisées.  Une autorisation pour entrée unique ne permet pas d'aller et retour sur le territoire Schengen, à l'inverse du visa à entrées multiples. 
+la date de validité jusqu'à laquelle ce ou ces séjours peuvent être réalisés. S'il n'y a qu'une entrée, le séjour se calcule à partir de là. S'il y plusieurs cachet d'entrées et de sortie, les jours passés hors de Schengen sont décomptés jusqu'au prochain caché d'entrée.
+Texte:
+Attention le séjour ne peut jamais dépasser la validité du visa
+Texte:
+b. La personne est originaire d'un pays pour lequel il y a dispense de visa 
+Le séjour touristique est autorisée pour 90 jours.
+S'il n'y a qu'une entrée, le séjour se calcule à partir de là.
+S'il y plusieurs cachet d'entrées et de sortie, les jours passés hors de Schengen sont décomptés jusqu'au prochain cachet d'entrée.
+Texte:
+c. La personne dispose d'un titre de séjour dans un autre pays de l'union européenne
+Comme il n'y a plus de poste frontière entre les pays faisant partie de l'Espace Schengen, il n'y a pas de cachet d'entrée.  
+La déclaration d'arrivée est donc valable 90 jours en partant sur la déclaration sur l'honneur de l'intéressé pour la date d'arrivée en Belgique. 
+Attention, la validité de la déclaration d'arrivée ne peut pas dépasser la validité du titre de séjour européen.
+Texte:
+2. Prolongation du court séjour 
+Le court séjour peut être prolongé pour les raisons suivantes : 
+Maladie (à justifier par un certificat médical type établi par un médecin spécialiste et la preuve d'une assurance voyage) ;
+En vue de mariage (à justifier par une déclaration d'intention, une prise en charge par le futur conjoint et la preuve d'une assurance voyage) ;
+En vue de cohabitation légale (à justifier par l'accusé de réception de la demande de cohabitation légale et une assurance voyage) ;
+Grossesse (a justifier par un certificat médical type précisant la date prévue d'accouchement rempli par un médecin spécialiste  et par la suite, par le certificat de naissance du nouveau né  et la preuve d'une assurance voyage ;
+Stage (à justifier par une attestation de stage et une preuve d'assurance voyage) ;
+Visite familiale (à justifier par l'acte prouvant le lien familial, une lettre de motivation, tout autre document justificatif et la preuve d'une assurance voyage) ;
+Toute autre demande qui peut être transmise au service court séjour qui analysera la demande.
+Question:
+Testez votre intuition
+Le court séjour pour les étrangers non européens est basé sur:
+Option de réponse:
+l'absolue nécessité d'être en possession d'un visa;
+Option de réponse:
+la nécessité d'avoir un visa dans certains cas mais pas toujours
+Feedback si réponse incorrecte:
+Faux. 
+Pour avoir le court séjour, l'étranger doit être soit: 
+titulaire d’un visa C; 
+dispensé de visa pour séjourner maximum 90jours sur 180 jours; 
+titulaire d’un titre de séjour dans l’espace Schengen (=> déclaration
+sur l’honneur); 
+titulaire d’un visa D pour un pays Schengen.
+Feedback si réponse correcte:
+Pour avoir le court séjour, l'étranger doit être soit: 
+titulaire d’un visa C; 
+dispensé de visa pour séjourner maximum 90jours sur 180 jours; 
+titulaire d’un titre de séjour dans l’espace Schengen (=> déclaration sur l’honneur); 
+titulaire d’un visa D pour un pays Schengen.
+Question:
+Prenons l'exemple d'une ressortissante algérienne arrivée dans le cadre d'un séjour touristique. Pour information, l'Algérie est bien soumise au visa d'entrée.
+En l'occurrence, elle dispose d'un visa C à entrées  multiples valable du 15 mai 2020 au 15 décembre 2020.
+Elle a déjà fait plusieurs allers/retours dans différents états Schengen.
+Elle se présente le 18 septembre 2020 la commune pour obtenir une déclaration d'arrivée.
+Voici les cachets que l'on peut trouver dans son passeport
+Entrées : 18/06/2020, 02/08/2020,15/08/2020 et 15/09/2020 
+Sorties : 28/07/2020, 7/08/2020, 19/08/2020 
+Jusqu'à quelle date sera valable sa déclaration d'arrivée ?
+Feedback:
+La réponse est jusqu'au 22 octobre 2020.
+Elle a utilisé:
+41 jours du 18/06 au 28/07 ; 
+6 jours du au 07/08 ;
+5 jours du 15/08 au 19/08. 
+> soit 52 jours au total. 
+52 jours que l'on retire des 90 jours autorisés...(90-52 = 38). 
+Si l'on rajoute 38 jours au 15 septembre, on arrive au 22/10.
+Pour rappel les jours d'arrivée et de départ sont comptabilisés
+Question:
+Une personne de nationalité russe se présente dans sa commune le 15 mai 2020 en vue d'obtenir une déclaration d'arrivée.
+Elle est en possession d'un visa C à entrée unique de 60 jours  valable du 15/02/20 au 16/06/20.
+Quelle sera la validité de sa déclaration d'arrivée ?
+Option de réponse:
+15 aout 2020 (60 jours depuis son arrivée)
+Option de réponse:
+16 aout 2020 (60 jours en comptant sa date d'arrivée )
+Option de réponse:
+16 juin 2020 (le séjour ne peut pas dépasser la validité du visa)
+Feedback si réponse incorrecte:
+Attention, la déclaration d'arrivée ne peut pas dépasser la validité du visa, même si tous les jours autorisés n'ont pas été épuisés.
+Feedback si réponse correcte:
+Très bien !!
+Texte:
+La base légale
+Les bases légales du court séjour pour les non Européens sont les suivantes: 
+La Directive 2004/38/CE
+Cette directive européenne fixe les règles concernant la libre circulation des personnes. 
+La loi du 15/12/1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers
+C'est la loi de base pour le droit des étrangers en Belgique. Modifiée un nombre incalculable de fois depuis sa promulgation, elle reprend toutes les règles concernant les différents types de séjour.
+L'Arrêté Royal du 08/10/1981 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. 
+C'est l'arrêté royal qui accompagne la loi du 15/12/1980 et qui gère des aspects pratiques du séjour des étrangers.
+Titre, accordéon:
+La base légale
+Titre, barre d’accordéon:
+Lien vers les textes
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, téléchargement:
+Procédure - Court séjour pays tiers

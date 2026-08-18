@@ -1,0 +1,214 @@
+Généralités
+Nom:
+Généralités
+Titre, page:
+Introduction & Objectifs
+Texte, instruction:
+Texte, introduction:
+Objectifs
+Au cours de ce module BAEC (Baque Actes Etat Civil), nous allons parcourir de façon simple et ludique diverses matières. A la fin de celui-ci, vous serez capable d'établir et d'intégrer les actes les plus simples dans la BAEC.
+A la place de "formation", nous pourrions utiliser les mots "Initiation" ou "Rappel".
+Initiation pour les nouveaux agents de l'état civil.
+Rappel pour les habitués.
+Contenu de la formation
+Les thématiques abordées dans ce module sont : Naissance - Mariage - Divorce - Décès - Nationalité - Reconnaissance - Adoption - Actes modificatifs et erreurs matérielles.
+Chaque thème sera abordé de la façon suivante :
+Vérifications : - OEC compétent
+Dresser l'acte : - Documents nécessaires - Qui fait la déclaration - Mentions obligatoires et facultatives - Ecrans d'encodage (Saphir)
+Documents à délivrer
+Annexes (textes législatifs, modèles, procédures, ...)
+Public cible
+Cette formation s'adresse à tous les agents de l'état civil. 
+Même si elle se veut initiatique, elle peut également servir, à tout moment, de rappel.
+Titre, page:
+BAEC - Généralités
+Texte:
+Lexique
+BAEC = La Banques des Actes de l'Etat Civil
+OE = Office des Etrangers
+OEC = L'Officer de l'Etat Civil
+PF = Pompes Funèbres
+Migrer = On parle de migration lorsqu'il s'agit de mettre dans la BAEC les actes établis avant le 31 mars 2019
+Intégrer = On parle d'intégration lorsqu'il s'agit de mettre dans la BAEC les actes établis après le 31 mars 2019 
+EPSV = Enfant Présenté Sans Vie
+NN = Numéro national
+RN = Registre national
+CIE = Carte d'Identité Electronique
+R.E. = Registre des Etrangers
+R.A. = Registre d'Attente
+R.P. = Registre Population
+D.I.P. = Droit International Privé
+A.R. = Arrêté Royal
+A.C.F. = Autorité Centrale Fédérale
+Avant la BAEC
+Pour les novices, un peu d'histoire.
+Pour les anciens, un peu de nostalgie ou pas de regret.
+C'est donc bien le 31 mars 2019 que la réforme de l'état civil est entrée en vigueur. Peut-être que le mot réforme n'est pas suffisant. Nous pourrions peut-être parler de révolution.
+Les agents communaux établissaient tous les actes en double exemplaires:
+Par écrit.
+Ensuite avec une machine à écrire et papier carbone.
+Et enfin grâce à l'informatique.
+Vous deviez faire signer tous les actes par l'OEC et les citoyens.
+Vers la fin d'année de chaque année, vous deviez :
+Faire un marché public avec un petit cahier des charges pour la fourniture des feuillets.
+Le Collège échevinal arrêtait la liste des imprimeries à consulter.
+Après l'ouverture des soumissions, le marché était attribué.
+L'imprimerie ayant remporté le marché éditait le nombre de feuillets voulus et ceux-ci étaient numérotés.
+Dépôt des feuillets au Greffe. Celui-ci devait parapher chaque feuillet .
+Vous récupériez vos feuillets et vous pouviez donc imprimer vos actes dès le premier janvier.
+En début de chaque année, vous deviez :
+Faire un marché public avec un petit cahier des charges pour la reliure des registres.
+Le Collège arrêtait la liste des imprimeries à consulter.
+Après l'ouverture des soumissions, le marché était attribué.
+Vérifier que tous vos feuillets étaient bien tous signés par l'OEC.
+Vérifier que tous vos feuillets étaient bien tous dans l'ordre numérique et établir la liste alphabétique.
+L'imprimerie ayant remporté le marché venait chercher les registres pour la reliure.
+Dès que possible, l'imprimerie nous rentrait les registres.
+Nous gardions un exemplaire des registres.
+Légende, image (150 caractères maximum):
+Archivages des registres d'Etat Civil
+Texte:
+9. Le deuxième exemplaire était à envoyer au Greffe avec toutes les pièces justificatives.
+         10. Entre-temps, vous deviez garder toutes les mentions marginales qu'il y avait lieu de remettre dans les registres dès leur retour de la reliure et faire signer l'OEC. Envoyer ces mentions au Greffe également.
+Texte:
+Quelques petites remarques
+Chaque mention marginale était envoyée au Greffe pour qu'elle soit annotée en marge de l'acte correspondant. Sur un simple avis et par la suite sur des étiquettes autocollantes.
+Avant l'air informatique, les tables alphabétiques étaient constituées de cette façon :
+- Vous écriviez sur un morceau de papier : N° d'acte, le nom et le(s) prénom(s). 
+- Ces petits papiers étaient classés par ordre alphabétique. 
+- En fin d'année, vous repreniez tous vos petits papiers et vous commenciez à taper à la machine à écrire.
+- La table alphabétique était bien évidemment établie en double exemplaire également. Il fallait donc mettre un papier carbone et toujours dans le bon sens.  
+Pouvez-vous imaginez le travail ? 
+Les heures que l'agent communal devait passer pour encoder ces tables.
+Texte:
+Avec la BAEC
+Texte:
+Depuis le 31 mars 2019, tous les supports papier ont été supprimés. Tous les actes de quelque nature qu'ils soient se font via la BAEC.
+De ce fait, les procédures administratives mentionnées ci-dessus concernant les registres sont devenues obsolètes.
+L'autre gros avantage de ce nouveau système est que le citoyen peut aller dans sa commune pour obtenir un acte et non plus courir dans la commune de rédaction de l'acte.
+D'autres solutions sont arrivées dans la foulée pour faciliter encore plus les démarches des citoyens et le travail des agents administratifs grâce à une interopérabilité forte avec la BAEC et d'autres sources officielles. Il s'agit des guichets électroniques tel qu'eGovFlow, proposé par la société Vanden Broele. Cette solution en ligne permet à chaque citoyen d'obtenir les documents suivants de façon certifiée en quelques clics :
+Composition de ménage
+Certificat de domicile
+Certificat de vie
+Certificat de nationalité
+Extrait du casier judiciaire
+Acte de naissance
+Acte de mariage
+Acte de décès
+...
+Texte:
+Pour en savoir plus sur ce type d'outil ou demander une démo complète, n'hésitez par à cliquer sur le lien ci-dessous.
+Titre, page:
+Quiz d'introduction
+Texte, instruction:
+Pour bien démarrer ce module, commençons par tester vos connaissances sur la BAEC avec quelques questions générales.
+Question:
+Que signifie l'acronyme B A E C ?
+Option de réponse:
+Bonne Action Etat Civil ?
+Option de réponse:
+Base Archives Et Chimères ?
+Option de réponse:
+Bonne Action Et Charité ?
+Option de réponse:
+Banque Actes Etat Civil ?
+Option de réponse:
+Bon Acte Etat Civil ?
+Feedback si réponse incorrecte:
+Désolé.
+Feedback si réponse correcte:
+Super.
+Question:
+A quelle date la B A E C est-elle entrée en vigueur ?
+Option de réponse:
+31 janvier 2019
+Option de réponse:
+28 février 2019
+Option de réponse:
+31 mars 2019
+Option de réponse:
+30 avril 2019
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !
+Question:
+Avant le BAEC, combien de Registres différents de l' "Etat Civil" fallait-il au total ?
+Option de réponse:
+5
+Option de réponse:
+6
+Option de réponse:
+7
+Option de réponse:
+8
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !
+Question:
+Qu'est-ce qu'un papier carbone ?
+Option de réponse:
+Un papier proscrit par la COP 18 ?
+Option de réponse:
+Un papier permettant de dater les objets (Carboine 14) ?
+Option de réponse:
+Un papier permettant de retranscrire sur une feuille placée en-dessous ce qui est écrit sur la feuille placée au-dessus ?
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !
+Question:
+Où deviez-vous déposer le double des registres après la reliure ?
+Option de réponse:
+Au Parquet du Procureur du Roi
+Option de réponse:
+Au Greffe
+Option de réponse:
+Aux archives de l'Etat
+Option de réponse:
+dans les caves de l'administration
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !
+Question:
+Qui intègre les actes dans la BAEC ?
+Option de réponse:
+- Les communes, les consulats, les notaires
+Option de réponse:
+- Les notaires, les greffes des tribunaux, les communes
+Option de réponse:
+- Les officiers désignés par le Ministre de la défense, les greffes, les communes, les consulats
+Option de réponse:
+- Les ministres du culte (uniquement les acte de décès), les greffes, les communes
+Feedback si réponse incorrecte:
+Désolé ... il s'agit des officiers désignés par le Ministre de la défense, les greffes, les communes, les consulats
+Feedback si réponse correcte:
+Super !
+Question:
+Qu'entend t'on par migration d'un acte ?
+Option de réponse:
+La migration signifie la mise à disposition des actes établis avant le 31/03/2019 dans la BAEC et ainsi les gérer de la même façon que les actes établis après le 31/03/2019.0
+Option de réponse:
+La migration signifie la mise à disposition des actes établis après le 
+31/03/2019 dans la BAEC et ainsi les gérer de la même façon que les 
+actes établis avant le 31/03/2019.
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !
+Question:
+Une fois que tous les actes établis avant le 31/03/2019 seront dans la BAEC, pourrons-nous détruire les registres ?
+Option de réponse:
+Oui, vu qu'ils sont tous dans la BAEC, il n'y a plus besoin du format papier.
+Option de réponse:
+Oui et vous gagnerez de la place dans vos archives.
+Option de réponse:
+Jamais car le format papier fera toujours foi en cas de litige.
+Option de réponse:
+Sans problème mais via les Archives de l'Etat qui dresseront un PV de destruction.
+Feedback si réponse incorrecte:
+Désolé ...
+Feedback si réponse correcte:
+Super !

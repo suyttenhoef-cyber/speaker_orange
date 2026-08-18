@@ -1,0 +1,514 @@
+Permis de conduire du <b>Groupe 2</b> - Attestations médicales et CAP
+Nom:
+Permis de conduire du <b>Groupe 2</b> - Attestations médicales et CAP
+Description:
+Titre, page:
+Introduction & Objectifs
+Texte, instruction:
+Dans ce module, vous trouverez des informations sur la gestion des permis de conduire par votre administration communale. Les informations données concernent ici les permis des catégories du groupe 2 qui requièrent des attestations médicales et éventuellement un Certificat d'Aptitudes Professionnelles (CAP).
+Texte, introduction:
+Les objectifs sont d'expliquer les différentes catégories de véhicules en rapport avec les catégories de permis, les conditions et modes d'obtention et de voir les différents documents à remplir (demandes, fiches, ...).
+Titre, page:
+Le Groupe 2 - Kesaco ?
+Texte, instruction:
+Nous allons tout d'abord définir les catégories de permis de conduire faisant partie du groupe 2.
+Texte:
+Le groupe 2 reprend les permis de conduire des catégories suivantes :
+C1 - C : Camions
+D1 - D : Autobus et autocars
+C1+E - C+E : Camions + remorques
+D1+E - D+E : Autobus et autocars + remorques
+Nous allons détailler dans les chapitres suivants les véhicules se rapportant aux catégories ci-dessus.
+Titre, page:
+Catégories  C1 et C  - Les camions
+Texte:
+La catégorie C1 - Définitions
+La catégorie C1 regroupe : 
+Les camions dont la MMA du véhicule tracteur est supérieure à 3500 kg et inférieure ou égale à 7500 kg
+Maximum 8+1 places assises
+dont la MMA de la remorque est ≤ 750 kg
+La catégorie C - Définitions
+La catégorie C regroupe : 
+Les camions dont la MMA du véhicule tracteur est supérieure à 3500 kg
+Maximum 8+1 places assises
+dont la MMA de la remorque est ≤ 750 kg
+Texte:
+Les catégories C1 et C - Obtention
+Il faut préalablement être titulaire de la catégorie B.
+Légende, image (150 caractères maximum):
+C1 et C - Obtention si le candidat a entre 18 et 21 ans
+Légende, image (150 caractères maximum):
+C1 et C - Obtention si le candidat a 21 ans ou plus
+Texte:
+Procédure d'obtention de la catégorie C1 :
+Titulaire de la catégorie B
+Examen théorique de la catégorie C
+Examen médical Groupe 2 en cours de validité
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage). - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+Si réussite : Délivrance du permis de conduire catégorie C1 par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+Si réussite : Délivrance du permis de conduire catégorie C1 par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+Procédure d'obtention de la catégorie C :
+Titulaire de la catégorie B
+Examen théorique de la catégorie C (dispensé si le candidat est déjà titulaire de la catégorie C1)
+Examen médical Groupe 2 en cours de validité
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Formulaire F06 délivré par le centre d'examen.
+Si le candidat a + de 21 ans (ou - de 21 ans avec un CAP) : Délivrance d'un permis de conduire catégories C1 + C
+Si le candidat  a - de 21 ans (et pas de CAP ) : Délivrance d'un permis de conduire catégorie C1 et obtention automatique de la catégorie C à 21 ans (pas d'examen mais changement de PC à la commune).
+Titre, page:
+Catégories C1E et CE - Les camions avec remorques
+Texte:
+La catégorie C1E - Définitions
+La catégorie C1E regroupe : 
+Les véhicules tracteur de la catégorie C1 accompagnés d'une
+remorque de + de 750 kg
+La MMA totale de l'ensemble ne peut pas dépasser 12.000 kg
+ou
+Un véhicule de catégorie B accompagné d'une
+remorque de + de 3500 kg
+La MMA totale de l'ensemble ne peut pas dépasser 12.000 kg
+La catégorie CE - Définitions
+La catégorie CE regroupe : 
+Les véhicules tracteur de la catégorie C accompagnés d'une
+remorque de + de 750 kg
+Il n'y a pas de MMA maximale mais les prescriptions techniques des véhicules doivent être respectées !
+Texte:
+Les catégories C1E et CE - Obtention
+Il faut être préalablement titulaire des catégories B et
+C pour obtenir la catégorie C+E ou être titulaire des catégories B et C1 pour obtenir la catégorie C1+E.
+Légende, image (150 caractères maximum):
+C1E et CE - Obtention si le candidat a entre 18 et 21 ans
+Légende, image (150 caractères maximum):
+C1E et CE - Obtention si le candidat a 21 ans ou plus
+Texte:
+Procédure d'obtention de la catégorie C1E :
+Titulaire de la catégorie C1
+PAS d'examen théorique
+Examen médical Groupe 2 en cours de validité
+Demande de permis de conduire provisoire auprès de la commune (Formulaire F03)
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Délivrance d'un permis de conduire catégorie C1E (+ BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+Procédure d'obtention de la catégorie CE : Age minimal 21 ans si pas de Certificat de qualification initiale
+Titulaire de la catégorie C
+PAS d'examen théorique 
+Examen médical Groupe 2 en cours de validité
+Demande de permis de conduire provisoire auprès de la commune (Formulaire F03)
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Délivrance d'un permis de conduire catégorie CE (+ C1E et BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+Titre, page:
+Catégories D1 et D - Les autobus et autocars
+Texte:
+La catégorie D1 - Définitions
+La catégorie D1 regroupe : 
+Les autobus et autocars
+de plus de 8+1 places assises et maximum 16+1 places assises 
+dont la MMA de la remorque est ≤ 750 kg
+dont la longueur totale ne dépasse pas 8 m
+La catégorie D - Définitions
+La catégorie D regroupe : 
+Les autobus et autocars
+de plus de 8+1 places assises  
+dont la MMA de la remorque est ≤ 750 kg
+Texte:
+Les catégories D1 et D - Obtention
+Il faut préalablement être titulaire de la catégorie B.
+Légende, image (150 caractères maximum):
+D1 et D - Obtention si le candidat a entre 18 et 21 ans
+Légende, image (150 caractères maximum):
+D1 et D - Obtention si le candidat a entre 21 et 24 ans
+Légende, image (150 caractères maximum):
+D1 et D - Obtention si le candidat a au moins 24 ans
+Texte:
+Procédure d'obtention de la catégorie D1 :
+Titulaire de la catégorie B
+Examen théorique de la catégorie D
+Examen médical Groupe 2 en cours de validité
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+Si réussite : Délivrance du permis de conduire catégorie C1 par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+Si réussite : Délivrance du permis de conduire catégorie C1 par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+En cas de réussite (pour les 2 filières) :
+Formulaire F06 délivré par le centre d'examen
+Si le candidat  a - de 21 ans et un CAP  : Délivrance d'un permis de conduire catégorie D1  
+Si le candidat  a - de 21 ans et pas de CAP  : Délivrance d'un permis de conduire catégorie D1 à l'âge de 21 ans 
+Procédure d'obtention de la catégorie D :
+Titulaire de la catégorie B
+Examen théorique de la catégorie D (dispensé si le candidat est déjà titulaire de la catégorie D1)
+Examen médical Groupe 2 en cours de validité
+- Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an.
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3ème passage avec l'école)
+- Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans.)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an.
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Formulaire F06 délivré par le centre d'examen
+Si le candidat a un CAP : Délivrance d'un permis de conduire catégories D1 +DC
+Si le candidat  n'a pas de CAP : Délivrance d'un permis de conduire catégorie D1 à 21 ans et obtention automatique de la catégorie D à 24 ans (pas d'examen mais changement de PC à la commune).
+Titre, page:
+Catégories D1E et DE - Les autobus et autocars avec remorques
+Texte:
+La catégorie D1E - Définitions
+La catégorie D1E regroupe : 
+Les véhicules tracteur de la catégorie D1 accouplés d'une
+remorque de + de 750 kg
+La catégorie DE - Définitions
+La catégorie DE regroupe : 
+Les véhicules tracteur de la catégorie D accouplés d'uneremorque de + de 750 kg
+Il n'y a pas de
+limite de masse
+pour la remorque (point de vue du permis
+de conduire), il faut
+bien sûr respecter les limites techniques du véhicule tracteur et du code de la
+route
+Texte:
+Les catégories D1E et DE - Obtention
+Texte:
+Procédure d'obtention de la catégorie D1E :
+Titulaire de la catégorie D1
+PAS d'examen théorique
+Examen médical Groupe 2 en cours de validité
+Demande de permis de conduire provisoire auprès de la commune (Formulaire F03)
+-> Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3e passage avec l'école)
+-> Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Sans CAP : Délivrance d'un PC catégorie D1E (+ BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen) à 21 ans uniquement !
+Avec CAP : Délivrance d'un PC catégorie D1E (+ BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+ Procédure d'obtention de la catégorie DE
+Titulaire de la catégorie D
+PAS d'examen théorique 
+Examen médical Groupe 2 en cours de validité
+Demande de permis de conduire provisoire auprès de la commune (Formulaire F03)
+-> Filière libre :
+Permis de conduire provisoire Modèle 3
+Apprentissage avec un guide (1 personne en plus permise à bord) - "L" à l'arrière du véhicule
+Examen sur terrain privé (avec le guide et le véhicule d'apprentissage) - L'examen reste valable 1 an
+Examen sur la voie publique (après 2 échecs, obligation de suivre 4h en école de conduite et 3e passage avec l'école)
+-> Ecole de conduite agréée :
+8h de cours minimum (les cours restent valables 3 ans)
+Examen sur terrain privé (avec le véhicule de l'école de conduite) - L'examen reste valable 1 an
+Examen sur la voie publique
+En cas de réussite (pour les 2 filières) :
+Sans CAP : Délivrance d'un PC catégorie D1E (+ BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen) à 21 ans uniquement et DE à 24 ans !
+Avec CAP : Délivrance d'un PC catégorie DE+ D1E (+ BE) par l'administration communale (Formulaire de demande F06 complété par le centre d'examen)
+Légende, image (150 caractères maximum):
+D1E et DE - Obtention si le candidat a entre 18 et 21 ans
+Légende, image (150 caractères maximum):
+D1E et DE - Obtention si le candidat a entre 21 et 24 ans
+Légende, image (150 caractères maximum):
+D1E et DE - Obtention si le candidat a au moins 24 ans
+Titre, page:
+Les formations professionnelles ou de promotion sociale
+Texte:
+Groupe C
+Certains organismes
+donnent des formations professionnelles qui dispensent de la filière décrite
+dans les chapitres précédents et permettent d'obtenir, à l'issue de ces formations et après réussite des examens, une demande de
+permis de conduire valable pour les catégories, selon le cas : AM, B, B+E, C1,
+C1+E, C ou C+E.
+Ces formations sont :
+la formation à la conduite
+dispensée par l'armée ;
+la formation dispensée
+par la police locale ou fédérale ;
+la formation "conducteurs poids lourds" dispensée
+par les établissements d'enseignement secondaire professionnel ;
+la formation dispensée
+par le FOREM, le VDAB ou Bruxelles
+Formation ;
+la formation dispensée par les centres
+de promotion sociale. 
+CERTIFICAT DE QUALIFICATION
+INITIALE
+Ces formations ne permettent pas d'obtenir les catégories avant l'âge normal
+prévu par la législation sauf si le candidat a également réussi les examens en vue de l'obtention
+de la qualification initiale. Dans ce cas, toutes les catégories du groupe C
+peuvent être obtenues à 18 ans. 
+Le code 95 est alors
+mentionné à côté des catégories. Les candidats reçoivent, en plus de la demande de permis de conduire, un
+certificat de qualification initiale.
+Le tableau repris ci-dessous résume les différentes possibilités :
+Texte:
+Groupe D
+Certains organismes
+donnent des formations professionnelles qui dispensent de la filière décrite
+dans les chapitres précédents et permettent d'obtenir, à l'issue de ces formations et après réussite des examens, une demande de
+permis de conduire valable pour les catégories, selon le cas : AM, B, B+E, D1,
+D1+E, D ou D+E.
+Ces formations sont :
+la formation à la conduite dispensée par l'armée ;
+la formation dispensée
+par la police locale ou fédérale ;
+la formation "conducteurs d'autobus ou d'autocars" dispensée par les établissements d'enseignement secondaire
+professionnel ;
+la formation dispensée
+par le FOREM, le VDAB et Bruxelles
+Formation ;
+la formation dispensée par les centres
+de promotion sociale.  
+CERTIFICAT DE QUALIFICATION
+INITIALE
+Ces formations ne permettent pas d'obtenir
+les catégories avant
+l'âge normal prévu par la loi sauf si
+le candidat a également suivi, lors de cette formation, la formation de qualification initiale.
+Dans ce cas, toutes les catégories du groupe D peuvent être obtenues à
+18 ans. 
+Le code 95 est alors mentionné à côté des catégories. Les candidats
+reçoivent, en plus de la demande de permis de conduire, un certificat de
+qualification initiale.
+Le tableau repris ci-dessous résume les différentes possibilités :
+Titre, page:
+Les examens médicaux
+Texte:
+L'examen médical du groupe 1
+Texte:
+Pour qui ?
+Pour tout conducteur ou candidat à la conduite d'un véhicule du groupe 1 : AM - A1 - A2 - A - B - BE - G.
+Quand ?
+Test de lecture lors de l'examen théorique (devant l'examinateur - dispensé si déjà titulaire d'un PC)
+Déclaration d'aptitude (déclaration sur l'honneur lors de la demande de PC ou PCP au verso de la demande)
+Lors de la diminution des aptitudes physiques ou visuelles (le conducteur doit subir un examen médical ou de la vue, le médecin déterminera le degré d'aptitude)
+Les attestations médicales et leurs conséquences pratiques sur le permis de conduire :
+Il en existe 4 modèles pour le groupe 1 :
+Attestation d'aptitude
+Attestation de l'ophtalmologue
+Attestation CARA (Centre d'aptitude à la conduite - Dépend de VIAS)
+Attestation DAC (Département d'aptitude à la conduite - Dépend de l'AVIQ)
+Ces attestations s'appliquent uniquement aux catégories du groupe 1. Il en existe d'autres pour le groupe 2 (voir plus loin).
+Lorsqu'un candidat présente une attestation sur laquelle sont mentionnées des adaptations ou restrictions sous la forme des codes prévus par la législation, ces codes sont repris sur le permis de conduire via Mercurius.
+Si le médecin déclare une inaptitude pour certaines catégories, le conducteur ne perd pas totalement le bénéfice de ces catégories qu'il ne peut plus conduire. Le nouveau permis de conduire confectionné mentionne ces catégories mais avec une date de péremption qui correspond à la veille du jour de la signature de l’attestation d'inaptitude ou d’aptitude partielle. Une nouvelle attestation médicale déclarant que le conducteur est à nouveau apte permettra de revalider ces catégories.
+Il est également possible que le médecin estime le conducteur totalement inapte à la conduite de toute catégorie. Le permis de conduire est alors déposé dans les 4 jours à l'administration communale qui ne le restituera que contre une attestation médicale.
+Texte:
+Exemple :
+Un conducteur, titulaire des catégories AM, B , B+E, C1 présente une attestation médicale du groupe 1, délivrée par le médecin le 18/04/2023, valable uniquement pour la catégorie B jusqu'au 18/04/2025 avec le code 15.03 (embrayage automatique). 
+Un permis de conduire est délivré : les catégories AM et B+E sont limitées au 17/04/2023, le code 15.03 est ajouté à côté de la catégorie B qui est limitée au 25/06/2014.
+Rien ne change pour les catégories du groupe 2 ou le transport rémunéré.
+Texte:
+Redevance :
+Le renouvellement d'un permis de conduire, validé pour une ou plusieurs des catégories du groupe 1, limitées dans le temps par une attestation médicale du groupe 1, ne donne pas lieu au paiement d'une redevance en cas de présentation d'une nouvelle attestation médicale du groupe 1 qui limite à nouveau la validité de ces catégories soit par un code soit dans le temps.
+Cette disposition ne s'applique qu'en cas de renouvellement et non pour la délivrance du premier permis de conduire dont les catégories sont limitées par une attestation médicale du groupe 1.
+Divers :
+L'attestation médicale originale du groupe 1 doit toujours être conservée avec la demande du permis de conduire.
+Si, toutefois, une attestation médicale du groupe 1 avec une validité illimitée est présentée, une fiche de renseignements (double du permis de conduire) est établie. 
+L'attestation médicale originale doit être conservée avec la fiche de renseignement du permis de conduire et une copie de l'attestation médicale est conservée avec la demande du permis de conduire.
+Texte:
+Le transport rémunéré
+Texte:
+Tout conducteur d'un véhicule des catégories A1, A2, A, B ou B+E, affecté à un service de transport rémunéré, doit passer l'examen médical du groupe 2. Le transport rémunéré est mentionné sur le permis de conduire (catégorie 12).
+Le transport rémunéré concerne :
+Les services réguliers, réguliers spécialisés et les services occasionnels relatifs aux transports rémunérés de voyageurs par route effectués par autobus et autocars ;
+Les services de taxis ;
+Les services de location de voitures AVEC chauffeur ;
+Les services d'ambulances ;
+Les transports rémunérés d'élèves ;
+Les instructeurs des écoles de conduite dispensant de l'enseignement pratique.
+Texte:
+L'examen médical du groupe 2
+Texte:
+Pour qui ? 
+Tous les conducteurs ou candidats à la conduite d'un véhicule appartenant à une catégorie du groupe 2 (C1, C, C1+E, C+E, D1, D, D1+E ou D+E), qu'ils soient en apprentissage ou titulaires d'un permis de conduire. 
+Tous les conducteurs d'un véhicule de la catégorie A1, A2, A, B ou B+E et affecté à un service de transport rémunéré (voir ci avant).
+Lorsqu'un conducteur est atteint d'une diminution de ces aptitudes physiques, visuelles ou psychiques.
+Procédure :
+1. Examen oculaire auprès d'un ophtalmologue choisi librement
+L'ophtalmologue établi un rapport qui sera remis au médecin (voir point 2 ci-dessous). 
+Attention, ce rapport ne constitue pas en lui seul une attestation du groupe 2.
+2. Examen médical auprès d'un médecin agréé, soit :
+Un médecin de l'Office médico-social de l'Etat ;
+Un médecin du service médical de la Police fédérale ou de l'armée belge ;
+Un médecin d'un service médical du Travail ;
+Un médecin du FOREM, VDAB ou ACTIRIS ;
+Un médecin d'un centre PMS (uniquement pour les étudiants du secondaire professionnel en formation "poids lourds" ou "autocars") .
+Le médecin complète entièrement l'attestation médicale du groupe 2. Toutes les rubriques doivent être complétées.
+Sur présentation de cette attestation, l'administration communale délivre un nouveau permis de conduire reprenant les éventuelles conditions/restrictions (codes) et la date de validité.
+L'examen médical a une durée de validité maximale de 5 ans mais le médecin peut décider de la réduire pour raisons médicales. Cette date est à reprendre en regard des catégories concernées. 
+Le PC, lui, conserve une validité de 10 ans !
+Légende, image (150 caractères maximum):
+Exemple avec date reprise sur l'attestation médicale
+Légende, image (150 caractères maximum):
+Exemple avec date et codes repris sur l'attestation médicale
+Texte:
+L'EXAMEN MEDICAL DU GROUPE 1 ET LES CATEGORIES DU GROUPE 2
+L’examen médical du groupe 1 n’a d’effet que sur les catégories du groupe 1 et n’a aucun effet sur les catégories du groupe 2 pour lesquelles il faut une attestation médicale du groupe 2. 
+Les normes médicales sont différentes pour le groupe 1 et le groupe 2.
+Si un conducteur apporte une attestation médicale du groupe 1 qui impose des restrictions importantes mais n’apporte pas d’attestation médicale du groupe 2, il ne faut rien changer aux catégories du groupe 2.
+L'EXAMEN MEDICAL DU GROUPE 2 ET LES CATEGORIES DU GROUPE 1
+Les normes médicales du groupe 2 sont les mêmes pour toutes les catégories du groupe 2 mais sont différentes des normes des catégories du groupe 1. 
+Par conséquent, l’examen médical du groupe 2 ne s’applique qu’aux catégories du groupe 2 et absolument pas aux catégories du groupe 1.
+Pour modifier les catégories du groupe 1, il faut absolument une attestation médicale du groupe 1.
+Texte:
+CODES MEDICAUX DANS LE CADRE D'UN EXAMEN DE REINTEGRATION SUITE A UNE DECHEANCE DU DROIT DE CONDUIRE
+Dans le cadre d'une procédure de déchéance du droit de conduire avec examen médical et/ou psychologique de réintégration obligatoire, il n'est pas possible d'effacer le code sur base d'un déclaration d'aptitude sur l'honneur. 
+L'intéressé devra à nouveau subir un examen médical et/ou psychologique de réintégration. Un nouveau document de participation reprenant le résultat de l'examen médical et ou psychologique de réintégration mentionne quels codes doivent, oui ou non, être mentionnés sur le permis de conduire.
+Les médecins qui effectuent les examens médicaux de réintégration utilisent principalement le code de restriction 68.
+Titre, page:
+Le Certificat d'Aptitude Professionnelle (CAP)
+Texte:
+PRINCIPES GENERAUX
+Le CAP n'est pas une condition d'obtention d'une catégorie 
+Il existe 2 certificats de qualification initiale (1 par groupe)
+L'aptitude professionnelle peut être prolongée par une formation continue
+Quand le code 95 est acquis, il ne peut jamais être retiré du PC
+Texte:
+SHEMA D'OBTENTION
+Groupe C : 
+Réussite des examens de qualification initiale Groupe C (validité 5 ans)
+Inscription du code 95 en regard des catégories du groupe C
+Prolongation par la formation continue (35 heures) 
+Prolongation du code 95 pour une nouvelle durée de 5 ans
+Groupe D : 
+Réussite des examens de qualification initiale Groupe D (validité 5 ans) 
+Inscription du code 95 en regard des catégories du groupe D 
+Prolongation par la formation continue (35 heures) 
+Prolongation du code 95 pour une nouvelle durée de 5 ans
+Texte:
+Obligations - Dispenses  
+Tous les conducteurs (ressortissants de l'UE ou non-UE  employés par une entreprise établie en UE) de véhicules des catégories C et D effectuant du transport professionnel doivent être titulaires d'un permis de conduire mentionnant qu'ils satisfont aux prescriptions en matière d'aptitude professionnelle.
+Sont dispensés du CAP :
+1.   les véhicules dont la vitesse maximale
+autorisée ne dépasse pas 45 km/h ;
+2.   les véhicules affectés aux services des
+forces armées, de la protection civile, des pompiers, des services de transport
+d’urgence en ambulance et des forces responsables du maintien de l’ordre public
+ou placés sous le contrôle de ceux-ci lorsque le transport est effectué aux
+fins de tâches qui ont été assignées à ces services ;
+3.   la véhicules subissant des tests sur route à
+des fins d’amélioration technique, de réparation, d’entretien, et des véhicules
+neufs ou transformés non encore mis en circulation ;
+4.   les véhicules utilisés dans des états
+d’urgence ou affectés à des missions de sauvetage y compris ceux utilisés pour
+le transport non commercial d’aide humanitaire ;
+5.   utilisés pour des transports non commerciaux
+de marchandises (groupe C) ou de voyageurs (groupe D) dans des buts
+privés ;
+6.   les véhicules ou combinaison de véhicules
+utilisés pour le transport de matériel, d’équipement ou de machines destinés au
+conducteur dans l’exercice de son métier et à condition que la conduite du véhicule
+ne constitue pas l’activité principale du conducteur. (Groupe C
+uniquement) ;
+7.   les conducteurs de véhicules du groupe C ou D
+qui subissent l’examen pratique ou qui sont en apprentissage sous la
+supervision d’un instructeur ou sous le couvert d’un PCP modèle 3.
+8.   les véhicules pour lesquels un permis de
+conduire de catégorie D ou D1 est exigé, qui sont conduits, sans passagers, par
+un agent de maintenance vers ou depuis un centre de maintenance situé à
+proximité de la plus proche base de maintenance utilisée par le transporteur, à
+condition que la conduite du véhicule ne constitue pas l’activité principale du
+conducteur ;
+9.   les véhicules utilisés, ou loués sans
+chauffeur, par des entreprises d’agriculture, d’horticulture, de sylviculture,
+d’élevage ou de pêche pour le transport de marchandises dans le cadre de leur
+activité professionnelle spécifique, sauf si la conduite relève de l’activité
+principale du conducteur ou si le véhicule est conduit sur une distance
+supérieure à 100 km à partir du lieu d’établissement de l’entreprise qui est
+propriétaire du véhicule, le loue ou l’achète par crédit-bail ;
+10.  les conducteurs, pendant leur formation
+organisée par les TEC, la STIB, De Lijn, Bruxelles-Formation, le FOREM, le
+VDAB, la Police fédérale et locale, une école professionnelle d’enseignement
+secondaire proposant une formation de chauffeur camions ou bus ou dans le cadre
+de l’enseignement de promotion sociale.
+Texte:
+DEMANDE - CONFECTION DU PC 
+Le citoyen se présente avec son permis de conduire, son document d'identité et soit son certificat de qualification initiale (première demande de CAP - Voir plus loin), soit avec l'attestation de formation continue (35 heures).
+La commune remplit une nouvelle demande de PC (Formulaire F06)
+La demande est introduite dans Mercurius, le code 95 est apposé en regard des catégories concernées et en fonction de l'attestation reçue. 
+Lorsque le code 95 est acquis, il ne peut pas être supprimé du permis de conduire et il reste mentionné avec sa date de validité, même si l’attestation d'aptitude médicale du groupe 2 n'est plus valable, même si le code 95 est expiré.
+Légende, image (150 caractères maximum):
+Illustration
+Texte:
+LA QUALIFICATION INITIALE
+Texte:
+POUR QUI ? 
+Pour les personnes qui n'ont jamais été titulaires d'un Certificat d'aptitude professionnelle pour les catégories du groupe C ou D.
+COMMENT ?
+Passage d'un examen théorique de qualification initiale (Pour C ou D) qui comporte 100 questions, des études de cas et un examen oral.
+Passage d'un examen pratique comportant une épreuve sur la voie publique et l'examen pratique du Certificat d'aptitude professionnelle. 
+Résultat :  Obtention du certificat de qualification initiale du groupe correspondant et mention du code 95 sur le PC.
+Attention : Les candidats qui ont déjà obtenu la qualification initiale pour un des deux groupes (C ou D) et qui souhaitent obtenir celle de l'autre groupe, ne sont pas obligés de passer tous les examens pour ce nouveau groupe.
+Ils doivent uniquement passer des examens supplémentaires qui sont limités aux domaines spécifiques de la nouvelle qualification initiale.
+Texte:
+LA FORMATION CONTINUE
+Texte:
+La formation continue ne peut être utilisée que pour prolonger une aptitude professionnelle obtenue après réussite d'un examen de qualification initiale ou lorsque l’aptitude professionnelle a été obtenue dans un autre pays membre de l'Espace économique européen.
+Pour les personnes qui ont le CAP C et le CAP D la formation continue est commune aux deux groupes.
+L'aptitude professionnelle (code 95) est valable 5 ans. Pour prolonger la validité, il faut suivre les cours de formation continue (35 heures). Pour chaque module de formation suivi, un crédit de 7 points est attribué. Le conducteur dont l'aptitude professionnelle arrive à expiration et qui souhaite la prolonger, doit disposer d'un total de 35 points. Les modules de formation et les points obtenus sont valables pendant 5 ans.
+L'ensemble des modules suivis et des points obtenus est reprise dans la rubrique ad-hoc de Mercurius. 
+Le CAP est prolongé de 5 ans à partir de la date de confection du nouveau PC
+Cas d'une personne qui a arrêté de travailler pendant plusieurs années et qui était titulaire d'un certificat d'Aptitude professionnelle (code 95) : 
+Si une personne a arrêté de travailler pendant plusieurs années et n'a pas prolongé son aptitude professionnelle et qu'elle désire maintenant recommencer à travailler, elle doit renouveler son aptitude professionnelle.
+Pour cela, elle suit la formation continue et lorsqu'elle aura accumulé 35 points, elle pourra demander le renouvellement de son aptitude professionnelle (code 95). Cette prolongation est valable même si le code 95 est expiré. Il ne faut donc pas refaire les examens de qualification initiale quand le CAP (code 95) d’un groupe (C ou D) est expiré.
+Titre, page:
+Echange de PC Militaires (Groupe 2)
+Texte:
+Echange des catégories du Groupe 1 et du Groupe 2 
+Le personnel militaire
+peut, dans le cadre de l’armée, obtenir un permis de conduire valable pour des
+véhicules militaires utilisés pour des missions encadrées par les forces
+armées.
+Les catégories du groupe
+1 (AM, A1, A2 A, B et BE) et du groupe 2 (C1, C1E C, CE, D1, D1E, D et DE) peuvent
+être échangées, à condition que la date d’échange prévue sur le permis
+militaire soit toujours valable. La date de début des catégories échangées sera
+la date du lendemain de la confection.
+Les catégories du groupe
+2 (C1, C1E C, CE, D1, D1E, D et DE) ne peuvent plus être échangées que si le
+permis de conduire militaire a été délivré après
+le 30 avril 2025. Une attestation médicale belge du groupe 2, en cours de
+validité, dit être jointe à la demande. Celle-ci doit être délivrée par un
+centre médical agréé (le centre médical de l’armée est reconnu et porte le
+E0001). La validité des catégories du groupe 2 correspondra à la date de
+validité de cette attestation médicale, les codes restrictifs éventuels seront
+également repris.

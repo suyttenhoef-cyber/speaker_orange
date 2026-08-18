@@ -1,0 +1,190 @@
+Filiation & acte de naissance
+Nom:
+Filiation & acte de naissance
+Description:
+Ce syllabus, vous propose une information généralisée sur le principe de la filiation et son établissement ainsi que les liens avec les (actes) de naissance.
+Titre, page:
+La filiation - Généralité
+Texte, instruction:
+Ce module expose les différents éléments propres à la filiation en Belgique: 
+la déclaration de naissance; 
+l'établissement de la première filiation; 
+l'établissement de la seconde filiation dans le cadre d'un mariage; 
+l'établissement de la seconde filiation hors mariage; 
+le cas des reconnaisances frauduleuses; 
+les cas particuliers.
+Texte:
+En Belgique, il y a trois façons d'établir un lien de filiation entre un enfant et son/ses parents: 
+dans l'acte de naissance; 
+dans un acte d'état civil distinct (reconnaissance); 
+par voie judiciaire (adoption et établissement judiciaire de l'acte). 
+Dans ce module, nous nous pencherons sur les deux premiers cas, le troisième ne nécessitant presque plus l'intervention des agents communaux. Son intervention n'est plus requise que pour les actes d'adoptions internes et internationales.
+Dans un premier temps, nous examinerons l'établissement de l'acte de naissance.
+Titre, page:
+La naissance en Belgique.
+Texte, introduction:
+La matière qui nous intéresse est régie par le Code civil. 
+Celui-ci précisera: 
+- les règles formelles de l'établissement d'un acte d'état civil et donc de naissance ; 
+- les règles de fond pour l'établissement de la filiation. 
+Un acte de naissance est donc un acte d'état civil, à savoir un acte authentique. C'est un acte qui a la plus haute valeur juridique. S'il existe depuis peu des possibilités pour l'Officier de l'Etat civil (OEC) de rectifier rapidement et lui-même les actes dans certaines conditions, ces possibilités restent limitées et il est essentiel d'apporter le plus grand soin à la rédaction de l'acte de naissance.
+Titre, page:
+L'établissement de l'acte de naissance.
+Texte, instruction:
+L'article 6§1 du Code civil précise que les objectifs de l'état civil sont :
+d'établir des faits et des actes juridiques qui fixent ou modifient l'état d'une personne;[/li]d'assurer la sécurité juridique en matière d'état de la personne;[/li]d'assurer la preuve de l'état de la personne, au moyen des actes de l'état civil, et de conserver soigneusement cette preuve.[/li]
+L'acte de naissance est le premier acte remplissant ces objectifs et est donc capital. Lors d'une naissance en Belgique, c'est l'Officier de l'état civil qui établira l'acte de naissance.
+Dans cette partie, nous allons analyser la déclaration de naissance.
+Texte, introduction:
+Texte:
+En bref
+La naissance d'un enfant en Belgique est notifiée à l'OEC du lieu de naissance par les personnes qui ont assisté à l'accouchement par l'intermédiaire d'un certificat médical. Cette notification est le point de départ de la déclaration. S'il n'y en a pas, la naissance sera établie par voie judiciaire. 
+ 
+La déclaration de naissance doit être effectuée par un ou les deux parents dans un délai précis (15 jours), sans quoi l'OEC établit l'acte sur base de la notification. 
+ 
+Si la déclaration n'a pas été faite dans les 15 jours, l’OEC établit l’acte de
+naissance sur base de la notification, en ce compris les informations concernant le prénom. 
+ 
+Si l’OEC n’est pas avisé de la naissance, il s’agira d’établir un acte
+de naissance par voie judiciaire.
+L’acte
+de naissance mentionnera toutes les données pertinentes pour déterminer précisément qui sont l'enfant et ses parents.
+Légende, image (150 caractères maximum):
+La procédure de l'établissement de filiation
+Titre, téléchargement:
+La procédure en téléchargement
+Titre, accordéon:
+Que disent les textes légaux?
+Texte, accordéon:
+Titre, barre d’accordéon:
+Analysons les articles pertinents
+Texte:
+La notification de la naissance est faite: 
+sur base d'attestation médicale; 
+à l'officier de l'état civil du lieu de naissance 
+au plus tard le premier jour ouvrable qui suit celui de la naissance. 
+Qui doit la faire? 
+en cas de naissance dans des hôpitaux ou autres établissements de soins, le responsable de l'établissement ou son délégué;
+dans les autres cas, le médecin, l'accoucheuse ou les autres personnes qui ont assisté à l'accouchement ou chez qui l'accouchement a eu lieu.
+Texte:
+La déclaration de naissance 
+Qui peut la faire? 
+Le père ou la coparente, et la mère, ou l'un d'eux
+Quel Officier de l'état civil est compétent? 
+L'officier de l'état civil du lieu de naissance 
+Dans quel délai? 
+Dans les quinze jours qui suivent celui de la naissance. Lorsque le dernier jour de ce délai est un samedi, un dimanche, ou un jour férié légal, le délai est prolongé jusqu'au premier jour ouvrable qui suit.
+Quid si le délai est dépassé? 
+Lorsqu'aucune déclaration n'a été faite dans les délais, ou, lorsque les parents s'abstiennent de la faire, l'officier de l'état civil établit l'acte de naissance sur la base de la notification de la naissance.
+L'officier de l'état civil établit l'acte de naissance sans délai. 
+NB: Les déclarations de naissance électroniques pourront être prévues par Arrêté Royal.
+Texte:
+Les champs obligatoires de l'acte de naissance
+ la date de naissance, le lieu de la naissance, l'heure de la naissance, le sexe, le nom et les prénoms de l'enfant ;
+ le nom, les prénoms, la date de naissance et le lieu de naissance de la mère et du père, si la filiation paternelle est établie, ou de la coparente, si la filiation à l'égard de celle-ci est établie;
+  le cas échéant, le numéro d'acte de l'acte de reconnaissance prénatale, ou la reconnaissance par le père ou la coparente, en mentionnant :
+    le consentement des personnes visées à l'article 329bis;
+    le nom et les prénoms du représentant légal de l'enfant lorsqu'il a consenti à la reconnaissance;
+    la date, le lieu et l'autorité où le consentement a été donné, ou l'autorité judiciaire, la date et le numéro d'identification de la décision judiciaire passée en force de chose jugée dans laquelle le consentement a été constaté.
+Texte:
+La question de l'enfant trouvé
+La problématique des enfants trouvés est extrêmement rare. Il s'agit de la découverte d'un enfant nouveau-né totalement abandonné et sans aucune information sur son identité. 
+Toute personne qui a trouvé un enfant nouveau-né en informe sans délai les services publics de secours et leur communique toutes les informations utiles à cet égard.
+Le service de secours déclare la naissance de l'enfant abandonné à l'officier de l'état civil.
+L'officier de l'état civil établit l'acte de naissance. 
+Le procès-verbal de la police est enregistré en tant qu'annexe dans la BAEC.
+Texte:
+Les consentements qui doivent figurer dans l'acte de naissance
+L'article 329bis précise les différents consentements qui doivent être donnés lors de l'établissement de la filiation.
+Lors d'une déclaration de naissance, il s'agira simplement du consentement de la mère (1er parent) à ce que le père ou la coparente (2ème parent) reconnaisse l'enfant. Ce consentement ne devra donc pas figurer dans l'acte si la filiation du 2ème parent est établie par présomption de filiation (mariage) ou s'il n'y a pas de 2ème parent.
+Question:
+Avez-vous tout compris? 
+Par qui l'acte de naissance est-il établi?
+Option de réponse:
+Par l'Officier de l'état civil de la commune de résidence de la mère.
+Option de réponse:
+Par l'Officier de l'état civil de la commune de naissance de l'enfant.
+Option de réponse:
+Par l'Officier de l'état civil de la commune de résidence de l'un des deux parents.
+Option de réponse:
+Par l'Officier de l'état civil de la commune de résidence de l'une des parties ou de la commune de naissance de l'enfant.
+Feedback si réponse incorrecte:
+Selon l'article 42 du Code civil,  c'est l'Officier de l'état civil du lieu de naissance qui sera informé de la naissance par une attestation médicale.
+Le ou les parents, suivant l'article 43, déclareront l'enfant auprès de l'officier de l'état civil du lieu de naissance.
+Feedback si réponse correcte:
+Bravo!
+Question:
+Quel est le délai légal pour établir l'acte de naissance?
+Option de réponse:
+15 jours ouvrables
+Option de réponse:
+15 jours calendrier. Si le dernier jour du délai tombe un samedi, un dimanche ou un jour férié légal, la déclaration est avancée au dernier jour ouvrable.
+Option de réponse:
+15 jours calendrier. Si le dernier jour du délai tombe un samedi, un dimanche ou un jour férié légal, la déclaration est reportée au premier jour ouvrable suivant.
+Feedback si réponse incorrecte:
+La bonne réponse est: 15 jours calendrier. Si le dernier jour du délai tombe un samedi, un dimanche ou un jour férié légal, la déclaration est reportée au premier jour ouvrable suivant.
+Feedback si réponse correcte:
+Bravo!
+Question:
+Les parents s'abstiennent de faire la déclaration, comment l'Officier de l'état civil établira-t-il l'acte de naissance?
+Option de réponse:
+Sur base de la notification de naissance. En ce compris, les données du prénom. Si des données viennent à manquer à charge des parents de saisir le tribunal pour rectifier ce qui doit l'être.
+Option de réponse:
+Il n'établit pas d'acte de naissance sans avoir recueilli l'avis du procureur du Roi.
+Option de réponse:
+Il ne mentionne que les données relatives à l'enfant et à sa mère.
+Feedback si réponse incorrecte:
+Dans tous les cas, à la fin du délai légal, l'Officier de l'état civil est tenu d'établir l'acte de naissance, il ne doit pas demander l'avis au Procureur du Roi.
+L'acte sera établi sur base de la notification de naissance et sur base de l'article 62 du Code droit international privé. A savoir, l'établissement des filiations maternelle et paternelle.
+Feedback si réponse correcte:
+C'est exact! 
+Dans tous les cas, à la fin du délai légal, l'Officier de l'état civil est tenu d'établir l'acte de naissance, il ne doit pas demander l'avis au Procureur du Roi.
+L'acte sera établi sur base de la notification de naissance et sur base de l'article 62 du Code droit international privé. A savoir, l'établissement des filiations maternelle et paternelle.
+Question:
+L'acte de naissance mentionnera les informations relatives à la date de naissance, à l'heure de naissance, au lieu de naissance, le sexe, le nom et les prénoms de l'enfant.
+L'identité complète de la mère de l'enfant sera également mentionnée dans l'acte naissance.
+En cas de reconnaissance avant la naissance :
+Option de réponse:
+L'identité complète du second parent sera mentionnée dans l'acte de naissance.
+Option de réponse:
+L'identité complète du second parent ainsi que la référence BAEC de l'acte de reconnaissance seront mentionnées dans l'acte de naissance.
+Option de réponse:
+La référence BAEC de l'acte de reconnaissance sera mentionnée dans l'acte sans faire référence au père étant donné que le lien est effectué sur base de la reconnaissance
+Feedback si réponse incorrecte:
+L'acte naissance mentionnera toujours l'identité du second parent si cette filiation est établie. Le numéro BAEC de l'éventuel acte de reconnaissance prénatale figurera aussi sur l'acte de naissance.
+Feedback si réponse correcte:
+Bonne réponse !
+Texte:
+Cas particulier: l'absence de prénom pour l'enfant. 
+Lisez l'extrait suivant:
+Légende, image (150 caractères maximum):
+Question:
+Quelle conclusion pouvez-vous en tirer?
+Feedback:
+Cela signifie que si la notification de naissance ne mentionne aucun prénom pour l'enfant et que les parents n'ont pas pu être contacté, l'Officier de l'état civil pourra établir l'acte naissance sans le prénom de l'enfant.
+Dans ce cas, la case "prénom" sera remplie par #NOFIRSTNAME#.
+Si l'enfant est belge, les parents pourront rectifier le prénom suivant la procédure du changement de prénom.
+Si l'enfant est étranger, les parents pourront rectifier le prénom suivant la procédure visé à l'article 35 du Code civil. C'est-à-dire la procédure judiciaire. 
+Ils peuvent également choisir la procédure de changement de prénom conformément à la loi nationale de l'enfant.
+Titre, accordéon:
+Bases légales concernant l'absence de prénom de l'enfant dans l'acte de naissance
+Titre, page:
+L'établissement de filiation.
+Texte, instruction:
+En droit belge, il y a plusieurs types de filiation: 
+établie dans un acte; 
+établie judiciairement. 
+En droit belge, la filiation maternelle ne concerne que des femmes. 
+La seconde filiation, par contre, peut concerner des hommes (filiation paternelle) ou des femmes (filiation de la coparente).
+Texte, introduction:
+L'article 62 §1er du Code de droit international privé prévoit que l'établissement du lien de filiation à l'égard d'une personne est régi par le droit de l'état dont cette personne à la nationalité.
+Il est donc indispensable de garder à l'esprit que la filiation est toujours déterminée par le droit national de l'auteur. 
+Si la mère est belge, le droit qui est appliqué à la filiation sera le droit belge. Si elle est russe, ce sera le droit russe. La nationalité du père,  de la coparente ou de l'enfant n'a aucune importance pour la détermination du droit appliqué à la filiation de la mère.
+Si le père ou la coparente est belge, le droit appliqué à la filiation sera le droit belge. S'il ou elle est brésilien(ne), ce sera le droit brésilien. Ici également, la nationalité de la mère ou de l'enfant n'a aucune importance pour la détermination du droit appliqué à sa filiation. 
+Cet aspect est très important pour la suite car les droits familiaux dans le monde sont très variés.
+Texte:
+Ce principe relève du droit international privé et est la première question qu'il faut se poser face à un dossier. 
+En pratique: 
+Si la mère est mariée, il faudra examiner la nationalité de son époux ou de son épouse. Si le droit national de cette personne prévoit une présomption de filiation par mariage et des exceptions, il y aura lieu d'appliquer ce droit. 
+Si la mère n'est pas mariée, la reconnaissance devra s'effectuer en vertu de la nationalité de la personne qui souhaite reconnaitre l'enfant.
+La loi belge ne sera appliquée que si l'auteur présumé ou le déclarant est belge ou assimilé (réfugié ou apatride). Dans le cas, contraire il y a lieu de s'assurer de prendre connaissance de la loi étrangère afin de suivre les règles quant à l'établissement de cette filiation.

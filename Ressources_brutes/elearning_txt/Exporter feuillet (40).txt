@@ -1,0 +1,186 @@
+L'adoption
+Nom:
+L'adoption
+Description:
+Titre, page:
+BAEC - Adoption
+Texte, instruction:
+Texte, introduction:
+Ce module est subdivisé en 7 chapitres, qui sont : 
+Vérifications préliminaires
+Mentions obligatoires
+L'acte d'adoption nationale
+Dresser l'acte d'adoption nationale
+L'acte d'adoption internationale
+Dresser l'acte d'adoption internationale
+Documents à délivrer
+Texte:
+1.  Vérifications préliminaires :
+L'OEC compétent est celui du lieu d'inscription soit
+- de l'adopté(e)
+- de l'adoptant ou des adoptants
+- à défaut Bruxelles
+Remarques :
+- L'acte d'adoption prouve la création du lien de filiation entre l'adopté et son/ses nouveau(x) parent(s).
+- L'acte d'adoption internationale fait preuve de la reconnaissance de la décision étrangère par l'autorité centrale fédérale (A.C.F.).
+- L'acte d'adoption peut remplacer un acte de naissance s'il s'agit d'une adoption internationale.
+2. Mentions obligatoires :
+- Concernant le(s) adoptant(s) et l'adoptant : le(s) nom(s), le(s) prénom(s), la date de naissance et le lieu de naissance
+- Le nouveau nom et éventuellement le nouveau prénom
+- La sorte d'adoption : simple ou plénière
+- Suivant le cas, la date de reconnaissance de l'adoption étrangère par l'ACF
+Texte:
+3.  L'acte d'adoption nationale :
+- Vous recevez du tribunal la demande d'intégration via les notifications de la BAEC.
+- Vérifiez que l'acte de naissance de l'adopté se trouve en final dans la BAEC.
+- Vérifiez que les données correspondent entre le jugement, l'extrait et la copie dans la BAEC et au RN.
+- Si l'acte de l'adopté n'est pas dans la BAEC, il y a lieu de demander la migration complète à la commune de naissance.
+- Si l'adopté est né à l'étranger, il y a lieu d'intégrer en premier lieu l'acte de naissance dans la BAEC (attention aux légalisations éventuelles).
+- Si l'acte n'est pas disponible, intégrez l'adoption sans l'acte de naissance.
+- Au moyen du RN, vérifiez tous les actes qui pourraient concerner l'adopté. Tous ces actes doivent se trouver dans la BAEC avant l'intégration de l'adoption. S'ils ne s'y trouvent pas, demandez la migration complète. Ceci pour que la mention de l'adoption et éventuellement du ou des nouveau nom et prénom(s) se fassent en cascade.
+Texte:
+Dans les notifications, vous trouverez la demande d'intégration.
+Appuyez sur texte pour en connaître la teneur.
+Texte:
+4. Dresser l'acte d'adoption nationale :
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général
+Sous-onglet : Acte
+Type d'acte : Transcription
+OK
+Texte:
+Toujours dans l'onglet général et sous onglet acte.
+Il reste à indiquer le signataire.
+Aux endroits où il y a des flèches, tout se complète automatiquement.
+Texte:
+Toujours dans l'onglet général
+Sous-onglet : BAEC Base d'établissement
+Type de décision : Jugement ou arrêt (selon le cas)
+Catégorie de décision : Acte d'adoption
+Texte:
+Référence de la décision : Numéro de rôle du jugement.
+Autorité : Tribunal ou cour d'appel (selon le cas)
+                    Tapez par exemple : les première lettres de la ville du tribunal et appuyer sur la touche "Tabulation"
+Date de la décision/de l'évènement : date du jugement
+Date d'application : date définitive du jugement
+Date d'enregistrement : date du jour que vous établissez l'acte
+Texte:
+Dans l'onglet : Détail
+Transcription : Adoption (si adoption simple) ou adoption plénière
+Type : Jugement ou arrêt (selon le cas)
+Prise d'effet de l'adoption : date du dépôt de la requête au tribunal
+Requête : Type : à remplir selon le tribunal
+Date : Date de prononcé du jugement
+Code commune : Code de la commune du tribunal
+Texte:
+Scannez le jugement.
+Dans le sous-onglet : BAEC Base d'établissement
+Cliquez sur "Annexer document"
+Texte:
+Créer : Ajoutez votre scan
+BAEC : Document lié à l'original à transmettre à la BAEC
+Type de document : Autre
+Langue du document : Français
+Pays d'origine : code 150
+Texte:
+Dans signalétiques
+Intéressé : remplissez le NN
+Texte:
+S'il y a un changement de nom et/ou prénom(s)
+Cliquez droit sur intéressé : Créer
+Cochez " Nouveau(x) nom(s) / prénom(s)"
+OK
+Texte:
+A partir du : Date du dépôt de la requête
+Nom : Nouveau nom
+Prénoms : Tous les prénoms qu'ils changent ou non suite à l'adoption.
+Texte:
+Signalétiques
+Autre : NN de l'adoptant
+S'il y a un deuxième adoptant, cliquez droit sur signalétiques pour créer un deuxième "Autre"
+Parenté : suivant le cas.
+Texte:
+Dernière remarque avant de valider.
+S'il s'agit d'une adoption plénière d'un seul adoptant (nouveau père ou co-parente) et que la mère biologique doit rester dans la filiation de l'enfant, il faut mettre aussi la mère biologique dans la signalétique en même temps que l'adoptant. Il faut également la mettre dans le menu déroulant "Parenté" comme mère biologique sinon elle disparaîtra de l'acte de naissance.
+Validez avec la flèche verte.
+Brouillon.
+Signature.
+Texte:
+5.  L'acte d'adoption internationale :
+- Vous devriez recevoir : La reconnaissance de l'adoption par le SPF Justice, l'acte de naissance de l'adopté, l'acte d'adoption      de l'adopté.
+- Vérifiez que l'acte de naissance de l'adopté se trouve en final dans la BAEC.
+- Vérifiez que les données correspondent dans la BAEC et au RN.
+- Si l'acte de l'adopté n'est pas dans la BAEC, il y a lieu d'intégrer vous-même l'acte de naissance avant d'intégrer l'acte d'adoption.
+-
+Au moyen du RN, vérifiez tous les actes qui pourraient concerner 
+l'adopté. Tous ces actes doivent se trouver dans la BAEC avant 
+l'intégration de l'adoption. S'ils ne s'y trouvent pas, demandez la 
+migration complète. Ceci pour que la mention de l'adoption et 
+éventuellement du/des nouveaux nom(s) et prénom(s) se fassent en cascade.
+Texte:
+6.  Dresser l'acte d'adoption internationale :
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général
+Sous-onglet : Acte
+Type d'acte : Transcription
+OK
+Texte:
+Toujours dans l'onglet : général
+Registre : Naissances
+Ajoutez le signataire.
+Toutes les données mentionnées avec les flèches s'inscrivent automatiquement.
+Texte:
+Toujours dans l'onglet : Général
+Sous onglet : BAEC Base d'établissement
+Type de décision : Décision étrangère
+Catégorie de décision : Acte d'adoption
+Référence de la décision : Numéro de référence sur les documents du SPF Justice
+Lieu de la décision/de l'évènement : Indiquez 99999 et tapez le lieu de l'adoption
+Code pays : Pays du lieu de l'adoption
+Autorité : Indiquez 99999 et tapez le nom de l'autorité qui a prononcé l'adoption
+Date de la décision/de l'évènement : Numéro de référence sur les documents du SPF Justice
+Date de l'application : Date définitive de l'adoption (ou date de la prise d'effet si pas de date définitive)
+Date d'enregistrement : Date du jour de l'enregistrement dans la BAEC
+Texte:
+Dans l'onglet "Détail"
+Transcription : Adoption (si adoption plénière) ou adoption plénière
+Type : Jugement (ou autre)
+Reconnaissance adoption ACF : Date de reconnaissance de l'adoption par le SPF Justice
+Prise d'effet adoption : Date de prise d'effet indiquée sur les documents du SPF Justice
+Texte:
+Scannez l'adoption.
+Dans l'onglet : Général
+Annexez document
+Texte:
+BAEC : Document lié à l'acte original à transmettre à la BAEC
+Type de document : Document étranger
+Langue du document : Tapez les premières lettres et sélectionnez la langue demandée
+Pays d'origine du document : Tapez les premières lettres et sélectionnez le pays concerné
+Texte:
+Signalétiques : Intéressé : Taper le NN de l'adopté.
+Attention : Les données de l'adopté doivent être ses nom(s) et prénom(s) avant l'adoption.
+Texte:
+S'il y a un changement de nom(s) et/ou prénom(s)
+Cliquez droit sur intéressé et "créer"
+OK
+Texte:
+A partir du : Date de prise d'effet indiquée sur les documents du SPF Justice
+Nom : Nouveau(x) nom(s) attribué(s) à l'adoption
+Prénom : Nouveau(x) prénom(s) attribué(s) à l'adoption
+Texte:
+Signalétiques
+Cliquez sur "autre" et encodez le NN de l'adoptant.
+Parenté
+S'il y a deux adoptants, cliquez droit sur signalétiques pour créer un deuxième "Autre"
+Parenté
+Texte:
+Validez avec la flèche verte.
+Intégrez dans la BAEC.
+Vérifiez bien que les changements ont été faits au RN pour l'adopté.
+Pour les adoptants, vérifiez que les TI 114 ont été faits.
+Texte:
+7. Documents à délivrer :
+Suivant la situation de l'adopté :
+Convoquez l'adopté pour changer sa carte d'identité.
+Certificat de domicile 
+Composition de ménage pour faire les changements aux allocations familiales, la mutuelle, l'école, la banque, etc

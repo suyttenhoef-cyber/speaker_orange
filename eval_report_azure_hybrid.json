@@ -1,0 +1,412 @@
+{
+  "timestamp": "2026-08-18T13:23:48.720961Z",
+  "label": "azure-hybrid",
+  "backend": "azure",
+  "hybrid": true,
+  "full": false,
+  "top_k": 10,
+  "summary": {
+    "n_items": 44,
+    "n_items_with_retrieval_criteria": 41,
+    "recall_raw_pct": 92.7,
+    "recall_filtered_pct": 90.2
+  },
+  "results": [
+    {
+      "id": "etr-01",
+      "matiere": "etrangers",
+      "question": "Une personne beneficiaire de la protection subsidiaire, titulaire d'une carte A, souhaite faire venir son epoux. S'agit-il d'un regroupement familial article 10 ou article 10bis ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "etr-02",
+      "matiere": "etrangers",
+      "question": "Une citoyenne belge n'ayant jamais vecu a l'etranger veut faire venir sa mere en tant qu'ascendante a charge sur base de l'article 40ter. Est-ce possible ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 5
+    },
+    {
+      "id": "etr-03",
+      "matiere": "etrangers",
+      "question": "Combien de temps un ressortissant non europeen peut-il sejourner en Belgique dans le cadre d'un court sejour touristique, et comment se calcule ce delai ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 10
+    },
+    {
+      "id": "etr-04",
+      "matiere": "etrangers",
+      "question": "Un travailleur non europeen a une autorisation de travail illimitee delivree par la region. Cela lui donne-t-il automatiquement un sejour illimite ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 10
+    },
+    {
+      "id": "etr-05",
+      "matiere": "etrangers",
+      "question": "Quelles sont les conditions pour obtenir une carte K (autorisation d'etablissement) ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 7
+    },
+    {
+      "id": "etr-06",
+      "matiere": "etrangers",
+      "question": "Quelle est la difference entre une regularisation sur base de l'article 9bis et sur base de l'article 9ter ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 7
+    },
+    {
+      "id": "etr-07",
+      "matiere": "etrangers",
+      "question": "Un demandeur de protection internationale peut-il travailler des le depot de sa demande ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 5
+    },
+    {
+      "id": "etr-08",
+      "matiere": "etrangers",
+      "question": "Qui reconnait le statut d'apatride en Belgique : l'Office des etrangers ou une autre instance ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "etr-09",
+      "matiere": "etrangers",
+      "question": "Un enfant de 17 ans rejoint son pere qui reside en Belgique sous permis unique. Le titre de sejour du pere est encore valable 18 mois. Quelle sera la validite de la carte A de l'enfant ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 9
+    },
+    {
+      "id": "etr-10",
+      "matiere": "etrangers",
+      "question": "Quels pays sont consideres comme europeens et assimiles pour le droit des etrangers ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 10
+    },
+    {
+      "id": "etr-11",
+      "matiere": "etrangers",
+      "question": "Une personne a introduit une demande de regroupement familial (annexe 19ter) mais n'a pas fourni les preuves de revenus dans le delai de 3 mois. Qui prend la decision de radiation : la commune ou l'Office des etrangers ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 7
+    },
+    {
+      "id": "etr-12",
+      "matiere": "etrangers",
+      "question": "Depuis quand un citoyen europeen doit-il justifier son sejour des l'introduction de sa demande d'inscription, plutot que de disposer d'un delai de 3 mois ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 8
+    },
+    {
+      "id": "etr-13",
+      "matiere": "etrangers",
+      "question": "Un citoyen europeen peut-il etre inscrit au registre d'attente et obtenir son annexe 19 sans qu'une enquete de residence ait ete faite au prealable ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "etr-14",
+      "matiere": "etrangers",
+      "question": "Un Mineur Etranger Non Accompagne (MENA) obtient l'autorisation de sejourner en Belgique. Quel titre de sejour la commune delivre-t-elle et quelle est sa duree ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 9
+    },
+    {
+      "id": "etr-15",
+      "matiere": "etrangers",
+      "question": "Un travailleur saisonnier europeen souhaite prolonger son sejour au-dela de 90 jours sur une periode de 180 jours. Quelle est la procedure ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 9
+    },
+    {
+      "id": "etr-16",
+      "matiere": "etrangers",
+      "question": "Une etudiante etrangere en sejour valide jusqu'au 31 octobre se marie avec un Belge et introduit une demande de regroupement familial article 40ter. La commune doit-elle retirer sa carte etudiante pour la remplacer par une attestation d'immatriculation ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 5
+    },
+    {
+      "id": "etr-17",
+      "matiere": "etat_civil",
+      "question": "Combien coute une demande de changement de prenom aupres de la commune ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 2
+    },
+    {
+      "id": "etr-18",
+      "matiere": "etrangers",
+      "question": "Une ressortissante congolaise deboutee de sa demande d'asile souhaite rejoindre son epoux belge. Peut-elle introduire une demande de regroupement familial directement a la commune malgre son sejour illegal ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 5
+    },
+    {
+      "id": "pop-01",
+      "matiere": "population",
+      "question": "Quelles categories de personnes peuvent beneficier d'une adresse de reference ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 2
+    },
+    {
+      "id": "pop-02",
+      "matiere": "population",
+      "question": "Au bout de combien de temps une radiation d'office peut-elle etre effectuee, et quels formulaires sont utilises ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 3
+    },
+    {
+      "id": "pop-03",
+      "matiere": "population",
+      "question": "Un mineur dont les parents sont separes doit etre inscrit au registre de la population : quels TI et quelle logique s'appliquent ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "pop-04",
+      "matiere": "population",
+      "question": "Comment gerer une enquete de residence dont le resultat est conteste ou juge insuffisant par la commune ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 3
+    },
+    {
+      "id": "pop-05",
+      "matiere": "population",
+      "question": "Une personne detenue doit-elle etre radiee du registre, ou existe-t-il un code specifique pour son absence temporaire ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 4
+    },
+    {
+      "id": "pop-06",
+      "matiere": "population",
+      "question": "Quelle est la procedure pour demander le rappel d'une carte d'identite electronique (eID) avant sa peremption ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 2
+    },
+    {
+      "id": "pop-07",
+      "matiere": "population",
+      "question": "Peut-on delivrer une copie certifiee conforme d'un passeport en ne photocopiant que la page de donnees (data page) ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 2
+    },
+    {
+      "id": "pop-08",
+      "matiere": "population",
+      "question": "Comment une personne protegee par une decision de justice (incapacite) peut-elle signer electroniquement un document si elle ne peut pas utiliser sa carte d'identite ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 3
+    },
+    {
+      "id": "pop-09",
+      "matiere": "population",
+      "question": "Deux menages cohabitent dans un meme logement en colocation. Comment doit-on les inscrire au registre de la population ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 3
+    },
+    {
+      "id": "pop-10",
+      "matiere": "population",
+      "question": "Un logement presente des irregularites de securite ou de salubrite. Une inscription provisoire y est-elle malgre tout possible ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 4
+    },
+    {
+      "id": "ec-01",
+      "matiere": "etat_civil",
+      "question": "Le certificat de coutume est-il obligatoire pour la reconnaissance d'un enfant par un ressortissant etranger ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 4
+    },
+    {
+      "id": "ec-02",
+      "matiere": "etat_civil",
+      "question": "Un mariage est celebre a l'etranger et modifie le nom d'un des epoux d'apres son droit national. Comment cela s'enregistre-t-il en Belgique ?",
+      "recall_raw": false,
+      "n_raw": 10,
+      "recall_filtered": false,
+      "n_filtered": 5
+    },
+    {
+      "id": "ec-03",
+      "matiere": "etat_civil",
+      "question": "Quels documents sont requis pour enregistrer une cohabitation legale avec un ressortissant etranger ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 3
+    },
+    {
+      "id": "ec-04",
+      "matiere": "etat_civil",
+      "question": "Que faire si une declaration de naissance n'a pas ete faite dans le delai de 15 jours ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "ec-05",
+      "matiere": "etat_civil",
+      "question": "Quel acte doit-on dresser pour un deces survenu apres 107 jours de grossesse ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": false,
+      "n_filtered": 3
+    },
+    {
+      "id": "ec-06",
+      "matiere": "etat_civil",
+      "question": "Le fils d'un defunt peut-il recuperer une partie symbolique des cendres de son pere ?",
+      "recall_raw": null,
+      "n_raw": 10,
+      "recall_filtered": null,
+      "n_filtered": 1
+    },
+    {
+      "id": "ec-07",
+      "matiere": "etat_civil",
+      "question": "Une famille reconnue refugiee a des membres portant des noms de famille discordants entre eux. Un changement de nom est-il possible pour harmoniser la fratrie ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "ec-08",
+      "matiere": "etat_civil",
+      "question": "Un enfant est ne d'une mere mariee mais separee depuis 6 mois de son mari ; un autre homme souhaite le reconnaitre avant la naissance. L'officier de l'etat civil peut-il acter cette reconnaissance prenatale ?",
+      "recall_raw": null,
+      "n_raw": 10,
+      "recall_filtered": null,
+      "n_filtered": 7
+    },
+    {
+      "id": "ec-09",
+      "matiere": "etat_civil",
+      "question": "Un changement de prenom equivaut-il uniquement a un changement complet, ou l'ajout/suppression d'un simple accent ou trait d'union compte-t-il deja comme un changement de prenom ?",
+      "recall_raw": null,
+      "n_raw": 10,
+      "recall_filtered": null,
+      "n_filtered": 2
+    },
+    {
+      "id": "ec-10",
+      "matiere": "etat_civil",
+      "question": "Quelles sont les etapes de la procedure de changement d'enregistrement du sexe et de prenom a l'etat civil ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 5
+    },
+    {
+      "id": "stress-01",
+      "matiere": "etat_civil",
+      "question": "Une femme est toujours sur le papier avec son mari (ils vivent chacun de leur cote depuis quelques mois) et un autre homme veut reconnaitre le bebe qu'elle attend. Est-ce faisable avant la naissance ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "stress-02",
+      "matiere": "etat_civil",
+      "question": "Pour se marier en Belgique quand on vit a l'etranger, faut-il forcement un papier qui explique les regles du pays d'origine sur le mariage ?",
+      "recall_raw": false,
+      "n_raw": 10,
+      "recall_filtered": false,
+      "n_filtered": 3
+    },
+    {
+      "id": "stress-03",
+      "matiere": "etrangers",
+      "question": "Un citoyen francais installe en Belgique veut faire venir son papa qui vit toujours en France et qui ne travaille plus, il vit avec l'argent que son fils lui envoie. Est-ce possible ?",
+      "recall_raw": false,
+      "n_raw": 10,
+      "recall_filtered": false,
+      "n_filtered": 10
+    },
+    {
+      "id": "stress-04",
+      "matiere": "etrangers",
+      "question": "Si quelqu'un reste plus longtemps que prevu en zone Schengen a cause de plusieurs petits voyages, comment sait-on s'il a depasse son quota de jours autorises ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 6
+    },
+    {
+      "id": "stress-05",
+      "matiere": "population",
+      "question": "Quelqu'un sans logement fixe peut-il quand meme avoir une adresse officielle quelque part pour recevoir son courrier administratif ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 4
+    },
+    {
+      "id": "stress-06",
+      "matiere": "etrangers",
+      "question": "Un jeune homme reconnu refugie devient majeur juste apres avoir eu 18 ans. Ses parents, restes dans le pays d'origine, peuvent-ils encore venir le rejoindre en Belgique ?",
+      "recall_raw": true,
+      "n_raw": 10,
+      "recall_filtered": true,
+      "n_filtered": 2
+    }
+  ]
+}

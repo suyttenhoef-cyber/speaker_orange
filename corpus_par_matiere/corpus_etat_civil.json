@@ -315,6 +315,62 @@
       "type": "loi",
       "statut": "partiellement_verifie",
       "notes": "Texte source recu le 2026-08-12 (export Vanden Broele Connect, 101 pages, colle integralement par l'utilisateur), conserve dans Ressources_brutes/Nouvelle_loi_communale_24_06_1988.md. La tres grande majorite de ce texte (composition et election du conseil communal, statut du personnel, budget et comptes, tutelle, actions judiciaires, districts intracommunaux...) concerne la gouvernance communale generale et est HORS PERIMETRE pour ce chatbot destine aux agents etat civil/population/etrangers - seuls 2 articles ont ete retenus : art. 154 et 155 (personnel de l'etat civil). L'article 126 (delegation par le bourgmestre/officier de l'etat civil de la delivrance d'extraits, legalisations de signature et certifications conformes), bien que directement pertinent, n'a PAS ete extrait comme entree distincte : son contenu recoupe largement l'article L1123-25 du CDLD, deja indexe dans ce corpus et explicitement documente comme etant la base legale wallonne en la matiere depuis le decret du 14 fevrier 2019 (voir notes du document 'cdld') - dupliquer l'article 126 aurait cree une source concurrente sans clarifier laquelle prevaut. En cas de doute sur ce point precis, se referer a cdld#art_L1123_25."
+    },
+    {
+      "document_id": "code_penal",
+      "titre": "Code penal belge du 8 juin 1867",
+      "type": "loi",
+      "statut": "partiellement_verifie",
+      "notes": "Seul l'article 267 a ete extrait a ce stade (sanction du ministre du culte qui celebre un mariage religieux avant le mariage civil), cite par le module e-learning 'Mariage : mariage frauduleux et mariage religieux' recu le 2026-08-14. Le reste du Code penal est hors perimetre de ce corpus."
+    },
+    {
+      "document_id": "elearning_mariage",
+      "titre": "E-learning \"Le mariage\" (Vanden Broele OrangeConnect - 4 modules : declaration & celebration, generalites, mariage frauduleux/religieux, conclusion & cas pratiques)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 4 fragments de page fusionnes ici). Synthetise des dispositions de l'Ancien Code civil (deja largement indexees separement), la Circulaire du 6 septembre 2013 sur les mariages de complaisance, et le Code de droit international prive. A citer comme formation/pratique, jamais comme texte officiel direct. Seuls les elements non deja couverts par le corpus (empechements 2022, circulaire 2013, art. 27 CoDIP, art. 267 Code penal, art. 162 Ancien Code civil, documents necessaires et cas pratiques multi-nationalite) ont ete extraits comme entrees distinctes - le reste (delai 14 jours, mariage in extremis, certificat de coutume en general...) etait deja present via l'extraction systematique de l'Ancien Code civil et les pratiques validees existantes."
+    },
+    {
+      "document_id": "elearning_filiation",
+      "titre": "E-learning \"Filiation\" (Vanden Broele OrangeConnect - 4 modules)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 4 fragments de page fusionnes ici : Filiation & acte de naissance, Les differents types de filiation, Etablir un acte de reconnaissance et cas particuliers, Mises en situation et conclusion). La grande majorite des articles de l'Ancien Code civil cites (312, 313, 315, 316, 316bis, 319bis, 325/2, 327, 327/1, 327/2, 328, 329bis, 330/1) etaient deja indexes individuellement suite a l'extraction systematique precedente - seul l'art. 318 manquait. La valeur ajoutee de ce module tient surtout dans la synthese pratique (delai de 300/180 jours et son ecartement, indicateurs de reconnaissance frauduleuse et procedure d'enquete en 2 etapes, cas particuliers, procedures quand une partie est a l'etranger) et dans les cas pratiques concrets, non presents sous cette forme dans le texte de loi brut."
+    },
+    {
+      "document_id": "elearning_nom_prenom",
+      "titre": "E-learning \"Nom et prenom\" (Vanden Broele OrangeConnect - 4 modules)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 4 fragments : Historique et droit applicable, Determination et exemples concrets, Changement de nom et de prenom, Determination ou changement de nom a l'etranger + conclusion). La grande majorite du contenu legal (art. 37-39 CoDip, art. 335/335bis/335quater/370-series du Code civil) etait deja indexee suite a l'extraction systematique de l'Ancien Code civil et aux corrections anterieures de cette meme session (incident art. 370/3 vs 370/8/1). Seule la regle de coherence de nom au sein d'une fratrie multipatride (seuils 2014/2018 et effet d'un changement de nationalite d'un parent entre deux naissances) manquait comme synthese pratique - le reste du module a servi a enrichir les exemples des entrees existantes plutot qu'a creer nombre d'entrees redondantes."
+    },
+    {
+      "document_id": "elearning_baec",
+      "titre": "E-learning \"BAEC - Actes de l'etat civil\" (Vanden Broele OrangeConnect - 11 modules)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 11 fragments couvrant naissance, mariage, divorce, deces, reconnaissance, adoption, nationalite, actes modificatifs, integration d'actes etrangers). La tres grande majorite du contenu est soit deja couverte par l'extraction anterieure de l'Ancien Code civil et les modules Mariage/Filiation traites le meme jour, soit constituee d'instructions specifiques a l'outil metier SAPHIR de Civadis (non pertinentes hors de cet outil, non reproduites ici). Seuls les elements reellement nouveaux et generalisables ont ete extraits."
+    },
+    {
+      "document_id": "elearning_deces_funerailles",
+      "titre": "E-learning \"Deces & Funerailles\" (Vanden Broele OrangeConnect - 3 modules)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 3 fragments : Les declarations de deces, Deces - Introduction et base legale, Funerailles & Sepultures). La tres grande majorite du contenu funerailles/sepultures (exhumations, concessions, parcelle des etoiles, rassemblement de restes mortels, convention de Strasbourg...) etait deja couverte par l'extraction anterieure des articles du CDLD (L1232-...) et de nombreuses pratiques validees existantes. Seuls les elements suivants etaient reellement absents : le caractere illegal en Belgique des modes de sepulture 'futurs' (humusation, promession, aquamation, sublimation, cryogenisation), les regles de la partie symbolique des cendres, la duree maximale d'un caveau d'attente, la procedure de deces a bord d'un navire/aeronef belge, la distinction don de materiel corporel humain / don d'organes, et la notification au juge de paix en cas de deces du seul parent/tuteur d'un mineur."
+    },
+    {
+      "document_id": "elearning_changement_sexe",
+      "titre": "E-learning \"Modification de l'enregistrement de sexe\" (Vanden Broele OrangeConnect)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx). Les consequences sur la filiation etaient deja bien couvertes (PV-EC-017, PV-EC-094). Complements ajoutes : procedure complete en 2 etapes (delais precis, silence du Parquet, recours, redemarrage si delai depasse), conditions d'age detaillees, restriction de delivrance des copies/extraits, non-reconnaissance du statut non-binaire en Belgique."
+    },
+    {
+      "document_id": "elearning_responsabilite_oec",
+      "titre": "E-learning \"Responsabilite de l'officier de l'etat civil\" (Vanden Broele OrangeConnect - 2 modules)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx, 2 fragments : Generalites, Analyses detaillees/cas pratiques). Sujet totalement absent du corpus jusqu'ici (le corpus se concentrait sur les procedures cote citoyen, jamais sur la responsabilite juridique des agents/OEC eux-memes). Contenu tres riche (dizaines de cas pratiques) ; seuls les principes generaux et les 3-4 scenarios les plus caracteristiques ont ete extraits, pour eviter une duplication excessive de cas tres similaires entre eux."
     }
   ],
   "articles": [
@@ -751,7 +807,8 @@
       "flag_recent": false,
       "exemples": [
         "IMPORTANT - portee temporelle : ce mecanisme de choix du nom via declaration de choix de droit applicable a ete insere par la loi du 6 juillet 2017, en vigueur seulement depuis le 3 aout 2017 - il n'existait PAS avant cette date (ex: pour un enfant ne en 2015, aucune declaration de choix de droit applicable au nom n'etait possible ; le nom suit alors les regles par defaut des articles 335/335bis)",
-        "NE PAS CONFONDRE avec l art. 335 : cet article 335quater ne cree PAS le mecanisme general du double nom (celui-ci existe depuis la loi du 8 mai 2014, art. 335) - il ajoute uniquement une voie SUPPLEMENTAIRE et distincte, reservee au cas ou un choix de droit etranger applicable au nom a ete fait (art. 39 CODIP)"
+        "NE PAS CONFONDRE avec l art. 335 : cet article 335quater ne cree PAS le mecanisme general du double nom (celui-ci existe depuis la loi du 8 mai 2014, art. 335) - il ajoute uniquement une voie SUPPLEMENTAIRE et distincte, reservee au cas ou un choix de droit etranger applicable au nom a ete fait (art. 39 CODIP)",
+        "Un couple de Belges maries vivant au Maroc a leur 1er enfant : la legislation marocaine impose le nom du pere dans l'acte de naissance etranger, meme si les parents auraient souhaite le nom de la mere ou une combinaison. Solution : une declaration de choix de droit applicable au nom (art. 39 CoDip) peut etre faite aupres du poste consulaire ou des services communaux belges, dans les 5 ans de l'etablissement de l'acte etranger - MAIS seulement si le droit du pays ou l'acte a ete etabli ne prevoit PAS lui-meme de possibilite de choix (ce qui est le cas du Maroc, mais pas par ex. de la France, qui offre deja les memes choix qu'en Belgique)."
       ]
     },
     {
@@ -5832,6 +5889,550 @@
       "commente_par": [],
       "articles_lies": [
         "nouvelle_loi_communale#art_154"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "ancien_code_civil#art_162",
+      "document_id": "ancien_code_civil",
+      "numero": "162",
+      "emplacement": "Livre Ier, Titre V (Du mariage), Chapitre Ier (Des qualites et conditions requises pour pouvoir contracter mariage)",
+      "titre_contexte": "Levee judiciaire des empechements de parente/alliance par alliance et oncle-tante/neveu-niece",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le tribunal peut, par requete unilaterale et pour motifs graves, lever la prohibition de mariage entre les descendants et ascendants PAR ALLIANCE (beau-parent/gendre/bru...), ainsi qu'entre un oncle ou une tante et son neveu ou sa niece. Le tribunal statue apres avoir recueilli l'avis du procureur du Roi. Cette levee n'est PAS possible pour les empechements entre descendants et ascendants DANS LA MEME LIGNEE (parent/enfant/petit-enfant), ni entre membres d'une meme fratrie (freres et soeurs) : ces empechements-la sont absolus, sans possibilite de derogation judiciaire.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_164"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_penal#art_267",
+      "document_id": "code_penal",
+      "numero": "267",
+      "emplacement": "Livre II, Titre relatif aux infractions contre l'ordre public",
+      "titre_contexte": "Sanction penale de la benediction nuptiale religieuse celebree avant le mariage civil",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Est puni d'une amende, tout ministre d'un culte qui procede a la benediction nuptiale (mariage religieux) AVANT la celebration du mariage civil. Exception : en cas de danger de mort imminent pour l'une des personnes, ou tout retard aurait pu rendre la ceremonie impossible. En cas de nouvelle infraction de meme espece, une peine d'emprisonnement de huit jours a trois mois peut s'ajouter a l'amende. Consequence pratique : en Belgique, seul le mariage CIVIL celebre devant l'officier de l'etat civil a une valeur legale ; le mariage religieux n'a aucun effet juridique propre et doit toujours suivre (jamais precede) le mariage civil, sauf exception danger de mort.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "ancien_code_civil#empechements-mariage-synthese",
+      "document_id": "ancien_code_civil",
+      "numero": "empechements-mariage-synthese",
+      "emplacement": "Synthese - conditions de fond du mariage",
+      "titre_contexte": "Empechements au mariage : polygamie, cohabitation legale existante (depuis 2022), lien de parente",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Synthese des principaux empechements au mariage en droit belge : 1) POLYGAMIE : interdite, principe d'ordre public sans exception - l'un des futurs epoux ne peut deja etre sous les liens d'un mariage. Consequence pour un mariage polygame celebre a l'etranger dans un pays qui l'autorise : ce mariage n'est PAS reconnu en Belgique au-dela du 1er mariage - seul le premier mariage celebre pourra etre reconnu, meme si les epoux ont la nationalite d'un Etat autorisant la polygamie. 2) COHABITATION LEGALE EXISTANTE : depuis le 11 MARS 2022, une cohabitation legale en cours constitue un EMPECHEMENT au mariage si les cohabitants ne se marient pas ENTRE EUX. Avant cette date, un cohabitant legal pouvait se marier a une autre personne sans devoir mettre fin a sa cohabitation legale enregistree - ce n'est plus le cas depuis le 11 mars 2022. Point encore discute (notamment a la CPEC) : le cas des personnes etrangeres se mariant a l'etranger tout en ayant une cohabitation legale enregistree en Belgique. 3) LIEN DE PARENTE : le mariage est interdit jusqu'au 3eme degre (descendants/ascendants en ligne directe, alliance, fratrie, oncle-tante/neveu-niece) - autorise des le 4eme degre (cousins/cousines). Pour l'alliance et le lien oncle-tante/neveu-niece uniquement, le tribunal peut lever l'interdiction pour motifs graves (art. 162 Ancien Code civil) ; pas de derogation possible pour la ligne directe ou la fratrie.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_162"
+      ],
+      "flag_recent": false,
+      "exemples": [
+        "Un homme deja marie a l'etranger (pays autorisant la polygamie) epouse une seconde femme dans ce meme pays : seul le premier mariage sera reconnu en Belgique, le second ne produira aucun effet juridique belge",
+        "Deux cohabitants legaux (enregistres en Belgique) veulent se marier ENTRE EUX : pas d'empechement, c'est justement la situation visee comme non-problematique par la reforme du 11 mars 2022"
+      ]
+    },
+    {
+      "entry_id": "elearning_mariage#documents-necessaires-declaration-mariage",
+      "document_id": "elearning_mariage",
+      "numero": "documents-necessaires-declaration-mariage",
+      "emplacement": "Module e-learning Mariage",
+      "titre_contexte": "Documents necessaires a la declaration de mariage : acte de naissance, preuve d'etat civil, preuve de nationalite, certificat de coutume",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Quatre documents sont en principe necessaires a la declaration de mariage (sauf donnee deja disponible dans la BAEC ou au registre national) : 1) ACTE DE NAISSANCE : disponible dans la BAEC ; ou provenant du pays d'origine avec legalisations/traduction d'usage ; ou delivre par des autorites etrangeres en Belgique pour certains pays sans etat civil fiable (Angola-Cabinda, Soudan du Sud, Somalie, Afghanistan) et alors legalise par le SPF Affaires etrangeres ; a defaut, un acte de notoriete delivre par le juge de paix de la residence principale, ou une prestation sous serment autorisee par le tribunal de la famille. 2) PREUVE DE L'ETAT CIVIL : mentionnee au registre national ; ou acte de naissance tenant lieu de preuve d'etat civil (usage frequent, ex. France/Espagne ou l'acte de naissance est emarge en cas d'union - sans emargement, le citoyen est considere celibataire) ; ou attestation du pays d'origine ; ou declaration sur l'honneur etablie par une autorite etrangere (ex. devant notaire au Royaume-Uni, aupres de l'Ambassade americaine aux Etats-Unis) ; ou extrait specifique (ex. registre des taxes en Suede). En cas de divorce/veuvage non repris au registre national, l'acte ou jugement de divorce, ou l'acte de deces de l'ex-conjoint, suffit. 3) PREUVE DE NATIONALITE : mentionnee au registre national, ou document du pays concerne (parfois lie a la naissance sur le territoire, ex. Bresil, ou au passeport) ; en cas de doute sur l'authenticite, une attestation consulaire en Belgique peut suffire. 4) CERTIFICAT DE COUTUME : document explicatif de la legislation etrangere applicable au mariage (nom/prenoms des epoux apres mariage, delai de viduite, necessite de publier des bans...) - reclame aupres des autorites du pays concerne.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false,
+      "exemples": [
+        "Delai de viduite (idda) au Maroc : fin au moment de l'accouchement pour une veuve enceinte ; 4 mois et 10 jours pour une veuve non enceinte ; variable (3 periodes intermenstruelles ou 3 mois) pour une femme divorcee ou repudiee selon sa situation menstruelle",
+        "Publication des bans obligatoire pendant 10 jours en France avant etablissement de l'acte de mariage",
+        "Apres le mariage, les epoux peuvent choisir de garder leur propre nom, prendre le nom de l'autre conjoint, ou ajouter le nom de l'autre au leur - selon ce que permet leur(s) loi(s) nationale(s) respective(s), a verifier via le certificat de coutume"
+      ]
+    },
+    {
+      "entry_id": "elearning_mariage#mariage-complaisance-indicateurs-procedure",
+      "document_id": "elearning_mariage",
+      "numero": "mariage-complaisance-indicateurs-procedure",
+      "emplacement": "Module e-learning Mariage",
+      "titre_contexte": "Mariage de complaisance (blanc ou gris) : indicateurs (Circulaire du 6 septembre 2013) et procedure d'enquete complementaire",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "DISTINCTION : le mariage BLANC est une union ou les deux parties sont d'accord pour offrir le sejour a l'une d'elles, en toute connaissance de cause de part et d'autre. Le mariage GRIS (plus difficile a detecter) est une union ou une partie est reellement amoureuse tandis que l'autre profite de sa naivete pour obtenir un avantage de sejour. INDICATEURS retenus par la Circulaire du 6 septembre 2013 (elements A COMBINER, aucun n'est a lui seul determinant) : les parties ne se comprennent pas/ont besoin d'un interprete ; elles ne se sont jamais rencontrees avant la declaration ; l'une cohabite durablement avec quelqu'un d'autre ; elles ne connaissent pas le nom ou la nationalite l'une de l'autre ; l'une ne sait pas ou l'autre travaille ; divergence manifeste dans les recits des circonstances de la rencontre ; une somme d'argent est promise pour le mariage ; l'un des deux se livre a la prostitution ; l'une des parties a deja ouvert un droit au regroupement familial par mariage/cohabitation legale a une ou plusieurs personnes ; tentative(s) anterieure(s) de mariage/cohabitation de complaisance ; echec de toutes les tentatives legales de s'etablir en Belgique ; intervention d'un intermediaire ; grande difference d'age. L'OEC peut se fonder sur des declarations/temoignages verifies, des ecrits, ou des enquetes de police. PROCEDURE D'ENQUETE COMPLEMENTAIRE (duree totale possible : 5 MOIS apres signature de la declaration) : accuse de reception aux interesses (delai admin. 1 mois) ; l'OEC previent l'Office des etrangers ; a reception de l'avis de l'OE (ou a defaut de reponse), l'OEC fixe une date de mariage puis SURSOIT a la celebration pour avis du Parquet ; dossier transmis au Procureur du Roi, interesses prevenus d'une surseance de 2 MOIS ; le Procureur peut prolonger cette enquete de 3 MOIS supplementaires (interesses prevenus) ; avant la fin du delai, l'OEC prend sa decision (marier ou refuser) - l'avis du Procureur du Roi ne LIE PAS l'OEC, c'est lui qui decide en dernier ressort. En cas de REFUS : lettre motivee envoyee par recommande ou contre accuse de reception, mentionnant les raisons du refus ET le droit de recours (1 MOIS, devant le tribunal de la famille) ; la decision de refus est egalement transmise au Procureur du Roi et a l'Office des etrangers.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_mariage#mariage-etranger-sejour-illegal-precaire",
+      "document_id": "elearning_mariage",
+      "numero": "mariage-etranger-sejour-illegal-precaire",
+      "emplacement": "Module e-learning Mariage",
+      "titre_contexte": "Declaration de mariage impliquant un etranger en sejour illegal/precaire : transmission Office des etrangers (Circulaire du 6 septembre 2013)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsque la declaration de mariage concerne un etranger en sejour ILLEGAL ou PRECAIRE, l'officier de l'etat civil doit transmettre les informations a l'Office des etrangers, conformement a la Circulaire du 6 septembre 2013. Dans un delai de 30 JOURS, l'Office des etrangers transmet l'historique detaille de chaque interesse, ce qui aide l'OEC a apprecier un eventuel risque de mariage simule. Sur cette base, l'OEC peut decider de suspendre la signature de la declaration de mariage, ce delai lui permettant de prendre la decision la plus adaptee sur la suite a donner au dossier.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "ancien_code_civil#art_318",
+      "document_id": "ancien_code_civil",
+      "numero": "318",
+      "emplacement": "Livre Ier, Titre VII (De la filiation), Chapitre II (Etablissement de la filiation)",
+      "titre_contexte": "Reconnaissance d'un enfant mort-ne, mort ou a naitre",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La reconnaissance d'un enfant MORT-NE n'est PAS possible. En revanche, la reconnaissance d'un enfant DEJA MORT (apres etre ne vivant) est possible, de meme que la reconnaissance d'un enfant A NAITRE (reconnaissance prenatale, des qu'un medecin ou une sage-femme atteste de la grossesse).",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_filiation#filiation-presomption-delai-300-jours",
+      "document_id": "elearning_filiation",
+      "numero": "filiation-presomption-delai-300-jours",
+      "emplacement": "Module e-learning Filiation",
+      "titre_contexte": "Presomption de filiation par mariage : delai de 180/300 jours et conditions concretes d'ecartement",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "En droit belge, l'enfant ne pendant le mariage ou dans les 300 JOURS qui suivent la dissolution ou l'annulation du mariage a pour pere/parent l'epoux ou l'epouse de la mere (art. 315 et 325/2 du Code civil). Le delai de 300 jours correspond a la duree maximale d'une grossesse en droit belge (une grossesse dure legalement entre 180 et 300 jours). L'epoux(se) de la mere SERA considere(e) comme le second parent : si les epoux sont maries et domicilies a la meme adresse ; si maries mais domicilies separement depuis MOINS de 300 jours avant la naissance ; si l'enfant nait moins de 300 jours apres l'ordonnance/le jugement autorisant une residence separee ; si l'enfant nait plus de 180 jours apres la fin d'une telle mesure ; si la demande de divorce par consentement mutuel a ete deposee moins de 300 jours avant la naissance ; si l'epoux(se) est decede(e) depuis moins de 300 jours avant la naissance ; si les epoux sont divorces depuis moins de 300 jours (sans separation de domicile de plus de 300 jours avant la naissance). L'epoux(se) NE SERA PAS considere(e) comme second parent : si maries mais domicilies separement depuis PLUS de 300 jours avant la naissance ; si divorces depuis plus de 300 jours ; si decede(e) depuis plus de 300 jours ; si l'enfant nait plus de 300 jours apres l'ordonnance/le jugement de residence separee ; si l'enfant nait moins de 180 jours apres la fin d'une telle mesure ; si la demande de divorce par consentement mutuel a ete deposee plus de 300 jours avant la naissance. ATTENTION : si les epoux n'ont JAMAIS reside officiellement ensemble, ces principes d'ecartement ne s'appliquent PAS (il n'y a pas de 'separation active' au sens de cette regle) - la presomption de filiation s'applique normalement. Autre point important : la date de reference est la naissance de l'ENFANT, pas la date de la declaration de naissance - attendre 300 jours avant de declarer un enfant deja ne n'a aucun effet sur l'application de la presomption. En pratique, il faut : verifier les adresses au registre national ; demander si une demande de divorce par consentement mutuel a ete deposee ; examiner si un jugement a ete rendu quant au domicile des parties. CAS PARTICULIER - concours de presomption : si l'enfant nait dans les 300 jours suivant la dissolution du premier mariage MAIS que la mere s'est deja remariee, c'est le NOUVEAU conjoint qui sera considere comme le second parent. L'article 316bis du Code civil permet en outre d'ecarter la seconde filiation par declaration commune de la mere et de son conjoint devant l'OEC (au moment de la naissance uniquement, pas avant) si les conditions de separation ci-dessus sont remplies. IMPORTANT - droit etranger : cette regle du delai de 300/180 jours est celle du DROIT BELGE. Si l'epoux(se) de la mere n'est PAS belge, c'est sa loi nationale (art. 62 du Code DIP) qui determine si et comment la seconde filiation par presomption s'etablit - les seuils et regles varient largement d'un pays a l'autre (ex. delai de 44 semaines au lieu de 300 jours dans certains droits etrangers).",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_315",
+        "ancien_code_civil#art_325_2",
+        "ancien_code_civil#art_316bis"
+      ],
+      "flag_recent": false,
+      "exemples": [
+        "Une mere mariee et separee (au sens du registre national) depuis 6 mois se presente avec un autre homme que son mari pour une reconnaissance PRENATALE : impossible d'acter la reconnaissance a ce stade - l'ecartement de la presomption ne peut s'apprecier qu'AU MOMENT DE LA NAISSANCE (la situation peut encore changer d'ici la : les epoux pourraient se redomicilier ensemble, ou la naissance pourrait etre declaree conjointement) ; informer les parents de ce qui sera reexamine a la naissance.",
+        "Un enfant nait dans les 300 jours suivant le divorce des parents, mais la mere s'est deja remariee entretemps : c'est le NOUVEAU mari qui est presume second parent, pas l'ex-mari."
+      ]
+    },
+    {
+      "entry_id": "elearning_filiation#reconnaissance-frauduleuse-indicateurs-procedure",
+      "document_id": "elearning_filiation",
+      "numero": "reconnaissance-frauduleuse-indicateurs-procedure",
+      "emplacement": "Module e-learning Filiation",
+      "titre_contexte": "Reconnaissance frauduleuse (avantage de sejour) : indicateurs de suspicion et procedure d'enquete en 2 etapes",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La fraude visee par l'art. 330/1 du Code civil ne concerne QUE la reconnaissance dont l'intention UNIQUE est d'obtenir un avantage de SEJOUR - pas les autres motifs discutables (ex. reconnaissance pour un avantage successoral, qui n'est pas une fraude au sens de cette regle, meme si elle peut etre denoncee au Procureur du Roi par ailleurs). INDICATEURS de suspicion (combines, aucun n'est determinant seul) : le declarant a reconnu un grand nombre d'enfants chez plusieurs partenaires ; les deux parties ne se sont jamais rencontrees avant la declaration ; elles ne connaissent pas leur nom ou nationalite respectifs ; elles n'ont pas eu de relation affective/vie commune ; aucune chance que le declarant soit le pere biologique selon l'attestation de grossesse ; l'une ignore ou l'autre travaille ; divergence manifeste sur les circonstances de la rencontre ; une partie est en position sociale precaire (ex. mere isolee) ; le declarant est marie/vit avec une autre personne ; somme d'argent promise ; caractere organise (intermediaire) ; tentative(s) anterieure(s) de mariage/cohabitation/reconnaissance de complaisance ; echec de toutes les tentatives legales de s'etablir en Belgique (sejour precaire/illegal, refus anterieurs, ordre de quitter le territoire) ; difference d'age importante (declarant-enfant ou declarant-autre parent). PROCEDURE EN 2 ETAPES DISTINCTES : 1) DECLARATION de reconnaissance : si doute sur la VALIDITE des documents (pas encore sur la fraude), l'OEC dispose d'un delai d'1 MOIS (prolongeable de 2 MOIS supplementaires) pour analyser, en accusant reception - SEUL LE DECLARANT est prevenu de cette prolongation. Un refus de signer la declaration doit etre motive et notifie, avec un droit de recours d'1 mois devant le tribunal de la famille. 2) ACTE de reconnaissance : c'est a CE stade que le caractere frauduleux (avantage de sejour) est examine. En cas de doute, l'OEC peut directement refuser ou SURSEOIR pour enquete complementaire : delai de 2 MOIS, prolongeable de 3 MOIS supplementaires si le Procureur du Roi est saisi - TOUS LES INTERESSES (pas seulement le declarant) doivent etre prevenus de cette prolongation. Si le delai est depasse sans decision, la reconnaissance doit etre actee D'OFFICE (une action en annulation pour fraude reste possible ensuite devant le tribunal de la famille). L'OEC peut se fonder sur des declarations/temoignages verifies, des ecrits, ou des enquetes de police demandees par le ministere public.",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_330_1"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_filiation#filiation-cas-particuliers",
+      "document_id": "elearning_filiation",
+      "numero": "filiation-cas-particuliers",
+      "emplacement": "Module e-learning Filiation",
+      "titre_contexte": "Cas particuliers de filiation : refus de consentement, erreur sur le parent repris dans l'acte, droit national ne permettant pas la filiation",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "1) REFUS DE CONSENTEMENT : si la mere ou l'enfant refuse de consentir a l'etablissement de la filiation, toutes les parties sont entendues en chambre du conseil - si un accord y est trouve, la reconnaissance peut etre actee ; si le refus est juge ABUSIF par le juge, sa decision peut REMPLACER le consentement manquant. Si c'est le SECOND PARENT qui refuse de consentir (ex. a une contestation), la mere ou l'enfant peuvent entamer une ACTION EN RECHERCHE DE PATERNITE devant le tribunal de la famille. 2) PARENT REPRIS PAR ERREUR DANS L'ACTE : un homme peut se retrouver repris comme pere dans l'acte de naissance alors qu'il beneficiait seulement d'une presomption de paternite qui ne correspond pas a la realite ; une mere peut etre reprise a tort si c'est son nom qui figurait dans la notification hospitaliere. Dans ces cas, il appartient aux parties d'introduire une ACTION EN CONTESTATION DE PATERNITE ou DE MATERNITE devant le tribunal de la famille. 3) MARIAGE DE LA MERE NON REPRIS AU REGISTRE NATIONAL : si le registre national d'une mere n'est pas a jour (mariage non enregistre ou en cours de reconnaissance dans une autre procedure), ce mariage inconnu ne peut pas etre pris en compte et la presomption de filiation ne pourra pas etre indiquee sur l'acte - il faudra RECTIFIER l'acte de naissance une fois la situation regularisee. 4) DROIT NATIONAL DU SECOND PARENT NE PERMETTANT PAS LA FILIATION : si le droit national de la coparente ne prevoit ni presomption ni possibilite de reconnaissance pour elle, la seule voie possible est l'ADOPTION.",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_filiation#reconnaissance-partie-a-letranger",
+      "document_id": "elearning_filiation",
+      "numero": "reconnaissance-partie-a-letranger",
+      "emplacement": "Module e-learning Filiation",
+      "titre_contexte": "Reconnaissance lorsqu'une partie (mere, enfant ou pere) se trouve a l'etranger",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "SI LA MERE EST A L'ETRANGER : si la presomption de paternite joue, l'acte de naissance peut etre reconnu directement, sans formalite specifique de sa part. Si une reconnaissance est necessaire, la mere doit faire etablir par un notaire un ACTE DE CONSENTEMENT SPECIAL ET AUTHENTIQUE (pas une simple procuration) autorisant le pere a reconnaitre l'enfant ; elle peut aussi donner PROCURATION a une tierce personne pour consentir a sa place devant l'OEC belge. SI L'ENFANT EST A L'ETRANGER : aucune formalite specifique si l'enfant a MOINS de 12 ans (son absence physique ne change rien). S'il a PLUS de 12 ans et doit consentir, il suit la meme demarche que celle prevue pour la mere a l'etranger (acte authentique ou procuration). SI LE PERE EST A L'ETRANGER : il peut soit reconnaitre l'enfant directement a l'etranger (sous reserve de reconnaissance ulterieure de l'acte etranger en Belgique, cf. art. 27 CoDIP - fraude a la loi art. 18 et ordre public art. 21), soit faire etablir une PROCURATION SPECIALE ET AUTHENTIQUE autorisant une personne a le representer pour la reconnaissance devant l'OEC belge. Rappel general (Circulaire du 24 aout 2020) : un acte de naissance ou de reconnaissance etabli a l'etranger doit toujours etre muni des legalisations requises et, le cas echeant, d'une traduction.",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [
+        "code_dip#art_27"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_filiation#ecartement-presomption-moment-naissance",
+      "document_id": "elearning_filiation",
+      "numero": "ecartement-presomption-moment-naissance",
+      "emplacement": "Module e-learning Filiation",
+      "titre_contexte": "Reconnaissance prenatale impossible tant que la mere est mariee : l'ecartement de la presomption de paternite/comaternite ne s'apprecie qu'a la naissance",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsqu'une mere est MARIEE (meme separee dans les faits ou au registre national) et se presente AVANT LA NAISSANCE (reconnaissance prenatale) avec un homme different de son mari pour faire reconnaitre l'enfant a naitre, l'officier de l'etat civil NE PEUT PAS ACTER cette reconnaissance prenatale, quelle que soit la duree de la separation (meme 6 mois, meme proche de 300 jours). La raison : l'ecartement de la presomption de paternite/comaternite par mariage (voir les conditions de separation/delai) ne peut s'apprecier QU'AU MOMENT DE LA NAISSANCE de l'enfant, jamais avant. Tant que l'enfant n'est pas ne, la situation peut encore changer : les epoux pourraient se redomicilier ensemble avant la naissance, ou declarer la naissance conjointement, ce qui retablirait la presomption de filiation par mariage malgre la separation anterieure. Conduite a tenir : refuser d'acter la reconnaissance prenatale par un tiers tant que la mere est mariee, et informer les parents que la possibilite d'ecarter la presomption sera reexaminee AU MOMENT DE LA DECLARATION DE NAISSANCE, sur base de la situation reelle a cette date (duree de separation au registre national, jugement de residence separee, demande de divorce deposee depuis plus de 300 jours, etc.).",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_316bis"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_nom_prenom#coherence-nom-fratrie-multipatride",
+      "document_id": "elearning_nom_prenom",
+      "numero": "coherence-nom-fratrie-multipatride",
+      "emplacement": "Module e-learning Nom et prenom",
+      "titre_contexte": "Choix du droit applicable au nom pour une fratrie multipatride : seuils 2014 (droit belge) et 2018 (droit etranger), effet d'un changement d'etat",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsque les parents peuvent choisir entre plusieurs droits nationaux pour determiner le nom de leur enfant multipatride (art. 37 §2 CoDip), ce choix s'impose en principe aussi aux enfants suivants de la meme fratrie, MAIS les regles different selon la date de naissance du premier enfant et selon que le droit belge ou un droit etranger est en cause : EN DROIT BELGE : depuis le 1er JUIN 2014 (art. 335bis du Code civil), les enfants belges d'une meme fratrie doivent porter le meme nom - ce n'etait PAS le cas avant cette date (un premier enfant reconnu apres la naissance pouvait garder le nom de sa mere, puis un enfant ne du mariage ulterieur des memes parents devait porter le nom du pere : deux noms differents dans la meme fratrie). Si le premier enfant est ne AVANT le 1er juin 2014, les parents disposent d'UN AN a partir de la naissance du second enfant pour faire une declaration de choix de nom valable pour LES DEUX enfants aupres de la commune de residence des enfants. EN DROIT ETRANGER (choix de loi applicable) : le choix de loi applicable au nom n'est devenu IRREVOCABLE pour les enfants suivants qu'a partir du 1er JANVIER 2018 - un choix effectue avant cette date n'etait pas definitif. EXCEPTION COMMUNE AUX DEUX REGIMES - CHANGEMENT D'ETAT : si la situation de nationalite des parents CHANGE entre deux naissances (ex. un parent devient belge apres la naissance du premier enfant), et que le nouvel enfant ne se trouve donc PLUS dans les memes conditions de nationalite que ses aines, les parents PEUVENT faire une NOUVELLE declaration de choix de droit applicable pour ce nouvel enfant - la regle de coherence de la fratrie ne s'applique que si la situation reste identique. A l'inverse, si un enfant ulterieur se retrouve dans EXACTEMENT les memes conditions de nationalite que ses aines (aucun changement d'etat des parents entretemps), il devra suivre le meme choix de droit deja effectue pour la fratrie.",
+      "categorie": "etat_civil",
+      "sous_categorie": "nom_prenom",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_335bis",
+        "ancien_code_civil#art_335quater"
+      ],
+      "flag_recent": false,
+      "exemples": [
+        "Couple belgo-espagnol (pere belge, mere espagnole) : pour leur 1er enfant ne en 2021, ils peuvent choisir le droit belge OU le droit espagnol pour le nom (preuve de la nationalite espagnole de l'enfant a l'appui). Pour un 2e enfant ne la meme annee avec les memes parents et la meme double nationalite, ils NE PEUVENT PLUS choisir le droit espagnol si le droit belge a deja ete applique au premier enfant - le droit belge exige la coherence du nom dans la fratrie (art. 335bis).",
+        "Couple congolais dont un des parents devient belge entre la naissance du 1er enfant (2018, droit congolais applique, enfant belgo-congolais) et celle du 2e enfant (2021, enfant toujours belgo-congolais) : le changement d'etat du parent permet aux parents d'effectuer une NOUVELLE declaration de choix de droit applicable pour le 2e enfant (droit belge OU congolais), sans etre lies par le choix fait pour l'aine. Mais si un 3e enfant nait alors que les DEUX parents sont desormais belges, cet enfant n'est plus multipatride (uniquement belge) : c'est automatiquement le droit belge qui s'applique, sans possibilite de choisir le droit congolais."
+      ]
+    },
+    {
+      "entry_id": "elearning_baec#divorce-baec-intervention-oec",
+      "document_id": "elearning_baec",
+      "numero": "divorce-baec-intervention-oec",
+      "emplacement": "Module e-learning BAEC",
+      "titre_contexte": "Divorce dans la BAEC : intervention automatique du Greffe (code 120 au RN), 2 exceptions ou l'OEC doit intervenir",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Depuis la BAEC, le divorce est traite de maniere quasi automatique : le GREFFE du tribunal transmet directement le divorce a la BAEC, ce qui cree automatiquement une mention marginale sur l'acte de mariage present dans la BAEC - l'OEC ne doit PLUS intervenir dans le cas general (simple verification que le CODE 120 au Registre national a bien ete mis a jour, via la notification recue). L'OEC doit cependant encore intervenir lui-meme dans 2 CAS PARTICULIERS : 1) reconnaissance d'une decision de divorce ETRANGERE (verifier la validite de l'acte etranger avant integration) ; 2) divorce prononce en Belgique alors que le MARIAGE a ete celebre a l'ETRANGER et que l'acte de mariage ne se trouve PAS dans la BAEC (l'OEC integre alors le divorce sans pouvoir le relier a l'acte de mariage original). OEC competent pour ces 2 cas : si l'acte de mariage est dans la BAEC, c'est le Greffe qui integre ; sinon, c'est l'OEC du lieu d'inscription des epoux (a defaut, Bruxelles) ; si le divorce est prononce a l'etranger, c'est egalement l'OEC du lieu d'inscription des epoux.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_baec#deces-code17-registre-national",
+      "document_id": "elearning_baec",
+      "numero": "deces-code17-registre-national",
+      "emplacement": "Module e-learning BAEC",
+      "titre_contexte": "Verification de l'existence de dernieres volontes via le code 17 du Registre national",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Pour verifier l'existence de dernieres volontes d'un defunt (a defaut d'attestation fournie par les pompes funebres), l'officier de l'etat civil peut consulter le CODE 17 au Registre national : ce code indique uniquement si des dernieres volontes SONT ou NE SONT PAS enregistrees, mais PAS leur contenu (teneur). Si le code 17 est vide, le defunt n'a rien prevu formellement. Si des dernieres volontes existent, il faut se renseigner aupres de la commune de domicile du defunt, ou les demander aux pompes funebres. RAPPEL : les dernieres volontes enregistrees doivent TOUJOURS etre respectees ; en cas de litige (ex. volontes orales exprimees apres l'enregistrement au RN), la famille doit s'adresser a la Justice de Paix.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_baec#enfant-sans-vie-amenorrhee-vs-conception",
+      "document_id": "elearning_baec",
+      "numero": "enfant-sans-vie-amenorrhee-vs-conception",
+      "emplacement": "Module e-learning BAEC",
+      "titre_contexte": "Acte d'enfant sans vie : attention a la distinction entre duree de grossesse comptee en jours d'amenorrhee vs. jours de conception",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Les seuils de duree de grossesse pour etablir un acte d'enfant sans vie (180 jours = obligatoire ; 140 a 179 jours = sur demande des parents ; moins de 140 jours = acte impossible) sont exprimes en JOURS DE CONCEPTION. Or, le corps medical (hopitaux) exprime souvent la duree de grossesse en semaines/jours D'AMENORRHEE (SA - decompte a partir des dernieres regles, methode obstetricale courante), qui ne correspond PAS au meme point de depart que la conception (decalage d'environ 2 semaines). Si l'attestation hospitaliere est exprimee en amenorrhee, il FAUT imperativement faire la conversion vers des jours de conception avant d'appliquer les seuils de 140/180 jours, sous peine d'erreur sur l'admissibilite de l'acte.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_baec#mariage-oec-competent-declaration",
+      "document_id": "elearning_baec",
+      "numero": "mariage-oec-competent-declaration",
+      "emplacement": "Module e-learning BAEC",
+      "titre_contexte": "OEC competent pour recevoir la declaration de mariage : 5 possibilites",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La declaration de mariage peut etre recue par l'OEC : 1) de la commune ou l'un des futurs epoux est INSCRIT ; 2) de la RESIDENCE ACTUELLE de l'un des futurs epoux ; 3) de la DERNIERE INSCRIPTION en Belgique (si l'un des deux est belge, et si aucun des deux n'est inscrit en Belgique) ; 4) de la commune ou un PARENT jusqu'au DEUXIEME DEGRE d'un futur epoux belge est inscrit (meme condition : aucun des deux epoux inscrit en Belgique) ; 5) a defaut, BRUXELLES (meme condition, et seulement si l'un des deux est belge). Les possibilites 3, 4 et 5 ne sont donc ouvertes QUE si l'un des futurs epoux est belge ET qu'aucun des deux n'est inscrit en Belgique.",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_baec#documents-registres-papier-destruction",
+      "document_id": "elearning_baec",
+      "numero": "documents-registres-papier-destruction",
+      "emplacement": "Module e-learning BAEC",
+      "titre_contexte": "Destruction des anciens registres d'etat civil papier apres migration complete dans la BAEC",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Une fois que TOUS les actes d'un registre papier anterieur au 31 mars 2019 ont ete migres dans la BAEC, ce registre papier ne fait PAS foi indefiniment ni ne doit etre conserve indefiniment par la commune : sa destruction reste possible, mais UNIQUEMENT via les ARCHIVES DE L'ETAT, qui dressent un PROCES-VERBAL DE DESTRUCTION. La commune ne peut donc pas detruire elle-meme ces registres de sa propre initiative.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#modes-sepulture-futurs-illegaux",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "modes-sepulture-futurs-illegaux",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Modes de sepulture 'futurs' (humusation, promession, aquamation, sublimation, cryogenisation) : tous illegaux en Belgique",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Plusieurs modes de sepulture alternatifs sont parfois evoques par les citoyens mais AUCUN n'est actuellement legal en Belgique : l'HUMUSATION (transformation du corps en compost naturel) ; la PROMESSION (lyophilisation, decomposition naturelle acceleree) ; l'AQUAMATION (decomposition acceleree par l'eau, variante ecologique de la cremation) ; la SUBLIMATION (reduction en cendres par l'hydrogene en quelques minutes) ; la CRYOGENISATION (conservation du corps en vue d'une reanimation future). Seuls DEUX modes de sepulture sont autorises en droit belge : l'INHUMATION et la CREMATION (incineration).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#partie-symbolique-cendres",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "partie-symbolique-cendres",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Partie symbolique des cendres du defunt : qui peut la demander, restrictions",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Une PARTIE SYMBOLIQUE des cendres (petite quantite distincte de celles formant la depouille, prelevee pour evoquer la presence du defunt par analogie) peut etre remise, SUR DEMANDE, aux personnes suivantes SEULEMENT : le conjoint OU le cohabitant legal du defunt ; OU, EN L'ABSENCE DE CONJOINT/COHABITANT, UN ENFANT DU DEFUNT, UN PARENT (pere/mere) DU DEFUNT, OU UNE PERSONNE ALLIEE AU DEFUNT AU PREMIER DEGRE (beau-fils, belle-fille, beau-pere, belle-mere). En clair : un ENFANT du defunt (fils ou fille) EST BIEN une personne pouvant demander cette partie symbolique, au meme titre que les propres parents du defunt - ce n'est PAS reserve aux seuls ascendants du defunt. Cette liste reprend la meme notion de proximite que celle utilisee pour definir un ayant-droit en matiere funeraire (conjoint/cohabitant legal, a defaut parents ou allies au 1er degre - CE QUI INCLUT LES ENFANTS -, a defaut au 2eme degre, a defaut jusqu'au 5eme degre). Ces cendres doivent etre deposees dans un recipient FERME et transportees de maniere digne et decente. Elles ne peuvent JAMAIS faire l'objet d'une mention nominative, ni d'une revendication amenant a la creation d'un lieu de sepulture double ou pluriel. En fin de conservation, la personne qui les detient (ou ses ayants-droit) doit se rendre a l'administration communale pour mettre un terme a cette conservation ; les cendres sont alors remises au gestionnaire public pour etre transferees dans un cimetiere (inhumation ou dispersion).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#caveau-columbarium-attente-duree",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "caveau-columbarium-attente-duree",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Caveau ou cellule de columbarium d'attente : duree maximale de 7 semaines, puis inhumation d'office",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsque l'inhumation d'un defunt ne peut avoir lieu immediatement, le gestionnaire public peut placer le cercueil/l'urne dans un caveau ou une cellule de columbarium D'ATTENTE (jamais concessible, entretien a charge du gestionnaire public, aucune identification personnelle du defunt sur ces dispositifs). Procedure : demande au Bourgmestre (ou son delegue), qui delivre une autorisation apres avoir constate l'empechement temporaire. DUREE MAXIMALE : 7 SEMAINES. Apres 5 semaines de depot, le gestionnaire public envoie un courrier recommande a la personne qualifiee pour pourvoir aux funerailles (ou aux proches) rappelant l'obligation de proceder au mode de sepulture choisi avant la fin de la 7e semaine. A defaut, le gestionnaire public fait proceder a l'INHUMATION D'OFFICE (cercueil ou urne) en sepulture NON CONCEDEE durant la 8e semaine suivant le depot. Ce placement peut etre soumis a une redevance communale.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#deces-navire-aeronef-belge",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "deces-navire-aeronef-belge",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Deces a bord d'un navire ou aeronef belge : procedure du proces-verbal du commandant",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "En cas de deces pendant un voyage en mer a bord d'un navire battant pavillon belge, ou d'un aeronef belge en cours de vol, c'est le COMMANDANT qui etablit, aussitot que possible et au plus tard lors du premier abordage ou atterrissage, un PROCES-VERBAL mentionnant les donnees prevues pour un acte de deces (identite du defunt si connue, lieu/date/heure du deces ou de la decouverte du corps). Le deces est egalement consigne sur la liste des passagers. Si le premier lieu d'accostage/atterrissage est en BELGIQUE, le commandant remet le PV a l'officier de l'etat civil le plus proche, qui etablit IMMEDIATEMENT un acte de deces sur cette base (PV joint en annexe dans la BAEC). Si le premier lieu d'accostage/atterrissage est A L'ETRANGER, le commandant transmet le PV au POSTE CONSULAIRE de carriere dont depend ce port ou aeroport.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#don-corps-science-vs-don-organes",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "don-corps-science-vs-don-organes",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Distinction entre le don de materiel corporel humain (legs du corps a la science) et le don d'organes",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Il ne faut PAS confondre ces deux notions distinctes : le DON DE MATERIEL CORPOREL HUMAIN (couramment appele 'legs du corps a la science') consiste a mettre L'ENSEMBLE de sa depouille a la disposition de la medecine (transplantations, enseignement/dissection, fabrication de medicaments, recherche scientifique) - ces dons sont geres ENTIEREMENT par les Facultes de medecine et n'entrent PAS en ligne de compte pour les declarations de dernieres volontes aupres de l'administration communale. Le DON D'ORGANES (pour transplantation) ne met PAS le corps entier a disposition : seuls les organes preleves servent a la transplantation chez des patients en attente, et le corps est rendu a la famille dans les plus brefs delais apres le prelevement. Procedure du legs du corps a la science : document ECRIT, DATE et SIGNE de la main de la personne, remis a l'administration communale au moment de la DECLARATION DE DECES ; il faut verifier qu'un document d'ACCEPTATION du don par l'Universite existe avant de delivrer le permis de transfert du corps (transport vers l'Institut en cercueil, par corbillard).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_deces_funerailles#enfant-sans-vie-nom-attribution-souple",
+      "document_id": "elearning_deces_funerailles",
+      "numero": "enfant-sans-vie-nom-attribution-souple",
+      "emplacement": "Module e-learning Deces & Funerailles",
+      "titre_contexte": "Nom patronymique d'un enfant sans vie (grossesse de 180 jours ou plus) : attribution souple, pas de lien avec la fratrie",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Si les parents en font la demande, un enfant presente sans vie apres une grossesse d'AU MOINS 180 jours (a dater de la conception) peut se voir attribuer un nom patronymique dans l'acte d'enfant sans vie. Particularite importante : cette attribution se fait de maniere SOUPLE - contrairement a la regle de coherence de nom au sein d'une fratrie (art. 335bis du Code civil, applicable aux enfants nes vivants), il n'est PAS necessaire que le nom attribue a un enfant sans vie suive celui de la fratrie, ni que ce nom determine celui des futurs freres et soeurs qui naitraient vivants par la suite. En dessous de 180 jours de grossesse, aucun nom patronymique ne peut etre attribue a l'enfant sans vie. Par ailleurs, un enfant sans vie ne se voit jamais attribuer de numero national, et ne peut pas etre reconnu a posteriori (mais un pere peut neanmoins etre mentionne dans l'acte d'enfant sans vie meme s'il n'etait pas marie a la mere ou n'avait pas fait de reconnaissance).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_deces_funerailles",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_335bis"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_changement_sexe#changement-sexe-procedure-delais",
+      "document_id": "elearning_changement_sexe",
+      "numero": "changement-sexe-procedure-delais",
+      "emplacement": "Module e-learning Modification de l'enregistrement de sexe",
+      "titre_contexte": "Procedure de modification de l'enregistrement de sexe : 2 etapes, delais precis, silence du Parquet, recours",
+      "statut": "en_vigueur",
+      "derniere_modif": "2023-10-01",
+      "texte": "La procedure se deroule en 2 ETAPES : 1) DECLARATION devant l'OEC (ou son delegue), qui transmet le dossier au PARQUET (Procureur du Roi) - PAR E-MAIL avec le dossier scanne. Le Parquet dispose de 3 MOIS pour reagir ; en l'ABSENCE de reaction dans ce delai, cela signifie qu'il n'a AUCUNE objection (silence = accord tacite). 2) COMPARUTION devant l'OEC (ou son delegue), AU PLUS TOT 3 MOIS et AU PLUS TARD 6 MOIS apres la 1ere declaration - c'est a cette occasion que l'acte de changement d'enregistrement de sexe est transcrit dans la BAEC. Depuis le 1er octobre 2023 (loi du 20 juillet 2023), il ne s'agit plus d'une 2e DECLARATION mais d'une simple COMPARUTION. Cette 2e comparution a lieu devant l'OEC aupres duquel la declaration initiale a ete faite, MEME SI le domicile de l'interesse a change entretemps. SI LE DELAI ENTRE LES 2 ETAPES EST DEPASSE (comparution non faite avant les 6 mois), la procedure DOIT ETRE RECOMMENCEE DEPUIS LE DEBUT (nouvelle declaration). EN CAS DE REFUS de l'OEC (suite generalement a un avis negatif du Parquet), une decision MOTIVEE est notifiee SANS DELAI a l'interesse, avec mention de l'avis negatif du Parquet le cas echeant. RECOURS possible devant le TRIBUNAL DE LA FAMILLE dans les 60 JOURS suivant la notification du refus. Depuis la loi du 20 juillet 2023, le PRINCIPE D'IRREVOCABILITE a ete supprime : une personne peut desormais effectuer PLUSIEURS modifications d'enregistrement de sexe au cours de sa vie (auparavant, une seule modification etait possible a vie).",
+      "categorie": "etat_civil",
+      "sous_categorie": "changement_sexe_genre",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_changement_sexe#changement-sexe-conditions-age-eligibilite",
+      "document_id": "elearning_changement_sexe",
+      "numero": "changement-sexe-conditions-age-eligibilite",
+      "emplacement": "Module e-learning Modification de l'enregistrement de sexe",
+      "titre_contexte": "Conditions d'eligibilite pour la modification de l'enregistrement de sexe selon l'age et le statut",
+      "statut": "en_vigueur",
+      "derniere_modif": "2023-10-01",
+      "texte": "Peuvent demander une modification de l'enregistrement de sexe : tout BELGE MAJEUR ; tout BELGE MINEUR EMANCIPE ; tout BELGE MINEUR DE PLUS DE 16 ANS NON EMANCIPE muni d'une ATTESTATION D'UN PEDOPSYCHIATRE (portant sur le DISCERNEMENT du mineur, PAS sur un diagnostic psychiatrique) ET assiste de ses 2 parents (ou representant(s) legal(aux)) qui doivent SIGNER LA DECLARATION et MARQUER LEUR ACCORD lors des 2 rendez-vous (declaration ET comparution) - si les 2 parents ne peuvent comparaitre ensemble, chacun peut comparaitre separement avec le mineur, ou fournir son assistance par procuration speciale et authentique ; si les parents/representant legal REFUSENT d'assister le mineur, celui-ci peut demander au TRIBUNAL DE LA FAMILLE d'etre autorise a agir avec l'assistance d'un TUTEUR AD HOC ; tout ETRANGER inscrit au REGISTRE DE LA POPULATION ou au REGISTRE DES ETRANGERS (PAS le registre d'attente - une personne inscrite uniquement au registre d'attente NE PEUT PAS faire cette demarche). UN MINEUR DE MOINS DE 16 ANS NON EMANCIPE NE PEUT PAS modifier son enregistrement de sexe, meme accompagne de ses parents et muni d'un certificat du pedopsychiatre - il peut en revanche demander un simple CHANGEMENT DE PRENOM des l'age de 12 ans dans le cadre de la loi transgenre (les 2 procedures - changement de prenom et modification de l'enregistrement de sexe - sont totalement INDEPENDANTES l'une de l'autre).",
+      "categorie": "etat_civil",
+      "sous_categorie": "changement_sexe_genre",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false,
+      "exemples": [
+        "Un mineur belge de 15 ans, accompagne de ses parents et muni d'un certificat du pedopsychiatre, peut demander un changement de PRENOM (des 12 ans) mais PAS une modification de l'enregistrement de sexe : il doit attendre d'avoir 16 ans pour cette seconde demarche."
+      ]
+    },
+    {
+      "entry_id": "elearning_changement_sexe#changement-sexe-delivrance-copies-non-binarite",
+      "document_id": "elearning_changement_sexe",
+      "numero": "changement-sexe-delivrance-copies-non-binarite",
+      "emplacement": "Module e-learning Modification de l'enregistrement de sexe",
+      "titre_contexte": "Restriction de la delivrance de copies/extraits d'actes concernant une personne ayant modifie son enregistrement de sexe ; non-reconnaissance du statut non-binaire",
+      "statut": "en_vigueur",
+      "derniere_modif": "2023-10-01",
+      "texte": "Pour PROTEGER LA VIE PRIVEE des personnes ayant modifie leur enregistrement de sexe, la delivrance de copies ou extraits des actes qui les concernent est PLUS RESTREINTE que pour les autres citoyens : SEULES peuvent en demander la delivrance la PERSONNE CONCERNEE elle-meme, son REPRESENTANT LEGAL, ses HERITIERS, ainsi que LEUR NOTAIRE ou LEUR AVOCAT. Cette restriction s'interprete de maniere EXTENSIVE et s'applique aussi aux actes concernant des personnes ayant change de sexe sous l'ancienne loi de 2007 relative a la transsexualite, ou avant 2007 par decision judiciaire. STATUT NON-BINAIRE : la Belgique NE RECONNAIT PAS actuellement officiellement ce statut a l'etat civil (seuls les enregistrements 'homme' ou 'femme' existent), malgre un arret de la Cour constitutionnelle indiquant que la Belgique devrait le reconnaitre - la situation est en periode charniere/transitoire.",
+      "categorie": "etat_civil",
+      "sous_categorie": "changement_sexe_genre",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_responsabilite_oec#responsabilite-oec-cadre-general",
+      "document_id": "elearning_responsabilite_oec",
+      "numero": "responsabilite-oec-cadre-general",
+      "emplacement": "Module e-learning Responsabilite de l'officier de l'etat civil",
+      "titre_contexte": "Cadre general de la responsabilite de l'officier de l'etat civil (penale et civile)",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-01-01",
+      "texte": "L'officier de l'etat civil (OEC) est l'autorite administrative chargee de dresser, conserver et rectifier les actes concernant l'etat des personnes. Sa mission est ENCADREE par la loi (art. 105 de la Constitution : les pouvoirs de l'OEC sont attribues et limites par la loi ; art. 7 du Code civil : l'OEC doit veiller scrupuleusement a toutes les dispositions relatives aux actes de l'etat civil ; art. 16 du Code civil : l'OEC ne mentionne dans un acte que ce qui doit lui etre declare par les parties et ce que la loi impose - il ne peut PAS ajouter des mentions non prevues, meme a la demande insistante d'un citoyen, ex. le nom des grands-parents dans un acte de naissance, qui ne figure pas dans la liste de l'art. 44 du Code civil). Le non-respect de ces regles expose l'OEC a 2 types de responsabilite : 1) PENALE : lorsqu'il enfreint une regle sanctionnee d'une peine (ex. art. 263 du Code penal : amende de 26 a 300 euros pour toute contravention aux dispositions du titre II du Livre Ier du Code civil ; art. 265 du Code penal : amende de 26 a 500 euros pour avoir celebre un mariage sans s'etre assure des consentements requis). L'action est portee devant le juge PENAL. 2) CIVILE : lorsqu'il deroge a une norme legale ou commet une erreur de conduite (ne se comporte pas comme un OEC normalement prudent et diligent) - art. 1382 et suivants du Code civil. L'action en reparation est portee devant le juge CIVIL (tribunaux de l'ordre judiciaire - art. 144-145 de la Constitution).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_responsabilite_oec#responsabilite-double-immunite-agent-administratif",
+      "document_id": "elearning_responsabilite_oec",
+      "numero": "responsabilite-double-immunite-agent-administratif",
+      "emplacement": "Module e-learning Responsabilite de l'officier de l'etat civil",
+      "titre_contexte": "Double immunite de l'agent administratif delegue par l'officier de l'etat civil",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-01-01",
+      "texte": "Dans la plupart des communes, ce sont des AGENTS ADMINISTRATIFS (pas l'OEC lui-meme) qui dressent concretement les actes, sur base d'une AUTORISATION SPECIALE ECRITE octroyee par l'OEC (art. 9 du Code civil). Cette autorisation permet a l'agent d'agir, mais ne constitue PAS un transfert de responsabilite - l'OEC reste responsable du bon etablissement des actes. Ceci se traduit par une DOUBLE IMMUNITE au profit de l'agent : 1ERE IMMUNITE : l'autorisation octroyee a l'agent ne vaut pas delegation de pouvoirs - c'est l'OEC qui reste civilement responsable des actes dresses par l'agent dans le cadre de cette autorisation (y compris pour un refus motive legalement, une erreur materielle, ou un manquement aux conditions legales d'une procedure). 2E IMMUNITE : en droit du travail, lorsqu'un travailleur cause un dommage dans l'execution de son contrat par une FAUTE LEGERE OCCASIONNELLE (faute a laquelle une personne normalement attentive reste exposee, ET qui n'est pas repetitive), c'est l'EMPLOYEUR (la commune) qui repond de cette faute, pas l'agent lui-meme (art. 18 de la loi du 3 juillet 1978 relative aux contrats de travail ; art. 1384 du Code civil).",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_responsabilite_oec#responsabilite-limites-immunite-agent",
+      "document_id": "elearning_responsabilite_oec",
+      "numero": "responsabilite-limites-immunite-agent",
+      "emplacement": "Module e-learning Responsabilite de l'officier de l'etat civil",
+      "titre_contexte": "Limites de la double immunite : quand la responsabilite personnelle de l'agent est engagee",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-01-01",
+      "texte": "La double immunite de l'agent administratif N'EST PAS ABSOLUE. Sa responsabilite PERSONNELLE (civile) peut etre engagee dans 3 cas : 1) LE DOL : faute intentionnelle supposant une volonte de nuire (ex. refuser d'acter une declaration de naissance par pure colere personnelle, sans aucune base legale ; modifier deliberement un prenom sur une carte d'identite par plaisanterie). 2) LA FAUTE LOURDE : faute a ce point grossiere et excessive qu'elle est inexcusable (ex. dresser sciemment un acte de naissance en sachant que les conditions legales ne sont pas remplies, pour 'rendre service' a un citoyen ; refuser de reconnaitre un acte etranger pour des motifs purement ideologiques/personnels sans aucun element de droit). 3) LA FAUTE LEGERE A CARACTERE HABITUEL : faute legere mais REPETITIVE dans le chef de l'agent (par opposition a une faute legere occasionnelle, qui reste couverte par la 2e immunite). Dans ces 3 cas, une action en dommages et interets peut etre intentee CONTRE L'AGENT lui-meme (action principale, ou action RECURSOIRE si l'employeur/l'OEC est d'abord cite en justice et fait ensuite intervenir l'agent responsable). En dehors de ces 3 cas (faute legere occasionnelle, simple erreur materielle, refus motive legalement), SEULE la responsabilite de l'OEC (pour les actes) ou de l'employeur/commune (pour une faute d'agent hors actes d'etat civil, ex. perte de documents) peut etre engagee - l'agent est immunise.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_responsabilite_oec#responsabilite-double-immunite-agent-administratif"
+      ],
+      "flag_recent": false,
+      "exemples": [
+        "Refus motive legalement (ex. refus de celebrer un mariage suspecte de complaisance sur base de l'art. 167 du Code civil, ou refus de reconnaissance pour reconnaissance frauduleuse art. 330/1) : seule la responsabilite de l'OEC est engagee, meme si c'est un agent qui a redige et signe le refus en son nom.",
+        "Refus fonde uniquement sur des motifs personnels (jalousie, ressentiment, sentiments intimes) sans aucune base legale : la responsabilite PERSONNELLE de l'agent est engagee, il ne beneficie plus de l'immunite car il agit hors du cadre de sa fonction.",
+        "Erreur materielle (faute de frappe dans un nom, confusion de personnes) commise de bonne foi : simple erreur rectifiable (art. 34 du Code civil), premiere immunite pleinement applicable - seule la responsabilite de l'OEC pourrait en theorie etre engagee, et seulement si un dommage reel en decoule.",
+        "Consultation du Registre national d'un tiers (ex. une ex-compagne) a des fins strictement privees, hors de toute mission : constitue un manquement grave aux devoirs professionnels, exposant l'agent a une SANCTION DISCIPLINAIRE - l'employeur n'est PAS responsable de ce fait qui excede totalement le cadre des fonctions."
+      ]
+    },
+    {
+      "entry_id": "elearning_responsabilite_oec#responsabilite-procedure-disciplinaire-penale",
+      "document_id": "elearning_responsabilite_oec",
+      "numero": "responsabilite-procedure-disciplinaire-penale",
+      "emplacement": "Module e-learning Responsabilite de l'officier de l'etat civil",
+      "titre_contexte": "Procedure disciplinaire de l'agent, cumul possible avec des poursuites penales",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-01-01",
+      "texte": "Independamment de la responsabilite civile, un agent qui manque a ses devoirs professionnels ou compromet la dignite de sa fonction peut faire l'objet d'une PROCEDURE DISCIPLINAIRE (dossier constitue, agent entendu). Sanctions disciplinaires prevues par la nouvelle loi communale (art. 282 et suivants) : mineures (avertissement, reprimande), majeures (retenue de traitement, suspension, retrogradation), maximales (demission d'office, revocation). Le droit disciplinaire s'applique aux agents statutaires ET, par analogie via la loi sur les contrats de travail (obligation d'executer son travail avec soin/probite/conscience), aux agents contractuels. IMPORTANT : une sanction disciplinaire peut aussi viser un comportement releve dans la VIE PRIVEE de l'agent, s'il porte atteinte a l'interet du service, a la dignite ou a l'honorabilite de la fonction (maintien de la confiance du public envers le service public). CUMUL avec le penal : une action disciplinaire n'empeche PAS que les memes faits fassent egalement l'objet de POURSUITES PENALES (ex. corruption - art. 246-247 du Code penal : peine d'1 a 4 ans d'emprisonnement et amende de 100 a 50.000 euros pour un agent qui accomplirait un acte injuste contre remise d'un avantage) - les 2 procedures (disciplinaire et penale) sont INDEPENDANTES et CUMULABLES pour les memes faits.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_responsabilite_oec#responsabilite-loi-reparatrice-baec-2024",
+      "document_id": "elearning_responsabilite_oec",
+      "numero": "responsabilite-loi-reparatrice-baec-2024",
+      "emplacement": "Module e-learning Responsabilite de l'officier de l'etat civil",
+      "titre_contexte": "Loi reparatrice de la BAEC (01/01/2024) : impact sur la responsabilite de l'OEC et la delegation de signature",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-01-01",
+      "texte": "La loi dite 'reparatrice de la BAEC', entree en vigueur le 1er janvier 2024, modifie notamment : 1) L'ARTICLE 38 du Code civil : la responsabilite de l'OEC ne s'applique QUE dans le cadre de sa FONCTION, et s'etend uniquement a la GESTION DES ACTES de l'etat civil - PAS a la gestion de la BAEC (l'infrastructure informatique) elle-meme. 2) L'ARTICLE 9 du Code civil : lorsque l'OEC autorise un agent a etablir des actes, cette autorisation doit desormais etre MENTIONNEE AVANT LA SIGNATURE de l'agent delegue sur l'acte concerne.",
+      "categorie": "etat_civil",
+      "sous_categorie": "actes_generalites",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_nom_prenom#cout-changement-prenom-communal",
+      "document_id": "elearning_nom_prenom",
+      "numero": "cout-changement-prenom-communal",
+      "emplacement": "Module e-learning - Changement de nom et de prenom",
+      "titre_contexte": "Cout de la procedure de changement de prenom devant l'OEC : tarif libre fixe par chaque commune",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le cout de la procedure de changement de prenom devant l'officier de l'etat civil n'est pas fixe au niveau federal : chaque administration communale determine librement le tarif qu'elle applique. Certaines communes ont choisi la gratuite, d'autres appliquent le montant maximal qui etait auparavant percu par le SPF Justice (490 euros), et d'autres encore appliquent des tarifs gradues selon qu'il s'agit d'une premiere demande ou d'une demande suivante pour la meme personne.",
+      "categorie": "etat_civil",
+      "sous_categorie": "changement_nom_prenom",
+      "commente_par": [],
+      "articles_lies": [
+        "ancien_code_civil#art_370_3"
       ],
       "flag_recent": false
     }
@@ -11819,6 +12420,102 @@
       "texte": "Il n'y a pas de delai legal pour faire une reconnaissance prenatale. Des qu'un medecin accepte de faire un certificat medical de grossesse, la reconnaissance prenatale peut etre actee.",
       "precise_ou_complete": [],
       "source_validation": "FAQ Connect Vanden Broele (ref. 1985)",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale"
+    },
+    {
+      "entry_id": "pratique_mariage_belge_celibataire_ne_en_belgique_et_francaise_divorc",
+      "document_id": "elearning_mariage",
+      "code": "PV-EC-496",
+      "titre": "Mariage Belge celibataire ne en Belgique et Francaise divorcee (registre national en ordre selon ses dires)",
+      "question_origine": "Un homme belge celibataire ne en Belgique et une femme francaise divorcee (registre national soi-disant en ordre) souhaitent se marier dans notre commune, l'un des deux y etant domicilie. Que devons-nous verifier ?",
+      "texte": "Vous etes competents des lors qu'un des deux futurs epoux est domicilie dans votre commune. Pour Monsieur (Belge, celibataire, ne en Belgique) : aucun document n'est requis, verifiez simplement que son acte de naissance figure dans la BAEC (sinon, demandez la migration de l'acte). Pour Madame (Francaise, divorcee) : verifiez au registre national que l'information de divorce y figure bien ; si c'est le cas, pas besoin de preuve d'etat civil supplementaire ; sinon, il faut regulariser cette information. Dans tous les cas, si son acte de naissance n'est pas dans la BAEC, elle devra le fournir, et vous devrez l'orienter vers ses autorites nationales pour obtenir un certificat de coutume. Comme la France fait partie de l'UE, Madame n'est pas en sejour illegal ou precaire - pas de transmission a l'Office des etrangers requise sur cette seule base. Si tout est en ordre, la declaration peut etre signee et une date de mariage choisie (hors dimanches et jours feries).",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Mariage (cas pratique)",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale"
+    },
+    {
+      "entry_id": "pratique_mariage_entre_un_allemand_celibataire_et_une_polonaise_a_l_e",
+      "document_id": "elearning_mariage",
+      "code": "PV-EC-497",
+      "titre": "Mariage entre un Allemand celibataire et une Polonaise a l'etat civil indetermine au registre national",
+      "question_origine": "Un couple germano-polonais souhaite se marier, l'un des deux etant domicilie dans notre commune. Monsieur est allemand et celibataire, Madame est polonaise avec un etat civil indetermine au registre national. Comment traiter ce dossier ?",
+      "texte": "Vous etes competents (domiciliation d'un des futurs epoux). Pour Monsieur (Allemand, celibataire au registre national, ne en Allemagne) : si son acte de naissance n'est pas dans la BAEC, il doit provenir de son lieu de naissance avec une traduction juree adaptee a la region (sauf acte plurilingue) ; un certificat de coutume peut etre demande aupres des autorites allemandes en Belgique. Pour Madame (Polonaise, etat civil INDETERMINE, nee en Pologne) : elle doit produire une preuve de son etat civil pour regulariser le registre national, ainsi que son acte de naissance traduit par un traducteur jure (sauf acte plurilingue) ; un certificat de coutume peut etre demande aupres des autorites polonaises en Belgique. Concernant le NOM APRES MARIAGE : les deux Etats nationaux prevoient la possibilite de changer de nom suite au mariage - il faudra acter leur choix dans l'acte de mariage. Etant citoyens de l'UE, aucun avantage lie au sejour n'est a redouter ici (droit de sejour du fait de leur nationalite). Si tout est en ordre, la declaration peut etre signee et une date choisie.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Mariage (cas pratique)",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale"
+    },
+    {
+      "entry_id": "pratique_mariage_entre_un_francais_non_domicilie_en_belgique_ne_en_al",
+      "document_id": "elearning_mariage",
+      "code": "PV-EC-498",
+      "titre": "Mariage entre un Francais non domicilie en Belgique ne en Algerie et une Belge divorcee",
+      "question_origine": "Un couple souhaite se marier : Monsieur est francais, non domicilie en Belgique, ne en Algerie ; Madame est belge, nee et domiciliee en Belgique, divorcee en Belgique. L'un des deux est domicilie dans notre commune. Que devons-nous demander ?",
+      "texte": "Vous etes competents (domiciliation d'un des futurs epoux, meme si l'autre ne reside pas en Belgique). Pour Monsieur (Francais, ne en Algerie, non domicilie en Belgique) : il doit fournir son acte de naissance, soit via l'Algerie avec les legalisations d'usage, soit via Nantes (les Francais nes a l'etranger ont leur acte transcrit au service central d'etat civil de Nantes) ; sa preuve d'etat civil peut resulter de son acte de naissance francais, qui mentionne les etats civils successifs ; n'etant pas inscrit en Belgique, il doit egalement fournir une preuve de nationalite (annexee a l'acte de mariage dans la BAEC) ; un certificat de coutume des autorites francaises sera necessaire pour la publication des bans conformement a sa loi nationale. Pour Madame (Belge, nee et divorcee en Belgique, inscrite dans la commune) : tout devrait etre disponible dans le registre national et la BAEC. Concernant un eventuel avantage lie au sejour : non applicable ici - meme si Monsieur n'est pas inscrit en Belgique, il beneficie d'un droit au sejour propre en tant que citoyen francais/europeen.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Mariage (cas pratique)",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale"
+    },
+    {
+      "entry_id": "pratique_indices_de_mariage_de_complaisance_difference_d_age_importan",
+      "document_id": "elearning_mariage",
+      "code": "PV-EC-499",
+      "titre": "Indices de mariage de complaisance : difference d'age importante, barriere de langue, enfant non reconnu par le futur epoux, unions precedentes ayant deja ouvert un droit au sejour",
+      "question_origine": "Lors d'une declaration de mariage, plusieurs elements attirent notre attention : une grande difference d'age entre les futurs epoux, Monsieur se presente seul, Madame ne parle pas francais (barriere de la langue), Madame a accouche d'un enfant il y a 3 mois que le futur epoux n'a pas reconnu, et Monsieur a deja eu des unions precedentes qui ont chaque fois ouvert un droit au sejour a ses ex-epouses. Que devons-nous faire ?",
+      "texte": "Ces elements combines (difference d'age, absence de Madame, barriere de la langue, enfant non reconnu par le futur epoux, unions precedentes ayant deja beneficie a d'autres personnes en matiere de sejour) constituent des indices classiques de mariage de complaisance (blanc ou gris) au sens de la Circulaire du 6 septembre 2013 - meme si tous les documents requis sont fournis. Meme en presence d'un dossier administrativement complet, il faut PREVENIR L'OFFICE DES ETRANGERS pour obtenir l'historique detaille de chaque interesse. Une demande d'avis au Parquet du Procureur du Roi est egalement indiquee. Procedure : signer la declaration de mariage (les documents sont en ordre), puis transmettre le dossier complet au Procureur du Roi de l'arrondissement ; dans un delai de 2 mois (prolongeable de 3 mois supplementaires par le Procureur), prendre une decision de celebrer ou de refuser le mariage, sur base des elements de l'enquete et de l'avis du Procureur - qui ne LIE PAS l'OEC, seul decideur final. Les interesses sont prevenus a chaque etape ; en cas de refus, ils disposent d'un droit de recours devant le tribunal de la famille dans le mois de la decision motivee.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Mariage (cas pratique)",
+      "categorie": "etat_civil",
+      "sous_categorie": "mariage_cohabitation_legale"
+    },
+    {
+      "entry_id": "pratique_coparente_epouse_de_la_mere_de_nationalite_etrangere_verific",
+      "document_id": "elearning_filiation",
+      "code": "PV-EC-500",
+      "titre": "Coparente (epouse de la mere) de nationalite etrangere : verification du droit national pour l'etablissement de la co-maternite",
+      "question_origine": "Une mere mariee a une femme se presente pour la declaration de naissance de son enfant et precise que son epouse (de nationalite etrangere) doit-elle etre presente ? Comment traiter cette co-maternite ?",
+      "texte": "Il s'agit d'un cas de co-maternite. Si l'epouse de la mere est BELGE, elle pourra etre consideree comme co-mere de l'enfant par presomption (comme un mari le serait), pour autant qu'on ne soit pas dans un cas d'ecartement de la presomption suite a une separation active. Si l'epouse est ETRANGERE, il faut examiner sa LOI NATIONALE (art. 62 du Code DIP) pour savoir si cette dernniere prevoit la presomption de co-maternite. En l'absence de connaissance du droit etranger applicable, un CERTIFICAT DE COUTUME sera demande a l'epouse : s'il confirme une regle equivalente, la presomption de filiation par mariage s'applique ; sinon, l'epouse devra suivre les regles propres a son droit national (reconnaissance, etc.) ; si rien n'est prevu du tout dans ce droit, il faudra se tourner vers le tribunal de la famille.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Filiation (mise en situation)",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale"
+    },
+    {
+      "entry_id": "pratique_mere_ayant_deja_un_premier_enfant_d_un_autre_homme_reconnais",
+      "document_id": "elearning_filiation",
+      "code": "PV-EC-501",
+      "titre": "Mere ayant deja un premier enfant d'un autre homme : reconnaissance du second enfant par un nouveau compagnon",
+      "question_origine": "Une femme ayant deja un premier enfant avec un autre homme souhaite que son second enfant soit reconnu par son compagnon actuel. Y a-t-il un probleme lie a l'existence du premier enfant ?",
+      "texte": "Non, le fait que la mere ait un premier enfant avec une autre personne n'a AUCUNE incidence sur la reconnaissance du second enfant par un homme different. Le mieux est d'effectuer la reconnaissance directement dans l'acte de naissance, en invitant les deux parents a se presenter ensemble a la declaration. Si le pere ne peut ou ne veut pas se presenter (par exemple le dernier jour du delai de declaration), la mere peut declarer l'enfant seule - l'etablissement de la seconde filiation (reconnaissance) pourra alors se faire ulterieurement (reconnaissance postnatale).",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Filiation (mise en situation)",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale"
+    },
+    {
+      "entry_id": "pratique_reconnaissance_prenatale_par_un_futur_pere_marie_a_une_autre",
+      "document_id": "elearning_filiation",
+      "code": "PV-EC-502",
+      "titre": "Reconnaissance prenatale par un futur pere marie a une autre personne que la mere de l'enfant",
+      "question_origine": "Un homme marie (mais pas a la mere de son futur enfant) souhaite effectuer une reconnaissance prenatale. Quelles formalites particulieres s'appliquent ?",
+      "texte": "La reconnaissance prenatale reste possible, mais il doit se presenter avec la mere de l'enfant a naitre, munis d'un certificat medical de grossesse mentionnant la date prevue de l'accouchement. Particularite : son EPOUSE (avec laquelle il est marie, mais qui n'est pas la mere de l'enfant reconnu) doit etre prevenue de cette reconnaissance conformement a l'article 319bis du Code civil - une copie de l'acte de reconnaissance lui sera envoyee par courrier recommande dans les trois jours.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Filiation (mise en situation)",
+      "categorie": "etat_civil",
+      "sous_categorie": "filiation_autorite_parentale"
+    },
+    {
+      "entry_id": "pratique_mere_mariee_ayant_introduit_une_demande_de_divorce_par_conse",
+      "document_id": "elearning_filiation",
+      "code": "PV-EC-503",
+      "titre": "Mere mariee ayant introduit une demande de divorce par consentement mutuel il y a presque un an : ecartement de la presomption de paternite",
+      "question_origine": "La mere d'un enfant est mariee mais presente une requete en divorce par consentement mutuel deposee il y a presque un an. Le mari peut-il etre ecarte de la presomption de paternite ?",
+      "texte": "Il faut d'abord verifier la NATIONALITE du mari de la mere, car l'art. 62 du Code DIP prevoit que la filiation est etablie selon le droit national de cette personne. Si le mari est BELGE, la paternite peut effectivement etre ecartee sur base de l'art. 316bis du Code civil (demande de divorce par consentement mutuel deposee plus de 300 jours avant la naissance - ici, presque un an, soit plus de 300 jours, remplit cette condition). Si le mari est ETRANGER, il faut au contraire verifier sa loi nationale pour savoir si elle permet un ecartement equivalent de la filiation - la regle belge des 300 jours ne s'applique pas automatiquement a un couple regi par un droit etranger.",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Filiation (mise en situation)",
       "categorie": "etat_civil",
       "sous_categorie": "filiation_autorite_parentale"
     }

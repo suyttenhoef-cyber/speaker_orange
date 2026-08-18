@@ -1,0 +1,241 @@
+Actes de reconnaissance
+Nom:
+Actes de reconnaissance
+Titre, page:
+BAEC - Actes de reconnaissance prénatale
+Texte, instruction:
+Préambule et vérifications
+Dresser l'acte de déclaration de reconnaissance prénatale et mentions obligatoires
+Dresser l'acte de reconnaissance prénatale
+Documents à délivrer
+Texte, introduction:
+1. Préambules et vérifications :
+La reconnaissance sert à établir la filiation entre l'enfant et le reconnaissant quand ce lien n'est pas établi automatiquement.
+la reconnaissance se fait, avec le consentement de la mère, devant l'OEC du lieu d'inscription soit :
+     - de la mère.
+     - de l'enfant.
+     - de la personne qui reconnait.
+     - à défaut à Bruxelles.
+La reconnaissance se fait en deux étapes:
+     - La déclaration de reconnaissance.
+     - La reconnaissance.
+Texte:
+2. Dresser l'acte de déclaration de reconnaissance prénatale et mentions obligatoires (déclaration et reconnaissance):
+Les mentions obligatoires :
+   - Le nom et prénom(s), la date de naissance et le lieu de naissance de la mère.
+   - Le nom et prénom(s), la date de naissance, le lieu de naissance et la qualité de l'auteur de la reconnaissance.
+   - Le consentement de la mère.
+   - La date, le lieu et l'autorité devant laquelle le consentement a été donné.
+Il y a lieu de tirer le signal d'alarme si la mère ou/et l'auteur de la reconnaissance n'est/ ne sont pas inscrit(s) au RN ou au RE.  Dans ce cas, il y a lieu de fournir différents documents qui doivent être éventuellement légalisés ou aboutir à un éventuel refus d'établir la déclaration de naissance.
+- L'acte de naissance de la mère ou/et celui de l'auteur de la reconnaissance.
+- Un certificat de célibat de la mère ou/et celui de l'auteur de la reconnaissance.
+- Une preuve de la nationalité de la mère ou/et celui de l'auteur de la reconnaissance.
+- Un certificat de domicile de la mère ou/et celui de l'auteur de la reconnaissance.
+Pour vous donner du temps à l'analyse de ces documents, vous pouvez délivrer un accusé de réception concernant les documents reçus. A dater de cet accusé de réception, vous avez un mois pour dresser l'acte de reconnaissance prénatale.
+Vérifiez si l'acte doit être légalisé ou apostillé via le site du Ministères des Affaires étrangères.
+Texte:
+Remplissez les critères de recherche en fonction du cas présent.
+Cliquez sur "Afficher le résultat".
+Texte:
+Vérifiez que la légalisation est bien un original. 
+     
+Pour Effectuer cette vérification, téléchargez sur votre Smartphone ou votre IPhone une application lecteur QR Code :
+Texte:
+Si vous avez un doute sérieux quant à l'application des règles DIP lors de la rédaction d'un acte, vous pouvez saisir l'Autorité centrale de l'état civil.
+Afin d’obtenir une réponse dans les meilleurs délais, les demandes d’avis émanant des communes doivent impérativement être transmises par courrier postal au SPF Justice, Autorité Centrale de l’état civil, Boulevard de Waterloo 115, 1000 Bruxelles ou par e-mail via cette adresse [link]etatcivil.burgstand@just.fgov.be|etatcivil.burgstand@just.fgov.be[/link].
+Les dossiers doivent être les plus complets possibles (copies de l’acte, des recto-versos de documents, des légalisations et des traductions). En cas de mauvaise lisibilité ou de doute sur la nature du document, l’Autorité Centrale de l’état civil peut demander qu’on lui transmette les pièces originales.
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Il y a lieu de vérifier au Registre national si les adresses de l’épouse
+et de l’époux sont différentes depuis plus de 300 jours. Si oui, vous pouvez
+prendre la reconnaissance du papa en présence de la maman. Si les 300 jours ne
+sont pas effectifs, l’enfant portera le nom de l’époux.
+Texte:
+3. Dresser l'acte de reconnaissance prénatale :
+Ci-dessous, vous trouverez les manipulations nécessaires pour dresser un acte de reconnaissance prénatale à l'aide de l'outil SAPHIR de Civadis.
+Si toutes les conditions sont remplies, ouvrez le logiciel ad-hoc et choisissez le module "Etat civil"
+Ensuite, cliquez sur "Créer" puis l'onglet "Général"
+Choisissez le sous-onglet "Acte"
+Dans le menu déroulant le type d'acte : Déclaration de reconnaissance"
+OK.
+Texte:
+Toujours dans l'onglet "Général".
+Toujours dans le sous-onglet "Acte".
+Encodez le signataire.
+Texte:
+Sans l'onglet "Détail".
+Type de reconnaissance " Reconnaissance prénatale".
+Texte:
+Date du consentement de la mère.
+Autorité : OEC belge.
+Code commune : code INS de la commune de reconnaissance.
+Code pays : Belgique.
+Texte:
+Signalétiques.
+Indiquez le NN de la mère et de l'auteur de la reconnaissance.
+S'il n'y a pas de NN, cochez la case "non résident" et complétez avec les données en votre possession.
+Texte:
+Validez avec la flèche verte.
+A ce stade, il n'y a pas de document à délivrer.
+Vous pouvez éventuellement imprimer la déclaration de reconnaissance et faire signer les intéressés en cas de contestation ultérieure. Mais ceci n'est pas obligatoire.
+Texte:
+3. Dresser l'acte de reconnaissance prénatale.
+Toujours, dans l'outil métier proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général :
+Sous-onglet "Acte"
+Type d'acte : Reconnaissance et OK.
+Texte:
+Toujours dans l'onglet "Général"
+Registre : Naissances.
+Signataire.
+Texte:
+Dans l'onglet "Détail".
+Type : Reconnaissance prénatale.
+Date de la reconnaissance.
+Autorité : OEC
+Commune de reconnaissance.
+Pays : 150
+Texte:
+Signalétiques.
+Indiquez le NN de la mère et de l'auteur de la reconnaissance.
+S'il n'y a pas de NN, cochez la case "non résident" et complétez avec les données en votre possession.
+Texte:
+Validez avec la flèche verte.
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+En cas de suspicion de reconnaissance frauduleuse, ne signez pas la reconnaissance. 
+Il y a lieu de sursoir à la reconnaissance.
+Mais ceci fait l'objet d'une autre procédure.
+Texte:
+4. Les documents à délivrer.
+Il suffit d'imprimer tout simplement l'acte de reconnaissance.
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Vous ne revoyez évidemment pas le déclarant. Vous retrouverez la
+reconnaissance dans la BAEC.
+Titre, page:
+BAEC - Acte de reconnaissance postnatale
+Texte, instruction:
+Texte, introduction:
+Ce module se subdivise en 4 chapitres, qui sont :
+Préambule et vérifications
+Dresser l'acte de déclaration de reconnaissance postnatale et mentions obligatoires
+Dresser l'acte de reconnaissance postnatale
+Documents à délivrer
+Texte:
+1. Préambules et vérifications :
+La reconnaissance sert à établir la filiation entre l'enfant et le reconnaissant quand ce lien n'est pas établi automatiquement.
+Assurez-vous que l'acte de naissance de l'enfant se trouve dans la BAEC.
+La reconnaissance se fait, avec le consentement de la mère, devant l'OEC du lieu d'inscription soit :
+     - de la mère.
+     - de l'enfant.
+     - de la personne qui reconnait.
+     - à défaut à Bruxelles.
+La reconnaissance se fait en deux étapes:
+     - La déclaration de reconnaissance.
+     - La reconnaissance.
+Texte:
+2. Dresser l'acte de déclaration de reconnaissance prénatale et mentions obligatoires (déclaration et reconnaissance):
+Les mentions obligatoires :
+- Le nom, les prénoms, la date de naissance et le lieu de naissance de l'enfant.
+- Le nom, les prénoms, la date de naissance, le lieu de naissance du parent à l'égard duquel le lien de filiation a déjà été établi avant la reconnaissance.
+- Le nom, les prénoms, la date de naissance, le lieu de naissance et la qualité de l'auteur de la reconnaissance.
+- Le cas échéant, le nouveau nom et la déclaration de choix de nom par le père ou la coparente et la mère.
+Il
+y a lieu de tirer le signal d'alarme si la mère ou/et l'auteur de la 
+reconnaissance n'est/ ne sont pas inscrit(s) au RN ou au RA.  Dans ce 
+cas, il y a lieu de fournir différents documents qui doivent être 
+éventuellement légalisés. Sinon, vous devrez signifier un éventuel refus d'établir la 
+déclaration de naissance.
+- L'acte de naissance de la mère ou/et celui de l'auteur de la reconnaissance.
+- Un certificat de célibat de la mère ou/et celui de l'auteur de la reconnaissance.
+- Une preuve de la nationalité de la mère ou/et celui de l'auteur de la reconnaissance.
+- Un certificat de domicile de la mère ou/et celui de l'auteur de la reconnaissance.
+Pour
+vous donner du temps à l'analyse de ces documents, vous pouvez délivrer
+un accusé de réception concernant les documents reçus. A dater de cet 
+accusé de réception, vous avez un mois pour dresser l'acte de 
+reconnaissance prénatale.
+Vérifiez si l'acte doit être légalisé ou apostillé via le site du Ministères des Affaires étrangères.
+Texte:
+Remplissez les critères de recherche en fonction du cas présent.
+Cliquez sur "Afficher le résultat".
+Texte:
+Vérifiez que la légalisation est bien un original. 
+     Pour ce faire, téléchargez sur votre Smartphone ou votre IPhone une application lecteur QR Code :
+Texte:
+Si vous avez un doute sérieux quant à l'application des règles DIP lors de la rédaction d'un acte, vous pouvez saisir l'Autorité centrale de l'état civil.
+Afin d’obtenir une réponse dans les meilleurs délais, les demandes d’avis émanant des communes doivent impérativement être transmises par courrier postal au SPF Justice, Autorité Centrale de l’état civil, Boulevard de Waterloo 115, 1000 Bruxelles ou par e-mail à cette adresse : etatcivil.burgstand@just.fgov.be 
+Les dossiers doivent être les plus complets possibles (copies de l’acte, des recto-versos de documents, des légalisations et des traductions). En cas de mauvaise lisibilité ou de doute sur la nature du document, l’Autorité Centrale de l’état civil peut demander qu’on lui transmette les pièces originales.
+Texte:
+Si toutes les conditions sont remplies.
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général :
+Sous-onglet "Acte"
+Dans le menu déroulant le type d'acte : Déclaration de reconnaissance"
+OK.
+Texte:
+Toujours dans l'onglet "Général" et sous-onglet "Acte"
+Encodez le signataire.
+Texte:
+Dans l'onglet "Détail".
+Reconnaissance postnatale.
+Consentement de la mère :
+Date du jour
+Déroulant "Devant l'OEC"
+Code INS de votre commune
+Code pays : 150
+Texte:
+Dans "signalétique"
+Cliquez sur l'enfant et encoder le NN.
+Réitérez l'opération pour le père et la mère.
+S'il n'y a pas de NN, cochez la case "non résident" et complétez avec les données en votre possession.
+Texte:
+Validez avec la flèche verte.
+A ce stade, il n'y a pas de document à délivrer.
+Vous 
+pouvez éventuellement imprimer la déclaration de reconnaissance et faire
+signer les intéressés en cas de contestation ultérieure. Mais ceci 
+n'est pas obligatoire.
+3. Dresser l'acte de reconnaissance postnatale.
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet "Général" :
+Sous-onglet "Acte"
+Type d'acte : Reconnaissance et OK.
+Texte:
+Toujours dans l'onglet "Général".
+Toujours dans le sous-onglet "Acte".
+Encodez le signataire.
+Texte:
+Dans l'onglet "Détail"
+Reconnaissance postnatale.
+Consentement de la mère (date du jour)
+Autorité : Devant OEC
+Code INS de votre commune
+Code pays : 150
+Texte:
+Dans "signalétique"
+Cliquez sur l'enfant et encodez le NN.
+Réitérez l'opération pour le père et la mère.
+S'il n'y a pas de NN, cochez la case "non résident" et complétez avec les données en votre possession.
+Texte:
+Si changement de nom, faites remplir la déclaration de choix de nom.
+Cliquez droit sur enfant  puis créer.
+Nouveau nom et OK
+Texte:
+Date du jour.
+Le nouveau nom et les prénoms éventuels.
+S'il s'agit d'un double nom, cochez la petite case double nom.
+Texte:
+Validez avec la flèche verte.
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+Assurez-vous que les différentes mises à jour au RN ont bien été établies (Y compris le TI 114).
+S'il y a changement de nom, commandez une nouvelle carte d'identité.
+Texte:
+4. Documents à délivrer.
+Délivrez éventuellement plusieurs attestations de reconnaissance postnatale afin que les intéressés puissent procéder au changement à l'école, pour les allocations familiales, la mutuelle, la banque, ...

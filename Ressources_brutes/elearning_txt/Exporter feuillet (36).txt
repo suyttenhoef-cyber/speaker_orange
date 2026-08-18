@@ -1,0 +1,117 @@
+La nationalité
+Nom:
+La nationalité
+Description:
+Titre, page:
+BAEC - Nationalité
+Texte, instruction:
+Texte, introduction:
+Ce module est subdivisé en 5 chapitres, qui sont :
+Vérifications
+Mentions obligatoires
+Dresser la déclaration de nationalité
+Dresser l'acte de nationalité
+Documents à délivrer
+Texte:
+1.  Vérifications
+- Le demandeur doit être domicilié dans votre commune.
+- Le demandeur rencontre l'ensemble des conditions prévues par le code de la nationalité belge en fonction de la procédure.
+- L’attribution de la nationalité belge concerne les enfants mineurs, pour autant qu’ils ne soient pas émancipés.
+- L’acquisition est réservée aux personnes majeures.
+2.  Mentions obligatoires
+- Le nom.
+- Le(s) prénom(s).
+- La date de naissance.
+- Le lieu de naissance.
+- La base légale de la déclaration sur laquelle l'acte est établi.
+- En cas de procédure pour une personne âgée de moins de 18 ans, l'identité du/des déclarant(s).
+Remarque : L'acte de nationalité se passe en deux phases :
+      a. La déclaration de nationalité.
+      b. L'acte de nationalité.
+Texte:
+La plus grosse difficulté n'est pas de choisir la procédure mais bien de
+vérifier si toutes les conditions pour introduire la demande sont bien 
+rencontrées en fonction de l'article.
+Pour avoir une vue d'ensemble de toutes les procédures, cliquez sur le lien ci-dessous.
+Ce site est d'ailleurs mis à jour automatiquement.
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Si l’intéressé veut à tout prix que vous envoyez son dossier malgré vos
+recommandations, vous lui faite signer une attestation prouvant que cet envoi
+se fait sous sa responsabilité. Car en cas de refus du Parquet, il devra
+repayer une nouvelle redevance de 150 €.
+Texte:
+3.  Dresser la déclaration de nationalité
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet "Général" :
+Texte:
+Dans l'onglet général, choisissez le type d'acte : Nationalité.
+Texte:
+Toujours dans l'onglet général, il vous reste à mettre le signataire et un numéro d'acte fictif. 
+Un numéro fictif car dans la deuxième phase, vous irez rechercher cet acte pour le finaliser.
+Tout le reste se complète automatiquement.
+Texte:
+Dans l'onglet détail :
+- Choisissez l'article concerné.
+- Autre (sauf si jugement ou arrêt)
+- Code 150 = Belgique.
+- Choisissez - Choisissez les conditions rencontrées en fonction du cas traité.
+Texte:
+Toujours dans l'onglet détail :
+  
+- La date de déclaration.
+- Le signataire.
+Texte:
+Signalétique - Intéressé - Encodez le NN.
+Vérifiez bien que les données au RN correspondent aux actes présentés.
+Validez (flèche verte).
+Faites signer la déclaration de nationalité.
+Texte:
+4.  Dresser l'acte de nationalité
+Dès que les conditions sont rencontrées pour établir l'acte de nationalité, il y a lieu de reprendre le numéro de l'acte qui a servi pour établir la déclaration de nationalité.
+Texte:
+Dans l'onglet général : 
+- Supprimez le numéro fictif. Le nouveau numéro se mettra automatiquement lorsque vous validerez l'acte.
+- Indiquez la date du jour et l'heure de l'établissement de cet acte.
+- Etat : Contrôlé.
+Texte:
+Toujours dans l'onglet "Détail".
+- Ne modifiez pas l'article.
+- Type = Autre (Normalement déjà indiqué lors de la déclaration).
+- Vérifiez les conditions.
+- Nationalité = Code 150 (Normalement déjà indiqué lors de la déclaration).
+- Garnir la date de non opposition.
+Texte:
+Scannez la feuille : Acquisition de la nationalité belge.
+Ajoutez ce document en annexe de l'acte. (Cfr. exemple ci-dessous)
+Texte:
+Dans l'onglet général : 
+Cliquez sur: Annexer document.
+Texte:
+- Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+N'oubliez pas d'intégrer les actes qui ont servi à l'établissement de l'acte de nationalité.
+Texte:
+Cliquez sur "Créer" et récupérez le scan.
+Sélectionnez le bon scan et cliquez sur ouvrir.
+Texte:
+Toujours dans la même fenêtre, remplissez comme ci-dessous.
+Texte:
+- Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+! N'oubliez pas d'intégrer les actes qui ont servi à l'établissement de l'acte de nationalité !
+Texte:
+5.  Documents à délivrer.
+- Avertissez le citoyen qu'il est devenu belge. Pour ce faire, il y a un modèle de lettre dans le programme CIVADIS. Dans documents
+(A gauche) : Félicitations naturalisation belge.
+- Ce document indique non seulement qu'il est devenu belge mais qu'il doit se présenter avec une photo pour faire une nouvelle CIE.
+Après toutes ces démarches, n'oubliez pas de féliciter l'intéressé(e) :)
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Nous ne nous occupons uniquement que de l’attribution de la nationalité
+belge. Sauf par renonciation de la nationalité belge mai si et seulement si l’intéressé avait la
+double nationalité belge et française.

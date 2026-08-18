@@ -1,9 +1,14 @@
 # Assistant Etat Civil (POC)
 
 Assistant IA pour les agents des services de l'état civil, construit sur le même socle que
-`chatbot_cpas` (voir ce projet pour la documentation détaillée de l'architecture, de la
-roadmap technique et des choix de conception — ce README ne documente que ce qui est
-spécifique à l'état civil).
+`chatbot_cpas` (voir ce projet pour la documentation historique du premier portage — ce README
+ne documente que ce qui est spécifique à l'état civil).
+
+**Documentation complète** (fonctionnelle, technique, installation client) : voir le dossier
+[`Doc/`](Doc/) —
+[`documentation_fonctionnelle.md`](Doc/documentation_fonctionnelle.md),
+[`architecture_technique.md`](Doc/architecture_technique.md),
+[`guide_installation_client.md`](Doc/guide_installation_client.md).
 
 ## État actuel du projet
 
@@ -11,16 +16,22 @@ spécifique à l'état civil).
   (OpenAI), bot Teams (Bot Framework SDK), télémétrie (Application Insights). Copié depuis
   `chatbot_cpas` puis adapté (voir ci-dessous).
 - **Corpus : construit et déployé.** 3 matières (`etat_civil`, `population`, `etrangers`),
-  313 articles de textes officiels (dont l'extraction quasi complète de l'Ancien Code civil,
-  Livre Ier "Des personnes", et les art. 154-155 de la Nouvelle loi communale sur le
-  personnel de l'état civil), 777 pratiques validées (dont ~530 issues de l'export FAQ
-  Connect), 68 documents sources. Fichiers dans `corpus_par_matiere/`.
+  333 articles de textes officiels/notions (dont l'extraction quasi complète de l'Ancien Code
+  civil Livre Ier "Des personnes", les art. 154-155 de la Nouvelle loi communale, l'art. 15bis
+  de la loi du 15/12/1980 sur le résident de longue durée, et les notions du premier module
+  e-learning ingéré), 786 pratiques validées (dont ~530 issues de l'export FAQ Connect et 9
+  issues du même module e-learning), 69 documents sources. Fichiers dans `corpus_par_matiere/`.
 - **Pipeline de retrieval a 2 etages** : `rag_answer.py` fait d'abord une recherche par
   similarite (embeddings `text-embedding-3-small`), puis une passe de **verification** par un
   second appel LLM (`filter_applicable_practices`) qui rejette les pratiques dont les
   premisses (statut civil, nationalite, procedure en cours/refusee...) ne correspondent pas a
   la question posee — avec un garde-fou anti-sur-rejet (si 100% des candidats sont rejetes,
   on revient aux resultats bruts plutot que de repondre "aucun resultat").
+- **Garde-fou anti-citation-fabriquée** : `check_citation_integrity()` compare après génération
+  chaque numéro d'article cité dans la réponse aux numéros réellement présents parmi les
+  passages retrouvés ; en cas de citation non vérifiée (numéro inventé), un encart d'alerte
+  rouge s'affiche dans Teams/l'app Streamlit. Ne détecte pas une citation d'un article réel mais
+  utilisé sur le mauvais sujet — voir la règle C5 du `SYSTEM_PROMPT` pour ce cas-là.
 - **Infrastructure Azure : déployée et fonctionnelle** (POC), Phases 1 à 5 validées de bout en
   bout (retrieval → bot → Teams → App Service → télémétrie) :
   - Azure AI Search : index dédié `chatbot-etat-civil-chunks` sur le service partagé
@@ -48,6 +59,48 @@ spécifique à l'état civil).
   références d'articles mortes (`precise_ou_complete` pointant vers un article inexistant).
   À relancer après toute extraction massive de contenu légal, avant de pousser vers Azure
   Search.
+- `run_eval.py` / `eval_gold_set.jsonl` : harnais d'évaluation **noté** du pipeline RAG (voir
+  mémoire `evaluation_notee_rag` et `retrieval_hybride_semantic_ecartes`). Rejoue un jeu de
+  questions "gold" (question, `expected_entry_ids`, `criteres_reussite`) à travers le pipeline
+  réel et calcule un taux de rappel objectif (`recall_filtered_pct`), au lieu d'un jugement
+  qualitatif "ça semble mieux". Deux modes :
+  - `python3 run_eval.py [--backend local|azure] [--mode vector|hybrid|semantic]` : rapide et
+    gratuit, mesure uniquement le rappel du retrieval — à utiliser pour comparer deux
+    stratégies de retrieval sans regénérer de réponses.
+  - `--full` : ajoute la génération de la réponse, `check_citation_integrity()`, et un juge LLM
+    qui évalue si la réponse respecte `criteres_reussite` — plus lent/coûteux, réservé aux
+    contrôles qualité périodiques.
+  À enrichir avec de nouveaux cas au fil des cas réels remontés par les utilisateurs (voir
+  mémoire `evaluation_notee_rag` sur le biais de ce premier jeu, auto-écrit donc optimiste).
+
+## Ingestion des modules e-learning (source de corpus)
+
+En plus des textes légaux et de l'export FAQ Connect, le corpus s'enrichit de modules
+e-learning de formation (Vanden Broele OrangeConnect, ~30 syllabus annoncés, un par
+matière/sujet). Méthodologie validée sur un premier pilote (module "Domicile", matière
+`population`, 2026-08-14) :
+
+1. **Un document par module** : `document_id` dédié, `type: "elearning_formation"` (distinct de
+   `"faq_export_helpdesk"`/`"faq_formation"`), avec dans `notes` la liste des textes officiels
+   que le module synthétise (loi, AR, instructions générales...) — jamais cité par le bot comme
+   texte officiel lui-même (règle A3 du `SYSTEM_PROMPT` : formation/pratique, pas norme).
+2. **Filtrer le bruit pédagogique** : questions à choix multiples, feedback ("Bravo c'est
+   correct"), références vidéo/audio/BD — aucun contenu substantiel, à ignorer entièrement.
+3. **Deux types d'entrées extraites** :
+   - Chaque **notion ou procédure expliquée** (ex. "résidence principale", "radiation
+     d'office") → une entrée `articles[]` avec un `numero` **descriptif** (pas un vrai numéro
+     d'article officiel, ex. `"radiation-office"`), `categorie`/`sous_categorie` cohérents avec
+     la matière.
+   - Chaque **"Mise en situation"** (scénario concret + réponse d'expert, présent dans quasi
+     tous les modules) → une nouvelle `pratique_validee`, en continuant la numérotation
+     existante de la matière concernée (`PV-EC-`/`PV-POP-`/`PV-ETR-`), `source_validation`
+     mentionnant le module e-learning d'origine.
+4. **Cross-référencer** les articles de loi déjà indexés que le module cite explicitement (ex.
+   art. 108/373 du Code civil) via `articles_lies`, sans les dupliquer.
+5. **Traiter un syllabus à la fois** (ou petits lots de 2-3), avec rebuild + test local + push
+   Azure après chaque syllabus — pas un gros lot parallèle d'un coup, pour éviter de reproduire
+   l'incident de mixup de fichier rencontré lors de l'extraction systématique de l'Ancien Code
+   civil (voir mémoire `agent-batch-persist-to-disk` et `verifier-couverture-corpus`).
 
 ## Schéma du corpus
 

@@ -1,0 +1,391 @@
+Communication & consultation
+Nom:
+Communication & consultation
+Description:
+Dans ce module, nous allons nous consacrer à l'analyse du registre national et plus particulièrement sur les règles de communication et de consultation de celui-ci ainsi que l'identification des intervenants autres que la commune.
+Titre, page:
+Consultation & communication des données
+Texte:
+Quels sont les objectifs ?
+Arrêté royal relatif à la communication des informations contenues dans les registres de la population et dans le registre des étrangers – 16 juillet 1992
+Arrêté royal relatif au droit d'accès aux registres de la population et au registre des étrangers ainsi qu'au droit de rectification desdits registres – 16 juillet 1992
+Loi relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel – 8 décembre 1998 (abrogée par la Loi relative à la protection des personnes physiques à l’égard des traitements de données à caractère personnel (30 Juillet 2018))
+Texte:
+Quand l'agent communal peut-il consulter le RN et le RP?
+Uniquement :
+si autorisé par le Consultant en sécurité de l’information et protection de la vie Privée de la commune
+dans le cadre des finalités précises pour lesquelles l’autorisation d’accès ou de communication a été accordée
+des fins de gestion interne
+[/li][/ul]
+Cela doit donc être licite et légitime.
+Si c'est dans le cadre d’une politique/communication spécifique vers groupe cible, ce sera uniquement dans le cadre d’une
+décision régulière du Collège.
+Texte:
+Confidentialité et secret professionnel des agents
+Concerne tous ceux qui, dans le cadre de leur fonction :
+Collectent ; 
+Traitent ;
+Transmettent les informations.
+Il faut faire preuve de
+diligence pour avoir des informations correctes ;
+précaution pour assurer la sécurité des données / éviter les « fuites ».
+En cas d'infractions, c'est la responsabilité de l’agent, mais également de l’OEC.
+Base légale: les articles 8 et 13 de la Loi organisant un registre national des personnes physiques (08.08.1983)
+Texte:
+3 règles de consultation :
+Confidentialité
+Intégrité
+Traçabilité
+Texte:
+La communication des données
+Modalités de communication
+3 modalités de communication des informations :
+Délivrance d’extraits ou de certificats
+Communication à des tiers de listes de personnes
+Données statistiques
+Communication des données à la personne concernée
+Pas de justificatif nécessaire.  
+L'intéressé ne doit pas justifier la destination mais c'est souvent demandé pour appliquer le règlement taxes. 
+Il faut vérifier l’identité du demandeur et sa qualité/procuration
+Un avocat ne doit pas produire de procuration
+Texte:
+Droit de rectification par le citoyen
+C'est gratuit pour infos imprécises, incomplète, inexactes ou superflues. 
+La rectification se fait sur base d’éléments de preuve authentique (acte d’état civil, jugement, arrêt, etc.)
+La personne peut également être entendue, à sa demande, par l’OEC. 
+Dans le cas où la modification est liée à la modification d’un acte, il faut d'abord procéder à la modification de l’acte. 
+En cas de doute, il faut demander l'avis du Procureur du Roi. 
+Si nécessaire (ex : composition du ménage), il faudra faire procéder à une enquête par la police. 
+En cas de refus de rectification, il faudra une décision motivée du Collège avec base légale et recours possibles.
+Texte:
+Communication des données à des tiers
+Principe de base
+Le principe de base est la non délivrance sauf si prévu/autorisé par la loi. 
+Il faudra une demande individualisée – écrite et signée (recommandation). 
+Le contrôle se fera uniquement sur la justification légale et sur les informations demandées (en lien avec la justification). 
+Le plus souvent, il s'agit d'une action en justice ou d'une demande de preuve de séparation de fait (pour divorce). 
+On communiquera uniquement les informations nécessaires et surtout pas :
+Le numéro de registre national
+La date et le mode d’acquisition de la nationalité belge
+3 exceptions à la non-délivrance : 
+Avocats : ok pour toute demande en lien avec une procédure ; 
+Huissiers de justice : si en lien avec une décision judicaire ou acte notarié (avec présentation du titre exécutoire) ;
+Recherche généalogique ou scientifique : uniquement si utilisé dans ce cadre et indiquer les publications éventuelles
+Texte:
+Recherche généalogique ou scientifique
+Plusieurs cas: 
+Il s'agit de demandes qui portent sur des registres clôturés depuis + de 120 ans: délivrance « libre ». La filiation ascendante peut également être mentionnée 
+Il s'agit de demandes qui portent sur des registres clôturés depuis - de 120 ans : délivrance possible avec le  consentement écrit de la personne concernées ou d’un proche
+Texte:
+Communication à des tiers de listes de personnes
+Le principe est non-communication, sauf pour les autorités et les organismes publics. 
+4 autres dérogations (demande écrite, avec pièces justificatives et finalités) :
+Organismes de droit belge avec missions d’intérêt général ;
+Autorités étrangères, pour motifs légitimes ;
+Liste des électeurs ;
+Instituts de sondage agréés (pour échantillons).
+3 principes importants :
+Principe de finalité
+Principe de proportionnalité
+Principe de légalité
+En principe le Collège doit informé les citoyens concernés de cette communication afin de faire valoir leur droit d’opposition. 
+Le destinataire doit être averti qu’il ne peut communiquer ces informations à des tiers ou l’utiliser à d’autres fin que celles déclarées dans la demande. 
+La liste doit être détruite lorsque celle-ci n’est plus nécessaire.
+Texte:
+Données statistiques
+Il faut une demande écrite explicitant le but et l’utilisation des statistiques. 
+Le collège peut donner l’autorisation. 
+Les données ne doivent pas permettre l’identification des personnes.
+Question:
+Avez-vous tout compris ? 
+Est-il possible d’obtenir des informations des registres de la population
+pour des finalités généalogiques ou historiques ?
+Option de réponse:
+Non, ce n'est pas possible.
+Option de réponse:
+Oui, c'est possible dans trois cas: 
+L’obtention d’extraits et de certificats pour des raisons
+généalogiques, historiques ou pour d'autres raisons scientifiques. 
+Les registres
+clôturés depuis plus de 120 ans peuvent être consultés librement. 
+Il est enfin possible de fournir
+des listes de personnes à des chercheurs .
+Option de réponse:
+Oui, c'est possible dans deux cas: 
+L’obtention d’extraits et de certificats pour des raisons généalogiques, historiques ou pour d'autres raisons scientifiques. 
+Les registres clôturés depuis plus de 120 ans peuvent être consultés librement.
+Feedback si réponse incorrecte:
+1. L’obtention
+d’extraits et de certificats pour des raisons généalogiques, historiques ou
+pour d'autres raisons scientifiques. Ces documents sont délivrés librement
+si les données proviennent de registres de la population clôturés depuis
+plus de 120 ans. Les ascendants peuvent également être mentionnés si cela a
+été demandé.
+Si les données proviennent de
+registres de la population clôturés il y a moins de 120 ans, les
+règles sont plus strictes : la protection de la vie privée entre en ligne
+de compte. Le consentement de la personne concernée ou de ses proches est exigé
+pour la divulgation des données à caractère personnel demandées. S’il n’y pas
+de descendants au premier degré, il incombe au Collège des Bourgmestres et
+Échevins de décider. C’est le demandeur lui-même, et non la commune, qui doit
+se procurer un tel consentement.
+Dans un souci de protection de la
+vie privée de la personne concernée, de son conjoint survivant ou du cohabitant
+légal survivant et de ses descendants, un système a été élaboré garantissant
+que l’adresse de la personne concernée ne soit pas communiquée au demandeur. Le
+demandeur peut joindre à sa demande un courrier destiné à la personne
+concernée. Ce courrier sera envoyé par la commune au destinataire qui décidera
+lui-même ensuite de donner suite ou non à la requête du demandeur et de donner
+son consentement ou pas.
+Procédure :  la demande
+doit être introduite via une requête motivée adressée au Collège des
+Bourgmestres et Échevins. La requête doit comprendre l'engagement du demandeur
+de n'utiliser les informations obtenues que pour des finalités généalogiques,
+historiques ou d'autres finalités scientifiques. Et elle doit mentionner les
+éventuelles publications. Le Collège des Bourgmestres et Échevins peut toujours
+demander des informations complémentaires pour étayer la demande.
+La commune peut délivrer ces
+extraits et certificats contre paiement.
+2. Les registres clôturés
+depuis plus de 120 ans peuvent être consultés librement s'il s'agit de
+finalités généalogiques, historiques ou d'autres finalités scientifiques. Les
+modalités de consultation de ces registres (heures d’ouverture, délai pour
+introduire la demande, etc.) sont définies par le Collège des Bourgmestres et
+Échevins.
+La numérisation de ces registres
+est également une possibilité prévue, ce qui contribue à une conservation
+durable de ceux-ci. Il est également possible de mettre à disposition des tiers
+la copie de ces registres clôturés il y a plus de 120 ans contre paiement pour
+des finalités généalogiques, historiques ou d'autres finalités scientifiques.
+Ces tiers ne peuvent diffuser les registres. Il faut éviter que ces listes en
+tant que telles se retrouvent sur Internet.
+3. Il est enfin possible de fournir
+des listes de personnes à des chercheurs justifiant explicitement d’un
+intérêt historique ou d'un autre intérêt scientifique manifeste. La liste peut
+aussi mentionner les ascendants. La demande pour l’obtention de listes de
+personnes provenant de registres clôturés il y a moins de 120 ans,
+et ce pour des finalités généalogiques, historiques ou d'autres finalités
+scientifiques, doit être adressée au Collège des Bourgmestres et Échevins à
+l’aide d’une requête motivée. Cette requête doit comprendre l'engagement du
+demandeur de n'utiliser les informations obtenues que pour des finalités
+généalogiques, historiques ou d'autres finalités scientifiques et mentionne les
+éventuelles publications pour lesquelles ces données seront utilisées. Avant de
+transmettre les données demandées provenant des registres de la population, le
+Collège des Bourgmestres et Échevins peut réclamer au demandeur des
+informations complémentaires pour appuyer le bien-fondé de la demande.
+Feedback si réponse correcte:
+1. L’obtention
+d’extraits et de certificats pour des raisons généalogiques, historiques ou
+pour d'autres raisons scientifiques. Ces documents sont délivrés librement
+si les données proviennent de registres de la population clôturés depuis
+plus de 120 ans. Les ascendants peuvent également être mentionnés si cela a
+été demandé.
+Si les données proviennent de
+registres de la population clôturés il y a moins de 120 ans, les
+règles sont plus strictes : la protection de la vie privée entre en ligne
+de compte. Le consentement de la personne concernée ou de ses proches est exigé
+pour la divulgation des données à caractère personnel demandées. S’il n’y pas
+de descendants au premier degré, il incombe au Collège des Bourgmestres et
+Échevins de décider. C’est le demandeur lui-même, et non la commune, qui doit
+se procurer un tel consentement.
+Dans un souci de protection de la
+vie privée de la personne concernée, de son conjoint survivant ou du cohabitant
+légal survivant et de ses descendants, un système a été élaboré garantissant
+que l’adresse de la personne concernée ne soit pas communiquée au demandeur. Le
+demandeur peut joindre à sa demande un courrier destiné à la personne
+concernée. Ce courrier sera envoyé par la commune au destinataire qui décidera
+lui-même ensuite de donner suite ou non à la requête du demandeur et de donner
+son consentement ou pas.
+Procédure :  la demande
+doit être introduite via une requête motivée adressée au Collège des
+Bourgmestres et Échevins. La requête doit comprendre l'engagement du demandeur
+de n'utiliser les informations obtenues que pour des finalités généalogiques,
+historiques ou d'autres finalités scientifiques. Et elle doit mentionner les
+éventuelles publications. Le Collège des Bourgmestres et Échevins peut toujours
+demander des informations complémentaires pour étayer la demande.
+La commune peut délivrer ces
+extraits et certificats contre paiement.
+2. Les registres clôturés
+depuis plus de 120 ans peuvent être consultés librement s'il s'agit de
+finalités généalogiques, historiques ou d'autres finalités scientifiques. Les
+modalités de consultation de ces registres (heures d’ouverture, délai pour
+introduire la demande, etc.) sont définies par le Collège des Bourgmestres et
+Échevins.
+La numérisation de ces registres
+est également une possibilité prévue, ce qui contribue à une conservation
+durable de ceux-ci. Il est également possible de mettre à disposition des tiers
+la copie de ces registres clôturés il y a plus de 120 ans contre paiement pour
+des finalités généalogiques, historiques ou d'autres finalités scientifiques.
+Ces tiers ne peuvent diffuser les registres. Il faut éviter que ces listes en
+tant que telles se retrouvent sur Internet.
+3. Il est enfin possible de fournir
+des listes de personnes à des chercheurs justifiant explicitement d’un
+intérêt historique ou d'un autre intérêt scientifique manifeste. La liste peut
+aussi mentionner les ascendants. La demande pour l’obtention de listes de
+personnes provenant de registres clôturés il y a moins de 120 ans,
+et ce pour des finalités généalogiques, historiques ou d'autres finalités
+scientifiques, doit être adressée au Collège des Bourgmestres et Échevins à
+l’aide d’une requête motivée. Cette requête doit comprendre l'engagement du
+demandeur de n'utiliser les informations obtenues que pour des finalités
+généalogiques, historiques ou d'autres finalités scientifiques et mentionne les
+éventuelles publications pour lesquelles ces données seront utilisées. Avant de
+transmettre les données demandées provenant des registres de la population, le
+Collège des Bourgmestres et Échevins peut réclamer au demandeur des
+informations complémentaires pour appuyer le bien-fondé de la demande.
+Question:
+Le service Enseignement de notre
+Administration m'a contacté afin de savoir si la direction d'une de nos écoles
+communales pouvait obtenir un listing avec nom et adresse des enfants âgés de 2
+ans et demi. Peut-on, oui ou non, communiquer ce listing ?
+Option de réponse:
+Oui
+Option de réponse:
+Non
+Feedback si réponse incorrecte:
+Aux écoles qui en font la demande, les administrations communales
+peuvent-elles communiquer la liste des adresses de tous les habitants d'une
+commune nés au cours d'une année déterminée pour leur permettre de recruter de
+nouveaux élèves ?
+Dans le cadre de l'article
+7 a) de l'arrêté royal du 16 juillet 1992, les écoles peuvent entrer en ligne
+de compte pour recevoir des listes de personnes tirées des registres, pour
+autant que la finalité déclarée dans la demande corresponde à la mission
+d'intérêt général de l'institution. (Voir question suivante).
+Faire une
+campagne de publicité personnalisée pour l'enseignement que l'on dispense ne
+répond pas au critère mentionné à l'article 7 a) de l'arrêté royal précité.
+ 
+Les administrations communales peuvent-elles apporter leur concours à
+des organisations caritatives qui essaient d'entrer en contact avec les plus
+démunis ou des organismes tels que la Ligue des Familles ou l'O.N.E. qui
+souhaitent obtenir un relevé des nouvelles
+familles installées dans la commune ou la communication régulière de la liste
+des naissances ?
+L'arrêté royal du 16
+juillet 1992 relatif à la communication des informations contenues dans les
+registres de la population et dans le registre des étrangers prévoit à
+l'article 6 qu'aucune liste de personnes ne peut être communiquée à des tiers,
+excepté à des autorités ou à des organismes publics habilités par ou en vertu
+de la loi.
+Toutefois, dans le cadre de
+l'article 7 a) de l'arrêté royal précité, le collège des bourgmestre et
+échevins d'une commune peut décider de communiquer des listes aux organismes de
+droit belge remplissant des missions d'intérêt général qui n'ont pas fait
+l'objet d'une désignation nominative par le Roi pour avoir accès au Registre
+national des personnes physiques.
+Les conditions sont les
+suivantes :
+la demande doit être écrite et suffisamment motivée ;
+l'information est limitée aux renseignements prévus à l'article 3,
+alinéa 1er de la loi du 8 août
+1983 organisant un Registre national des personnes physiques ;
+l'organisme doit être de droit belge et doit jouir de la personnalité
+juridique ;
+l'institution doit remplir des missions d'intérêt général, en ce sens
+qu’elle doit être chargée d’une mission légale et que le traitement des données
+se fait uniquement dans ce contexte ;
+l'information ne peut être communiquée à des tiers et la finalité doit
+être mentionnée dans la demande.
+Il appartient au collège
+communal/collège des bourgmestre et échevins de se prononcer sur le bien-fondé
+de la demande et, au besoin, de réclamer les précisions nécessaires.
+En effet, la
+tenue à jour d'un fichier d'adresses ne constitue pas un motif autorisant la
+communication d'informations tirées des registres.
+Feedback si réponse correcte:
+Aux écoles qui en font la demande, les administrations communales peuvent-elles communiquer la liste des adresses de tous les habitants d'une commune nés au cours d'une année déterminée pour leur permettre de recruter de nouveaux élèves ?
+Dans le cadre de l'article 7 a) de l'arrêté royal du 16 juillet 1992, les écoles peuvent entrer en ligne de compte pour recevoir des listes de personnes tirées des registres, pour autant que la finalité déclarée dans la demande corresponde à la mission d'intérêt général de l'institution. (Voir question suivante).
+Faire une campagne de publicité personnalisée pour l'enseignement que l'on dispense ne répond pas au critère mentionné à l'article 7 a) de l'arrêté royal précité.
+ 
+Les administrations communales peuvent-elles apporter leur concours à des organisations caritatives qui essaient d'entrer en contact avec les plus démunis ou des organismes tels que la Ligue des Familles ou l'O.N.E. qui souhaitent obtenir un relevé des nouvelles familles installées dans la commune ou la communication régulière de la liste des naissances ?
+L'arrêté royal du 16 juillet 1992 relatif à la communication des informations contenues dans les registres de la population et dans le registre des étrangers prévoit à l'article 6 qu'aucune liste de personnes ne peut être communiquée à des tiers, excepté à des autorités ou à des organismes publics habilités par ou en vertu de la loi.
+Toutefois, dans le cadre de l'article 7 a) de l'arrêté royal précité, le collège des bourgmestre et échevins d'une commune peut décider de communiquer des listes aux organismes de droit belge remplissant des missions d'intérêt général qui n'ont pas fait l'objet d'une désignation nominative par le Roi pour avoir accès au Registre national des personnes physiques.
+Les conditions sont les suivantes :
+la demande doit être écrite et suffisamment motivée ;
+l'information est limitée aux renseignements prévus à l'article 3, alinéa 1er de la loi du 8 août 1983 organisant un Registre national des personnes physiques ;
+l'organisme doit être de droit belge et doit jouir de la personnalité juridique ;
+l'institution doit remplir des missions d'intérêt général, en ce sens qu’elle doit être chargée d’une mission légale et que le traitement des données se fait uniquement dans ce contexte ;
+l'information ne peut être communiquée à des tiers et la finalité doit être mentionnée dans la demande.
+Il appartient au collège communal/collège des bourgmestre et échevins de se prononcer sur le bien-fondé de la demande et, au besoin, de réclamer les précisions nécessaires.
+En effet, la tenue à jour d'un fichier d'adresses ne constitue pas un motif autorisant la communication d'informations tirées des registres.
+Titre, page:
+Avez-vous tout compris?
+Question:
+Comment corriger, annuler, supprimer ou enrichir les informations
+introduites au Registre national ?
+Feedback:
+Toutes les informations
+introduites au Registre national peuvent en effet être corrigées, annulées,
+supprimées ou enrichies. A cet effet, il existe différents codes opérations et
+codes services qui vont déterminer le type de mise à jour que l’utilisateur du
+Registre national veut conférer à ces données.
+Les « codes
+opérations » sont :
+1. Codes généraux
+• code 10 – mises à jour (ou
+introduction de l’information)
+• code 11 – correction ou
+correction d’historique
+• code 12 – suppression (avec
+conservation des données en historique)
+• code 13 – annulation ou
+annulation d’historique
+• code 17 – introduction d’une
+information historique ou enrichissement historique
+2. Codes spéciaux
+• code 14 – indication du prénom
+usuel
+• code 15 – mise à jour des
+données de la BCSS (Banque Carrefour de la Sécurité Sociale)
+• code 16 – ajout d’un trait
+d’union
+• code 19 – ajout ou annulation
+de la fusion de deux communes
+• code 20 – correction d’une date
+• code 21 – ajout de prénoms
+• code 23 – renumérotation des
+habitations
+• code 25 – correction ou ajout
+d’un numéro d’acte d’Etat civil
+Les « codes
+services » sont :
+Dans la structure d’une mise à
+jour, ils se positionnent entre le type d’information et la date de
+l’information.
+• code 0 (zéro) – s’applique un
+traitement normal selon le programme ordinaire
+• code 1 – utilisé pour
+introduire différents faits à enregistrer le même jour (exemple : pour
+introduire dans l’information 120 deux états civils qui ont eu lieu le même
+jour : un mariage et un veuvage)
+• code 2 – utilisé pour la
+correction d’une information en historique
+• code 3 – utilisé dans les
+informations 001 et 020 pour la modification entière de la résidence principale
+d’un ménage (pour autant que l’ensemble du ménage soit concerné par ce
+changement) ainsi que pour introduire la fusion de 2 communes
+• code 4 – utilisé pour les types
+d’information 120 et 121 quand l’époux ou l’épouse n’a pas atteint l’âge requis
+par la loi pour contracter mariage. Il peut également être utilisé pour annuler
+la fusion entre 2 communes
+• code 5 – utilisé dans
+l’information 073 (brevet de pension), code 01, si l’année et le mois du n° de
+brevet sont différents de l’année et du mois du numéro d’identification
+Question:
+Comment procéder pour attribuer un nouveau numéro
+national suite à une modification de la date de naissance ou à un changement de
+sexe ?
+Feedback:
+On procède dans ce cas à la recollecte
+d’un dossier.
+Avant chaque procédure de
+recollecte, il faut au préalable imprimer la fiche 79 (données personnelles
+avec historique) de la personne dont le dossier va faire l’objet d’une
+recollecte.
+Il faut en effet impérativement
+avoir l’entièreté du dossier sous les yeux car la recollecte consiste à
+introduire dans le nouveau dossier TOUTES les informations figurant dans
+l’ancien dossier.
+Il est vivement conseillé de
+barrer au fur et à mesure (sur la fiche 79) les informations introduites dans
+le nouveau dossier.  Ceci évitera les éventuels oublis ou confusions.

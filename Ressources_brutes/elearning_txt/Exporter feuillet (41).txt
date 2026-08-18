@@ -1,0 +1,247 @@
+Actes modificatifs et erreurs matérielles
+Nom:
+Actes modificatifs et erreurs matérielles
+Description:
+Titre, page:
+BAEC - Actes modificatifs et erreurs matérielles
+Texte, instruction:
+Un acte se trouvant dans la BAEC peut être modifié lors :
+1. d'une erreur matérielle
+2. d'une attestation officielle ou d'un acte authentique
+3. d'une décision judiciaire belge
+4. d'une décision judiciaire étrangère ou un acte étranger
+Texte:
+1. Une erreur matérielle
+A. Définition : Qu'est ce qu'une erreur matérielle ?
+Une erreur matérielle est la constatation par un OEC qu'une donnée a été erronément enregistrée dans la BAEC alors que la bonne donnée était présente sur un acte authentique ou sur une attestation officielle au moment de l'établissement de l'acte.
+B. Exemples : 
+Une faute d'orthographe ou une faute de frappe dans les nom(s) et prénom(s) ou la confusion des deux.
+Une faute d'orthographe ou une faute de frappe dans la date, le lieu ou l'heure du fait juridique ou de l'acte juridique.
+La confusion des personnes mentionnées dans l'acte.
+L'absence de prénom(s) ou de parties de nom d'une personne dans un acte de l'état civil autre que l'acte de naissance de l'intéressé alors que ces prénom(s) ou parties de nom figurent dans son acte de naissance.
+Des signes diacritiques erronés.
+Une erreur dans les données ou l'absence des données d'un témoin dans un acte de mariage.
+La reproduction erronée ou la non-reproduction dans un acte de certaines données mentionnées dans les actes authentiques ou attestations officielles.
+C. Qui constate l'erreur matérielle ?
+L'OEC qui a établi l'acte.
+Un citoyen.
+N'importe quel OEC.
+D. Quel est l'OEC compétent pour opérer la rectification ?
+L'OEC du domicile.
+L'OEC qui a établi l'acte et tous les actes liés à cette modification.
+E. Quels documents faut-il ?
+L'OEC est en possession des documents via la BAEC. Si les actes ne sont pas dans la BAEC, l'OEC en demande la migration. 
+L'intéressé remet à l'OEC l'acte authentique ou l'attestation officielle qui constate l'erreur. L'attestation officielle doit permettre de déterminer les éléments d'un acte authentique non identifiable par l'OEC comme une attestation de l'ambassade qui détermine les nom(s) et prénom(s) d'une personne ou une attestation médicale visant à corriger une date de naissance.
+L'acte authentique ou l'attestation officielle est enregistré dans les annexes.
+F. Etablir la rectification dans le programme SAPHIR.
+Texte:
+Deux possibilités s'offrent à vous pour une rectification dans l'outil métier de Civadis :
+     - Soit le petit crayon
+     - Soit Correction signalétique à la BAEC
+Si l'acte de naissance est dans la BAEC, vous travaillez avec le petit crayon.
+Si l'acte de naissance ne se trouve pas dans la BAEC, vous travaillez avec : Correction signalétique à la BAEC.
+Texte:
+La rectification avec le petit crayon :
+Tapez le NN dans la BAEC et appuyer sur le crayon.
+Cliquez sur "enfant".
+Texte:
+Réalisez la modification nécessaire et validez avec la flèche verte. Le fait de valider va ouvrir une nouvelle fenêtre.
+Texte:
+Remplissez les données nécessaires et cliquez sur envoi.
+Texte:
+La rectification avec : Correction signalétique à la BAEC.
+Tapez le NN de l'enfant dans la BAEC.
+Cliquez sur le père et correction signalétique à la BAEC.
+Texte:
+Le fait de cliquer sur "Correction signalétique à la BAEC" ouvre une nouvelle fenêtre.
+Texte:
+Remplissez les données nécessaires et cliquez sur envoi.
+L'acte modificatif apparait.
+Vérifiez bien que les modifications sont bien celles demandées. et cliquez sur oui.
+Vérifiez également que la rectification s'opère au RN.
+Texte:
+2. Sur présentation d'une attestation officielle ou d'un acte authentique
+A. Définition : 
+L'OEC compétent qui modifie un ou des actes de l'état civil sur base d'un acte sur base d'un autre acte ou d'une déclaration, établit immédiatement le ou les actes modifiés, et ce même si l'acte authentique étranger ou l'attestation officielle est fournie après l'établissement de l'acte et même si celui-ci est établi avant l'acte erroné.
+B. Exemples :
+Lorsque l'acte original comporte des erreurs en raison d'un manque d'informations, mais qu'il n'existe aucun doute sur l'identité de la personne notée dans l'acte.
+L'information n'était pas disponible au moment de l'établissement de l'acte.
+Il s'agit d'une donnée qui ne peut être rectifiée par une erreur matérielle.
+Cette procédure ne peut être utilisée pour une éventuelle fraude à l'identité. Dans ce cas, c'est le Tribunal de la famille qui est compétent.
+C. Qui constate l'erreur ?
+L'OEC qui a établi l'acte.
+Un citoyen.
+N'importe quel OEC.
+D. Quel est l'OEC compétent pour opérer la rectification ?
+L'OEC du domicile.
+L'OEC qui a établi l'acte et tous les actes liés à cette modification.
+E. Quels documents faut-il ?
+L'OEC est en possession des documents via BAEC. Si les actes ne sont pas dans la BAEC, l'OEC en demande la migration. 
+L'intéressé
+remet à l'OEC l'acte authentique étranger ou l'attestation officielle qui 
+constate l'erreur.
+F. Etablir la modification dans le programme SAPHIR.
+Texte:
+Deux possibilités s'offrent à vous dans le logiciel métier de Civadis :
+      - Soit le petit crayon
+      - Soit Correction signalétique à la BAEC
+Si l'acte de naissance est dans la BAEC, vous travaillez avec le petit crayon.
+Si l'acte de naissance ne se trouve pas dans la BAEC, vous travaillez avec : Correction signalétique à la BAEC.
+Texte:
+La rectification avec le petit crayon :
+Tapez le NN dans la BAEC et appuyer sur le crayon.
+Cliquez sur "enfant".
+Texte:
+Réalisez la modification nécessaire et validez avec la flèche verte.Le fait de valider va ouvrir une nouvelle fenêtre.
+Texte:
+Remplissez les données nécessaires et cliquez sur envoi.
+Texte:
+La rectification avec : Correction signalétique à la BAEC
+Tapez le NN de l'enfant dans la BAEC.
+Cliquez sur le père et correction signalétique à la BAEC.
+Texte:
+Le fait de cliquer sur "Correction signalétique à la BAEC" ouvre une nouvelle fenêtre.
+Texte:
+Remplissez les données nécessaires et cliquez sur envoi.
+L'acte modificatif apparait.
+Vérifiez bien que les modifications sont bien celles demandées et cliquez sur oui.
+Vérifiez également que la rectification s'opère au RN.
+Texte:
+3. Sur décision judiciaire belge
+A. Définition : 
+Lorsqu'une décision judiciaire passée en force de chose jugée a pour conséquence la modification d'un ou plusieurs actes de l'état civil, et pour autant qu'un acte de l'état civil visé au point 2 ne peut être établi (exemple : Changement de nom), l'OEC compétent établit le ou les actes modifiés.
+Le greffier vous fera parvenir, via les notifications de la BAEC, la décision judiciaire.
+B. Exemples :
+Une contestation ou l'établissement de filiation.
+Une annulation de reconnaissance.
+Une rectification d'acte.
+Un changement de nom ou de prénom dans le cadre d'un recours de l'intéressé contre la décision de refus de changer son nom ou son prénom auprès du SPF Justice ou de l'OEC.
+C. L'acte modifié mentionnera :
+L'instance judiciaire qui a prononcé la décision judiciaire passée en force de chose jugée et la date du prononcé.
+La nature du dispositif de la décision judiciaire.
+D. Quel est l'OEC compétent ?
+A moins que la loi n'en dispose autrement, l'officier de l'état civil compétent est celui :
+du lieu d'inscription au registre de la population, au registre des 
+étrangers ou au registre d'attente de l'intéressé, des  intéressés ou de 
+l'un d'entre eux; ou à défaut,
+de la résidence actuelle de l'intéressé, des intéressés ou de l'un d'entre eux; ou à défaut,
+de Bruxelles.
+E. Quels documents faut-il ?
+La réception du jugement via les notifications de la BAEC.
+F. Etablir la modification dans le programme SAPHIR.
+     Gestion
+     Gestion BAEC
+     En cliquant sur notifications, une nouvelle fenêtre s'ouvre
+     Cliquez sur les petites jumelles et une nouvelle fenêtre s'ouvre
+Texte:
+Cliquez sur la flèche verte.
+Vous aurez ainsi toutes vos notifications. Si une notification apparait "Texte" c'est qu'il s'agit d'un jugement.
+Texte:
+Vérifiez que TOUS les actes concernés par ce jugement se trouvent dans la BAEC.
+Texte:
+Deux possibilités s'offrent à vous dans le logiciel métier de Civadis :
+     - Soit le petit crayon
+     - Soit Correction signalétique à la BAEC
+Si l'acte de naissance est dans la BAEC, vous travaillez avec le petit crayon.
+Si l'acte de naissance ne se trouve pas dans la BAEC, vous travaillez avec : Correction signalétique à la BAEC.
+Texte:
+Si la modification se fait via le petit crayon (donc dans l'acte de naissance de l'intéressé) :
+Texte:
+Réalisez la modification nécessaire.
+Texte:
+Validez avec la flèche verte et une nouvelle fenêtre s'ouvre.
+Texte:
+Complétez.
+Texte:
+Scannez votre jugement et complétez suivant la situation.
+Cliquez sur envoi.
+Texte:
+Votre acte modificatif apparait alors.
+Relisez attentivement avant de finaliser.
+Texte:
+Si la modification se fait via "Correction signalétique à la BAEC" (option à choisir si l'acte de naissance de l'intéressé ne se trouve pas dans la BAEC) :
+Cliquez sur la personne concernée par la modification et correction signalétique à la BAEC.
+Une nouvelle fenêtre apparait.
+Texte:
+Modifiez selon le cas présent.
+Texte:
+Scannez votre jugement et complétez suivant la situation.
+Cliquez sur envoi.
+Texte:
+4. Sur présentation d'un acte ou d'une décision étrangère
+A. Définition :
+Si l'intéressé vous dépose un document étranger (Ce document doit dater d'après l'acte à modifier) pour modifier un acte établi en Belgique, vous établirez soit un acte soit vous effectuerez une modification sur un acte. 
+B. Qui dépose le document ?
+L'intéressé lui-même.
+C. Quel est l'OEC compétent pour opérer la rectification ?
+A moins que la loi n'en dispose autrement, l'officier de l'état civil compétent est celui :
+du lieu d'inscription au registre de la population, au registre des 
+étrangers ou au registre d'attente de l'intéressé, des intéressés ou de 
+l'un d'entre eux ; ou à défaut,
+de la résidence actuelle de l'intéressé, des intéressés ou de l'un d'entre eux ; ou à défaut,
+de Bruxelles.
+D. Quels documents faut-il ?
+Un acte étranger ou la décision étrangère (attention à la légalisation et en cas de doute, il y a toujours l'A.C.F.)
+Vérifiez que TOUS les actes concernés par ce document se trouvent dans la BAEC.
+Le document étranger sera mit en annexe dans la BAEC.
+E. Etablir l'acte ou faire la modification dans le programme SAPHIR.
+Vous établirez principalement un acte belge sauf dans les cas suivants, où vous établirez un acte modificatif :
+une contestation de la filiation
+l'établissement d'un lien de filiation
+l'annulation d'une reconnaissance
+une rectification d'un acte
+un changement de nom ou de prénoms (uniquement dans le cadre d'un recours)
+Texte:
+Si vous procédez avec un acte modificatif :
+Exemple : La suppression de la filiation paternelle suite à un jugement étranger.
+Via votre logiciel métier, recherchez dans la BAEC avec le NN l'acte de naissance de l'intéressé.
+Cliquez sur le petit crayon.
+Texte:
+Cliquez la petite croix rouge du père.
+Texte:
+Une petite fenêtre s'ouvre et cliquez sur OUI.
+Texte:
+Validez avec la petite flèche vert.
+Une nouvelle fenêtre s'ouvre
+Complétez suivant votre cas.
+Scannez votre document et complétez suivant votre cas.
+Cliquez sur ENVOI.
+Texte:
+L'acte modificatif apparait.
+Vérifiez bien les modifications.
+Cliquez sur OUI.
+Texte:
+Si vous procédez avec l'établissement d'un acte :
+Exemple : Un acte de reconnaissance postnatale établi à l'étranger.
+Créez un acte de reconnaissance.
+Cliquez sur créer.
+Texte:
+Type d'acte : Reconnaissance.
+OK
+Texte:
+Registre : Naissance
+Choisissez votre signataire.
+Le reste se complète automatiquement.
+Texte:
+Remplissez les cases suivant votre cas de figure.
+Texte:
+Dans le sous-onglet : Base d'établissement.
+Remplissez selon le cas de figure.
+Scannez votre document et annexez-le.
+Texte:
+Une nouvelle fenêtre s'ouvre.
+Créez et annexez le document.
+Remplissez le reste selon votre cas de figure.
+Texte:
+Dans "signalétiques", encodez les NN des intéressés.
+S'il y a un changement de nom et de prénom, cliquez droit sur l'enfant.
+Texte:
+S'il y a un changement de nom et de prénom, cliquez droit sur l'enfant.
+Une petite fenêtre s'ouvre et cochez : Nouveau(x) nom(s) / prénom(s). et OK
+Texte:
+Une petite fenêtre s'ouvre à nouveau.
+Texte:
+Validez avec la petite flèche verte.
+Utilisez toujours le mode BROUILLON. Ceci vous permet de relire.
+Si c'est OK, validez définitivement.
+Vérifiez également que les mises à jour au RN soient effectives.

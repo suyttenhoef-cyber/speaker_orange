@@ -1,0 +1,149 @@
+Historique & bases légales
+Nom:
+Historique & bases légales
+Description:
+Dans ce module, nous allons nous consacrer à l'analyse du registre national. et plus particulièrement à son historique et ses bases légales.
+Titre, page:
+Les bases historiques et légales
+Texte:
+La définition du registre national
+Question:
+Testez votre intuition
+Qu'est-ce que le registre national?
+Option de réponse:
+Ce sont des registres concernant l'état des personnes que chaque commune conserve.
+Option de réponse:
+C'est un système de traitement d'informations qui assure l'enregistrement d'informations relatives à l'identité des personnes physiques.
+Option de réponse:
+C'est un système de traitement d'informations qui assure l'enregistrement d'informations relatives à l'identité des personnes physiques et morales.
+Option de réponse:
+C'est un système de traitement d'informations qui assure la communication d'informations relatives à l'identité des personnes physiques.
+Option de réponse:
+C'est le registre des adresses de toutes les personnes physiques et morales du Royaume.
+Feedback si réponse incorrecte:
+Non. 
+C'est un système de traitement d'informations qui assure l'enregistrement , la mémorisation et la communication d'informations relatives à l'identité des personnes physiques.
+Feedback si réponse correcte:
+C'est correct!
+Pour être complet, on peut dire que le registre national est un système de traitement d'informations qui assure l'enregistrement , la mémorisation et la communication d'informations relatives à l'identité des personnes physiques.
+Texte:
+Le registre national est un système de traitement d'informations qui assure l'enregistrement, la mémorisation et la communication d'informations relatives à l'identité des personnes physiques. 
+Il concerne aussi bien: 
+les Belges - qu'ils résident en belgique ou à l'étranger; 
+les Etrangers qui sont passés sur le territoire belge.
+Texte:
+Les bases historiques du registre national
+Question:
+Testez votre intuition
+Le registre national est:
+Option de réponse:
+très récent et a été mis en place dans les années 1970 en Belgique.
+Option de réponse:
+d'orginie ancienne, autour du 8ème siècle.
+Feedback si réponse incorrecte:
+Le registre national est le fruit d'une longue évolution et le concept de registre de la population est très ancien.
+Feedback si réponse correcte:
+Correct!
+Texte:
+Les bases légales
+        1. La loi du 8 août 1983 organisant un Registre national des personnes physiques
+Cette loi met en plac 17 informations légales: 
+Nom et prénoms; 
+Lieu et date de naissance; 
+Sexe; 
+Nationalité; 
+Résidence principale; 
+Lieu et date du décès; 
+Profession (abrogé en 2015); 
+Etat civil; 
+Composition de la famille; 
+Identification de l'administrateur; 
+Mention du registre d'inscription; 
+Certificat d'identité; 
+Cohabitation légale; 
+Situation de séjour; 
+Ascendant au 1er degré; 
+Descendant au 1er degré; 
+Capacité/incapacité. 
+          2. L'Arrêté Royal du 8  janvier 2006 déterminant les types d'information associés aux informations visées à l'article 3, alinéa 1er, de la loi du 8 août 1983 organisant un Registre national des personnes physiques 
+Cet arrêté royal et ses modifications complètent la liste. 
+          3. L'Arrêté Royal du 3 avril 1984 relatif à l'accès de certaines autorités publiques au Registre national des personnes physiques, ainsi qu'à la tenue à jour au contrôle des informations
+          4. La loi du 19 juillet 1991 relative aux registres de la population et aux cartes d’identité et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques.
+          5. La loi du 8 décembre 1992 relative à la protection de la vie privée
+Titre, accordéon:
+Les bases légales
+Texte, accordéon:
+Liens vers les textes
+Texte:
+Les liens du registre national avec les autres banques de données
+Les registres de la population
+Le registre national trouve saprincipale source d’information dans les registres de la population.
+C’est tout à fait logique, puisqu’il a justement été créé afin d’instaurer un système centralisé réalisant un enregistrement automatisé des informations d’identification et de localisation repris dans les registres de population communaux.S
+Les données qui composent ces deux types de re-gistres sont normalement parfaitement identiques.En effet, le Registre national recevant ses informations directement des registres de population, en principe, aucune différence ne doit existerentre les informations.
+L'état civil
+Les actes de l’état civil sont principalement établis par les communes et ils servent de preuve de l’état civil d’une personne. C’est sur base de ces actes de l’état civil que certaines informations sont introduites dans les registres de la population, et donc au Registre national. Si historiquement cela se faisait « manuellement », avec un grandrisque d’erreur humaine, la mise en œuvre de la BAEC au 31 mars 2019 a permis d’introduire automatiquement toute une série de données dans ces registres de la population, et donc au Registre national. Cette transmission automatique des informations diminue donc le risque de discordance entre l’acte de l’état civil et le Registre national. 
+Les actes de l’état civil sont donc également une source d’information primaire pour le Registre national. 
+A noter que, conformément à l’article 1319 du Code civil et depuis le 31 mars 2019, les actes enregistrés dans la BAEC et les actes originaux sur papier sont des actes au-thentiques et font foi jusqu’à inscription de faux (articles 24 et 25, § 1er,alinéa 2, du Code civil). En revanche, les informations enregistrées etconservées par le Registre nationalfont foi jusqu’à preuve du contraire(article 4, alinéa 3, de la loi du 8 août 1983 organisant un registre natio-nal des personnes physiques).
+La force probante des actes de l’état civil est donc supérieure à celles des mentions reprises dans le Registre national. Toutefois, cela n’enlève pas au Registre national son caractère de source authenthique.
+Question:
+Pourquoi dit-on que le registre national est une source authentique?
+Feedback:
+On appelle « source authentique » un ensemble de données, détenues par un organisme qui a été désigné par un acte juridique pour en assurer la gestion, et qui font foi dans un domaine particulier de compétence. 
+Les données doivent concerner des personnes physiques ou morales ou des faits de droit.
+La gestion d’une source authentique implique des droits et desdevoirs :
+garantir l’exhaustivité, la précision et la mise à jour régulière des données ;
+rectifier les données erronées, après vérification éventuelle ;
+mettre les données à disposition des autres organismes qui en ont un besoin légitime, dans le respect de la protection des données à caractère personnel.
+Or, le Registre national est une base de données qui sert de référencepour authentifier, vérifier ou consolider des informations. Il prouve authentiquement qu’ont été faites, par exemple, les déclarations de changement de résidence qu’il atteste. Il n’est plus nécessaire, à chaque instant, de prouver cette information, pour autant qu’elle soit confirmée et enregistrée dans le Registre national
+Texte:
+Les différents types d'information
+Les informations légales du registre national des personnes physiques sont celles contenues dans le registre de population, le registre des étrangers et le registre d’attente.
+On ne dénombre toutefois que 14 informations légales au registre national, alors que les trois derniers registres précités en contiennent bien davantage: 
+Le numéro national (TI 000); 
+La commune (TI 001); 
+La demande d’inscription (TI 005); 
+Le nom et prénom(s) (TI 010); 
+L’adresse (TI 020); 
+La nationalité (TI 031); 
+Le lieu de naissance (TI 100); 
+La filiation ascendante (TI 110); 
+La filiation descendante (TI 114); 
+L’état civil (TI 120); 
+La composition de ménage (TI 140); 
+La position dans le ménage (TI 141); 
+Le numéro de la carte d’identité électronique (TI 180); 
+La date de mise à jour de la commune de résidence (TI 251)?
+Les dossiers personnels des personnes physiques sont structurés de la manière suivante :
+le type d’information
+la date de l’information
+l’information enregistrée par l’autorité compétente
+Toutes ces informations introduites au Registre national peuvent être corrigées, annulées, supprimées ou enrichies. 
+A cet effet, il existe différents codes opérations et codes services qui vont déterminer le type de mise à jour que l’utilisateur du Registre national veut adapter à ces données.
+Les codes opérations 
+Codes généraux
+code 10 – mises à jour (ou introduction de l’information); 
+code 11 – correction ou correction d’historique; 
+code 12 – suppression (avec conservation des données en historique); 
+code 13 – annulation ou annulation d’historique ; 
+code 17 – introduction d’une information historique ou enrichissement historique.
+Codes spéciaux
+code 14 – indication du prénom usuel; 
+code 15 – mise à jour des données de la BCSS (Banque Carrefour de la Sécurité Sociale); 
+code 16 – ajout d’un trait d’union; 
+code 19 – ajout ou annulation de la fusion de deux communes; 
+code 20 – correction d’une date; 
+code 21 – ajout de prénoms ; 
+code 23 – renumérotation des habitations ; 
+code 25 – correction ou ajout d’un numéro d’acte d’Etat civil.
+Texte:
+Les codes services 
+Dans la structure d’une mise à jour, ils se positionnent entre le type d’information et la date de l’information.
+code 0 (zéro) – s’applique un traitement normal selon le programme ordinaire; 
+code 1 – utilisé pour introduire différents faits à enregistrer le même jour (exemple : pour introduire dans l’information 120 deux états civils qui ont eu lieu le même jour : un mariage et un veuvage); 
+code 2 – utilisé pour la correction d’une information en historique; 
+code 3 – utilisé dans les informations 001 et 020 pour la modification entière de la résidence principale d’un ménage (pour autant que l’ensemble du ménage soit concerné par ce changement) ainsi que pour introduire la fusion de 2 communes; 
+code 4 – utilisé pour les types d’information 120 et 121 quand l’époux ou l’épouse n’a pas atteint l’âge requis par la loi pour contracter mariage. Il peut également être utilisé pour annuler la fusion entre 2 communes; 
+code 5 – utilisé dans l’information 073 (brevet de pension), code 01, si l’année et le mois du n° de brevet sont différents de l’année et du mois du numéro d’identification; 
+codes de service 7, 8 et 9 ne sont plus utilisés; 
+code de service 9 est remplacé par le code de service 0. 
+Il est à noter que certaines opérations requièrent l’intervention des Délégations régionales du Registre national selon leur compétence territoriale, les utilisateurs ne disposant pas des accès permettant l’entièreté des annulations ou corrections des données.

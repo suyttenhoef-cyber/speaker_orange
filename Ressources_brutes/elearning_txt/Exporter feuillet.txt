@@ -1,0 +1,181 @@
+Le mariage : déclaration & célébration
+Nom:
+Le mariage : déclaration & célébration
+Description:
+Le droit au mariage est un droit fondamental, garanti par l'article 12 de la Convention Européenne des Droits de l'Homme. 
+Dans ce syllabus, nous examinerons les conditions de fond et de forme sur la déclaration et la célébration du mariage en Belgique.
+Titre, page:
+La déclaration de mariage
+Texte, introduction:
+Chaque couple qui souhaite se marier en Belgique devra en faire la déclaration à l'Officier de l'état civil compétent. 
+Cette déclaration devra être accompagnée de certains documents sauf si ceux-ci sont disponibles soit dans la BAEC soit dans le registre national.
+Voyons ça ensemble :
+Question:
+L'Officier de l'état civil compétent pour recevoir la déclaration de mariage est celui :
+Option de réponse:
+de la commune ou l'un des deux futurs époux est inscrit aux registres de la population.
+Option de réponse:
+de la commune de la résidence actuelle de l'un des futurs époux et pour autant que cette adresse ne correspond pas pour des raisons légitimes à l'adresse reprise au registre national.
+Option de réponse:
+de la commune choisie par les futurs époux.
+Option de réponse:
+de la commune du lieu de naissance de l'un des futurs époux.
+Option de réponse:
+pour les belges qui résident à l'étranger et qui ne sont pas inscrits dans un des registres de la population dans une commune belge : 
+la commune de la dernière inscription de l'un des futurs époux; 
+la commune où un parent (jusqu'au 2e degré) est inscrit
+la commune de naissance de l'un des futurs époux.
+A défaut de ces possibilités, la déclaration sera reçue par l'OEC de Bruxlles.
+Feedback si réponse incorrecte:
+La déclaration sera dans la plupart des cas reçu par l'OEC de la commune de domicile de l'un des futurs époux.
+L'adresse de la résidence actuelle qui ne correspond pas à celle reprise au registre national peut être prise en compte dans les cas où l'un des époux est en détention ou encore que l'un des deux se trouve dans une institution hospitalière.
+En ce qui concerne les belges résidant à l'étranger, l'OEC de la Ville de Bruxelles ne recevra la déclaration que si toutes les autres conditions ne sont pas possibles.
+Feedback si réponse correcte:
+Tout à fait. 
+Nous noterons que la possibilité pour les belges résidant à l'étranger de déposer la déclaration à l'OEC de la Ville de Bruxelles n'est que dans le cas où les autres possibilités sont impossibles.
+Texte:
+La réception de la déclaration
+Lors de la remise de la déclaration par les intéressés, l'OEC vérifiera qu'il est en possession de tous les documents nécessaires avant de la signer.
+Liste des documents à présenter: 
+Si un seul des futurs époux est présent, une "simple" procuration de l'autre futur époux. Elle ne doit donc pas être spéciale et authentique;
+Une preuve d'identité pour chacun des époux (s'il ne s'agit pas d'un titre de séjour belge, le titre d'identité étranger sera annexé dans la BAEC);
+L'acte de naissance. S'il est disponible dans la BAEC, le citoyen ne doit pas le fournir. Si ce n'est pas le cas, le futur époux le fournira;
+Pour chaque donnée non disponible au registre national, il sera nécessaire pour le ou les futurs époux de produire : 
+le cas échéant, une preuve de la résidence actuelle;
+une preuve de sa nationalité (dans le cas où elle n'est pas déterminée au RN, la preuve de nationalité sera annexée à l'acte de mariage dans la BAEC);
+une preuve de l'état civil.
+Si l'une des parties ou les deux est étrangère, un document attestant qu'il remplit les conditions pour contracter mariage peut être demandé.
+L'OEC peut également demander tout autre document pour étayer certaines données, s'il estime ne pas être assez informé. Conseil : ne pas abuser de cette possibilité.
+Texte:
+Quelle suite donner à la déclaration ?
+Signer la déclaration
+Dans le cas où la déclaration et les documents qui doivent l'accompagner sont conformes, l'OEC peut signer immédiatement la déclaration de mariage. Dans ce cas, les futurs époux seront informés qu'ils pourront choisir entre 0 et 4 témoins majeurs pour le mariage (pas par personne).
+Suspendre la signature de la déclaration
+Si l'OEC a un doute quant à la validité ou l'authenticité des documents, il peut décider de décaler la signature de la déclaration de mariage. Il remettra un accusé de réception aux intéressés.
+Dans un délai d'1 mois, prolongeable de 2 mois supplémentaires, il prendra une décision : signer la déclaration ou refuser de signer la déclaration. 
+Refuser de signer la déclaration
+Lorsque le doute subsiste quant aux documents déposés avec la déclaration de mariage, l'OEC refusera de signer la déclaration et en avisera les parties en mentionnant la raison du refus. Dans un délai d'1 mois, les intéressés pourront saisir le tribunal de la famille contre cette décision.
+Titre, accordéon:
+Modèles de lettre
+Texte:
+Cas particulier
+Lorsque la déclaration de mariage concerne un étranger en séjour illégal ou précaire, l'OEC se doit de transmettre ses informations à l'Office des étrangers comme le prévoit la Circulaire du 6 septembre 2013.
+Dans un délai de 30 jours, l'Office des étrangers remettra l'historique de chaque intéressé, ce qui pourra aider l'OEC dans son appréciation quant à la possibilité de se retrouver face un mariage simulé.
+Dans ce cas, l'OEC pourrait suspendre la signature de la déclaration de mariage. Ce délai lui permettra de prendre la meilleure décision quant à la suite à donner à la déclaration de mariage.
+Titre, page:
+Analyse des documents nécessaires à la déclaration de mariage
+Texte, introduction:
+Ces documents sont donc: 
+L'acte de naissance;
+La preuve de l'état civil;
+La preuve de nationalité;
+Le certificat de coutume.
+Texte:
+L'acte de naissance
+Plusieurs cas de figure peuvent se présenter: 
+L'acte est disponible dans la BAEC;
+L'acte provient du pays d'origine avec les légalisations et traduction d'usage;
+L'acte est délivrés par des autorités étrangères en Belgique pour les pays suivants : Angola (enclave de Cabinda), Sud Soudan, Somalie et Afghanistan. Ce document sera légalisé par le SPF Affaires étrangères en Belgique;
+Il n'y a pas d'acte de naissance mais un acte de notoriété délivré par le juge de paix de la résidence principale;
+Il n'y a pas d'acte de naissance mais une prestation sous serment autorisée par le tribunal de la famille.
+Titre, accordéon:
+Différents modèles d'actes de naissance étrangers
+Titre, téléchargement:
+Acte de naissance
+Texte:
+La preuve de l'état civil
+L'état civil des futurs époux peut : 
+être mentionné au registre national;
+revêtir la forme d'un acte de naissance tenant lieu de preuve de l'état civil;
+être une attestation du pays d'origine;
+consister en une déclaration sur l'honneur établie par les autorités étrangères.
+En cas de divorce ou de veuvage et si l'information n'est pas reprise au registre national, l'acte ou le jugement de divorce ou l'acte de décès de l'ex-conjoint suffira.
+Il est important de souligner que chaque pays ne dispose pas d'un registre national. Dès lors, le moyen de prouver son état civil selon l'État peut être différent.
+Par exemple : 
+En France et en Espagne, l'acte de naissance tient lieu de preuve d'état civil car ils sont émargés en cas d'union. S'il n'y a pas d'émargement, le citoyen doit être considéré comme célibataire;
+Au Royaume-Uni, une déclaration sur l'honneur devant un notaire britannique vaudra comme preuve d'état civil;
+Aux États-Unis, il s'agira d'une déclaration sur l'honneur établie auprès de l'Ambassade américaine;
+En Suède, c'est un extrait du registre des taxes (qui vaut également comme acte de naissance).
+Titre, accordéon:
+Exemples de certificats de célibat
+Titre, barre d’accordéon:
+Aux États-Unis, l'attestation consulaire "Affidavit"
+Titre, barre d’accordéon:
+En Suède, l'extrait du registre des taxes
+Texte:
+La preuve de la nationalité
+La nationalité peut : 
+être mentionnée au registre national;
+être prouvée par un document du pays concerné. 
+Pour beaucoup d'états, la preuve de la nationalité peut découler de la naissance de l'intéressé sur son territoire (comme au Brésil) ou sur base du passeport.
+En cas de doute quant à l'authenticité de ces documents, une attestation consulaire en Belgique pourrait suffire quant à la démonstration de la preuve de la nationalité.
+Une attestation au pays peut-être demandée mais révèlera bien souvent les mêmes informations que fournies par l'Ambassade en Belgique.
+Texte:
+Le certificat de coutume
+Le certificat de coutume est un document explicatif de la législation étrangère en ce qui concerne le mariage.
+Par exemple, il vous permettra de connaître les règles en ce qui concerne : 
+le nom ou les prénoms des futurs époux après mariage;
+le délai de viduité à respecter (il s'agit d'un délai après la cessation d'un précédent mariage durant lequel l'époux ou l'épouse ne peut se remarier);
+la nécessité de publier des bans.
+Titre, accordéon:
+Quelques exemples de l'utilité du certificat de coutume
+Titre, barre d’accordéon:
+En Roumanie, pour le nom après le mariage
+Texte:
+Après le mariage 
+Lors de la conclusion du mariage, les deux époux peuvent décider :
+de garder leur propre nom ; ou
+de prendre le nom de l'autre conjoint ; ou
+d’ ajouter le nom de l'autre conjoint au leur.
+Titre, barre d’accordéon:
+Au Maroc, pour le délai de viduité
+Texte:
+Le délai de viduité (idda):
+Pour la veuve : le délai de viduité de la veuve enceinte prend fin au moment de l'accouchement ou de la fausse couche.
+Une veuve non enceinte peut se remarier après quatre mois et dix jours.
+La femme divorcée ou répudiée (sauf si c’est avant consommation du mariage), doit respecter une période d'attente avant de pouvoir se remarier , qui est de :
+trois périodes intermenstruelles pour les femmes menstruées,
+trois mois pour les femmes non menstruées ou ménopausées;
+trois mois après une attente de neuf mois pour celle dont les menstrues sont tardives ou qui ne peut distinguer le flux menstruel d'un autre écoulement sanguin.
+Pour la femme enceinte, la période de viduité de prend fin à l’accouchement (ou avec l’interruption de la grossesse).
+Titre, barre d’accordéon:
+En France, pour la publication des bans
+Texte:
+Publication des bans obligatoire pendant 10 jours, suivi de l’établissement d’un acte de mariage dans les registres de l’état civil.
+Titre, barre d’accordéon:
+Autres pays
+Titre, page:
+La célébration du mariage
+Texte, instruction:
+Lorsque la déclaration a été signée par l'OEC, les parties peuvent choisir une date de mariage.
+Texte, introduction:
+Testez vos connaissances ou votre intuition en répondant à la question suivante:
+Question:
+Dans quel délai délai le couple doit-il se marier après la signature de la déclaration par l'OEC?
+Option de réponse:
+Il n'y a pas de délai légal.
+Option de réponse:
+entre le lendemain qui suit la date de la déclaration et jusqu'à 6 mois après la signature celle-ci.
+Option de réponse:
+entre le 14e jour qui suit la date de la déclaration et jusqu'à 6 mois après l'expiration du délai de 14 jours.
+Option de réponse:
+Le procureur du Roi, pour raisons graves, peut dispenser d'un délai légal (et donc, aller jusqu'à réduire les 14 jours à néant).
+Feedback si réponse incorrecte:
+Le mariage ne peut être célébré qu'à partir du 14e jour qui suit la date de la déclaration. Le mariage devra être célébré dans les 6 mois qui suit l'expiration de ce délai de 14 jours.
+Aussi, le procureur du Roi peut dans certains cas dispenser aux époux d'attendre la fin de ce délai de 14 jours pour célébrer leur mariage. Dans ce cas, les intéressés seront renvoyés vers le Procureur du Roi afin de demander eux-mêmes la dispense du délai légal. Ce cas vise celui des mariages "in extremis", lorsqu'un des époux est en toute fin de vie.
+Feedback si réponse correcte:
+Tout à fait.
+Dans le cas de la dispense par le procureur du Roi, les intéressés seront renvoyés vers ce dernier afin de demander eux-mêmes la dispense du délai légal.
+Texte:
+La base légale
+Texte:
+Le jour du mariage
+Le jour 
+C'est le couple qui choisit un jour pour la célébration du mariage. Ce jour ne peut être un dimanche ou un jour férié, sauf si le conseil communal en décide autrement. Celui-ci peut autoriser une exception au cas par cas ou de façon générale. 
+Le Lieu :
+Le lieu du mariage est habituellement la maison communale. Cependant, le conseil communal peut désigner un autre lieu.
+Ce lieu doit être sur le territoire de la commune et neutre.
+Le rôle de l'Officier de l'état civil :
+Publiquement, l'OEC expliquera aux parties le contenu du chapitre VI du Code civil en ce qui concerne les droits et les devoirs des époux. 
+Il demandera, à tour de rôle, aux époux s'ils se prennent comme tels. Dans l'affirmative, il déclare que les époux, au nom de la loi, sont unis par le mariage.
+L'acte est établi sans délai dans la BAEC.

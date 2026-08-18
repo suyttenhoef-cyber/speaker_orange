@@ -1,0 +1,50 @@
+Demande de séjour permanent
+Nom:
+Demande de séjour permanent
+Titre, page:
+Prolongation / Demande du séjour permanent
+Texte, instruction:
+Texte, introduction:
+La demande de séjour permanent : 
+Conditions : 5 ans de séjour ininterrompu, calculés à partir de l'inscription au RA6 (annexe 19)  : 
+Sont prises en compte pour le calcul de 5 ans :
+les absences temporaires ne dépassant pas au total 6 mois par an ;
+les absences dues à l’accomplissement d’obligations militaires ;
+les absences de 12 mois consécutifs lorsqu’elles sont justifiées par des raisons importantes (grossesse, accouchement, maladie grave, études, formations professionnelles, détachement d’ordre professionnel hors de Belgique, etc.).
+La demande peut être accordée dans certains cas avant cette période de 5 ans : 
+le citoyen de l'Union économiquement actif cesse d'exercer son activité à la suite d'une
+incapacité permanente de travail et séjourne en Belgique d'une façon continue depuis plus
+de 2 ans ou l'incapacité de travail résulte d'un accident de travail ou d'une maladie
+professionnelle ouvrant le droit à une prestation entièrement ou partiellement à charge
+d'une institution du Royaume.
+le citoyen de l'Union économiquement actif a atteint l'âge légal prévu par la législation
+pour faire valoir ses droits à une pension de vieillesse au moment où il cesse de travailler
+ou cesse ses activités en raison d'une retraite anticipée ET a travaillé en Belgique pendant
+la dernière année, ET a séjourné de manière ininterrompu en Belgique pendant plus de 3
+ans au total. 
+le citoyen de l'Union économiquement actif décède au cours de sa carrière professionnelle
+avant d'avoir acquis le droit de séjour permanent et il a séjourné dans le Royaume durant
+deux ans de façon ininterrompue, au moment de son décès OU le décès du citoyen 
+Procédure : 
+Le citoyen UE qui séjourne en Belgique depuis 5 ans ininterrompus se présente dans sa commune de résidence et se fait délivrer une annexe 22.   La commune peut décider d'octroyer le séjour permanent elle même directement.  Dans ce cas la personne est directement inscrite au registre population (TI 210 RP), la carte EU + est commandée.  Une annexe 8quater est délivrée et encoder dans l'attente de sa délivrance.
+Les citoyens UE qui étaient titulaires d'un titre spécial délivré par les affaires étrangères peut également introduire une demande de séjour permanent.  Si la commune le désire et si la personne totalise les 5 ans de séjour ininterrompu, elle peut elle même octroyer le séjour permanent sur présentation de la preuve que le le titre de séjour spécial a été restitué. 
+Les citoyen britanniques qui ont obtenu une carte M dans le cadre de l'accord de retrait et qui justifient un séjour ininterrompu de 5 ans peuvent eux aussi introduire une demande de séjour permanent via l'annexe 22.  A nouveau, si la commune le désire, elle peut elle même prendre sa décision et octroyer le séjour permanent via la carte M "séjour permanent" et non une carte EU +
+Si la commune prend elle même la décision d'accorder le séjour permanent, les dossiers doivent quand même être transmis à l'office des étrangers pour info (ls.demandes.ue@ibz.fgov.be)
+Si la personne ne totalise pas 5 ans de séjour et qu'elle ne rentre pas dans une des conditions d'exception la commune délivre une annexe 23 (décision de refus de séjour permanent) . A transmettre à l'office des étrangers (ls.demandes@ibz.fgov.be)
+Si la personne introduit une demande avant les 5 ans de séjour ininterrompu parce qu'elle rentre dans une des conditions d'exception, la demande est obligatoirement soumise à l'approbation de l'office des étrangers, l'annexe 22 et les preuves qu'elle rentre dans les conditions d'exceptions (ls.ue@ibz.fgov.be)
+Si pour une raison ou une autre, la commune décide de soumettre la demande de séjour permanent à l'approbation de l'office des  étrangers, l'annexe 22 est à transmettre à l'office des étrangers (ls.ue@ibz.fgov.be)
+LA DEMANDE DE SEJOUR PERMANENT D'UN CITOYEN UE N'EST PAS OBLIGATOIRE, CELUI CI PEUT DECIDER DE SIMPLMENT PROLONGER SA CARTE EU.
+Note : si la carte EU/E arrive a expiration pendant la période d'examen de la demande de séjour permanent, le citoyen UE à le choix entre commander une nouvelle carte EU ou se faire délivrer une annexe 8ter valable 45 jours et renouvelable 
+Le renouvellement de la carte EU ou EU+ 
+Le renouvellement de la carte Eu+/Eu relève de la compétence de la commune. Aucune instruction ne doit être demandée à l’Office des étrangers.
+Texte:
+Titre, accordéon:
+La base légale
+Titre, barre d’accordéon:
+Lien vers les textes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, barre d’accordéon:
+Les annexes

@@ -1,0 +1,174 @@
+Décès - Introduction et base légale
+Nom:
+Décès - Introduction et base légale
+Description:
+[p][br][/p]
+Titre, page:
+[p]Introduction[/p]
+Texte, instruction:
+[p][br][/p]
+Texte, introduction:
+[p]Si le service Population accompagne le citoyen dans sa vie quotidienne, le service Etat civil lui est présent pour les grandes étapes de la vie. La dernière n’est certes pas la plus agréable mais notre mission de service public prévaut. Nous allons donc aborder ensemble la matière relative aux décès.[/p][p][br][/p][p]Au niveau base légale, le troc commun se trouve dans le code civil. Chaque région possède ses quelques spécificités qui vous seront expliquées tout au long de ce module.[/p]
+Texte:
+Titre, page:
+Principes généraux - Compétence territoriale
+Texte, instruction:
+[p][br][/p]
+Texte:
+[p][b]«&nbsp;[i]Bien que je n’ai pas peur de la mort, j’aime mieux
+être ailleurs quand ça se produira.&nbsp;[/i]» Woody Allen[/b][/p]
+Texte:
+[p]La compétence de l’Officier de l’état civil est définie par l’article 55 du Code civil qui stipule que c’est l’Officier de l’état civil du lieu de décès ou de découverte du corps sans vie qui doit établir l’acte de décès. Cet acte de décès se base sur les informations fournies dans le certificat de décès rédigé par le médecin qui a constaté le décès (modèle IIIC ou modèle IIID pour les enfants de moins d’un an).[/p][p][br][/p][p]Le modèle IIIC volet A reprend les informations relatives à l’identité du défunt, le lieu du décès ainsi que le jour et l’heure.[br][/p][p][br][/p][p]Diverses cases à cocher permettent d’établir s’il s’agit d’un décès de cause naturelle ou non. La mort peut aussi être violente (suicide, homicide), suspecte ou impossible à déceler (état du corps ne permettant pas d’établir clairement la cause du décès). Ces cases permettent également de savoir si le défunt peut ou non être incinéré (afin d’éviter l’impossibilité d’une autopsie en cas de mort suspecte ou violente), si une maladie infectieuse a causé le décès et empêche donc les soins de conservations (Covid par exemple) ou si le défunt avait un pacemaker ou d’autres implants.[br][/p][ul][li][b][u]Cas particuliers (décès en mer ou avion)[/u][/b][/li][/ul][p]En cas de décès dans un avion de compagnie belge ou à bord d’un bateau battant pavillon belge, c’est le commandant qui doit établir aussi vite que possible (au maximum durant le premier atterrissage ou accostage) [u]un procès-verbal reprenant les informations relatives&nbsp;[/u]:[/p][p][/p][ul][li][u]au défunt&nbsp;[/u]: nom, prénoms, date et lieu de naissance (si la personne n’est pas identifiée, le commandant reprend toute information disponible lors de l’établissement de l’acte)[/li][li][u]au décès&nbsp;[/u]: lieu, date et heure du décès ou de la découverte du corps[/li][/ul][p]Le décès doit être consigné sur la liste des passagers.[/p][p][br][/p][p]Si le premier atterrissage ou accostage a lieu en Belgique, le commandant remet le procès-verbal qu’il a établi à l’Officier de l’État civil du lieu d’atterrissage ou d’accostage. L’OEC établit sans délai un acte de décès sur base du procès-verbal reçu. Il joint ce P-V à son acte de décès dans la BAEC.[/p][p][br][/p][p]Si le premier atterrissage ou accostage n’a pas lieu en Belgique, c’est au poste consulaire de carrière dont dépend l’aéroport ou le port que le commandant remet son procès-verbal.[br][/p]
+Légende, image (150 caractères maximum):
+Volet A du Modèle IIIC
+Texte:
+[b]Modèle III C[/b][i] ([/i][i]Specimen)[/i][br][br]Pour commander ces formulaires, il est préférable d’introduire votre demande par e-mail à l’adresse suivante : demogra-cdc-enq-cit@economie.fgov.be. Veuillez toujours mentionner le nom de l&apos;institution, le type de formulaire et le nombre souhaité. Pour toute questions sur la manière de commander ou de remplir les formulaires :[br][br][b]Courriel [/b]: demogra-cdc-enq-cit@economie.fgov.be[br][b]Téléphone [/b]: M. Mustapha Elghaj au numéro 02/277.65.97.
+Titre, page:
+Mentions obligatoires d&apos;un acte de décès
+Texte, instruction:
+[p][br][/p]
+[p][/p]
+Texte, introduction:
+Texte:
+[p][u]Les mentions obligatoires de l’acte de décès sont définies à l’article 56 du Code civil&nbsp;:[/u][/p][p][/p][ul][li][b]nom, prénoms, date et lieu de naissance du défunt[/b][/li][li][b]lieu, date et heure du décès ou de la découverte du corps[/b][/li][/ul][p]Si la personne n’est pas identifiée, l’OEC établit un procès-verbal reprenant toutes les informations disponibles sur le défunt et le joint à l’acte de décès dans la BAEC.[/p][p]Outre les mentions reprises ci-dessus, [u]l’acte de décès doit également mentionner[/u] (art 41 Cciv)&nbsp;:[/p][p][/p][ul][li]nom, prénom et signature de l’OEC ou de l’agent délégué en vertu de l’art 9 CCiv[/li][li]date et lieu de rédaction de l’acte de décès[/li][li]le numéro de l’acte[/li][li]si l’acte est établi sur base d’un procès-verbal, la mention doit en être faite.[/li][/ul]
+Titre, page:
+Les délais légaux
+Texte:
+[b]Aucun délai légal n’est prévu pour la déclaration de décès. Cependant, il s’agit d’une formalité qui doit être effectuée le plus vite possible afin de pouvoir organiser les funérailles.[/b][br][br]L&apos;OEC ne doit plus attendre d&apos;avoir été informé par les pompes funèbres pour dresser l&apos;acte de décès. Il convient donc d&apos;établir l&apos;acte de décès dès que possible.[br][br]Actuellement, deux possibilités s’offrent aux familles des défunts : l’inhumation du corps ou l’incinération. Les formalités différent en fonction du choix mais nous y reviendrons plus loin.[br][br][b][u]Cas particulier :[/u][/b][br][br]Le Bourgmestre peut ordonner l&apos;inhumation pour cause de salubrité publique.&nbsp;
+Texte:
+[h2][b]Inhumation pour cause de salubrité publique.[/b][/h2]
+Titre, page:
+Liste des documents nécessaires pour la déclaration de décès
+Texte, introduction:
+[ul][/ul]
+Texte:
+Toute une série de documents vous sera fournie par l&apos;entreprise de pompes funèbres afin que vous puissiez établir la déclaration de décès.[br][br]Les documents différent selon qu&apos;il s&apos;agit :[br][ul][li]d&apos;une&nbsp;[b]inhumation[/b]&nbsp;: Mise en terre ou en caveau du corps du défunt[/li][li]d&apos;une&nbsp;[b]incinération[/b]&nbsp;: crémation du corps du défunt et réduction de celui-ci en cendres.[/li][/ul][br][u]Dans le cadre d&apos;une[/u][b]&nbsp;inhumation[/b], les documents dont vous aurez besoin sont :[br][ul][li]certificat de décès (modèle IIIC)[/li][li]attestation de dernière volontés (certificat 148 dans Saphir Population)[/li][li]mandat du payant frais à l&apos;entreprise de pompes funèbres + copie de sa carte d&apos;identité[/li][li]acceptation de corps du lieu d&apos;inhumation (seulement si l&apos;inhumation a lieu sur le territoire d&apos;une autre commune que celle de domicile du défunt[/li][/ul][u]Dans le cadre d&apos;une&nbsp;[b]incinération[/b][/u], les documents dont vous aurez besoin sont :[br][ul][li]certificat de décès (modèle IIIC)[/li][li]attestation de dernière volontés (certificat 148 dans Saphir Population)[/li][li]mandat du payant frais à l&apos;entreprise de pompes funèbres + copie de sa carte d&apos;identité[/li][li]acceptation de cendres du lieu d&apos;inhumation ou de dispersion&nbsp; (seulement si ça n&apos;a pas lieu sur le territoire de la commune de domicile du défunt[/li][li]demande d&apos;incinération signée par le payant-frais et spécifiant la destination des cendres (inhumation, mise en colombarium, dispersion ou conservation au domicile)[/li][li]prestation de serment du médecin qui a vérifié si le défunt avait un pacemaker et l&apos;a enlevé le cas échéant&nbsp;[/li][/ul][i]La prestation de serment du médecin est généralement accompagnée d&apos;une déclaration de créances. Cette déclaration sert à payer les honoraires liés à la vérification effectuée.[/i][br][br]Une fois tous ces documents reçus, vous disposez de toutes les informations nécessaires pour établir la déclaration de décès.[br][br]Il est sage de faire valider la minute de votre déclaration par l&apos;entreprise de pompes funèbres avant de signer l&apos;acte dans Saphir et donc l&apos;ajouter dans la BAEC.[br][br]Dès réception de la minute approuvée, il faut signer l&apos;acte de décès et délivrer à l&apos;entreprise de pompes funèbres les documents nécessaires.[br][br][u]Dans le cadre d&apos;une[b]&nbsp;inhumation[/b][/u], les documents que vous devez délivrer sont :[br][ul][li]déclaration de décès[/li][li]acte de décès[/li][li]autorisation de transport du corps (DE6 dans Saphir)[/li][/ul][br][u]Dans le cadre d&apos;une[b]&nbsp;incinération[/b][/u], les documents que vous devez délivrer sont :[br][ul][li]déclaration de décès[/li][li]acte de décès[/li][li]autorisation de crémation (DE16 dans Saphir)[/li][li]Permis de transport des cendres (DE18 dans Saphir)[/li][/ul][br][u]Si le corps ou les cendres quittent le territoire belge[/u], il convient également de demander au SPF Santé Publique un laisser-passer mortuaire. Cette demande est généralement faite par les Pompes funèbres par voie électronique.
+Titre, accordéon:
+Modèles de documents[i] Décès, Funérailles &amp; Sépultures[/i]
+Titre, barre d’accordéon:
+[b]Modèle de permis de transport du corps et des cendres[/b]
+Titre, barre d’accordéon:
+[b]Autorisation de transporter et d&apos;inhumer[/b]
+Titre, barre d’accordéon:
+[b]Modèle d&apos;autorisation d&apos;exhumation[/b]
+Titre, barre d’accordéon:
+[b]Modèle d&apos;autorisation d&apos;inhumation[/b]
+Titre, page:
+Les dernières volontés
+Texte, introduction:
+Légende, image (150 caractères maximum):
+Dernières volontés ...
+Texte:
+[b]Les dernières volontés sont personnelles. [/b]Il s&apos;agit des choix que pose une personne quant à ce qu&apos;elle souhaite pour ses funérailles tant au niveau de la cérémonie que de la destination de sa dépouille.[br][br][b]Personne ne peut aller contre les dernières volontés d&apos;une personne[/b], pas même le conjoint ou un membre de la famille.[br][br]Souvent cité lors des cérémonies de mariage, c&apos;est dans ce cadre notamment que l&apos;article 213, dernier alinéa du Code Civil prend tout son sens :&nbsp;[i]"Le mariage ne modifie pas la capacité des époux"[/i].[br][br][b]Comment faire pour inscrire les dernières volontés d&apos;une personne ?[/b][br][br]Il suffit que l&apos;intéressé se rende à l&apos;administration communale dans laquelle il est inscrit aux registres de la population, des étrangers ou au registre d’attente, afin de faire inscrire ses dernières volontés.[br]&nbsp;[br]La déclaration de dernières volontés permet d&apos;exprimer les choix relatifs&nbsp;[u]au mode de sépulture[/u],&nbsp;[u]à la destination de ses cendres[/u]&nbsp;en cas de crémation,&nbsp;[u]au rite confessionnel ou non confessionnel[/u]&nbsp;et à&nbsp;[u]l’existence d’un contrat d’obsèques[/u].[br][br]Cette déclaration se fait par un écrit, daté, signé et remis contre récépissé à l’Officier de l’état civil qui l&apos;enregistrera au Registre national.[br][br]Cette déclaration personnelle reprend les nom, prénoms, lieu et date de naissance, adresse de l’intéressé ainsi que son choix quant au mode de sépulture.[br][br]Il ne s&apos;agit pas de faire des choix farfelus.&nbsp;[b]Une liste de choix est disponible et on ne peut y déroger[/b].&nbsp;[br][u][br][/u][br][u]Voici les différentes possibilités qui s&apos;offrent au citoyen :[/u][br][ul][li]inhumation des restes mortels[/li][li]crémation suivie de l’inhumation des cendres dans l’enceinte du cimetière[/li][li]crémation suivie de la dispersion des cendres dans l’enceinte du cimetière[/li][li]crémation suivie du placement des cendres dans le columbarium du cimetière&nbsp;[/li][li]crémation suivie de la dispersion des cendres en mer territoriale belge&nbsp;[/li][li]crémation suivie de la dispersion des cendres à un endroit autre que le cimetière ou la mer territoriale belge[/li][li]crémation suivie de l’inhumation des cendres à un endroit autre que le cimetière[/li][li]crémation suivie de la conservation des cendres à un endroit autre que le cimetière[/li][/ul][br]Bien que régulièrement citée, l&apos;humusation ne fait pas encore partie des modes de sépultures admis.[br][br]Si l’inhumation ou la dispersion des cendres a lieu dans un endroit autre que le cimetière et qui n’est pas la propriété du défunt, une autorisation écrite préalable du propriétaire du terrain est indispensable.[br][br]Sans cette autorisation, les cendres seront soit transférées vers un cimetière pour y être dispersées, inhumées ou placées en columbarium soit elles pourront faire l’objet des dispositions relatives aux sépultures sur terrain privé.&nbsp;[br][br][b]Attention, il n&apos;est en aucun cas possible de disperser ou inhumer les cendres dans un lieu public.[/b][br][br]Outre le mode de sépulture choisi,[u] la déclaration peut également mentionner [/u]:[br][ul][li]le cimetière dans lequel aura lieu l’inhumation de la dépouille ou des cendres, la dispersion ou la mise en columbarium des cendres[/li][li]le lieu de dispersion ou d’inhumation des cendres sur terrain privé[/li][li]l’identité du propriétaire du terrain[/li][li]l’identité de la personne qui conservera les cendres ainsi qu’une liste de récipiendaires de substitution&nbsp;[/li][li]la destination finale des cendres dans l’éventualité de la mise à terme de la conservation[/li][/ul][b]La déclaration de dernières volontés n&apos;est pas figée. Le déclarant peut modifier ses choix à tout moment et autant de fois qu&apos;il le souhaite.[/b][br][br]Le déclarant peut également mentionner dans sa déclaration de dernières volontés,&nbsp;[u]son choix quant au rite confessionnel ou non confessionnel pour ses funérailles :[/u][br][ul][li]une cérémonie funéraire selon le culte catholique&nbsp;[/li][li]une cérémonie funéraire selon le culte protestant&nbsp;[/li][li]une cérémonie funéraire selon le culte anglican&nbsp;[/li][li]une cérémonie funéraire selon le culte orthodoxe&nbsp;[/li][li]une cérémonie funéraire selon le culte juif&nbsp;[/li][li]une cérémonie funéraire selon le culte islamique&nbsp;[/li][li]une cérémonie funéraire selon la conviction laïque&nbsp;[/li][li]une cérémonie funéraire selon la conviction philosophique neutre[/li][/ul][br]Enfin, la déclaration de dernières volontés peut aussi faire&nbsp;[u]mention de l&apos;existence d’un contrat d’obsèques[/u].[br][br][u]L’intéressé indique dans sa déclaration :[/u][br][ul][li]la date de souscription du contrat[/li][li]l’identification de la société émettrice ou de l’entreprise de pompes funèbres avec laquelle il a souscrit le contrat[/li][li]les références du contrat[/li][/ul][br][b]Que faire en cas de décès dans une commune autre que celle de domicile ?[/b][br][br]Si le décès survient dans une commune autre que celle où le défunt est inscrit aux registres de la population, des étrangers ou au registre d’attente, la commune de domicile transmet sans délai et à la demande de la commune de décès, les informations relatives aux dernières volontés du défunt.&nbsp;[br][br]La commune du lieu de décès peut facilement vérifier si des dernières volontés sont inscrites, il suffit de faire une demande de transaction 17 dans le registre national. Cela permettra de voir si le TI 152 est existant ou pas. Si la réponse est néant, cela signifie que le défunt n&apos;a pas fait de déclaration de dernières volontés.[br][br][b]Et justement que faire si aucune déclaration de dernières volontés n&apos;a été rentrée ?[/b][br][br]Alors, il incombera à la&nbsp;[u]personne&nbsp;qualifiée pour pourvoir aux funérailles[/u]&nbsp;de poser les choix relatifs au mode de sépulture et éventuellement au type de cérémonie.
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+Dans ce cas-ci, quelle est la meilleure réponse à donner à l&apos;épouse du défunt ?
+Feedback:
+[b]L&apos;épouse ne peut pas
+aller à l&apos;encontre des dernières volontés de son époux. Comme le rappelle le
+code civil dans le dernier alinéa de l&apos;article 213 : "[i]Le mariage ne
+modifie pas la capacité des époux.[/i]"[/b]
+Titre, accordéon:
+Textes de référence
+Titre, barre d’accordéon:
+[b]Le Code de la Démocratie locale et de la Décentralisation[/b]
+Titre, barre d’accordéon:
+[b]CDLD - Art. L1232-17 § 2[/b]
+Titre, barre d’accordéon:
+[b]CDLD - Art. L1232-17 § 2[/b]
+Titre, page:
+La personne qualifiée pour pourvoir aux funérailles
+Texte, introduction:
+Texte:
+La personne qualifiée pour pourvoir aux funérailles est souvent un membre de la famille ou à défaut un ami.[br][br]On la mentionne généralement dans Saphir dans la déclaration de décès en tant que "[u]Payant frais[/u]".[br][b][br][/b][b]Mais comment savoir qui sera cette personne ?[/b][br][br]C&apos;est dans le décret wallon du 06/03/2009 que l&apos;on trouve la définition suivante :&nbsp;[i]« Personne désignée par le défunt par voie de testament ou, à défaut, un de ses héritiers ou ayant droit ou, à défaut, la personne qui durant la dernière période de vie du défunt a entretenu avec celui-ci les liens d’affection les plus étroits et fréquents de sorte qu’elle puisse connaître ses dernières volontés quant à son mode de sépulture. »[/i][br][br][b]En résumé et dans l&apos;ordre :[/b][br][ol][li]la&nbsp;[u]personne désignée à cet effet dans un écrit du défunt&nbsp;[/u];[/li][li]un[u]&nbsp;héritier ou ayant droit[/u]&nbsp;(sans ordre de priorité) ;[/li][li]la&nbsp;[u]personne[/u], même étrangère à la famille mais&nbsp;[u]la plus proche du défunt dans ses derniers moments de vie[/u].[/li][/ol]
+Titre, page:
+Cas particuiers
+Texte, introduction:
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+Quelle serait pour vous la meilleure procédure à appliquer ?
+Feedback:
+A l&apos;évidence, ce n&apos;est pas possible de procéder de la sorte. Il
+est interdit de transporter un cadavre sous peine de poursuites judiciaires.
+Texte:
+Tout n&apos;est pas toujours simple en matière de déclaration de décès. Si la plupart du temps, nous avons affaire à des décès dans des hôpitaux ou à domicile suite à des maladies, il arrive également que nous soyons confrontés à des morts violentes, des dons de corps à la science, des enfants présentés sans vie, ...[br][br]Bien qu&apos;il ne s&apos;agisse pas là des aspects les plus agréables de notre travail, il nous incombe de pouvoir les traiter correctement.[br][br]Nous allons donc passer en revue la méthodologie à appliquer.[br]&nbsp;[br][b]1. Mort violente, suspecte ou dont la cause est impossible à déceler[/b][br][b][br][/b]Si le modèle IIIC indique qu’il s’agit d’une [u]mort violente, suspecte ou dont la cause est impossible à déceler,[/u] ou s’il existe des [u]circonstances permettant de soupçonner qu’il y a eu mort violente ou suspecte ou une cause de décès impossible à déceler[/u] ou lorsque, dans son constat, le médecin n’a pu affirmer qu’il n’existait pas d’indices de mort violente, suspecte ou d’une cause de décès impossible à déceler, [u]le dossier est transmis au Procureur du Roi[/u] de l’Arrondissement du lieu de décès.[br][b][b][br][/b][/b][br][b][b]L’autorisation d’inhumation ou de crémation ne sera délivrée qu’après réception de l’avis de non-opposition du Procureur du Roi.[/b][/b][br][b][b][br][/b][/b][p][b][b]2.&nbsp;[/b][/b][b]Départ d&apos;un corps pour l&apos;étranger[/b][/p][br]Si divers documents sont nécessaires lors d&apos;un décès en Belgique avec inhumation ou incinération en Belgique, [u]d&apos;autres documents sont nécessaires quand le corps doit partir à l&apos;étranger.[/u][br][br]Ces documents sont à [u]demander auprès du SPF Santé publique[/u]. Ce sont généralement les Pompes funèbres qui en font la demande par voie électronique.[br][br]Cette demande doit être accompagnée de [u]3 documents délivrés par le service Etat Civil[/u] du lieu de décès :[br][ul][li]L’acte de décès[/li][li]Le certificat médical de non-contagiosité&nbsp;[/li][li]Le procès-verbal de mise en bière[/li][/ul]En pratique, les demandes se font via le site internet www.e-lpm.be. Il faudra télécharger les 3 documents précités. Les agents Saniport traiteront la demande et délivreront le [u]laisser-passer mortuaire[/u].[br][br][br][b]3. Décès à l&apos;étranger[/b][br][b][br][/b]Lorsque le décès a lieu à l’étranger, c&apos;est le Procureur du Roi de l’arrondissement judiciaire du lieu où est située soit la sépulture, soit la résidence principale du défunt, qui déclare s’il s’oppose ou non à l’inhumation&nbsp;[br][br]Il en va de même lorsqu&apos;il s&apos;agit de délivrer une autorisation de crémation, à ceci près, qu&apos;on tient compte pour la détermination de la compétence territoriale du Procureur du Roi, du lieu où est situé le crématorium ou du lieu de résidence principale du défunt.[br][br][br][b]4. Acte d&apos;enfant né sans vie[/b][br][b][br][/b]Il convient de distinguer les grossesses de [u]180 jours ou plus[/u] et celles [u]de 140 à 179 jours.[/u] On compte ces jours à partir de la date de conception.[br][br]Lorsqu’un enfant est décédé [u]après une grossesse de 180 jours[/u], l’Officier de l’état civil dresse[u] un acte d’enfant sans vie[/u], sur base d’une attestation médicale. Celle-ci est soumise par une personne apte à communiquer les renseignements requis pour l’établissement de l’acte.[br][br]Il conviendra de donner aux parent de l&apos;enfant[u] les attestations relatives aux allocations familiales et au congé de maternité[/u] puisque la mère y aura droit.[br][br]Si le décès de l&apos;enfant survient [u]après une grossesse de 140 à 179 jours[/u],[u] un acte d’enfant sans vie [/u]sera dressé par l&apos;Officier de l&apos;Etat civil, sur base d’une attestation médicale[b] et[/b] à la demande de la mère ou du père ou coparente qui est marié(e) avec la mère ou qui a fait une reconnaissance prénatale. Si les [u]parents sont non mariés[/u] et qu’[u]aucune reconnaissance prénatale[/u] n’a été actée, [u]la déclaration doit être conjointe[/u]. Il n&apos;est pas nécessaire que les 2 parents soient présents. L&apos;un des deux peut donner une procuration simple à l&apos;autre pour le représenter.[br][br][b]L’acte d’enfant sans vie mentionne :[/b][br][ul][li]date, lieu, heure de l’accouchement et sexe de l’enfant&nbsp;[/li][li]durée de la grossesse (en jours)[/li][li]nom, prénoms, date et lieu de naissance de la mère&nbsp;[/li][li]nom, prénoms, date et lieu de naissance du père ou coparente qui est marié(e) avec la mère ou qui a fait une reconnaissance prénatale ou à sa demande et avec l’autorisation de la mère, le père ou la coparente non marié(e) et qui n’a pas fait de reconnaissance ;[/li][li]prénom(s) de l’enfant si les parents en ont émis le souhait ;[/li][li]nom de l’enfant si les parents en ont émis le souhait et si né sans vie après 180 jours de grossesse[/li][/ul][br][b]5. Don de matériel corporel humain (ou leg du corps à la science)[/b][br][br]Tout d&apos;abord il convient de différencier le [u]don de matériel corporel humain[/u]&nbsp;et le [u]don d&apos;organes[/u].[br][i][br][/i][i][u]Le don de matériel corporel humain[/u] , c[/i]’est mettre l’ensemble de sa dépouille mortelle à la disposition de la médecine à des fins de transplantions,&nbsp; scientifiques ou de formation (apprentissage des dissections pour les étudiants en médecine, fabrication de médicaments, recherche scientifique, …)[br][p]Les dons de corps à la science sont totalement gérés par les Facultés de Médecine. Ils n’entrent donc pas en ligne de compte pour les déclarations de volonté auprès de l’administration communale de résidence.[br][/p][p][i][u]Donner ses organes pour la transplantation[/u], [/i]ce n&apos;est pas mettre son corps à la disposition de la science.&nbsp;Les organes prélevés le seront UNIQUEMENT à des fins de transplantation chez des individus en attente d’une transplantation.&nbsp;[/p][p]Le prélèvement fini, le corps sera rendu à la famille dans les délais les plus brefs.[/p][b][br][/b][br][b]Maintenant que la distinction est faite, comment se passe le leg de corps à la science concrètement ?[/b][br][br]Toute personne désirant faire don de corps à la science doit exprimer clairement cette volonté par un [u]document écrit daté et signé de sa main.[/u][br][br]Ce document est [u]remis à l’administration communale au moment de la déclaration de décès[/u].[br][br]Il convient de vérifier que l&apos;[u]Université a émis un document d&apos;acceptation du don[/u] avant de&nbsp; délivrer le permis de transfert du corps.&nbsp;[br][br]Le défunt doit être transporté vers l’Institut dans un cercueil au moyen d’un corbillard. Lorsque tous les travaux auront été effectués, la dépouille sera inhumée ou incinérée.
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+... et donc, dans ce cas précis, la première chose à faire est ?
+Feedback:
+Il est impératif de vérifier si
+l&apos;intéressé a fait inscrire ses dernières volontés. En cas de départ du défunt
+pour l&apos;étranger, il faut veiller à recevoir une acceptation de corps ou de
+cendres du pays de destination.
+Titre, page:
+Le décès du point de vue du service Population
+Texte:
+Une fois le décès signé et les documents remis aux Pompes funèbres, il nous reste une étape importante ...[br][b][br][/b][br][b]... la communication de l&apos;information au service Population[/b][br][br]Si le décès a eu lieu [u]dans la commune de domicile du défunt[/u], il suffit de[u] mettre le ménage à jour[/u].[br][br]Si le décès a eu lieu [u]dans une autre commune[/u] que celle du domicile du défunt, il faut avertir celle-ci. Il suffit de lui communiquer l&apos;information au moyen d&apos;un [u]modèle 7 électronique[/u]. Le TI150 se met à jour à la signature de l&apos;acte dans la BAEC mais la commune devra cependant encore mettre le ménage du défunt à jour.
+Titre, page:
+L&apos;indigence : Comment la définir et qu&apos;implique-t-elle ?
+Texte:
+[p][b]«&nbsp;[i]Pourquoi se retirer et abandonner la partie, quand il
+nous reste tant d’êtres à décevoir&nbsp;?&nbsp;[/i]» Cioran[/b][/p]
+Légende, image (150 caractères maximum):
+Comme un lundi ...
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+Quelle est la meilleure procédure à appliquer dans ce cas ?
+Feedback:
+L&apos;agent en charge du dossier doit vérifier si le défunt a encore de la famille et si celui-ci a édité ses dernières volontés. Il faut ensuite contacter [i][b]HR Rail [/b][/i]pour
+vérifier si ce défunt rentre dans les conditions pour la prise en charge des funérailles.
+Texte:
+Avant le décret du 14/02/2019 et sa circulaire du 01/07/2019, l&apos;indigence était définie par le CPAS.[br][br]Depuis cette date, c&apos;est au service Etat civil de définir si la situation du défunt entre dans les critères d&apos;indigence. Dans cette mission, le service Etat civil peut demander l&apos;aide du CPAS.[br][br][b]Tout d&apos;abord, qu&apos;est-ce que l&apos;indigence ?[/b] [i]"État d&apos;une personne vivant dans la misère."[/i][br][i][br][/i]Dans le cas qui nous intéresse, il s&apos;agit d&apos;un défunt qui n&apos;aurait pas les ressources financières suffisantes pour être inhumé ou incinéré dignement.[br][br]Cependant, il faut aussi vérifier auprès des organismes bancaires si le défunt a de quoi payer ses funérailles. Pour ce faire, il est obligatoire de signer l’acte de décès et d’en faire parvenir une copie au service Successions de l’organisme bancaire. En général, nous demandons à la famille ou à défaut à la Police ou à l’entreprise de pompes funèbres de regarder dans le portefeuille du défunt si une carte bancaire s’y trouve, ce qui nous permet de détermine auprès de quelle(s) banque(s) nous devons investiguer.[br][p][br][/p][p]Parfois, il arrive aussi que la personne soit un ancien employé de la Poste ou de la SNCB qui prévoient une allocation de décès. Un contact avec leur service du Personnel permet de définir si le défunt entre dans les conditions pour en bénéficier ou pas.[/p][br][u]Comment savoir quelle commune doit prendre en charge les frais relatifs au décès d&apos;une personne reconnue indigente ?[/u][br][br]C&apos;est d&apos;abord la commune du domicile de l&apos;indigent qui est qualifiée pour pourvoir aux funérailles. A défaut d&apos;inscription dans les registres de population, c&apos;est la commune du lieu de décès qui sera qualifiée.[br][br]Si l&apos;indigent a fait une déclaration de dernières volontés, il faudra les respecter peu importe si l&apos;incinération a un coût plus important que l&apos;inhumation. Cette déclaration peut avoir été faite à la commune, par écrit ou oralement auprès d&apos;une personne de confiance.[br][br]Dans la circulaire du 1er juillet 2019, le gouvernement va plus loin en spécifiant que si le défunt a une place dans une concession dans un cimetière, il faut faire le nécessaire pour qu&apos;il y soit inhumé. Pour rappel, l&apos;inhumation ou la dispersion des cendres est gratuite pour les indigents.[br][br]Il faut donc prévoir, dans les marchés publics relatifs à la prise en charge des indigents, le coût d&apos;un cercueil ventilé si l&apos;inhumation se fait dans un caveau, les frais d&apos;ouverture de la concession et les éventuels frais de déplacement si cette concession ne se situe pas dans le cimetière de la commune de décès.[br][p][b][br][/b][/p][p]
+[b]Et si des successeurs existent mais ne veulent pas intervenir&nbsp;?[/b][/p]
+[p][u][br][/u][/p][p][u]Si c’est un
+citoyen qui réside en Belgique&nbsp;:[/u][/p]
+[p]L’administration
+communale du domicile est tenue d’informer la famille du décès ou de s’assurer qu’elle en est au courant. Elle doit expliquer à la famille leurs obligations mais aussi leurs droits.[/p]
+[p][u][br][/u][/p][p][u]Si c’est un
+citoyen qui réside à l’étranger&nbsp;:[/u][/p]
+[p]Pour avertir un
+citoyen à l’étranger dans le cadre d’un décès, il est
+conseillé de prendre contact avec le service des Affaires étrangères
+(SPF), via l&apos;adresse mail [u]c1mail@diplobel.fed.be[/u],
+afin qu&apos;ils contactent l&apos;Ambassade belge concernée au regard du
+domicile de la personne à faire prévenir. Vous devrez alors
+renseigner toute une série de données sur le décès.[/p]
+[p]La commune
+veillera à ne faire appel au SPF Affaires étrangères que si un membre
+de la famille de l’indigent n’est pas susceptible d’être au
+courant du décès dans son pays de résidence.[/p][p][b][br][/b][/p][p]
+[b]Indigent ou « non géré », quelle différence ?[/b][/p]
+[p]Il ne faut pas
+confondre les deux cas de figure. La commune doit vérifier si le
+défunt possède d’autres membres de la famille en vie et surtout
+s’assurer que ceux-ci sont au courant du décès. La circulaire du
+1er juillet 2019 et celle du 4 juin 2014, particulièrement
+intéressante, évoquent la distinction entre un réel indigent et un
+défunt non géré. En cas d’indigence non-avérée a posteriori,
+la commune pourra toujours tenter de récupérer ses frais.[/p]
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+Quelle réponse donneriez vous à cette personne ?
+Feedback:
+[p]L&apos;Officier d&apos;état civil doit vérifier les
+     dernières volontés du défunt et voir s&apos;il n&apos;avait pas pris une assurance
+     obsèques mais aussi vérifier si celui-ci avait un emploi dans une entreprise publique
+     (BPOST ou SNCB). Ensuite, il est possible de procéder à l&apos;inhumation en tant
+     qu&apos;indigent si rien de concluant n&apos;intervient.[/p][ul]
+[/ul]
+Texte:
+[b]Ecoutez l&apos;extrait audio ci-dessous et tentez de répondre à la question posée.[/b]
+Question:
+Quelle est la procédure à appliquer dans ce cas ?
+Feedback:
+[p]Il est impératif de vérifier les
+     dernières volontés du défunt et s&apos;assurer que celui-ci ne possède pas une assurance
+     obsèques. On vérifie également s&apos;il y a de la famille. Si ces démarches s&apos;avère non concluante, la commune procède
+     aux funérailles en tant qu&apos;indigent et elle pourra récupérer les frais après la
+     vente du bien.[/p][ul]
+[/ul]

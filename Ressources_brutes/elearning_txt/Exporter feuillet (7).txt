@@ -1,0 +1,227 @@
+Détermination et exemples concrets
+Nom:
+Détermination et exemples concrets
+Description:
+Dans ce module, nous allons nous intéresser à la manière dont le nom est déterminé avec quelques cas concrets pour illsutrer.
+Titre, page:
+La détermination du nom
+Texte, introduction:
+Une fois que la loi qui sera appliquée concernant l'attribution du nom a été déterminée, il faudra de se pencher les règles de détermination du nom dans ce droit.
+Voici ce que nous allons voir :
+      1. En droit belge :
+dans le cas d'un premier enfant commun;
+dans le cas d'un second enfant commun à partir de 2014.
+      2. En droit étranger :
+dans le cas d'un premier enfant commun;
+dans le cas d'un second enfant à partir du 1er janvier 2018.
+Texte:
+En droit belge
+Dans le cas d'un premier enfant commun
+Articles 335 et 335ter du Code civil
+Comme vu au début de ce module, lorsque l'enfant est belge, son nom lui sera attribué conformément à l'article 335 du Code civil. L'article 335ter vise les mêmes règles dans le cadre d'une coparentalité.
+Ces articles prévoient 4 paragraphes qui évoquent ces situations :
+§1er : Lorsque la filiation paternelle (ou de la coparente) et la filiation maternelle sont établies simultanément;
+§2 : Lorsque seule la filiation maternelle est établie;
+§3 : Lorsque la filiation paternelle (ou de la coparente) est établie après la filiation maternelle;
+§4 : Lorsque la filiation d'un enfant majeur est modifiée.
+Texte:
+Prenez connaissance du commentaire suivant et répondez ensuite à la question.
+Question:
+Quels sont les choix qui s'offrent aux parents quant à la détermination du nom?
+Option de réponse:
+Le nom de la mère.
+Option de réponse:
+Le nom du père.
+Option de réponse:
+En cas de désaccord, l'OEC choisit une combinaison. Soit la mère, soit le père, soit une combinaison des deux.
+Option de réponse:
+La combinaison des deux dans l'ordre que les parents souhaitent.
+Option de réponse:
+En cas de désaccord, l'OEC organisera un tirage au sort.
+Option de réponse:
+En cas de désaccord, l'OEC combinera les nom des parents par ordre alphabétique.
+Option de réponse:
+En cas de désaccord, l'OEC combinera les noms selon l'âge des parents. Le plus âgé en premier.
+Feedback si réponse incorrecte:
+La loi belge permet aux parents de choisir, soit : 
+- Le nom de la mère;
+- Le nom du père;
+- Une combinaison de deux dans l'ordre qu'ils souhaitent.
+En cas de désaccord, l'OEC attribuera à l'enfant une combinaison du nom de ses parents par ordre alphabétique.
+Feedback si réponse correcte:
+Tout à fait !
+La loi belge permet aux parents de choisir, soit : 
+- Le nom de la mère;
+- Le nom du père;
+- Une combinaison de deux dans l'ordre qu'ils souhaitent.
+En cas de désaccord, l'OEC attribuera à l'enfant une combinaison du nom de ses parents par ordre alphabétique.
+Question:
+La mère seule peut-elle décider d'attribuer comme nom patronymique à son enfant  le sien puis celui du père ?
+Option de réponse:
+Oui
+Option de réponse:
+Non
+Feedback si réponse incorrecte:
+Dans le cas où le droit belge est d'application, il n'est pas nécessaire que les parents signent un document de manière conjointe. 
+En effet, l'autorité parentale est en principe conjointe en droit belge. De ce fait, le parent qui déclare l'enfant prend la responsabilité d'indiquer le choix effectué à l'OEC.
+Le parent lésé pourra toujours saisir le tribunal de la famille afin de régler le litige quant à l'autorité parentale conjointe.
+Feedback si réponse correcte:
+Tout à fait. Etant donné qu'en droit belge l'autorité parentale est en principe conjointe, le parent déclarant pourra déclarer seul le nom choisi pour l'enfant à l'OEC.
+Texte:
+Si le droit belge est d'application, la déclaration pourrait être introduite par un des parents en raison de la présomption d'exercice conjoint de l'autorité parentale (articles 373, alinéa 2, et 374, § 1er, alinéa 1er, du Code civil). Il n'appartiendra donc pas à l'officier de l'état civil de vérifier que le choix a bien été effectué conjointement. Lorsque la déclaration a été effectuée sans l'accord de l'autre, il sera toujours possible au parent lésé de saisir le tribunal de la famille pour trancher ce litige en rapport avec l'exercice de l'autorité parentale.
+Texte:
+Dans le cas d'un second enfant commun 
+      1. Le premier enfant est né avant le 1er juin 2014
+Dans le cas où le premier enfant est né avant le 1er juin 2014, l'enfant nouveau-né se verra appliquer l'ancien droit sur le nom, à savoir le même droit que sa fratrie. Il portera le nom du père. 
+Les parents auront alors un an à partir de la naissance du second enfant pour faire une déclaration de choix de nom, pour les deux enfants, à la commune de résidence des enfants. 
+      2. Le premier enfant est né après le 1er juin 2014 - Article 335bis du Code civil
+Depuis le 1er juin 2014, les enfants belges d'une même fratrie porteront le même nom.
+Cette disposition légale se retrouve à l'article 335bis du Code civil : 
+Le nom déterminé conformément à l'article 335, §§ 1er et 3, s'impose aux autres enfants dont la filiation est ultérieurement établie à l'égard des mêmes père et mère.
+Pour rappel :
+335 §1er : Filiation établie simultanément par les deux parents;
+335 §3 : Seconde filiation établie après la déclaration de naissance par le premier parent.
+Question:
+Pourquoi "Depuis le 1er juin 2014" est-il souligné?
+Option de réponse:
+Parce qu'avant cette date, la loi belge n'imposait pas l'unicité du nom et ne permettait pas la possibilité du double nom.
+Option de réponse:
+Parce qu'avant cette date, la loi belge ne permettait pas la possibilité du double nom.
+Feedback si réponse incorrecte:
+C'est en partie vrai. 
+En effet, avant le 1er juin 2014 des enfants belges d'une même fratrie peuvent avoir des noms différents. 
+Cela pouvait arriver lorsqu'il y avait une reconnaissance postnatale et les parents décidaient de ne pas modifier le nom de l'enfant et ainsi lui laisser le nom de sa mère.
+Ensuite ces mêmes parents se mariaient et avaient un autre enfant et étaient obligés de lui attribuer le nom du père.
+Désormais le choix du nom pour un enfant né à partir de 2014 induira automatiquement que les suivants porteront le même nom que le premier.
+Feedback si réponse correcte:
+En effet, avant le 1er juin 2014 des enfants belges d'une même fratrie peuvent avoir des noms différents. 
+Cela pouvait arriver lorsqu'il y avait une reconnaissance postnatale et les parents décidaient de ne pas modifier le nom de l'enfant et ainsi lui laisser le nom de sa mère.
+Ensuite ces mêmes parents se mariaient et avaient un autre enfant et étaient obligés de lui attribuer le nom du père.
+Désormais le choix du nom pour un enfant né à partir de 2014 induira automatiquement que les suivants porteront le même nom que le premier.
+Texte:
+En droit étranger
+Dans le cas d'un premier enfant commun
+L'article 37 du CoDip prévoit qu'une personne portera le nom conformément au droit dont elle a la nationalité.
+Si les parents ont la même nationalité, il y a lieu de vérifier que l'enfant obtiendra également cette nationalité afin que le nom de l'enfant puisse suivre les règles selon leur droit national.
+La vérification est nécessaire lorsque l'OEC ne connait pas la loi étrangère. Les parents fourniront donc une attestation de leur ambassade certifiant que l'enfant obtient la nationalité de plein droit.
+Titre, accordéon:
+Exemples d'États qui attribuent la nationalité de plein droit
+Texte, accordéon:
+Quelques exemples de législations étrangères qui prévoient la nationalité de plein droit
+Texte:
+Conséquence de la filiation sur la nationalité 
+Un enfant acquiert de plein droit la nationalité marocaine, si son père ou sa mère est marocain(e), que l’enfant naisse au Maroc ou à l’étranger.
+Texte:
+Conséquence de la filiation sur la nationalité 
+Les personnes nées de père ou de mère espagnol(e) auront la nationalité espagnole. Il en est de même pour celles qui sont nées en Espagne de parents étrangers, si au moins l’un des parents est né en Espagne (à l’exception des enfants de diplomates).
+Les personnes dont l’établissement de la filiation se produit à l’âge de 18 ans révolus disposent d’un délai de deux ans à compter de l’établissement de la filiation, pour opter pour la nationalité espagnole.
+Texte:
+Conséquence de la filiation sur la nationalité 
+L’enfant est japonais de plein droit, si, au moment de sa naissance, son père ou sa mère a la nationalité japonaise ; ou si son père, décédé avant sa naissance, avait la nationalité japonaise au moment du décès ; que l’enfant soit né au Japon ou à l'étranger.
+Cependant, si la filiation n'est pas établie à la naissance mais à une date ultérieure, l'enfant n'acquiert pas la nationalité japonaise de plein droit. Mais l’enfant de moins de vingt ans, peut encore acquérir la nationalité japonaise par déclaration auprès du ministre de la Justice.
+L’enfant né au Japon obtient automatiquement la nationalité japonaise si ses deux parents sont inconnus ou apatrides.
+Titre, accordéon:
+Exemples d'États qui n'attribuent pas la nationalité de plein droit
+Texte, accordéon:
+Quelques exemples de législations étrangères qui ne prévoient pas la nationalité de plein droit
+Texte:
+Conséquence de la filiation sur la nationalité 
+Un enfant qui descend d'au moins un parent allemand acquiert la citoyenneté allemande de plein droit.
+Le lieu de naissance de l'enfant - en Allemagne ou à l'étranger - est en principe également sans importance pour l'acquisition de la nationalité allemande par l'enfant. Toutefois, un enfant né hors d'Allemagne n'acquiert pas la nationalité allemande si le parent allemand est également né hors d'Allemagne après le 31 décembre 1999 et y a sa résidence principale, à moins que l'enfant ne devienne autrement apatride. Le parent en question peut toujours faire acquérir la nationalité allemande à l'enfant si le parent allemand déclare la naissance à la représentation allemande compétente à l'étranger dans un délai d'un an.
+Texte:
+Conséquence de la filiation sur la nationalité
+Un enfant qui descend de ses deux parents kosovars acquiert la citoyenneté kosovare de plein droit.
+Un enfant né à l’étranger qui descend d’au moins un parent kosovar n’acquiert pas la nationalité kosovare de plein droit. Une déclaration conjointe des parents devra être effectuée auprès des autorités kosovares. Et ce, avant qu’il n’ait atteint l’âge de 14 ans.
+Question:
+Comment réagissez-vous lorsque l'enfant a plusieurs nationalités possibles et que les enfants souhaitent utiliser l'une d'entre elle afin de déterminer le nom de leur enfant?
+Feedback:
+Après que vous vous soyez assuré que l'enfant avait bel et bien la nationalité que les parents lui prétendent, vous pourrez déterminer son nom selon les règles de l'État en question.
+Le choix des parents sera effectué par écrit, daté et signé. Il peut être sous seing privé ou par écrit.
+Cette déclaration est prévu à l'article 37 §2 du CoDip.
+Ce choix est irrévocable pour les futurs enfants qui se trouvent dans les mêmes conditions que le premier enfant.
+Texte:
+Dans le cadre d'un second enfant commun à partir de 2018
+L'entrée en vigueur au 1er janvier 2018 prévoit que le nom attribué à l'enfant à partir de cette date sera irrévocable et appliqué de la même manière aux futurs enfants de la fratrie, pour autant que la fratrie se trouve dans la même situation que le premier enfant né.
+Cela signifie que le choix avant 2018 n'était pas définitif.
+Titre, page:
+Exemples concrets
+Texte, introduction:
+Avez-vous tout compris?
+Question:
+Le premier enfant du couple Dubois - Durant voit le jour. Les parents ne sont que belges. Quel est le choix du nom pour les parents?
+Option de réponse:
+Dubois, Durant, Dubois Durant, Durant Dubois
+Option de réponse:
+Dubois ou Durant
+Option de réponse:
+Dubois Durant ou Durant Dubois
+Option de réponse:
+En cas d'absence de choix ou de désaccord, le nom de l'enfant sera Dubois Durant
+Option de réponse:
+En cas d'absence de choix ou de désaccord, le nom de l'enfant sera le nom du père
+Feedback si réponse incorrecte:
+Suivant l'article 335 du Code civil, le nom de l'enfant pourra être : Dubois, Durant, Dubois Durant, Durant Dubois.
+Feedback si réponse correcte:
+Tout à fait.
+Suivant l'article 335 du Code civil, le nom de l'enfant pourra être : Dubois, Durant, Dubois Durant, Durant Dubois.
+Question:
+La naissance du second enfant Dubois - Durant naît en 2021. Il s'agit du second enfant né après le 1er juin 2014. Quel est le choix du nom pour les parents?
+Option de réponse:
+Ils peuvent choisir le nom du père, le nom de la mère ou une combinaison des deux.
+Option de réponse:
+Ils n'ont plus le choix. Ils devront appliquer la même règle appliquée que lors de la naissance de leur premier enfant
+Feedback si réponse incorrecte:
+L'article 335bis prévoit que les enfants belges d'une même fratrie doivent porter le même nom.
+Feedback si réponse correcte:
+Tout à fait.
+L'article 335bis prévoit que les enfants belges d'une même fratrie doivent porter le même nom.
+Question:
+Le couple Dubois - Hernandez Fernandez donne naissance à son premier enfant en Belgique en 2021, le père est belge et la mère est espagnole. Quels choix s'offrent aux parents?
+Option de réponse:
+Ils peuvent décider d'appliquer la loi belge.
+Option de réponse:
+Ils n'appliqueront que la nationalité belge comme l'enfant est né en Belgique.
+Option de réponse:
+Ils peuvent décider d'appliquer la nationalité espagnole car l'OEC a la confirmation que l'enfant est également espagnol.
+Feedback si réponse incorrecte:
+Si les parents le souhaitent, et en fournissant la preuve que l'enfant a la nationalité espagnole, la législation espagnole peut être appliquée.
+Feedback si réponse correcte:
+Tout à fait, les parents ont le choix quant à la détermination du nom étant donné que l'enfant est belge et espagnol
+Question:
+Le couple Dubois - Hernandez Fernandez donne naissance à son second enfant en 2021. Le premier est né en 2015 où la loi belge a été appliquée car la mère est belge et ce malgré que le père était également espagnol.
+Quel choix s'offre aux parents?
+Option de réponse:
+Les parents n'ont pas le choix car ils ont déjà un premier enfant.
+Option de réponse:
+Les parents ont le choix entre la législation espagnole ou belge.
+Feedback si réponse incorrecte:
+Pour rappel, la loi belge exige que les membres d'une même fratrie porte le même nom. Dans ce cas, les parents ne pourront pas faire valoir le droit espagnol.
+Feedback si réponse correcte:
+Tout à fait, dans ce cas c'est l'article 335bis du Code civil qui s'applique puisque la loi belge exige que les membres d'une même fratrie porte le même nom. Dans ce cas, les parents ne pourront pas faire valoir le droit espagnol.
+Question:
+Un couple congolais donne naissance à un premier enfant en 2018, ils appliquent le droit congolais. Un de deux parents devient belge en 2020. 
+En 2021, leur deuxième enfant nait. L'enfant sera donc belgo-congolais.
+Quels choix ont-ils?
+Option de réponse:
+Ils doivent suivre la loi appliquée pour le premier enfant
+Option de réponse:
+Leur état étant modifié depuis la naissance de leur premier enfant, ils pourront effectuer une déclaration de choix applicable selon soit la loi belge, soit la loi congolaise.
+Option de réponse:
+Ils doivent suivre la loi belge. Cette dernière prime.
+Feedback si réponse incorrecte:
+Lorsqu'il y a un changement d'état et que la nouvelle naissance ne se retrouve plus dans les mêmes conditions que la ou les naissances précédentes, les parents peuvent effectuer une nouvelle déclaration de choix applicable.
+Feedback si réponse correcte:
+En effet, chaque changement d'état permet aux parents de prétendre à un nouveau choix de la loi applicable.
+Question:
+Vrai ou faux? 
+Ces mêmes parents ont un troisième enfant. Mais depuis ils sont devenus belges. L'enfant ne sera que belge, pas congolais. 
+Pour le nom de l'enfant, vu qu'il y a un choix applicable pour le dernier enfant, ils pourront continuer à choisir le droit congolais.
+Option de réponse:
+Faux
+Option de réponse:
+Vrai
+Feedback si réponse incorrecte:
+C'est faux. Ce n'est que la nationalité de la personne qui doit voir son nom déterminé qui compte. 
+En l'occurrence, l'enfant étant exclusivement de nationalité belge, c'est la loi belge qui sera d'application.
+Feedback si réponse correcte:
+Exact, étant donné que l'enfant n'est que belge, c'est la législation belge qui sera d'application.

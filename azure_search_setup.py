@@ -28,6 +28,10 @@ from azure.search.documents.indexes.models import (
     SearchField,
     SearchFieldDataType,
     SearchIndex,
+    SemanticConfiguration,
+    SemanticField,
+    SemanticPrioritizedFields,
+    SemanticSearch,
     SimpleField,
     VectorSearch,
     VectorSearchProfile,
@@ -39,6 +43,7 @@ ENDPOINT = os.environ["AZURE_SEARCH_ENDPOINT"]
 ADMIN_KEY = os.environ["AZURE_SEARCH_ADMIN_KEY"]
 INDEX_NAME = os.environ.get("AZURE_SEARCH_INDEX_NAME", "chatbot-etat-civil-chunks")
 EMBEDDING_DIM = 1536  # text-embedding-3-small
+SEMANTIC_CONFIG_NAME = "default-semantic-config"
 
 # Champs effectivement utilises par retrieve.py (filtres) et
 # format_results_for_prompt (affichage) - voir retrieve.py.
@@ -86,7 +91,27 @@ def build_index():
         ],
     )
 
-    index = SearchIndex(name=INDEX_NAME, fields=fields, vector_search=vector_search)
+    # Semantic ranker (L2 reranking) : disponible en plan gratuit avec quota
+    # mensuel limite (verifie via `az search service show` : semanticSearch:
+    # "free") - pas besoin d'upgrader le tier du service pour le tester.
+    # Contrairement a l'hybride BM25+vecteur (RRF, teste et ecarte -
+    # regression sur eval_gold_set.jsonl), c'est un vrai reranking par
+    # cross-encoder sur le contenu, pas une fusion de rangs.
+    semantic_search = SemanticSearch(
+        configurations=[
+            SemanticConfiguration(
+                name=SEMANTIC_CONFIG_NAME,
+                prioritized_fields=SemanticPrioritizedFields(
+                    content_fields=[SemanticField(field_name="text_for_embedding")],
+                ),
+            )
+        ],
+        default_configuration_name=SEMANTIC_CONFIG_NAME,
+    )
+
+    index = SearchIndex(
+        name=INDEX_NAME, fields=fields, vector_search=vector_search, semantic_search=semantic_search
+    )
 
     index_client = SearchIndexClient(ENDPOINT, AzureKeyCredential(ADMIN_KEY))
     index_client.create_or_update_index(index)

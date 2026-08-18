@@ -1,0 +1,127 @@
+Historique et droit applicable
+Nom:
+Historique et droit applicable
+Description:
+Dans ce module, nous allons nous intéresser à l'histoire du nom et le droit appliqué à cette matière en Belgique.
+Titre, page:
+Le nom en Belgique
+Texte, introduction:
+En Belgique, avant l'entrée en vigueur du Code de droit international privé, le nom généralement attribué à l'enfant était celui du père. Que l'enfant soit belge ou étranger.
+En 2004, le Code de droit international privé est adopté et prévoit désormais que le nom d'un personne est régie par le droit dont elle a la nationalité. En d'autres termes, la détermination du nom d'une personne doit se faire dans le respect des règles de sa nationalité. Et si la belge figure parmi celle-ci, c'est la législation belge qui sera suivie, à savoir : le nom du père.
+En 2014, c'est le Code civil qui évolue en prévoyant aux parents belges d'attribuer soit le nom du père, soit le nom de la mère soit encore une combinaison des deux.
+Enfin en 2018, le Code de droit international privé prévoit toujours que la détermination d'une personne est régie par son droit national et s'il a plusieurs nationalités un choix doit être effectué parmi celle-ci.  Que la nationalité belge figure parmi celle-ci ou non.
+Pour rappel, vous trouverez deux procédures en suivant les liens ci-dessous concernant l'attribution du nom en Belgique.
+Titre, accordéon:
+La détermination du nom en droit belge
+Titre, barre d’accordéon:
+Procédure - Le nom
+Titre, téléchargement:
+La procédure du nom en droit belge
+Titre, accordéon:
+La détermination du nom selon le droit applicable
+Titre, barre d’accordéon:
+Procédure - La détermination du nom selon le droit applicable
+Titre, téléchargement:
+Procédure détermination du nom selon le droit applicable
+Titre, page:
+La détermination du droit applicable au nom
+Texte, introduction:
+Texte:
+Testez vos connaissances ou votre intuition en répondant à la question suivante.
+Question:
+Lors de l'attribution d'un nom patronymique, quelle est la première étape? 
+La détermination du droit applicable au nom ou
+La détermination du nom. 
+Et définissez en quelques mots ces notions.
+Feedback:
+Dans un premier temps, on s'intéressera à la détermination du droit applicable au nom et ensuite viendra la détermination du nom. 
+La première notion vise à savoir quelle est la législation qui sera appliquée pour attribuer le nom patronymique. Il conviendra de s'assurer que la personne concernée est bien dans les conditions pour se voir appliquer le droit en question.
+La seconde notion vise à appliquer les règles de la loi nationale fixée dans la première étape, pour former le nom de l'intéressé.
+Exemples :
+Un enfant uniquement belge portera un nom conformément au droit belge ;
+Un enfant uniquement polonais portera un nom conformément au droit polonais ;
+Un enfant franco-polonais portera un nom conformément selon l'une des deux législations étrangères, pour autant qu'il ait bien la nationalité de la législation choisie par les parents.
+Texte:
+La théorie
+La première base légale à connaitre est celle reprise à l'article 37 du Code de droit international privé. 
+Son §1er précise que : 
+La détermination du nom et des prénoms d'une personne est régie par le droit de l'État dont cette personne a la nationalité. L'effet d'un changement de nationalité sur le nom et les prénoms d'une personne est régie par le droit de l'État de sa nouvelle nationalité.
+Quant à son §2 : 
+Lorsque la personne possède deux ou plusieurs nationalités, il est tenu compte de la nationalité choisie par elle parmi celles-ci. Le choix est formulé de manière expresse, dans un écrit daté et signé, au moment où la détermination du nom ou des prénoms de la personne est soumise pour la première fois à l'autorité belge. En cas de désaccord ou en cas d'absence de choix, l'article 3 est applicable.
+L'article 3 du CoDip reprend ceci : 
+§ 1er. La question de savoir si une personne physique a la nationalité d'un Etat est régie par le droit de cet Etat.
+§ 2. Toute référence faite par la présente loi à la nationalité d'une personne physique qui a deux ou plusieurs nationalités vise :
+1° la nationalité belge si celle-ci figure parmi ses nationalités;
+2° dans les autres cas, la nationalité de l'Etat avec lequel, d'après l'ensemble des circonstances, cette personne possède les liens les plus étroits, en tenant compte, notamment, de la résidence habituelle.
+§ 3. Toute référence faite par la présente loi à la nationalité d'une personne physique qui a la qualité d'apatride ou de réfugié en vertu de la loi ou de traités internationaux liant la Belgique, est remplacée par une référence à la résidence habituelle.
+§ 4. Toute référence faite par la présente loi à la nationalité d'une personne physique dont il est impossible d'établir la nationalité est remplacée par une référence à la résidence habituelle.
+Texte:
+Avez-vous tout compris?
+Question:
+Si l'enfant n'a qu'une nationalité, comment sera déterminé son nom ?
+Feedback:
+L'enfant n'ayant qu'une nationalité aura un nom déterminé conformément aux règles dont il a la nationalité.
+Si l'enfant est uniquement belge, c'est la loi belge qui sera d'application.
+Si l'enfant a uniquement une autre nationalité, application de la loi étrangère.
+Texte:
+Quand un enfant qui naît en Belgique est-il belge ?
+Un enfant qui naît en Belgique est belge :   
+si un de ses auteurs est belge ou 
+si un de ses auteurs est né en Belgique et a vécu 5 ans durant les 10 dernières années (ce doit être de manière légale mais peu importe que ce soit de manière ininterrompue ou non) ou
+si l'enfant ne possède aucune autre nationalité à la naissance.
+Vous trouverez plus d'informations à ce sujet dans le module "Nationalité belge".
+Texte:
+Si l'enfant est multipatride, les parents peuvent effectuer une déclaration de détermination de droit applicable au nom (c'est-à-dire déclaration le droit qu'ils souhaitent voir appliquer au nom de leur enfant). 
+S'il s'agit du premier enfant, la seule condition est qu'il soit multipatride et qu'il soit né après le 1er janvier 2018. Le choix de droit applicable fait à ce moment-là sera obligatoire pour tous les enfants du couple qui naissent par la suite, pour autant que les nouveaux-nés soient dans les mêmes conditions en ce qui concerne les nationalités. 
+Si l'enfant a déjà une fratrie née avant le 1er janvier 2018, une telle déclaration sera possible à condition que la loi appliquée à la détermination du nom des autres enfants ne prévoyait pas l'unicité du nom.
+Par exemple, la loi belge depuis 2014 prévoit l'unicité du nom. Dans ce cas, tous les futurs enfants belges devront porter le même nom, même s'il sont multipatrides.
+Si l'enfant a déjà une fratrie née après le 1er janvier 2018, il devra suivre le droit choisi pour déterminer le nom de sa fratrie, sauf s'il n'est pas dans la même situation au niveau de la nationalité. Par exemple, les frères et soeurs sont congolais et belges. Pour une raison, le nouveau-né n'est plus que belge: ce sera le droit belge qui s'applique. 
+Cette déclaration de choix de nom sera éventuellement accompagnée de la preuve de nationalité qui confirme que le souhait des parents peut être appliqué.
+Titre, accordéon:
+Les conséquences de la filiation sur la nationalité de l'enfant.
+Texte, accordéon:
+Dans certains cas, un enfant né d'un parent étranger obtiendra automatiquement la nationalité de ce parent, indépendamment d'où la naissance est survenue.
+Dans d'autres cas, la nationalité de l'enfant ne se transmettra pas par l'établissement de la filiation avec le parent étranger. Dans ce cas, la détermination du nom selon cette nationalité ne peut être appliquées.
+En cas de doute sur la nationalité d'un nouveau-né, une attestation de l'Ambassade étrangère en Belgique devrait pouvoir vous aider.
+Voici quelques exemples de droits étrangers concernant la transmission de la nationalité suite à la filiation.
+Texte:
+Conséquence de la filiation sur la nationalité :
+Un enfant qui descend d'au moins un parent norvégien acquiert la citoyenneté norvégienne.
+Texte:
+Conséquence de la filiation sur la nationalité 
+Un enfant qui descend d'au moins un parent allemand acquiert la citoyenneté allemande de plein droit.
+Le lieu de naissance de l'enfant - en Allemagne ou à l'étranger - est en principe également sans importance pour l'acquisition de la nationalité allemande par l'enfant. Toutefois, un enfant né hors d'Allemagne n'acquiert pas la nationalité allemande si le parent allemand est également né hors d'Allemagne après le 31 décembre 1999 et y a sa résidence principale, à moins que l'enfant ne devienne autrement apatride. Le parent en question peut toujours faire acquérir la nationalité allemande à l'enfant si le parent allemand déclare la naissance à la représentation allemande compétente à l'étranger dans un délai d'un an.
+Texte:
+Conséquence de la filiation sur la nationalité
+Un enfant qui descend de ses deux parents kosovars acquiert la citoyenneté kosovare de plein droit.
+Un enfant né à l’étranger qui descend d’au moins un parent kosovar n’acquiert pas la nationalité kosovare de plein droit. Une déclaration conjointe des parents devra être effectuée auprès des autorités kosovares. Et ce, avant qu’il n’ait atteint l’âge de 14 ans.
+Texte:
+Les conditions pour effectuer une déclaration de détermination du droit applicable
+Le ou les déclarants doivent avoir l'autorité parentale sur l'enfant; 
+La déclaration sera écrite, datée et signée; 
+L'OEC ne se déplacera pas; 
+La déclaration n'est pas possible de manière anticipative.
+L'autorité compétente pour recevoir la déclaration
+l'OEC de la déclaration de naissance;
+l'autorité centrale en cas d'adoption;
+le poste consulaire qui reçoit pour la première fois l'enfant belge né à l'étranger.
+Texte:
+En cas d'absence de choix
+Dans ce cas, c'est la loi avec laquelle l'enfant présente les liens les plus étroits ou encore la loi belge qui sera d'application.
+Texte:
+La pratique
+Les parents se présenteront devant vous afin de déclarer l'enfant et lui donner un nom.
+Votre rôle est de vous assurer que leur choix est possible. Comment? 
+L'enfant a-t-il la nationalité qui permet l'application de la législation souhaitée? 
+Oui, car vous connaissez les règles en matière d'attribution de la nationalité étrangère suite à une filiation;
+Vous ne savez pas et réclamez donc la preuve de la nationalité aux parents;
+Non, impossible d'appliquer le choix souhaité par les parents.
+      2. Connaissez-vous les règles en matière du nom selon la législation souhaitée?
+Oui, selon vos connaissances, selon les cas déjà eus, selon un certificat de coutume présenté, selon la rubrique "Informations Pays" d'OrangeConnect;
+Non, vous réclamez donc un certificat de coutume quant à la détermination du nom.
+      3. Les parents ont-ils l'autorité parentale pour effectuer cette déclaration?
+Oui, ils ont leur résidence en Belgique ou vous connaissez la manière dont l'autorité parentale est prévue selon le droit national dans le cas où ils ne résident pas en Belgique;
+Non, impossibilité d'effectuer la déclaration de choix de nom.
+Après vérification qu'il n'y a pas d'autres enfants, qu'il n'est pas prévu l'unicité du nom pour la fratrie et que vous avez répondu aux 3 premières questions par oui, vous pourrez faire signer une déclaration de détermination de loi applicable au nom de l'enfant. Cette déclaration doit être annexée dans la BAEC.
+NB : Lorsqu'un choix est effectué pour une législation, ce sont les règles de cette législation qui s'applique. Il n'est pas question de mélanger deux règles. 
+Par exemple : Une mère belge et un père congolais qui voudraient un double nom "mixte" et faire apparaitre "Partie 1 : Nom de la mère selon la loi belge" + "Partie 2 + choix du nom selon la loi congolaise".

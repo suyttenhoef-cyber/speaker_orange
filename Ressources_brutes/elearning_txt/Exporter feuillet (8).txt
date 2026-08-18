@@ -1,0 +1,161 @@
+Changement de nom et de prénom
+Nom:
+Changement de nom et de prénom
+Description:
+Dans ce module, nous allons nous intéresser à la manière dont le nom et/ou le prénom peuvent être modifiés d'un point de vue de l'Etat civil en Belgique.
+Titre, page:
+Le changement de nom
+Texte:
+L'article 38 du Code de droit international privé prévoit que le changement de nom d'une personne par acte volontaire ou par effet de la loi est régi par le droit de l'État dont il a la nationalité.
+Cela signifie que c'est la nationalité d'une personne qui va déterminer la manière dont une personne peut changer de nom.
+En Belgique,  il est possible de changer de nom à la suite de l'établissement d'une seconde filiation, d'une contestation de paternité, d'une adoption et enfin par acte volontaire suivant un arrêté royal de changement de nom auprès du SPF Justice.
+Texte:
+Le changement de nom à la suite d'une reconnaissance d'un enfant belge
+L'article 335 du Code civil prévoit par son §3 que les parents doivent choisir quel sera le nom de l'enfant. Ce choix s'effectue au moment de la déclaration de reconnaissance.
+En cas de désaccord, le nom de l'enfant sera une combinaison des deux noms par ordre alphabétique.
+Si l'enfant est mineur mais est âgé de 12 ans au moins, ce dernier devra marquer son accord pour le changement de nom. S'il l'enfant n'est pas d'accord, son nom ne change pas. 
+Si l'enfant est majeur, il pourra choisir son nouveau nom en prenant le nom de son nouveau parent ou en le combinant, dans l'ordre qu'il souhaite au nom qu'il a déjà.
+Question:
+Voici un vrai ou faux afin de vérifier si vous avez compris le principe.
+Si l'enfant est étranger et que la seconde filiation est établie par reconnaissance, l'article 335 du Code civil est applicable pour modifier le nom de l'enfant.
+Option de réponse:
+Vrai
+Option de réponse:
+Faux
+Feedback si réponse incorrecte:
+C'est faux. Si l'enfant est étranger, le nom de l'enfant n'est pas modifié SAUF si la loi nationale de l'enfant prévoit ce changement dans le cadre d'une reconnaissance postnatale.
+Feedback si réponse correcte:
+En effet, il y a lieu de s'assurer ce que dit la loi nationale de l'enfant pour modifier son nom suite à une reconnaissance.
+Titre, accordéon:
+Voici quelques exemples de législations étrangères qui autorisent le changement de nom suite à l'établissement de la seconde filiation
+Texte:
+2. Enfants reconnus
+L'enfant naturel porte le nom de celui de ses parents qui l'a reconnu en premier.
+Si les deux parents l’ont reconnu en même temps, il porte le nom de son père ou le nom du père suivi du nom de la mère.
+Lorsque l'enfant est reconnu d'abord par sa mère et ensuite par son père, l’enfant peut prendre le nom de famille du père ou porter le nom de son père suivi du nom de sa mère ou, si ce nom est devenu son identité personnelle, conserver le nom de sa mère.  Si l'enfant est mineur, c'est le juge du tribunal des mineurs qui décide, en fonction de l'intérêt de l'enfant, du nom qu'il portera.
+Texte:
+2. Enfants reconnus
+Après la reconnaissance de paternité, le nom de l'enfant peut être changé dans les six mois suivant la reconnaissance dans la Fédération, et dans les deux ans dans la Republika Srpska et le district de Brcko.
+Si le nom de l’enfant de plus de 10 ans est modifié, son consentement est requis.
+Texte:
+2. Enfants reconnus 
+L’enfant naturel porte le nom de sa mère.
+La règle précédente est applicable aux enfants né hors mariage dont la filiation est établie simultanément à l’égard des deux parents.
+Si la filiation paternelle est établie ultérieurement, on ajoute au nom de famille de la mère, le premier nom de famille du père. Les parents choisissent l'ordre des noms et, à défaut d'accord, le juge fixe l'ordre des noms de famille, en fonction de l'intérêt supérieur de l'enfant.
+Texte:
+2. Enfants nés hors mariage 
+L’enfant dont seule la filiation maternelle est établie porte le nom de sa mère.
+Lorsque la filiation paternelle est établie, il porte le nom de son père.
+Titre, accordéon:
+Voici quelques exemples de législations étrangères qui n'autorisent pas le changement de nom suite à l'établissement de la seconde filiation
+Texte:
+2. Enfants reconnus 
+L'enfant né hors mariage reçoit le nom de la ou des personnes qui exercent l'autorité parentale ou la garde de l’enfant : soit le nom commun ; le nom du père ; ou le nom de la mère.
+L'enfant légitime né hors mariage, s'il a moins de cinq ans, reçoit automatiquement le nom de famille commun si les parents se marient par la suite. Si l'enfant a plus de cinq ans, son consentement est requis.
+Texte:
+2. Enfants reconnus 
+En principe, un enfant reconnu reste considéré comme illégitime et continue à porter le nom de sa mère. Dans la pratique, cependant, les enfants reconnus reçoivent le plus souvent le nom de leur père.
+NB : Etant donné que ce n'est pas clair, il est préférable de demander aux autorités japonaise ce qu'il en est quant la modification du nom suite à l'établissement de la seconde filiation.
+Question:
+Voici un exemple concret :
+Madame Müller, allemande, donne naissance à son enfant, allemand donc,  en 2020. Elle déclare seule l'enfant. En 2021, le père belge veut reconnaitre l'enfant. Quel choix s'offre aux parents?
+Option de réponse:
+Le reconnaissant étant belge, le nom de famille de l'enfant pourra être modifié selon la législation belge.
+Option de réponse:
+Si la mère est d'accord, l'enfant changera de nom.
+Option de réponse:
+Il y a lieu de vérifier la loi allemande en ce qui concerne la modification du nom après l'établissement de la seconde filiation.
+Feedback si réponse incorrecte:
+Pour rappel, le nom d'une personne est régie par le droit dont il a la nationalité. Son changement de nom par acte volontaire ou effet de la loi doit être vérifié par l'OEC.
+Dans notre exemple, il y a donc lieu de s'intéresser au droit allemand.
+Feedback si réponse correcte:
+En effet, l'OEC doit s'assurer que le droit allemand permette éventuellement un changement de nom suite à une reconnaissance postnatale.
+Texte:
+Le changement de nom suite à une action en contestation
+Dans le cas où la filiation est modifiée durant la minorité de l'enfant, le juge acte le nouveau nom de l'enfant selon le choix des parents. 
+A priori, s'il n'y a pas d'établissement de la seconde filiation dans le jugement-même, l'enfant reprendra le nom de sa mère. En effet, le nom étant une conséquence de la filiation, l'enfant ne peut porter le nom de la personne qui n'est plus considérée comme son parent.
+Si l'enfant est majeur et que sa filiation est modifiée, son nom ne peut être modifié sans son accord. Dans ce cas, le nouveau nom sera mentionné dans le jugement.
+Texte:
+Le changement de nom suite à une adoption
+Que ce soit dans le cadre d'une adoption simple ou d'une adoption plénière, le nom de l'adopté sera mentionné dans le jugement.
+Texte:
+La demande de changement de nom par acte volontaire
+Tout belge, réfugié ou apatride reconnu peut demander un changement de nom en Belgique.
+Le demandeur a deux possibilités : soit une demande auprès d'un OEC en Belgique (à partir du 1er juillet 2024), soit une demande par le SPF Justice, 
+Voyons cela ensemble.
+La demande auprès de l'OEC
+L'OEC compétent est : 
+Celui du lieu d'inscription;
+Celui du dernier lieu d'inscription en Belgique, si le demandeur est domicilié à l'étranger;
+Celui de la Ville de Bruxelles, si le demandeur n'a jamais habité en Belgique.
+Le rôle de l'OEC :
+Vérifier les antécédents judiciaires de l'intéressé;
+Vérifier que le nom demandé se trouve dans l'acte de naissance;
+Etablir l'acte de changement de nom pour l'intéressé ET pour ses enfants mineurs.
+La procédure devant l'OEC :
+Le demandeur sollicite un nom se trouvant dans son acte de naissance;
+L'OEC vérifie les antécédents judiciaires et en cas de doute, il peut solliciter l'avis du procureur du Roi;
+S'il ne demande pas l'avis l'OEC établit l'acte dans le mois de de la demande, s'il demande l'avis du procureur du Roi, le délai pour prendre une décision est de 3 mois à dater de la demande;
+Si l'OEC accède à la demande, il établit un acte dans la BAEC. Si l'OEC refuse, il notifie son refus à l'intéressé en indiquant le motif et l'informant de son recours possible, dans les 30 jours, devant le tribunal de la famille.
+Les choix possibles : 
+Soit demander de prendre le nom de l'autre parent car le demandeur ne le porte pas;
+Soit demander de combiner le nom de l'autre parent à celui qu'il porte déjà et dans l'ordre qu'il souhaite;
+Soit de porter ou combiner un nom de l'une des personnes se trouvant dans son extrait de naissance si le demandeur avait été adopté de manière simple.
+Quid si le demandeur a des enfants ?
+1. Les enfants majeurs
+Dans ce cas, le changement de nom du parent n'a aucune incidence sur ses enfants.
+2. Les enfants mineurs de moins de 12 ans
+Dans ce cas, si le nom du demandeur faisait partie de la composition du nom de l'enfant, ce dernier voit son nom modifié également. L'autre parent ne doit pas y consentir.
+L'OEC qui a reçu la demande établi un acte de changement de nom pour chacun des enfants de moins de 12 ans.
+3. Les enfants mineurs de plus de 12 ans
+Dans ce cas, si le nom du demandeur faisait partie de la composition du nom de l'enfant, ce dernier peut consentir à ce que son nom soit modifié également. L'enfant devra y consentir au moment de la demande de son parent qui change de nom en présence de ses parent ou de son représentant légal.
+L'OEC qui a reçu la demande établi un acte de changement de nom pour chacun des enfants de plus de 12 ans qui a consenti au changement de nom.
+Chaque enfant peut consentir de manière indépendante les uns des autres.
+Texte:
+La demande de changement de nom par arrêté royal auprès du SPF Justice
+Si le demandeur souhaite un nom différent de celui de l'un de ses parents se trouvant dans son acte de naissance, il pourra faire une demande auprès du SPF Justice : 
+Leur site internet reprend : 
+Les conditions;
+La procédure;
+La durée et le coût;
+Les conséquence sur la filiation.
+Titre, page:
+Le changement de prénom
+Texte:
+La procédure de changement de prénom
+La théorie
+L'article 370/3 §3 prévoit que tout personne qui souhaite changer de prénom en fait la demande à l'officier de l'état civil : 
+dela commune où elle est inscrite dans les registres de la population;
+si elle réside à l'étranger, de la commune de la dernière inscription dans les registres de la population;
+de Bruxelles.
+Il s'agit de l'intéressé lui-même ou son représentant légal.
+Le §4 du même article prévoit que le changement de prénom peut être demandé par la personne qui a l'intime conviction que le sexe mentionné dans son acte de naissance ne correspond pas à son identité de genre. Le nouveau prénom devra être conforme à cette conviction.
+Le mineur âgé de 12 ans peut faire une telle déclaration avec l'assistance de ses parents ou de son représentant légal. Si ces personnes refusent, le mineur non émancipé peut saisir le tribunal de la famille.
+Texte:
+La déclaration
+L'OEC reçoit la déclaration, vérifie le casier judiciaire de l'intéressé et peut autoriser le changement de prénoms, pour autant que ceux-ci ne prêtent pas à confusion et ne peuvent nuire au requérant ou à des tiers.
+En cas de doute sérieux, l'OEC peut demander l'avis du Procureur du Roi.
+Dans un délai de 3 mois, l'OEC établira un acte de changement de prénoms et le liera aux autres actes de l'intéressé. Il est donc important de s'assurer que tous les actes du requérant se trouvent dans la BAEC.
+Si l'OEC décide de refuser, il avertira le déclarant. Ce dernier peut introduire, dans les 30 jours, un recours contre ce refus par une requête adressée au tribunal de la famille.  Si le tribunal autorise le changement de prénoms, le greffier transmet via la BAEC les données nécessaires à l'OEC pour établir l'acte de changement de prénoms.
+Dans tous les cas, le changement de prénoms prend effet à la date à laquelle l'acte de changement de prénoms est établi.
+Texte:
+La pratique
+Le déclarant se présentera vous informant de son désir de changer son prénom. Attention, la moindre modification équivaut à un changement de prénom. Que ce soit donc un accent, un trait d'union ou la suppression d'un 3ème prénom par exemple.
+Aussi, si l'intéressé souhaite changer son premier prénom mais conserver les suivants cela devra être indiqué dans sa déclaration.
+Si l'acte de l'intéressé n'est pas dans la BAEC, l'OEC demandera la migration de l'acte de naissance à la commune compétente. Si l'acte ne peut pas se trouver dans la BAEC, l'intéressé lui-même devra fournir son acte de naissance. 
+Cela signifie que son acte de naissance devra être enregistré dans la BAEC et idéalement avant le changement de prénoms afin que ce dernier soit lié à l'acte de naissance.
+En tant qu'OEC vous vérifierez le casier judiciaire du requérant ainsi que les prénoms choisis. Si tout est en ordre, l'acte peut être établi directement. 
+Après la signature de l'acte, il ne reste plus qu'à vérifier que tout est bien lié et informer l'intéressé du changement de sa pièce d'identité.
+Texte:
+Un doute
+Si vous avez un doute quant au caractère frauduleux de la demande, vous préviendrez le Procureur du Roi de votre arrondissement pour recueillir son avis. 
+Endéans les 3 mois, vous devez prendre une décision.
+Le coût
+Les administrations communales ont pu déterminer le prix qu'elles souhaitaient pour cette procédure. Certaines ont choisi la gratuité, d'autres le montant maximal qui était appliqué par le SPF Justice, soit 490 euros, et d'autres encore ont appliqué des prix graduels en fonction de si c'est la première demande ou non.
+Texte:
+Le changement de prénoms pour un mineur
+Le représentant légal de l'enfant peut effectuer cette procédure de changement de prénoms. 
+Cela signifie que le ou les parents peuvent demander à changer les prénoms de leur enfant. Dans ce cas, de préférence, il sera nécessaire de recueillir l'accord des deux parents afin d'éviter les éventuels conflits.
+La Circulaire du 11 juillet 2018 relative à la loi qui transfère la compétence du changement de prénoms vers les Officiers de l'état civil prévoit que le consentement de l'autre parent peut être reçu de manière "souple". Par exemple : un simple écrit du parent qui ne souhaite pas se présenter peut être suffisant.
+Cependant, l'OEC appréciera dans quel cas l'assentiment du parent absent est nécessaire. S'il estime qu'il ne peut se passer de l'accord de l'autre parent, cela équivaudra à un refus à notifier au parent. 
+Ainsi un recours pourra être introduit par le parent demandeur.

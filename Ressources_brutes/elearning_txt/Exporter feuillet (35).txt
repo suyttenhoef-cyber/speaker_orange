@@ -1,0 +1,168 @@
+Actes de décès
+Nom:
+Actes de décès
+Description:
+Titre, page:
+BAEC - Actes de décès
+Texte, instruction:
+Texte, introduction:
+Vérifications préliminaires
+Dresser un acte de décès
+Acte de décès de l'enfant sans vie (AESV)
+Documents à délivrer
+Texte:
+1. Vérifications préliminaires
+Êtes-vous l'OEC compétent ?
+Le défunt est-il bien décédé sur le territoire de votre commune ? Si oui, vous êtes l'OEC compétent pour dresser l'acte de décès.
+Ceci n'est pas anodin. En effet, en cas d'accident de la route, le modèle IIIC est établi par l'urgentiste sur le lieu de l'accident. Cet accident a pu avoir lieu sur le territoire d'une commune voisine et que le corps soit ramené à l'hôpital qui se trouve dans votre commune. Les pompes funèbres peuvent se présenter chez vous sans avoir fait attention à ce fait. A vous de les envoyer dans la commune voisine.
+Vérifiez l'existence des dernières volontés
+Normalement, les pompes funèbres doivent vous fournir l'attestation des dernières volontés. En cas d'absence de celles-ci, vous pouvez vérifier au Registre national avec le code 17. Ce code vous permet de savoir si des dernières volontés sont enregistrées au Registre national.
+Si rien n'est indiqué, c'est que le défunt n'a rien prévu.
+S'il apparait qu'il existe des dernières volontés, soit vous vous renseignez dans la commune de domicile soit vous demandez aux pompes funèbres de vous les fournir.
+Ce code 17 mentionne uniquement l'existence ou pas de dernières volontés mais pas la teneur de celles-ci.
+RAPPEL IMPORTANT : Vous devez TOUJOURS vous conformer aux dernières volontés du défunt.
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Il y a lieu de respecter les dernières volontés du défunt qui sont
+enregistrées au Registre national. S’il y a un litige ou d’autres éventuelles
+dernières volontés émises oralement après l’enregistrement au Registre
+national, la famille s’adresse à la Justice de Paix.
+Texte:
+2. Dresser l'acte de décès.
+Documents nécessaires :
+Le Modèle IIIC
+Le mandat d'un représentant de la famille et une copie de sa carte d'identité permettant aux pompes funèbres de faire les formalités nécessaires à la déclaration de décès et obtenir des actes de décès.
+Les dernières volontés.
+En cas de mort violente, une autorisation du Parquet.
+Qui fait la déclaration de décès ?
+Le plus souvent, se sont les pompes funèbres qui font la déclaration de décès mais rien n'empêche la famille de la faire.
+En raison du Covid-19, la déclaration de décès se fait après réception de tous les documents par mail. Soyez vigilants quant à la réception par la poste de l'original du modèle IIIC. La déclaration doit se faire sans délai.
+Texte:
+Mentions obligatoires :
+Le Nom
+Le(s) prénom(s)
+La date de naissance
+Le lieu de naissance
+Le lieu du décès
+L'heure du décès
+La date de décès ou de constat en cas de découverte d'un corps sans vie
+Mentions facultatives :
+La date de l'inhumation
+Le lieu de l'inhumation
+Le déclarant
+L'état-civil
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Il n’y a pas lieu de délivrer l’acte de naissance si vous n’avez pas le
+mandat.
+Texte:
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet général :
+Texte:
+Dans l'onglet détail - Décès :
+Si le déclarant est pré-encodé, voir ci-dessous.
+Si le déclarant n'est pas pré-encodé, allez dans la colonne de gauche et cliquez droit sur "Signalétiques" et créez le déclarant.
+Bien que le déclarant ne soit pas une mention obligatoire, cela permet en cas de problème (au cimetière ou autre ...) de retrouver des ayants-droits ou au moins les pompes funèbres.
+Texte:
+Dans l'onglet détail - Inhumation :
+Texte:
+S'il s'agit d'une incinération : Dans l'onglet Détail - Incinération
+Texte:
+Dans l'onglet défunt (colonne de gauche) :
+Tapez le numéro national du défunt.
+Si le défunt n'a pas de numéro national, cliquez la petite case "Non résident" et remplissez avec les données en votre possession.
+Texte:
+Dès que toutes ces données sont encodées, vous pouvez valider avec la petite flèche verte et intégrer en brouillon.
+Cela vous permettra de relire votre acte.
+Ne travaillez pas dans la précipitation.
+Après relecture, vous pouvez signer votre acte et l'intégrer.
+Texte:
+Documents à délivrer.
+- Le permis de transport et d'inhumer.
+- Si vous avez reçu le mandat, le ou les acte(s) de décès.
+- Suivant le cas, les documents d'incinération.
+Texte:
+3. Acte de décès de l'enfant sans vie (EPSV)
+Texte:
+3 Grandes étapes pour le traitement de ce type de dossier :
+Vérifications.
+Dresser l'acte.
+Documents à délivrer.
+Texte:
+Vérifications: 
+Bien être l'officier de l'OEC compétent c'est à dire du lieu d'accouchement.
+L'acte d'enfant sans vie est établi :
+- Obligatoirement après une grossesse de 180 jours.
+- A la demande de la mère, du père ou de la coparente pour une grossesse de 140 jours à 179 jours.
+- Toute grossesse de moins de 140 jours ne permet pas l'établissement d'un tel acte.
+Attention que le délai mentionné parle bien de conception et non d'aménor. Si l'hôpital parle d'aménor, il y a lieu de faire la transposition avec le tableau ci-dessous. (Celui-ci a été établi par la commune de Libramont-Chevigny et Vivalia)
+Titre, téléchargement:
+Tableau des délais - Aménor
+Texte:
+Dresser l'acte.
+Documents nécessaires : 
+Si plus de 180 jours : un modèle IIID.
+Si moins de 180 jours : une attestation de l'hôpital mentionnant la durée de la grossesse, la date, l'heure et le lieu de l'accouchement.
+Vérifiez que la date et l'heure du décès du volet A correspondent à celles du volet B.
+Vérifiez qu'il est coché "enfant mort-né" sur les volets A et B.
+Vérifiez s'il existe une reconnaissance prénatale dans la BAEC via le numéro national de la maman.
+Qui fait la déclaration ?
+La maman.
+Le père ou la coparente (si marié avec la mère ou si reconnaissance prénatale)
+Le père ou la coparente, sans reconnaissance prénatale, avec l'autorisation écrite de la mère.
+Dans l'absolu et vu les circonstances, une personne qui est en mesure de communiquer les informations nécessaires suffit : l'assistante sociale de l'hôpital ou encore les pompes funèbres.
+Mentions obligatoires :
+La date, le lieu, l'heure d'accouchement et le sexe de l'enfant.
+La durée de la grossesse.
+Le nom, les prénoms, la date de naissance et le lieu de la naissance des parents.
+Le nom de l'enfant, si la mention est demandée, après une grossesse de 180 jours. 
+Encodage :
+Texte:
+Dans l'onglet "Général" - "Acte"
+Indiquez le nom du signataire. 
+Le reste se complète automatiquement.
+Texte:
+Dans l'onglet "Détail" - "Décès" encodez :
+Lieu du décès : La date du décès et l'heure du décès.
+Type de décès : Enfant présenté sans vie.
+La durée de la grossesse en jours.
+Parents conjoints s'ils sont mariés.
+Si les parents veulent mettre un nom (uniquement si 180 jours et plus) cochez la case "Nom enfant sans vie", ce qui enverra l'info à la BAEC.
+Si les parents ne sont pas mariés, il faut une reconnaissance. Si pas de reconnaissance, il faut une attestation qui émane des parents pour qu'il soit fait mention du nom du père ou de la coparente dans l'acte.
+Pas obligatoire : Le déclarant s'il est déjà dans vos déclarants habituels.
+Texte:
+Dans l'onglet "Détail" - "Inhumation"
+Eventuellement la date - l'heure - le lieu de l'inhumation.
+Texte:
+Dans l'onglet "Détail" - "Incinération"
+S'il s'agit d'une incinération et suivant le cas.
+Remarque importante, même dans le cas d'un enfant présenté sans vie, le passage du médecin assermenté est obligatoire.
+Légende, image (150 caractères maximum):
+Si reconnaissance anticipée.
+Texte:
+Défunt :
+Nom - Prénom - Date de naissance - Lieu de naissance - Pays de naissance - Sexe
+Texte:
+Cliquez droit pour supprimer conjoint.
+Cliquez droit signalétique et créez "mère". Encodez le numéro national.
+Texte:
+Cliquez droit sur signalétique pour créer le père ou la coparente. 
+Encodez le numéro national.
+Validez toujours en brouillon. 
+Si tout est OK, vous pouvez signer l'acte.
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+Texte:
+4. Les documents à délivrer
+Les documents pour l'incinération.
+Pour les enfants de 180 jours et plus : 
+Les documents pour la mutuelle et les allocations familiales.
+Un acte de décès s'il y a une demande.
+Texte:
+Personne ne peut arrêter le temps.
+  Seuls les souvenirs le prolongent ...

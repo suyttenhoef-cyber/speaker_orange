@@ -1,0 +1,145 @@
+Le mariage : Généralités
+Nom:
+Le mariage : Généralités
+Description:
+Le droit au mariage est un droit fondamental, garanti par l'article 12 de la Convention Européenne des Droits de l'Homme. 
+Dans ce module, nous examinerons les conditions de fond et de forme du mariage en Belgique.
+Titre, page:
+Le mariage
+Texte, instruction:
+Célébrer un mariage et unir deux personnes qui s'aiment restent un plaisir que les Officiers de l'Etat civil convoitent particulièrement. 
+Mais quelles sont les conditions de fond et de forme de cette institution en Belgique? 
+C'est ce que nous allons exposer dans ce module.
+Titre, accordéon:
+La procédure du mariage en Belgique
+Texte, accordéon:
+Vue d'ensemble sur la procédure du mariage
+Titre, barre d’accordéon:
+Ouvrage et procédure
+Légende, image (150 caractères maximum):
+Procédures sur les mariages
+Texte:
+Testez vos connaissances a priori
+Question:
+La personne qui souhaite se marier peut être :
+Option de réponse:
+majeure
+Option de réponse:
+mineure mais doit obtenir le consentement de ses parents
+Option de réponse:
+mineure mais doit obtenir le consentement de ses parents qui est constaté par le juge de paix
+Option de réponse:
+mineure mais doit obtenir le consentement de ses parents qui est constaté par le tribunal de la famille
+Option de réponse:
+mineure sans le consentement de ses parents mais avec l'accord du tribunal de la famille
+Feedback si réponse incorrecte:
+Et non. La personne capable de contracter mariage en Belgique doit être :
+majeure;
+mineure avec le consentement des parents constaté par le tribunal;
+mineure mais avec l'accord du tribunal.
+Feedback si réponse correcte:
+Exact.
+Titre, page:
+Des qualités requises pour contracter mariage
+Texte, instruction:
+En Belgique, les futurs époux doivent répondre à une série de conditions pour pouvoir se marier. 
+Analysons-les ensemble.
+Texte, introduction:
+Testez vos connaissances ou votre intuition à ce sujet en répondant à la question suivante.
+Question:
+Vrai ou faux? 
+Une personne peut décider de se marier d'abord avec une personne de sexe différent, divorcer et ensuite choisir de se marier avec une personne de même sexe.
+Option de réponse:
+Vrai
+Option de réponse:
+Faux
+Option de réponse:
+Vrai, si l'ancien époux est d'accord.
+Feedback si réponse incorrecte:
+Une personne peut se marier avec qui elle veut, peu importe ses unions précédentes.
+Feedback si réponse correcte:
+Correct.
+Texte:
+Du sexe des époux :
+Depuis le 1er juin 2003, les personnes de même sexe peuvent se marier entre elles. Il n'est donc plus fait de distinction entre les couples hétérosexuels et homosexuels.
+La polygamie :
+La polygamie, à savoir, le fait d'être marié à plusieurs personnes, est interdite. Pour contracter mariage, l'un des futurs époux ne peut être sous les liens d'un mariage. Ce principe est d'ordre public et ne peut donc souffrir d'exception. 
+La cohabitation légale existante :
+Depuis le 11 mars 2022, la cohabitation légale existante est un empêchement au mariage dans le cas où les cohabitants ne se marient pas entre eux*.
+En effet, avant cette date un cohabitant légal pouvait se marier à une autre personne sans devoir cesser la cohabitation légale précédemment enregistrée.
+* Des discussions auront encore lieu, notamment à la CPEC, afin de discuter ce qu'il en est pour les personnes étrangères qui se marieraient à l'étranger et qui auraient une cohabitation légale enregistrée en Belgique. 
+L'âge requis :
+La règle est que personne ne peut se marier avant l'âge de 18 ans. 
+Cependant, cette règle n'est pas absolue et le Tribunal de la Famille peut lever cette condition d'âge pour motifs graves. Etant donné qu'un mineur ne peut se marier sans le consentement de ses parents,  celui-ci devra être acté par le tribunal de la famille. Si les parents ou l'un deux refusent de donner son consentement, le tribunal estimera si le mariage peut avoir lieu ou non et éventuellement passer outre l'absence de consentement parental.
+Texte:
+La personne incapable :
+La personne qui est déclarée incapable peut contracter mariage après que le juge de paix l'y ait autorisé. La décision du juge de paix sera annexée à l'acte de mariage dans la BAEC.
+Le consentement :
+Le mariage est valable lorsque les consentements ont été donnés de manière libre et dans un autre but qu'offrir un avantage lié en matière de séjour à l'un des futurs époux. 
+Ce consentement doit se donner en personne lors de la célébration du mariage. C'est en effet le seul acte d'état civil pour lequel on ne peut se faire représenter par une procuration spéciale et authentique. 
+Le lien familial :
+Le mariage est interdit entre : 
+les descendants et ascendants dans la même lignée (parent, grand-parent, enfant, petit-enfant) 
+les descendants et ascendants par alliance (beau-parent, gendre, bru, ...) - cette interdiction peut être levée par le Tribunal de la Famille; 
+les membres d'une même fratrie; 
+les oncles/tantes et leurs neveux/nièces - cette interdiction peut être levée par le Tribunal de la Famille.
+En d'autres termes, le mariage est interdit jusqu'au 3ème degré. Il est donc autorisé entre cousins et cousines (4ème degré).
+Avez-vous tout compris?
+Question:
+Vrai ou faux? 
+La polygamie est interdite en Belgique mais autorisée dans d'autres pays. De ce fait, ces unions seront reconnues en Belgique.
+Option de réponse:
+Faux
+Option de réponse:
+Vrai
+Option de réponse:
+Vrai, si les époux sont de la nationalité de l'état dans lequel ils se sont mariés
+Feedback si réponse incorrecte:
+La polygamie est contraire à l'ordre public belge. Seul le 1er mariage célébré pourra être reconnu.
+Feedback si réponse correcte:
+Bien vu, c'est contraire à l'ordre public belge.
+Question:
+La personne déclarée incapable peut se marier avec l'autorisation
+Option de réponse:
+de son tuteur
+Option de réponse:
+de ses parents
+Option de réponse:
+du Tribunal de la Famille
+Option de réponse:
+du juge de paix
+Feedback si réponse incorrecte:
+C'est bien le juge de paix qui appréciera la capacité de la personne déclarée incapable d'exprimer sa volonté conformément à l'article 145/1 du Code civil.
+Feedback si réponse correcte:
+C'est bien le juge de paix qui appréciera la capacité de la personne déclarée incapable d'exprimer sa volonté conformément à l'article 145/1 du Code civil.
+Question:
+Vrai ou faux? 
+Le jour du mariage, le consentement peut être donné par procuration à l'autre partie.
+Option de réponse:
+Faux
+Option de réponse:
+Vrai
+Feedback si réponse incorrecte:
+En Belgique, les parties doivent être présents le jour du mariage. 
+L'article 21 du Code civil énonce ceci : 
+Exception faite pour les actes de mariage, les parties intéressées peuvent se faire représenter pour tous les actes par un fondé de procuration spéciale et authentique. La procuration est jointe en annexe dans la BAEC.
+Feedback si réponse correcte:
+Tout à fait. 
+Pour rappel, l'article 21 du Code civil prévoit ceci : 
+Exception faite pour les actes de mariage, les parties intéressées peuvent se faire représenter pour tous les actes par un fondé de procuration spéciale et authentique. La procuration est jointe en annexe dans la BAEC.
+Question:
+Le tribunal, par requête unilatérale, peut lever la prohibition du mariage entre
+Option de réponse:
+des membres d'une même fratrie.
+Option de réponse:
+entre des descendants et ascendants.
+Option de réponse:
+entre des descendants et ascendants par alliance.
+Option de réponse:
+entre l'oncle ou la tante et leur neveu ou nièce.
+Feedback si réponse incorrecte:
+C'est l'article 162 du Code civil qui prévoit que le tribunal puisse lever la prohibition entre des ascendants et descendants par alliance ainsi que vis à vis d'un oncle/une tante et son neveu/nièce.
+Le tribunal prendra une décision après avoir recueilli l'avis du procureur du Roi.
+Feedback si réponse correcte:
+En effet, c'est l'article 162 du Code civil qui prévoit ces possibilités.
+Le tribunal prendra une décision après avoir recueilli l'avis du procureur du Roi.

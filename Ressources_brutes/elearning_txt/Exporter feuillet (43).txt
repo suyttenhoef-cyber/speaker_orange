@@ -1,0 +1,45 @@
+Les indispensables du droit des Etrangers
+Nom:
+Les indispensables du droit des Etrangers
+Texte:
+Testez vos connaissances de base !
+Question:
+Une personne qui a une demande d'asile en cours de traitement :
+Option de réponse:
+N'a droit à aucun titre de séjour tant qu'il n'est pas reconnu réfugié
+Option de réponse:
+peut obtenir une carte orange auprès de l'office des étrangers, la commune ne gère pas du tout ces demandes
+Option de réponse:
+peut obtenir une carte orange auprès de sa commune de résidence.  C'est à elle de vérifier au registre national, et en fonction de l'évolution de la demande de protection internationale, si la carte peut être prolongée ou pas
+Feedback si réponse incorrecte:
+Non, la carte orange est délivrée et prolongée par la commune de résidence
+Feedback si réponse correcte:
+Oui, bien sûr !
+Question:
+En matière de long séjour des européens, l'obtention d'une carte EU est :
+Option de réponse:
+Toujours une compétence de la commune.
+Option de réponse:
+Toujours une compétence de l'office des étrangers.
+Option de réponse:
+Dans certains cas une compétence de l'office des étrangers, dans d'autre la commune peut décider d'elle même de commander la carte EU.
+Option de réponse:
+Il n'existe pas de carte pour les européens, suite à la libre circulation des travailleurs dans l'UE
+Feedback si réponse incorrecte:
+Non, comme nous le verrons, certains cas nécessitent l'approbation de l'office des étrangers et d'autres pas.
+Feedback si réponse correcte:
+Oui, bien sûr !
+Question:
+Un court séjour est un séjour qui n'excède pas :
+Option de réponse:
+80 jours
+Option de réponse:
+70 jours pour les non européens et 90 jours pour les  européens
+Option de réponse:
+90 jours  pour les non européens et pour les  européens
+Option de réponse:
+90 jours pours pour les non européens, et le court séjour n'existe pas pour les européens.
+Feedback si réponse incorrecte:
+faux, le court séjour est de maximum 90 jours
+Feedback si réponse correcte:
+Tout à fait

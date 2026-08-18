@@ -1,0 +1,59 @@
+C-Permis de conduire du Groupe 2 - Attestations médicales et CAP
+Nom:
+C-Permis de conduire du Groupe 2 - Attestations médicales et CAP
+Description:
+Projet de certification pour le module sur les Permis de conduire du Groupe 2 - Attestations médicales et CAP
+Valable jusqu’au (aaaa/mm/jj):
+2025/02/28
+Titre:
+Certificat e-Learning OrangeConnect
+Texte:
+Félicitations ! Vous avez obtenu votre certification avec succès.
+N'hésitez pas à télécharger votre certificat en cliquant ci-dessous
+Nom du fichier après téléchargement:
+Attestation_e-Learning_VDB
+Nom:
+antica
+Nom:
+tahoma
+Texte:
+Volume horaire : 1 journée
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{person.midname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{person.firstname} {person.lastname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{certificate.nicename}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{instance.date}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+ID unique : {instance.guid}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+Police:
+antica
+Couleur du texte:
+#183E65

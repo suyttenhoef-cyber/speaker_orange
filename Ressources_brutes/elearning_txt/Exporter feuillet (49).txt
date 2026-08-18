@@ -1,0 +1,346 @@
+Permis de conduire du <b>Groupe 1</b>
+Nom:
+Permis de conduire du <b>Groupe 1</b>
+Description:
+Titre, page:
+Introduction & Objectifs
+Texte, instruction:
+Dans ce module, vous trouverez des informations sur la gestion des permis de conduire par votre administration communale. Les informations données concernent ici uniquement les permis des catégories du groupe 1. Les permis des catégories du groupe 2 font l'objet d'un module séparé reprenant également la matière des sélections médicales et du CAP.
+Texte, introduction:
+Les objectifs sont d'expliquer les différentes catégories de véhicules en rapport avec les catégories de permis, les conditions et modes d'obtention et de voir les différents documents à remplir (demandes, fiches,...)
+Titre, page:
+Le Groupe 1 - Kesaco ?
+Texte, instruction:
+Nous allons tout d'abord définir les catégories de permis de conduire faisant partie du groupe 1
+Texte:
+Le groupe 1 reprend les permis de conduire des catégories :
+AM : cyclomoteurs
+A1 - A2 - A : Motocyclettes
+B : Voitures
+B+E : Voitures + remorques
+Nous allons détailler dans les chapitres suivants les véhicules se rapportant aux catégories ci-dessus
+Titre, page:
+Catégorie AM - Les cyclomoteurs
+Légende, image (150 caractères maximum):
+Catégorie AM
+Texte:
+La catégorie AM - Définitions
+La catégorie AM regroupe : 
+• Les "Speed Pedelec" : Vélo électrique à 2 roues dont la puissance est inférieure ou égale à 4.000 W et dont la vitesse est limitée par le constructeur à ≤ 45 km/h - les vélos électriques de puissance égale ou inférieure à 1.000 W ne requièrent aucun permis de conduire.
+ • Les cyclomoteurs : Tout véhicule à 2 ou 3 roues dont la vitesse est supérieure à 25 km/h et ayant une vitesse 
+maximale, par construction, ne dépassant pas 45 km/h :
+                • Cyclomoteurs à 2 roues :  cylindrée ≤ 50 cm3 s'il est à combustion interne 
+                                                                 puissance nominale continue maximale ≤ 4 kW pour un moteur électrique
+                • Cyclomoteurs à 3 roues : cylindrée ≤ 50 cm3 s'il est à allumage commandé 
+                                                                puissance maximale nette ≤ 4 kW pour les autres moteurs à combustion interne 
+                                                                puissance nominale continue maximale ≤ 4 kW pour un moteur électrique 
+• Les quadricycles légers : Tout véhicule à 4 roues ayant une vitesse maximale, par construction, ≤ 45 km/h et dont la 
+masse
+ à vide est  ≤ 350 kg, sans compter les batteries pour les véhicules électriques 
+ Aux véhicules de la catégorie AM peut être adjointe une remorque.
+Texte:
+La catégorie AM - Obtention
+Elle peut être obtenue à partie de l'âge de 16 ans.
+La catégorie AM est délivrée automatiquement à toute personne qui obtient un permis de conduire valable pour les catégories A1, A2, A ou B. 
+Obtention par examens : 
+Examen théorique minimum 3 mois avant l'âge de 16 ans (la réussite reste valable 3 ans)
+Apprentissage en école de conduite (16 ans accomplis) : 4 heures minimum (les cours restent valables 3 ans)
+Examen pratique sur terrain privé (avec ou sans l'école de conduite - 16 ans accomplis)
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM
+Remarques :  Pas de passager autorisé avant l'âge de 18 ans !
+                        Pas de permis de conduire nécessaire si le cyclomoteur ne dépasse pas 25 km/h.
+Titre, page:
+Catégorie A1 - Les motocyclettes & tricycles
+Légende, image (150 caractères maximum):
+Catégorie A1
+Texte:
+La catégorie A1 - Définitions
+La catégorie A1 regroupe: 
+• Les Motocyclettes : Tout véhicule à moteur muni de 2 roues (avec ou sans side-car) et différent d'un cyclomoteur 
+                − cylindrée maximale de 125 cm³
+                − puissance maximale de 11 kW                 
+                − le rapport poids puissance ne dépassant pas 0,1 kW/kg 
+• Les Tricycles à moteur : Tout véhicule à moteur muni de 3 roues symétriques et équipé d'un moteur d'une cylindrée supérieure à     50 cm3
+                 − puissance maximale de 15 kW 
+                 − équipé d'un moteur d'un cylindré supérieure à 50 cm³, s'il est à combustion interne, et/ou
+                 − dont la vitesse maximale par construction est supérieure à 45 km/h
+Une remorque peut y être attelée sauf s'il s'agit d'une motocyclette avec side-car.
+Texte:
+La catégorie A1 - Obtention
+Elle peut être obtenue à partie de l'âge de 18 ans.
+La catégorie AM est délivrée automatiquement à toute personne qui obtient un permis de conduire valable pour les catégories A1, A2, A ou B. 
+Obtention par examens : 
+Examen théorique minimum 3 mois avant l'âge de 18 ans (la réussite reste valable 3 ans)
+Apprentissage en école de conduite (18 ans accomplis) : 9 heures minimum (les cours restent valables 3 ans)
+Poursuite via l'école de conduite : 3h de cours supplémentaires minimum 
+Examen pratique sur terrain privé et puis sur la voie publique (avec véhicule catégorie A1)
+Après 2 échecs, 2 heures de cours obligatoires en école de conduite
+Poursuite en filière libre : 
+Examen pratique sur terrain privé (Avec véhicule catégorie A1 - la réussite reste valable 1 an)
+Demande de permis de conduire provisoire (Pas de guide, pas de passager et "L" obligatoire à l'arrière)
+Examen pratique sur la voie publique (Avec véhicule catégorie A1)
+Après 2 échecs, 2 heures de cours obligatoires en école de conduite
+Ensuite (valable quelle que soit la filière) :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM - A1
+Le titulaire de la catégorie A1 obtenue dans un autre Etat membre de l'UE peut demander la même catégorie sur un PC belge, il doit présenter son PC national A1 et remplir une demande de PC (Formulaire F06)
+Remarques :
+- Le permis de conduire, valable pour la catégorie B, délivré avant le 01/05/2011, autorise la conduite de véhicules de la catégorie A1. Cette autorisation n'est valable que sur le territoire belge.
+- Le permis de conduire, validé pour la catégorie B, délivré après le 01/05/2011 depuis deux ans au 
+moins, autorise la conduite des véhicules de la catégorie A1 à condition que le titulaire ait suivi la formation, visée à l'article 15, alinéa 2, 2°, b), et que le code 372 soit apposé en regard de la catégorie B. Cette autorisation n'est valable que sur le territoire.
+- Jusqu'au 30/04/2013, la Belgique délivrait des permis de conduire pour la catégorie A<
+(A≤ 25 kW et 0,16 kW/kg).
+Lorsqu'ils demandent un nouveau permis de conduire, les titulaires de cette catégorie A<, sans 
+mention ou restriction, obtiennent les catégories A1 et A2.
+Titre, page:
+Catégorie A2 - Les motocyclettes
+Texte:
+La catégorie A2 - Définitions
+La catégorie A2 regroupe: 
+Les Motocyclettes : Tout véhicule à moteur muni de 2 roues (avec ou sans side-car) et différent d'un cyclomoteur 
+                − d'une puissance maximale de 35 kW, 
+                − avec un rapport puissance/poids ne dépassant pas 0,2 KW/kg et 
+                − n'étant pas dérivé d'un véhicule développant plus du double de sa puissance 
+Une remorque peut y être attelée sauf s'il s'agit d'une motocyclette avec side-car.
+Texte:
+La catégorie A2 - Obtention
+Elle peut être obtenue à partie de l'âge de 20 ans.
+La catégorie AM est délivrée automatiquement à toute personne qui obtient un permis de conduire valable pour les catégories A1, A2, A ou B. 
+Obtention par examens : 
+Examen théorique de la catégorie A (âge minimum 20 ans - la réussite reste valable 3 ans)
+Apprentissage en école de conduite : 9 heures minimum (les cours restent valables 3 ans)
+Poursuite via l'école de conduite : 3h de cours supplémentaires minimum 
+Examen pratique sur terrain privé et puis sur la voie publique (avec véhicule catégorie A2)
+Poursuite en filière libre : 
+Examen pratique sur terrain privé (Avec véhicule catégorie A2 - la réussite reste valable 1 an)
+Demande de permis de conduire provisoire (Pas de guide, pas de passager et "L" obligatoire à l'arrière)
+Examen pratique sur la voie publique (Avec véhicule catégorie A2)
+Ensuite (valable quelle que soit la filière) :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM-A1-A2
+Obtention de la catégorie A2 pour les titulaires de la catégorie A1 depuis 2 ans au minimum :
+Pas d'examen théorique
+Apprentissage en école de conduite : 4 heures minimum (les cours restent valables 3 ans)
+Poursuite via l'école de conduite : 
+Examen pratique sur terrain privé et puis sur la voie publique (avec véhicule catégorie A2)
+Poursuite en filière libre : 
+Examen pratique sur terrain privé (Avec véhicule catégorie A2 - la réussite reste valable 1 an)
+Demande de permis de conduire provisoire (Pas de guide, pas de passager et "L" obligatoire à l'arrière)
+Examen pratique sur la voie publique (Avec véhicule catégorie A2)
+Ensuite (valable quelle que soit la filière) :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM-A1-A2
+Le titulaire de la catégorie A2 obtenue dans un autre Etat membre de l'UE peut demander la même catégorie sur un PC belge, il doit présenter son PC national A2 et remplir une demande de PC (Formulaire F06)
+Remarque :
+Jusqu'au 30/04/2013, la Belgique délivrait des permis de conduire pour la catégorie A<
+(A≤ 25 kW et 0,16 kW/kg).
+Lorsqu'ils demandent un nouveau permis de conduire, les titulaires de cette catégorie A<, sans 
+mention ou restriction, obtiennent la catégorie A2.
+Titre, page:
+Catégorie A - Les motocyclettes
+Texte:
+La catégorie A - Définitions
+La catégorie A regroupe: 
+• Les Motocyclettes : Tout véhicule à moteur muni de 2 roues (avec ou sans side-car) et différent d'un cyclomoteur
+d'une puissance supérieure à 35 kW. 
+• Les Tricycles d'une puissance supérieure à 15 KW : Tout véhicule à moteur muni de 3 roues symétriques
+                                              • d'une cylindrée supérieure à 50 cm³ s'il est à combustion interne
+et/ou 
+                                              • dont la vitesse maximale par construction est supérieure à 45 km/h. 
+Une remorque peut y être attelée sauf s'il s'agit d'une motocyclette avec side-car dont la roue du side-car n'est pas munie d'un frein.
+Texte:
+La catégorie A - Obtention
+Elle peut être obtenue à partie de l'âge de 20 ans.
+La catégorie AM est délivrée automatiquement à toute personne qui obtient un permis de conduire valable pour les catégories A1, A2, A ou B. 
+Obtention par examens : 
+Examen théorique de la catégorie A (âge minimum 20 ans - la réussite reste valable 3 ans)
+Apprentissage en école de conduite : 9 heures minimum (les cours restent valables 3 ans)
+Poursuite via l'école de conduite : 3h de cours supplémentaires minimum 
+A 24 ans minimum : Examen pratique sur terrain privé et puis sur la voie publique (avec véhicule catégorie A)
+Poursuite en filière libre (24 ans minimum) : 
+Examen pratique sur terrain privé (Avec école de conduite et véhicule catégorie A - la réussite reste valable 1 an)
+Demande de permis de conduire provisoire (Pas de guide, pas de passager et "L" obligatoire à l'arrière)
+Examen pratique sur la voie publique (Avec véhicule catégorie A)
+Ensuite (valable quelle que soit la filière) :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM-A1-A2-A
+Obtention de la catégorie A pour les titulaires de la catégorie A2 depuis 2 ans au minimum et âgés d'au moins 22 ans :
+Pas d'examen théorique
+Apprentissage en école de conduite : 4 heures minimum (les cours restent valables 3 ans)
+Poursuite via l'école de conduite : 
+Examen pratique sur terrain privé et puis sur la voie publique (avec véhicule catégorie A)
+Poursuite en filière libre : 
+Examen pratique sur terrain privé (Avec véhicule catégorie A - la réussite reste valable 1 an)
+Demande de permis de conduire provisoire (Pas de guide, pas de passager et "L" obligatoire à l'arrière)
+Examen pratique sur la voie publique (Avec véhicule catégorie A)
+Ensuite (valable quelle que soit la filière) :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen (valable 3 ans)
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM-A1-A2-A
+Le titulaire de la catégorie A obtenue dans un autre Etat membre de l'UE peut demander la même catégorie sur un PC belge, il doit présenter son PC national A et remplir une demande de PC (Formulaire F06)
+Titre, page:
+Catégorie B - Les voitures
+Texte:
+La catégorie B - Définition
+La catégorie B regroupe: 
+Les automobiles : 
+de MMA inférieure ou égale à 3.500 kg (MMA = Masse Maximale Autorisée)
+Comprenant maximum 8 places assises (non compris le siège conducteur)
+Avec ou sans remorque d'une MMA de 750 kg maximum !
+Texte:
+La catégorie B - Obtention
+ATTENTION : LA PROCEDURE EST DIFFERENTE DANS LES 3 REGIONS - NOUS ETUDIERONS ICI LA PROCEDURE EN REGION WALLONNE
+Examen théorique ( à partir de 17 ans) :
+Examen sur PC en centre d'examen (50 questions)
+Si 2 échecs, obligation de suivre 12 heures de cours en école de conduite
+La réussite reste valable 3 ans
+Apprentissage :
+En filière libre :
+Sous couvert d'un permis de conduire provisoire M36 ( 17 ans minimum)
+Avec un guide (les conditions seront détaillées dans le module "Permis de conduire provisoires)
+Obligation pour le candidat et le guide de suivre le "rendez-vous pédagogique" en e-learning ou en école de conduite (la période d'apprentissage commence après le suivi du rendez-vous pédagogique) - L'attestation de suivi est valable 5 ans 
+Période d'apprentissage de 3 mois minimum au cours de laquelle le candidat doit parcourir au minimum 1.500 KM sur route
+Obligation de suivre et compléter un roadbook 
+Passage du test de perception des risques (en centre d'examen) avant le passage de l'examen pratique (après 2 échecs au test, obligation de suivre 3 heures de cours en école de conduite)
+En école de conduite :
+20 heures de cours + TCTC (Test des capacités techniques à la conduite) en centre d'examen : Délivrance d'un permis de conduire provisoire M18 pour apprentissage seul - Examen pratique dans les 18 mois
+30 heures de cours + TCTC : Accès direct à l'examen pratique sans permis de conduire provisoire
+Examen pratique :
+Minimum 18 ans
+Auto-évaluation sur PC
+Examen pratique sur la voie publique avec le véhicule de l'école de conduite (si apprentissage en école) ou avec un véhicule personnel de la catégorie B + le guide (si filière libre)
+Après 2 échecs, obligation de suivre 6h de cours en école de conduite
+Délivrance :
+Demande de permis de conduire (Formulaire F06) délivré par le centre d'examen
+Demande de PC à la commune -> Commande via Mercurius (Nouvelle demande - Examens) - PC AM-B
+Texte:
+La catégorie B + Code 96 - Définition
+Ensemble dont la MMA est égale ou inférieure à 4250 kg avec un véhicule tracteur de catégorie B et une remorque dont la MMA est supérieure ou égale à 750 kg 
+La catégorie B + Code 96 - Obtention
+Pas d'examen théorique
+En filière libre :
+Via l'obtention d'un PCP M3 à la commune 
+Apprentissage avec un guide titulaire de la catégorie + "L" sur le véhicule 
+En école de conduite :
+8 heures de cours minimum + délivrance du certificat d'enseignement
+Dans les 2 filières, passage d'un examen pratique en centre d'examen 
+Demande d'un PC auprès de la commune via le formulaire de demande F06 délivré par le centre d'examen
+Délivrance d'un PC mentionnant le code "96" en regard de la catégorie B
+Texte:
+La catégorie B + Code 372 - Définition
+Le permis de conduire, validé pour la catégorie B, délivré depuis deux ans au moins, autorise la conduite des véhicules de la catégorie A1 à condition que le titulaire ait suivi la formation, visée à l'article 15, alinéa 2, 2°, b), et que le code 372 soit apposé en regard de la catégorie B.
+La catégorie B + Code 372 - Obtention
+Pas d'examen théorique
+En école de conduite uniquement :
+Permis de conduire B depuis 2 ans au moins
+4 heures de cours minimum + délivrance du certificat d'enseignement par l'école de conduite
+Pas d'examen pratique 
+Demande d'un PC auprès de la commune via le formulaire de demande F06
+Délivrance d'un PC mentionnant le code "372" en regard de la catégorie B
+IL S'AGIT D'UN CODE NATIONAL QUI N'A DE VALEUR QUE SUR LE TERRITOIRE BELGE. À L'ETRANGER, IL N'A PAS DE VALEUR ET LE TITULAIRE NE PEUT Y CONDUIRE DES MOTOCYCLETTES CATEGORIE A1 QUE S'IL EST TITULAIRE DE LA CATEGORIE A1.
+Texte:
+La catégorie B + Code 373 - Définition
+Le permis de conduire, validé pour la catégorie B, autorise la conduite des tricycles de la catégorie A à condition que le titulaire soit âgé d'au moins 21 ans et ait suivi la formation, visée à l'article 15, alinéa 2, 2°, d), et que le code 373 soit apposé en regard de la catégorie B."
+La catégorie B + Code 373 - Obtention
+Pas d'examen théorique
+En école de conduite uniquement :
+Permis de conduire B et âgé de 21 au moins
+4 heures de cours minimum + délivrance du certificat d'enseignement par l'école de conduite
+Pas d'examen pratique 
+Demande d'un PC auprès de la commune via le formulaire de demande F06
+Délivrance d'un PC mentionnant le code "373" en regard de la catégorie B
+IL S'AGIT D'UN CODE NATIONAL QUI N'A DE VALEUR QUE SUR LE TERRITOIRE BELGE.
+Texte:
+Conduite de véhicules d'autres catégories grâce à la catégorie B obtenue auparavant
+Le permis de conduire, valable pour la catégorie B, délivré avant le 01/05/2011, autorise la conduite de véhicules de la catégorie A1 sans que le titulaire ait suivi la formation prévue à article 15, alinéa 2, 2°, b
+Le permis de conduire, valable pour la catégorie B, délivré avant le 1er mai 2013, autorise la conduite des tricycles à moteur" :
+S’il en fait la demande, le titulaire obtiendra un nouveau permis de conduire sur lequel sera validée la catégorie A code 79.03. (sans validation de A1 ni A2)
+DANS LES 2 POINTS, LE TITULAIRE NE DOIT SUIVRE AUCUNE FORMATION ET LE CODE 372 OU 373 N'EST PAS AJOUTE EN REGARD DE LA CATEGORIE B.
+Titre, page:
+Catégorie B+E - Les voitures et remorques
+Texte, instruction:
+Texte:
+La catégorie B+E - Définition
+Ensemble de véhicules composé d'un véhicule tracteur de la catégorie B  et d'une remorque ou semi-remorque dont la MMA n'excède pas 3.500 kg 
+La catégorie B+E - Obtention 
+Pas d'examen théorique
+En filière libre :
+Via l'obtention d'un permis de conduire provisoire M3 à la commune 
+Apprentissage avec un guide titulaire de la catégorie + "L" sur le véhicule 
+En école de conduite :
+8 heures de cours minimum + délivrance du certificat d'enseignement
+Dans les 2 filières, passage d'un examen pratique en centre d'examen 
+Demande d'un PC auprès de la commune via le formulaire de demande F06 délivré par le centre d'examen
+Délivrance d'un PC  catégories AM-B-B+E
+Remarques :
+Lorsque la MMA de la remorque dépasse les 3.500 kg et que la MMA de l'ensemble ne dépasse pas 12.000 kg, le conducteur doit être titulaire de la catégorie C1E, sauf s'il a obtenu la catégorie B+E avant le 01/05/2013.
+Texte:
+VEHICULES FOLKLORIQUES
+Pour la conduite de véhicules à moteur et leurs remorques, exclusivement destinés aux manifestations folkloriques, qui ne se rendent qu'exceptionnellement sur la voie publique, soit à l'occasion de manifestations folkloriques autorisées par la commune, soit sur le chemin pour s'y rendre ou en revenir, soit pour des essais en vue de ces manifestations, le permis de conduire, validé pour la catégorie B ou G suffit et ce, quels que soient la masse du véhicule et le nombre de places assises et pour autant qu'ils ne dépassent pas la vitesse de 25 km à l'heure.
+Titre, page:
+Avez-vous tout compris ?
+Quelques questions pour tester votre apprentissage sur la matière
+Question:
+Pour utiliser un vélo électrique quel qu'il soit, je n'ai jamais besoin d'un permis de conduire
+Option de réponse:
+Faux
+Option de réponse:
+Vrai
+Feedback si réponse incorrecte:
+Faux, pour conduire un "Speed-Pedelec", j'ai besoin du permis de conduire de la catégorie AM
+Un "Speed-Pedelec" est un vélo électrique développant une puissance de maximum 4000 KW et limité à 45 km/h
+Feedback si réponse correcte:
+En effet, pour un  "Speed-Pedelec", j'ai besoin du permis de conduire de la catégorie AM
+Question:
+Définissez brièvement un véhicule de la catégorie B
+Feedback:
+La catégorie B regroupe les automobiles de MMA inférieure ou égale à 3.500 kg comprenant maximum 8 places assises (non compris le siège conducteur) avec ou sans remorque d'une MMA de 750 kg maximum !
+Question:
+J'ai obtenu mon permis de conduire catégorie B le 15/03/2011. Puis-je conduire une moto de 125 cm3 sans aucune autre formalité ?
+Option de réponse:
+Non
+Option de réponse:
+Oui mais uniquement en Belgique
+Option de réponse:
+Oui
+Feedback si réponse incorrecte:
+La catégorie B obtenue avant le 01/05/2011 autorise la conduite de véhicules de la catégorie A1 mais uniquement en Belgique
+Feedback si réponse correcte:
+La catégorie B obtenue avant le 01/05/2011 autorise la conduite de véhicules de la catégorie A1 mais uniquement en Belgique
+Question:
+Quelles sont les différentes catégories de Permis de conduire "A" et les puissances de véhicules y afférentes
+Feedback:
+Catégorie AM : Cylindrée maximale 50 cm3 et/ou puissance inférieure/égale à 4 Kw
+Catégorie A1 : Cylindrée maximale 125 cm3 et/ou puissance inférieure/égale à 11 Kw (15 Kw pour les tricycles)
+Catégorie A2 : Puissance inférieure/égale à 35 Kw 
+Catégorie A : Puissance supérieure à 35 Kw (supérieure à 15 Kw pour les tricycles)
+Question:
+Quel est l'âge minimum pour présenter l'examen pratique de la catégorie A ?
+Option de réponse:
+18 ans
+Option de réponse:
+24 ans
+Option de réponse:
+22 ans
+Feedback si réponse incorrecte:
+Il faut 24 ans pour présenter l'examen PRATIQUE de la catégorie A OU 22 ans à condition d'avoir la catégorie A2 depuis 2 ans au moins
+Feedback si réponse correcte:
+Il faut 24 ans pour présenter l'examen PRATIQUE de la catégorie A OU 22 ans à condition d'avoir la catégorie A2 depuis 2 ans au moins
+Question:
+Je pars en vacances en Ardèche au volant de mon Audi Q8 eTron (électrique) avec mon épouse, les enfants et mes 2 cockers. Nous emmenons notre caravane semi-résidentielle dernier cri. 
+La voiture a une MMA de 2620 Kg
+La remorque pèse 1258 Kg
+De quelle catégorie ai-je besoin pour éviter tout problème lors d'un contrôle de Police ?
+Option de réponse:
+Le Permis B suffit
+Option de réponse:
+Le Permis B+E est obligatoire
+Option de réponse:
+Le Permis B + 96 est, au minimum, nécessaire
+Feedback si réponse incorrecte:
+La remorque (caravane) dépassant 750 Kg, la catégorie B ne suffit pas!
+La MMA de l'ensemble (voiture + remorque) étant inférieure à 4250 kg, la catégorie B+code 96 est au minimum obligatoire
+Si je possède déjà la catégorie B+E, c'est valable également (mais le B+E n'est pas obligatoire)
+Feedback si réponse correcte:
+La MMA de l'ensemble (voiture + remorque) étant inférieure à 4250 kg, la catégorie B+code 96 est au minimum obligatoire
+Si je possède déjà la catégorie B+E, c'est valable également (mais le B+E n'est pas obligatoire)

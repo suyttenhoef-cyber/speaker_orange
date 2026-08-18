@@ -1,0 +1,118 @@
+Actes de divorce
+Nom:
+Actes de divorce
+Titre, page:
+BAEC - Les actes de divorce
+Texte, instruction:
+Texte, introduction:
+Ce module est subdivisé en 5 chapitres, qui sont :
+Petit historique
+Vérifications préliminaires
+Mentions obligatoires
+Dresser un acte de divorce
+Documents à délivrer
+Texte:
+1. Rapide historique
+Souvenez-vous de notre introduction ...
+Avant la BAEC, le Code civil imposait à l'OEC de transcrire le divorce dans les registres de l'état civil et de faire une mention marginale sur l'acte mariage que vous conserviez à la commune. En parallèle, l'OEC envoyait au Greffe une copie de cette mention pour que les deux registres correspondent.
+Avec la BAEC, le Greffier envoie le divorce à la BAEC ce qui créera automatiquement  une "mention marginale" à l'acte de mariage qui se trouve dans la BAEC.
+L'OEC (c'est à dire, vous) ne doit plus intervenir.
+Vous recevez juste une notification texte dans les notifications de la BAEC. Vérifiez bien que le code 120 au RN soit enrichi.
+Quel bonheur par rapport à l'ancien système.
+Ceci étant, à chaque règle ses exceptions.
+L'OEC doit encore intervenir dans le cas où :
+1. Il s'agit d'une reconnaissance d'une décision de divorce étrangère. Vérifier toujours la véracité de l'acte (voir le module : Intégrer un acte étranger).
+2. Il s'agit d'un divorce prononcé en Belgique, le mariage a été célébré à l'étranger et l'acte ne se trouve pas dans la BAEC.
+Vous pouvez donc les intégrer sans qu'ils soient reliés à l'acte original.
+       2. Vérifications préliminaires
+Etes-vous l'OEC compétent  ?
+Si l'acte de mariage est dans la BAEC :
+      C'est le Greffe du tribunal qui intègre le divorce.
+Si l'acte de mariage n'est pas dans la BAEC :
+      C'est l'OEC du lieu d'inscription des époux qui intègre le divorce. A défaut d'inscription - Bruxelles.
+      Le jugement de divorce vous parviendra via les notifications de la BAEC.
+Si le divorce est prononcé à l'étranger :
+      C'est l'OEC du lieu d'inscription des époux qui intègre le divorce.
+       3. Mentions obligatoires
+- Le numéro d'acte de mariage
+- L'autorité qui a établi l'acte de mariage, la date et le lieu de l'évènement
+- Les noms et les prénoms des personnes divorcées
+- La date et le lieu de naissance des personnes divorcées
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+Il n’est évidemment pas question d’annuler le mariage. Ils devront
+entamer une procédure officielle de divorce
+Texte:
+4. Dresser l'acte de divorce
+Dans le programme SAPHIR proposé par CIVADIS.
+Cliquez sur "Créer" puis l'onglet "Général".
+Sous onglet "Acte".
+Type d'acte -Dans le menu déroulant sélectionnez "Divorce - BAEC".
+OK
+Texte:
+Toujours dans la même fenêtre - choisissez Signataire.
+Texte:
+Toujours dans l'onglet "Général"
+Sous onglet "BAEC" - Base d'établissement
+Type de décision : Jugement ou arrêt (suivant le cas présent)
+Catégorie de décision : Jugement/Arrêt de divorce
+Référence de la décision : numéro de rôle du jugement
+Autorité : Tapez les premières lettres et tab : le lieu s'affichera automatiquement
+Date du jugement = date du prononcé
+Date de force jugée = date définitive du jugement
+Date d'enregistrement = date du jour
+Texte:
+Dans l'onglet "Détail"
+Indiquez la référence BAEC du mariage. 
+Si le mariage a eu lieu à l'étranger ou s'il n'y a pas eu de transcription, il ne faut rien mettre.
+Si le mariage a eu lieu à l'étranger :
+    Date du mariage
+    Code commune (99999 et indiquer la localité)
+    Code pays
+Texte:
+Dans l'onglet "Signalétiques"
+Remplissez pour les deux conjoints les NN. Les données se remplissent automatiquement.
+Si la personne n'a pas de NN, cochez la case "Non résident" et complétez avec les données en votre possession.
+Si la personne n'a pas de date de naissance, mettez par exemple 01/01/1900 et cochez la case "cacher date de naissance".
+Texte:
+Dans la colonne de gauche.
+Cliquez droit sur "Documents annexes" et ensuite sur "Créer".
+Texte:
+Titre = Base d'établissement
+Document - Créer - Allez rechercher cotre scan - Ouvrir
+BAEC : Document lié à l'acte original à transmettre à la BAEC
+Type de document - En fonction du cas présent
+Langue du document - En fonction du cas présent
+Pays d'origine - En fonction du cas présent
+Validez avec la flèche verte (au-dessus)
+Intégration - Brouillon (pour relecture) - A signer avec votre code PIN
+Vérifiez que le RN a bien été mis à jour
+Texte:
+Mise en situation
+Question:
+Quelle réponse devez-vous donner dans cette situation ?
+Feedback:
+La signification du divorce ne pet être déposée au guichet pour un
+éventuel changement d’état civil dans la BAEC. L’intégration du divorce sera
+effectuée par le Greffe. Rétablir l’état de célibataire n’est pas encore
+d’actualité. Seul « divorcé » peut être encodé au Registre national
+Texte:
+Un peu d'humour ...
+C'est l'histoire d'un vieux couple marié depuis 47 ans.
+Ils vivent paisiblement dans le sud de la France.
+L'homme appelle son fils qui vit à Bruxelles et lui dit :
+     "Je suis désolé de te gâcher ta journée, mais je dois te dire que ta mère et moi allons divorcer. Je suis à bout."
+Le fils : 
+     "Mais qu'est-ce que tu racontes."
+Le père :
+     "Nous ne pouvons plus rester ensemble plus longtemps, nous en avons marre l'un de l'autre et je ne veux pas en discuter davantage. Je suis a bout, alors appelle ta sœur et annonce-lui la nouvelle."
+Et le vieil homme raccroche.
+Le fils appelle sa sœur qui, elle, vit à Arlon. Celle-ci explose au téléphone:
+     "Ce n'est pas possible qu'ils divorcent comme ça, je vais m'en occuper."
+La fille appelle son père immédiatement en hurlant dans le téléphone :
+     "Vous n'allez pas divorcer. Attendez que nous arrivions. J'appelle mon frère et nous serons là tous les deux demain chez     vous. Jusque-là ne faites rien. Ne bougez pas. TU M'AS COMPRISE ??!!" et la fille raccroche.
+Le vieil homme raccroche à son tour, se tourne vers sa femme en souriant et lui dit : 
+     "C'est OK, ils seront là tous les deux demain pour ton anniversaire et c'est eux qui paient le voyage."

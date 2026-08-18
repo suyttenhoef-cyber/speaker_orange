@@ -1,0 +1,367 @@
+Généralités
+Nom:
+Généralités
+Description:
+Vous trouverez des éléments théoriques ainsi qu'un état des lieux et des pratiques de l'agent sur les responsabilités de l'officier de l'état civil
+Titre, page:
+Introduction
+Titre, page:
+La mission de l'officier de l'état civil
+Texte, instruction:
+Texte:
+A quoi sert un officier de l'état civil ? Quel est son rôle ?
+Dans chaque commune, les officiers de l'état civil sont des autorités
+administratives chargées de dresser les actes concernant l’état des personnes.
+Autrement dit, l'officier de l'état civil est responsable de l'établissement des actes d'état civil, de leur conservation voire de leur rectification.
+Texte:
+Qu'est-ce qu'un acte de l'état civil ?
+Les actes de l'état civil sont des actes authentiques (Article 14 du Code civil).
+Ils font preuve de l'état de la personne (Article 23 du Code civil). 
+Les actes de l'état civil sont établis sous forme dématérialisée dans la
+BAEC. 
+On peut citer : 
+L'acte de naissance
+L'acte de reconnaissance 
+L'acte de déclaration de choix de nom 
+L'acte de modification de l'enregistrement du sexe 
+L'acte de mariage
+L'acte de décès
+L'acte d'absence 
+L'acte de changement de prénom 
+L'acte de changement de nom 
+L'acte de divorce 
+L'acte d'adoption 
+L'acte de nationalité belge 
+L'acte établi sur la base d'un acte étranger ou d'une décision étrangère (...).
+Texte:
+L'officier de l'état civil dresse-t-il les actes d'état civil comme il le souhaite ?
+Afin d’assurer le bon fonctionnement des services de l’état civil, le
+législateur a mis en place un ensemble de règles pour chaque matière. 
+Ces
+règles viennent encadrer la mission de l’officier de l’état civil en limitant ou en lui offrant un certain rôle actif dans l’établissement des
+actes d’état civil. 
+Exemples de règles encadrant la mission de l'officier de l'état civil : 
+Selon l'article 16 du Code civil, "l'officier de l'état civil ne mentionne
+rien d'autre dans les actes qu'il dresse que ce qui doit lui être déclaré par
+les parties et ce qui lui est imposé par la loi".
+Selon l'article 167 du Code civil, dans la confection d’un acte de mariage, le
+législateur offre la possibilité à l’officier de l'état civil de refuser de
+célébrer les mariages s’il juge qu’il n'est pas satisfait aux qualités et
+conditions prescrites pour contracter mariage ou s'il est d'avis que la
+célébration est contraire aux principes de l'ordre public.
+Texte:
+L'officier de l'état civil est responsable :
+En acceptant sa fonction, l’officier de l’état civil s'engage à : 
+Veiller à respecter toutes les dispositions relatives aux actes de l’état civil.
+Appliquer strictement l’ensemble de ces règles qui s’imposent.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Article 105 de la Constitution selon lequel les pouvoirs de l’officier de l’état civil sont attribués et limités par la loi.
+Titre, barre d’accordéon:
+Article 7 du Code civil qui impose à l’officier de l’état civil de veiller scrupuleusement à toutes les dispositions relatives aux actes de l’état civil.
+Question:
+L'officier de l'état civil de ma commune doit dresser l'acte de naissance d'un nouveau né. 
+La grand-mère maternelle de cet enfant est une célébrité et souhaite que son nom soit inscrit à l'acte. 
+Mon officier de l'état civil est-il libre de faire comme il l’entend dans l’établissement
+de cet acte pour satisfaire cette demande ?
+Option de réponse:
+Non, cette demande n'est pas recevable.
+Option de réponse:
+Oui, l’officier de l'état civil est maitre en matière d’établissement des actes de l’état civil.
+Feedback si réponse incorrecte:
+Cette réponse n'est pas correcte. Si l'officier de l'état civil a pour mission d'établir des actes de l'état civil, sa mission est encadrée par la loi, limitant dans certaines situations sa marge de manœuvre.
+Tel est notamment le cas en matière d'acte de naissance puisque l'article 44 du Code civil précise expressément le contenu de l'acte. 
+Les noms des grands parents ne figurent pas dans la liste, de sorte qu'il n'est pas possible pour l'officier de l'état civil de les ajouter à l'acte de naissance ainsi dressé.
+Feedback si réponse correcte:
+En effet, la loi encadre la mission de l’officier de l’état civil et prévoit expressément le contenu de l'acte de naissance au sein de l'article 44 du Code civil. 
+Les noms des grands parents ne figurent pas dans la liste, de sorte qu'il n'est pas possible pour l'officier de l'état civil de les ajouter à l'acte de naissance ainsi dressé.
+Titre, page:
+La responsabilité de l'officier de l'état civil
+Texte, instruction:
+Texte:
+Que se passe-t-il si l'officier de l'état civil ne respecte pas les règles en matière d'état civil ?
+Puisque la loi encadre les pouvoirs de l'officier de l'état civil, il en découle la
+possibilité de commettre :
+Une
+faute  
+Des erreurs
+Texte:
+La responsabilité
+pour faute :
+La responsabilité de
+l’officier de l’état civil peut être engagée à plusieurs niveaux:
+1. Le volet pénal
+L'officier de l'état civil commet une faute pénale lorsqu'il enfreint des règles qui sont sanctionnées d'une peine. 
+Une infraction pénale
+peut déboucher sur le paiement d’amende pénale, voire d’incarcération. 
+L’action est intentée devant le juge pénal.
+Exemples :
+Article 263 du Code pénal : « sera
+puni d'une amende de vingt-six euros à trois cents euros, l'officier d'état
+civil qui aura contrevenu à l'une des dispositions du titre 2 du livre Ier du
+Code civil ».
+Article 265 du Code pénal : « sera
+puni d'une amende de vingt-six à cinq cents euros , l'officier d'état
+civil qui aura procédé à la célébration d'un mariage sans s'être assuré des
+consentements requis ».
+2. Le volet civil
+L'officier de l'état civil
+commet une faute civile lorsqu’il déroge à une norme légale ou
+lorsqu’il commet une erreur de conduite, ce qui signifie qu'il n'adopte pas le
+comportement attendu d’un officier de l'état civil normalement prudent et
+diligent. 
+S’il y a faute
+civile, la responsabilité de l’officier de l’état civil peut être engagée, le
+contraignant à réparer le dommage causé à autrui par sa faute.
+L’action en
+réparation est intentée devant le juge civil.
+Dans le cadre de cet article, nous mettrons davantage le focus sur la
+responsabilité civile de l’officier de l’état civil.
+Texte:
+La rectification d'erreurs :
+L'officier de l'état civil commet une erreur lorsqu’il enregistre dans l’établissement ou la modification d’un acte une donnée qui ne
+correspond pas entièrement à la mention de cette donnée sur les actes
+authentiques ou les attestations officielles dont il était en possession à ce
+moment-là. 
+Lorsqu’il commet une erreur matérielle, le législateur permet à l’officier
+d’état civil de la rectifier. 
+Le législateur permet également à l’officier
+d’état civil d’annuler ses actes dans certains cas, sous certaines
+conditions.
+Légende, image (150 caractères maximum):
+Responsabilité de l'OEC
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Articles 1382 du Code civil et suivants couvrant la matière de la responsabilité civile.
+Titre, barre d’accordéon:
+Articles 144 et 145 de la Constitution selon lesquels les tribunaux de l’ordre judiciaire sont exclusivement compétents pour trancher des contestations dont l’objet est un droit subjectif.
+Titre, barre d’accordéon:
+Article 34 du Code civil pour la rectification des actes et l’article 34/1 pour l’annulation des actes.
+Question:
+Stéphanie est malheureusement décédée. L'officier de l'état civil dresse son acte de décès.
+Dans l'acte de décès il écrit " Stéphane" au lieu
+de "Stéphanie".
+Option de réponse:
+Sa responsabilité pénale est engagée.
+Option de réponse:
+Il peut rectifier l'acte d'état civil qui comporte manifestement une erreur.
+Feedback si réponse incorrecte:
+Non, il s'agit manifestement d'une erreur matérielle. 
+En effet, selon l'article 34 du Code civil, on entend par
+"erreur matérielle":
+1° une faute d'orthographe ou une faute de frappe dans les
+noms et prénoms, ou la confusion des deux ;
+2° une faute d'orthographe ou une faute de frappe dans la
+date, le lieu ou l'heure du fait juridique ou de l'acte juridique établi par
+l'acte ;
+3° la confusion de personnes mentionnées dans l'acte ;
+4° l'absence de prénoms ou de parties du nom d'une personne
+dans un acte de l'état civil autre que l'acte de naissance de l'intéressé,
+alors que ces prénoms ou parties du nom figurent bel et bien dans son acte de
+naissance ;
+5° la mention de signes diacritiques erronés ;
+Feedback si réponse correcte:
+Oui, il s'agit manifestement d'une erreur matérielle. 
+En effet, selon l'article 34 du Code civil, on entend par
+"erreur matérielle":
+1° une faute d'orthographe ou une faute de frappe dans les
+noms et prénoms, ou la confusion des deux ;
+2° une faute d'orthographe ou une faute de frappe dans la
+date, le lieu ou l'heure du fait juridique ou de l'acte juridique établi par
+l'acte ;
+3° la confusion de personnes mentionnées dans l'acte ;
+4° l'absence de prénoms ou de parties du nom d'une personne
+dans un acte de l'état civil autre que l'acte de naissance de l'intéressé,
+alors que ces prénoms ou parties du nom figurent bel et bien dans son acte de
+naissance ;
+5° la mention de signes diacritiques erronés ;
+Question:
+L'officier de l'état civil refuse d'établir l'acte de reconnaissance de la petite Maïté. 
+Selon lui, l'intention de l'auteur de la reconnaissance vise manifestement uniquement l'obtention d'un avantage en matière de séjour (article 330/1 du Code civil). 
+Il rédige un refus dûment motivé. 
+Le demandeur est mécontent. Il souhaite agir.
+Option de réponse:
+Vous lui conseillez de solliciter une rectification de cet acte, il doit s'agir d'une erreur !
+Option de réponse:
+Vous lui conseillez de saisir le juge pénal, cet officier d'état civil devrait payer une amende pour sa faute !
+Option de réponse:
+Vous lui conseillez de saisir le juge civil puisque son refus cause manifestement un dommage à l'auteur de la reconnaissance.
+Feedback si réponse incorrecte:
+Non, il est ici question de responsabilité civile. 
+D'ailleurs, le législateur prévoit expressément que le refus de l'officier de l'état civil d'établir l'acte de reconnaissance est susceptible de recours par la personne qui veut reconnaître l'enfant pendant un délai d'un mois suivant la notification de sa décision, devant le tribunal de la famille (Article 330/2 du Code civil).
+Feedback si réponse correcte:
+En effet, le juge civil est compétent (tribunal de la famille).
+D'ailleurs, le législateur prévoit expressément que le refus
+de l'officier de l'état civil d'établir l'acte de reconnaissance est
+susceptible de recours par la personne qui veut reconnaître l'enfant pendant un
+délai d'un mois suivant la notification de sa décision, devant le tribunal de
+la famille (Article 330/2 du Code civil).
+Titre, page:
+La mission de l'agent administratif
+Texte, instruction:
+Texte:
+Pourtant, dans ma commune, ce sont les agents communaux qui traitent eux-mêmes les dossiers … Comment cela se fait-il ? 
+Effectivement, l’article 9 du Code civil prévoit que l’officier de l’état civil peut octroyer une autorisation spéciale écrite à un ou plusieurs agents de l’administration communale pour toutes les tâches relatives à l’établissement d’actes de l’état civil.
+Dans la majorité des cas, ceci est effectivement réalisé pour des questions pratiques. 
+Concrètement, c'est donc les agents administratifs qui dressent les actes d'état civil des citoyens qui se présentent à eux.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Article 9 du Code civil qui offre à l’officier de l’état civil la possibilité d’octroyer une autorisation spéciale.
+Titre, barre d’accordéon:
+Article 18 du Code civil selon lequel l’officier de l’état civil signe les actes.
+Titre, page:
+Les immunités de l'agent administratif
+Texte, instruction:
+Légende, image (150 caractères maximum):
+Double immunité
+Texte:
+Puisque c’est l’agent administratif qui établit les actes (sauf
+exceptions) c’est finalement celui-ci qui sera amené, dans l'exercice de ses
+fonctions, à commettre fautes et erreurs. 
+Dès lors, sa responsabilité est-elle engagée ?
+L'agent administratif bénéfice d'une immunité double.
+Texte:
+1.  Première immunité 
+Comme nous l’avons vu, l’officier de l’état civil autorise les agents administratifs à établir des actes conformément à la loi. 
+Mais autorisation ne signifie pas délégation de pouvoirs. 
+L’officier de l’état civil garde la responsabilité du bon établissement des actes.
+Texte:
+2. Deuxième immunité 
+En matière du droit du travail, la loi prévoit que lorsqu’un travailleur
+commet un dommage dans l’exécution de son contrat, l’employeur répondra de
+sa faute légère occasionnelle. 
+Ainsi, si un agent exerce une faute qualifiée de légère (une faute à
+laquelle une personne normalement attentive reste exposée) et occasionnelle,
+c’est la commune qui engagera sa responsabilité.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Article 18 de la loi du 3 juillet 1978 relative aux contrats de travail (LCT)
+Titre, barre d’accordéon:
+Article 5 de la loi du 10 février 2003 relative à la responsabilité des et pour les membres du personnel au service des personnes publiques
+Titre, barre d’accordéon:
+Article 1384 du Code civil
+Titre, page:
+La responsabilité de l'agent administratif
+Texte, introduction:
+L’agent administratif est-il ainsi toujours protégé? 
+Dans cette partie, nous allons voir que la double immunité que possède l'agent administratif n'est pas absolue et contient des limites. 
+En effet, la responsabilité de l'agent administratif peut être engagée dans certains cas. 
+Que se passe-t-il pour l’agent communal s’il est démontré que celui-ci a failli dans l’exercice de ses missions ?
+Autrement dit, que risque l’agent lorsque les immunités prévues par la loi ne sont pas d’application ?
+La responsabilité civile de l’agent administratif
+Les poursuites disciplinaires
+Les poursuites pénales 
+...
+Texte:
+La responsabilité civile 
+La responsabilité civile du travailleur peut être engagée en
+cas de dol et de faute lourde ou de faute légère que si celle-ci présente dans
+son chef un caractère habituel plutôt qu’accidentel.
+Dol : il s’agit d’une
+faute intentionnelle qui suppose toujours la volonté de nuire ;
+Faute lourde : il s’agit d’une
+faute à ce point grossière et excessive qu'elle est inexcusable dans le
+chef de celui qui la commet ;
+Faute légère à caractère
+habituel :
+il s’agit d’une faute légère à laquelle une personne normalement attentive
+reste exposée mais qui présente un caractère répétitif. 
+Dans ces cas, une
+action en dommages et intérêts peut être intentée à l’encontre de l’agent
+administratif en vue d’obtenir une indemnisation pour les dommages causés à l’employeur
+ou a des tiers dans l’exécution de son contrat. 
+Cette procédure à lieu devant le
+juge civil.
+Il peut s’agir d’une action principale
+intentée à l’encontre du travailleur ou prendre la forme d’une action récursoire.
+L’action récursoire est une
+action par laquelle une personne contre laquelle l’action principale est
+introduite y fait intervenir un tiers pour qu’il réponde également des condamnations.
+Autrement dit, si votre employeur
+ou officier de l'état civil est cité en justice mais qu’il devait s’avérer que
+c’est la responsabilité du membre du personnel qui est actionnée, cet agent
+pourra être appelé à la cause pour répondre des condamnations.
+Texte:
+La procédure disciplinaire 
+En travaillant dans la fonction
+publique, tout un chacun a déjà entendu parler du « droit
+disciplinaire ».
+Mais de quoi s’agit-il
+exactement ? 
+Le droit disciplinaire vise à
+poursuivre un agent qui a manqué aux devoirs professionnels ou a agi de manière
+à compromettre la dignité de la fonction. 
+Si les griefs reprochés sont
+démontrés à suffisance, une sanction disciplinaire pourra être infligée à
+l’agent à l’issue d’une procédure disciplinaire. Lors de cette procédure un
+dossier sera constitué et l’agent devra être entendu. 
+Les sanctions disciplinaires
+visées par la nouvelle loi communale sont les suivantes : 
+Avertissement ;
+Réprimande (sanctions mineures) ;
+Retenue de traitement ;
+Suspension ;
+Rétrogradation (sanctions majeures) ;
+La démission d’office ;
+La révocation
+(sanctions maximales). 
+Le droit disciplinaire s’applique
+aux agents statutaires et peut également s’appliquer aux agents contractuels
+puisque la loi sur le contrat de travail impose des obligations similaires.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Articles 282 et suivants de la nouvelle loi communale (24/06/1988)
+Titre, barre d’accordéon:
+Article 17 de la loi sur les contrats de travail qui impose au travailler d’exécuter son travail avec soin, probité et conscience
+Texte:
+Les poursuites pénales 
+Il peut arriver que les faits reprochés
+à l’agent communal soient constitutifs d’une ou de plusieurs infractions
+pénales. 
+Ceci n’empêche pas que l’autorité
+disciplinaire intente une action disciplinaire de son côté, pour les mêmes
+faits reprochés.
+Titre, page:
+Impacts de la loi réparatrice de la BAEC sur la responsabilité de l'officier de l'état civil
+Texte:
+Une nouvelle loi dite « réparatrice de
+la BAEC » entre en vigueur le 01/01/2024. 
+Cette loi vise à rendre la législation relative à l’état
+civil plus cohérente et adaptée à la pratique.
+Certaines modifications portent sur la matière de
+la responsabilité de l’officier de l’état civil et notamment :
+La nouvelle version de l’article 38 du
+Code civil prévoit que la responsabilité de l’officier de l’état civil ne
+s’applique que dans le cadre de sa fonction. Cette responsabilité s’étend
+uniquement jusqu’à la gestion des actes de l’état civil et non de la
+gestion même de la BAEC ;
+La nouvelle version de l’article 9 du
+Code civil prévoit que, lorsque l’officier de l’état civil autorise les
+agents à établir les actes d’état civil, l’autorisation doit dorénavant
+être mentionnée avant la signature de l’agent de l’administration
+communale à qui l’autorisation est accordée.
+Titre, accordéon:
+Pour aller plus loin :
+Titre, barre d’accordéon:
+Loi réparatrice de la BAEC : la responsabilité de l’OEC
+Titre, barre d’accordéon:
+Loi réparatrice de la BAEC : la délégation de signature
+Titre, page:
+Cas pratiques
+Texte:
+Nous vous proposons de vérifier et d'approfondir vos connaissances en matière de responsabilité de l'agent administratif par le biais de certains cas pratiques.
+Ceux-ci toucheront aux matières suivantes: 
+Filiation
+Mariages
+Cohabitations légales 
+Décès 
+Nationalité
+Actes étrangers 
+Population
+Gestion des guichets
+Contacts avec l'officier de l'état civil

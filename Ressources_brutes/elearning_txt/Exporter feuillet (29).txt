@@ -1,0 +1,39 @@
+Les grands principes
+Nom:
+Les grands principes
+Description:
+Les grands principes du regroupement familial
+Titre, page:
+Les grands principes du regroupement familial
+Question:
+Avant de commencer, testons vos connaissances...
+A votre avis, quel est l'élément principal qui détermine l'article de loi qui sera utilisé pour faire une demande de regroupement familial
+Feedback:
+L'élément principal sera la nationalité et le statut de la personne qui est rejointe en Belgique
+Texte:
+Avez-vous tout compris?
+Question:
+Une ressortissante congolaise de 52 ans  été déboutée de sa demande d'asile, et aucune nouvelle procédure n'est en cours.
+Une demande de regroupement familial peut être directement introduite à la commune  dans le cas où :
+Option de réponse:
+elle rejoint son époux belge
+Option de réponse:
+elle rejoint son cousin français
+Option de réponse:
+elle rejoint son époux canadien qui a une carte A en tant que travailleur
+Option de réponse:
+elle rejoint sa fille belge de 25 ans
+Feedback si réponse incorrecte:
+Lorsque la personne n'est pas en séjour légale, la demande sur base de l'article 10 et 10 bis ne peut pas être introduite à la commune. 
+L'article 40 ter ne concerne pas les ascendants qui voudraient rejoindre leur enfant majeur belge.
+Feedback si réponse correcte:
+Oui, même si la personne n'est plus en séjour légal, la demande peut être introduite dans ces cas là.
+Titre, accordéon:
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+Les références légales
+Titre, barre d’accordéon:
+La procédure
+Titre, téléchargement:
+La procédure

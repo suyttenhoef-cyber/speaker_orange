@@ -1,0 +1,2433 @@
+Les types d'information (TI)
+Nom:
+Les types d'information (TI)
+Description:
+Dans ce module, nous allons nous consacrer à l'analyse du registre national et plus particulièrement les différents TI existants :
+TI en lien avec l'adresse ; 
+TI en lien avec l'identité de la personne ; 
+TI en lien avec l'état civil ; 
+TI en lien avec l'étranger ; 
+TI en lien avec les documents et le travail ;
+TI en lien avec les élections et autres catégories ;
+Titre, page:
+Les TI en rapport avec l'adresse
+Question:
+Testez votre intuition
+Quels sont les TI en lien avec l'adresse?
+Feedback:
+Les TI en lien avec l'adresse sont les suivants: 
+TI 001 ;
+TI 003 ;
+TI 005 ; 
+TI 007 ; 
+TI 019 ;
+TI 020 ; 
+TI 021 ; 
+TI 024 ; 
+TI 026 ;
+TI 027 ; 
+TI 028 ; 
+TI 140 ; 
+TI 252.
+Texte:
+TI 001 – Commune (COM)
+ 
+⇨ Sous ce TI figurent :
+La commune de résidence (code INS ‘’commune’’) 
+Le pays du poste diplomatique ou consulaire qui gère le dossier de la personne concernée qui s’est officiellement établie à l’étranger (code INS ‘’pays’’)
+La mention ‘’rayé pour l’étranger’’ tant que la personne concernée n’est pas inscrite aux registres consulaires à l’étranger (code INS 992 – lieu : étranger)
+Des codes spéciaux sont également prévus au TI 001 pour les situations principales suivantes :
+99990 Décédé
+99991 Rayé d’office
+99994 Dossier annulé
+99997 Radiation – perte de droit au séjour
+99998 Radiation – pas droit d’inscription
+99996 Déclaré absent
+99992 Radiation d’office à l’étranger
+99995 Dispensé d’inscription
+99993 Suppression – Fin de fonctions
+⇨ Cette information est enregistrée sur base :
+ d’une déclaration de changement d’adresse, 
+d’une déclaration de départ pour l’étranger, 
+d’une déclaration de décès auprès de l’Officier de l’Etat civil, 
+d’une décision de l’Autorité compétente dans le cadre notamment d’une radiation d’office ou d’une radiation pour séjour illégal
+suite à la recollecte d’un dossier : l’ancien dossier est d’office annulé.
+⇨ L’information est adaptée après que la personne ait signé pour accord sa déclaration de changement d’adresse ou de départ pour l’étranger, après que l’Officier de l’Etat civil ait acté le décès, après que la décision ait été prise par l’autorité compétente ou après que le dossier ait été entièrement recollecté.
+⇨ Elle s’adapte de la manière suivante :
+Structure d’une mise à jour : 10 – 001 – 0 – date ( xx-xx-xxxx) – code INS
+A noter que seuls les codes opérations 10, 11 et 12 sont autorisés pour les communes. L’annulation quant à elle est effectuée par les services du Registre National et celle-ci n’est possible que s’il y a au moins deux TI 001 dans le dossier.
+La mise à jour effectuée par la commune de gestion entraîne automatiquement la suppression automatique des :
+TI 003 (décisions en matière de résidence), 
+240 (numéro de registre et de folio), 
+246 (information communale), 
+008 (droit au retour), 
+028 (inscription provisoire), 
+252 (adresse non communicable), 
+022 (résidence à l’étranger)
+023 (adresse à l’étranger).
+Texte:
+TI 003 – Détermination de résidence – (RES)
+⇨ Cette information mentionne les différentes décisions relatives à la détermination de la résidence.
+Pour les personnes inscrites au registre d’attente, l’information 003 reprend la date de l’enquête de la commune relative à la réalité de la résidence et le résultat positif ou négatif de ladite enquête.
+⇨ Le Ti 003 s’enregistre sur base d’une décision :
+Du Ministre de l’Intérieur ou de son délégué
+Du Collège communal
+De l’Office des Étrangers
+Du Conseil d’Etat ou d’une autre juridiction
+⇨ L’information 003 s’adapte seulement et uniquement lorsque que la décision a été prise par l’autorité compétente.
+⇨ Elle s’adapte de la manière suivante :
+Structure d’une mise à jour : 10 – 003 – 0 – date ( xx-xx-xxxx) – libellé mentionnant l’autorité compétente
+Ce TI est automatiquement supprimé (donc conservé en historique) lorsqu’un nouveau TI 001 est enregistré et il est possible de le corriger en cas d’erreur constatée lors de l’encodage au moyen du code opération 11.
+Sa date doit impérativement correspondre à la date du TI 001 ayant fait l’objet de la décision.
+Texte:
+TI 007 – Présence temporaire (P.T)
+⇨ Cette information vise à enregistrer la présence temporaire en Belgique d’une personne de nationalité étrangère pour raison d’études.
+⇨ Le Ti 007 s’enregistre sur base de la déclaration d’arrivée de l’étudiant.
+⇨ L’information 007 s’adapte après qu’il ait été établi que l’étudiant réside bien dans la commune de déclaration d’arrivée.
+⇨ Elle s’adapte de la manière suivante :
+Sans date d’échéance : 10 – 007 – 0 – date ( xx-xx-xxxx) – code info
+Avec date d’échéance : 10 – 007 – 0 – date ( xx-xx-xxxx) – code info – date d’échéance
+Il va de soi que la date d’échéance doit être postérieure à la date de l’information.
+Les codes info sont :
+03 – étudiants étrangers (art. 58 et 61 – Loi du 15.12.1980)
+04 – membre de famille (03)
+05 – étudiants au séjour limité (art. 9 et 13 – Loi du 15.12.1980)
+06 – membre de famille (05)
+07 – étudiants UE (art. 50 de l’A.R. du 08.10.1981)
+08 – membre de famille (07)
+A noter qu'en application d’une nouvelle réglementation relative à l’inscription des citoyens de l’U.E. (01.08.2008), la déclaration d’inscription de l’étudiant de l’U.E. ne mentionne plus de date d’échéance. Une nouvelle structure sans date d’échéance a par conséquent été créée pour les codes 07 et 08.
+L’information 007 peut être annulée au moyen du code opération 13.
+L’information est toutefois conservée en historique.
+Texte:
+TI 005 – Demande d’inscription (DDI)
+⇨ Cette information vise à enregistrer la déclaration de demande d’inscription selon laquelle une personne exprime l’intention de s’établir dans une nouvelle commune et reprend le code INS de ladite commune.
+Cet enregistrement est effectué par la nouvelle commune où la déclaration est faite, c’est-à-dire la commune d’arrivée. La commune de gestion sait alors qu’un de ses habitants a exprimé sa volonté de s’établir dans cette autre commune.
+⇨ Le Ti 005 s’enregistre sur base de la déclaration de changement d’adresse (arrivée dans nouvelle commune) de la personne concernée.
+⇨ L’information 005 s’adapte immédiatement à la signature de la déclaration de changement d’adresse.
+⇨ Elle s’adapte de la manière suivante : 10 – 005 – 0 – date ( xx-xx-xxxx) – code INS (de la nouvelle commune)
+Dès l’introduction du TI 005 par la commune d’arrivée, et seulement à ce moment-là, celle-ci doit également introduire le Ti 019 (information de l’adresse complète) (voir point n° 12).
+La date d’inscription dans la commune de résidence (TI 001) est en principe la date de la déclaration de changement d’adresse (TI 005) et le code INS de la commune qui effectue la transaction doit par conséquent être identique au code INS enregistré dans le TI 005.
+A l’inscription de la personne dans les registres de la commune d’arrivée, le TI 005 sera automatiquement supprimé au moyen d’une autogénération et conservé en historique.
+En cas de refus d’inscription, il sera manuellement annulé par la commune d’arrivée. L’annulation du TI 019 devra cependant être annulé au préalable.
+A noter que dès l’instant où l’information 005 est introduite dans le dossier de la personne concernée, la commune d’arrivée a également la possibilité de consulter le dossier au moyen des codes opérations 61, 75, 76, 78 et 79 (accès élargi aux informations).
+Texte:
+TI 019 – Déclaration de changement d’adresse (CHA)
+⇨ Le TI 019 renseigne une situation de résidence transitoire consécutive à :
+Une déclaration de changement d’adresse dans la commune même (mutation intérieure) ou dans une autre commune du Royaume (entrée), ou encore une déclaration par laquelle une personne venant de l’étranger signale son intention de fixer sa résidence principale dans la commune.
+La présentation imminente d’un dossier de radiation d’office au Collège communal
+⇨ Cette information s’enregistre sur base de la déclaration de la personne qui déclare transférer sa résidence au sein du Royaume ou sur base d’un dossier de radiation d’office.
+⇨ Le TI 019 s’adapte immédiatement à la date de signature de déclaration. Pour les dossiers de radiation d’office, cette information sera adaptée avant la séance du Collège communal prévue.
+⇨ L’information 019 s’adapte de la manière suivante :
+Pour les changements d’adresse : 10 – 019 – 0 – date de déclaration ( xx-xx-xxxx) – zone texte (nouvelle adresse) OU code postal/code rue/n° d’habitation/index
+Pour les dossiers de radiations d’office : 10 – 019 – 0 – date de mise à jour de l’info (Xx-XX-XXXX) – proposition de radiation d’office
+A noter que pour une entrée, le TI 019 accompagnera le TI 005 qui sera impérativement encodé en premier lieu. 
+Codes opérations autorisés (C.O.) : 10 et 13.
+Code service (C.S.) : 0
+L’information n’est pas conservée en historique.
+Texte:
+TI 020 – Adresse (ADR)
+⇨ Le TI 020 renseigne la résidence principale, c’est-à-dire, soit le lieu où vivent habituellement les membres d’un ménage unis ou non par un lien de parenté, soit le lieu où vit habituellement une personne isolée.
+Cette information reprend :
+La date de l’information qui est la date d’inscription à l’adresse
+Le code postal attribué par Bpost (en vue de l’indentification d’une commune ou d’une partie de celle-ci)
+La dénomination de la voirie où la résidence est fixée
+Le numéro d’habitation
+Eventuellement, le numéro d’index (numéro de boîte, numéro d’appartement ou numéro d’entrée dans l’immeuble).
+⇨ Cette information s’enregistre sur base :
+De la déclaration de la personne désireuse de transférer sa résidence principale au sein d’une même commune ou de fixer sa résidence principale dans une nouvelle commune du Royaume
+D’une décision du Collège communal (mutation intérieure d’office ou inscription d’office)
+⇨ Le TI 019 s’adapte à la réception du rapport d’enquête de l’agent assermenté (souvent la police de proximité) visant à vérifier la réalité de la résidence principale. Pour les dossiers de mutation intérieure d’office ou d’inscription d’office, cette information sera adaptée après décision du Collège communal.
+⇨ L’information 019 s’adapte de la manière suivante : 10 – 020 – 0 – date de l’information ( xx-xx-xxxx)(1) – code postal (xxxx) – code rue (xxxx)– n° d’habitation numérique (xxxx) – index alphanumérique (xxxx) (2)
+(1) La date de l’information est en principe celle de la déclaration de changement de résidence. Toutefois, s’il s’agit d’une décision du Collège communal, la date de l’information sera celle du rapport d’enquête établi par la police de proximité.
+(2) Dans un souci d’uniformisation, le Service Public Fédéral Intérieur recommande aux communes de respecter les règles suivantes pour l’attribution d’un index :
+1ère position : éventuellement une lettre majuscule afin de distinguer les différentes entrées d’un même immeuble, ou de créer un numéro pour une autre bâtiment (on évite ainsi une renumérotation de toute la rue)
+2ème et 3ème position : indication de l’étage (numérique uniquement)
+4ème position : numéro de l’unité de logement (numérique)
+Exemple 1 : Immeuble 61/A
+Au n° d’habitation : 0061
+Au n° d’index : A000
+Exemple 2 : Immeuble 61/A, 2ème étage, appartement n° 6
+Au n° d’habitation : 0061
+Au n° d’index : A026
+A noter que le programme du Registre national ajoute automatiquement la barre oblique séparant le numéro d’habitation du numéro d’index. Toutefois, dans le cadre de l’autonomie communale, il est possible que certaines communes aient adopté une autre méthode d’attribution uniforme des index (en principe par règlement et en tenant compte des Instructions générales du Registre national).
+Codes opérations autorisés (C.O.) : 10,11,13,17,20 et 23.
+Code service (C.S.) : 0, 2 et 3. Le code service 2 est utilisé lors d’une correction en historique.
+L’information n’est pas conservée en historique.
+Texte:
+TI 028 – Inscription provisoire (I.P)
+⇨ Le TI 028 renseigne une inscription provisoire.
+En effet, les personnes qui s’établissent dans un logement ne répondant pas aux normes de sécurité, de salubrité et d’urbanisme sont inscrites à l’adresse de ce logement, mais à titre provisoire, aussi longtemps que l’instance administrative ou judiciaire compétente n’a pas pris de décision visant à mettre fin à la situation irrégulière de l’habitation.
+Les délais de 3 mois et de 3 ans dont disposaient les communes pour entreprendre les démarches administratives et/ou judiciaires contre l’occupation ne répondant pas aux normes sont supprimés. L’inscription provisoire reste donc provisoire aussi longtemps que l’instance administrative ou judiciaire n’a pas pris de décision visant à mettre fin à l’irrégularité.
+Toutefois, ce délai illimité ne s’applique qu’aux inscriptions provisoires exécutées à partir du 1er janvier 2016 .
+⇨ Cette information s’enregistre sur base d’une procédure judiciaire ou administrative.
+⇨ Le TI 028 s’adapte :
+A la date à laquelle l’inscription provisoire a été effectuée suite à la demande d’inscription du citoyen
+A la date à laquelle la procédure judiciaire ou administrative a été entamée
+A la date à laquelle une décision judiciaire ou administrative est intervenue
+⇨ L’information 028 s’adapte de la manière suivante : 10 – 028 – 0 – date (xx-xx-xxxx) – code (1) – Date échéance (2) – Graphique(3)
+(1) Codes :
+01 – inscription provisoire (pour les inscriptions provisoires avant le 1er janvier 2016)
+02 – procédure judiciaire ou administrative
+03 – décision judiciaire ou administrative obligeant l’intéressé à quitter les lieux
+04 – décision judiciaire ou administrative autorisant l’intéressé à rester
+05 – inscription provisoire (pour les inscriptions provisoires à partir du 1er janvier 2016)
+(2) Date échéance :
+En cas d’inscription provisoire : date à laquelle une procédure judiciaire ou administrative doit être entamée (date échéance = ou inférieure à la date + 3 mois pour le code 01)
+En cas de procédure judiciaire ou administrative : date à laquelle une décision doit intervenir au plus tard (date échéance = ou inférieure à la date du code 01 + 3 ans)
+En cas de décision judiciaire ou administrative : date à laquelle la décision doit intervenir
+(3) Graphique : cette zone est à remplir pour les codes 3 et 4. Elle s’en réfère à la décision judiciaire ou administrative (zone de texte libre).
+Remarque : En cas d’introduction d’un nouveau TI 001 se situant à l’étranger, le TI 028 le plus récent sera automatiquement supprimé.
+Codes opération autorisés (C.O.) : 10 – 11 – 12 et 13
+L’information 028 est conservée en historique.
+Texte:
+TI 021 – Hébergement partagé (H.P)
+⇨ Lorsque des parents divorcent ou se séparent, dans un certain nombre de cas, les enfants résident partiellement, de façon égalitaire ou pas, chez l’un de leurs parents.
+L’enfant est dès lors inscrit à titre principal :
+Soit à l’adresse à laquelle il a sa résidence principale, à savoir le lieu où il réside la plupart du temps sur l’année (conformément à la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d’identité, aux cartes d’étranger et aux documents de séjour)
+Soit à l’adresse du parent chez qui il doit avoir sa résidence principale suite à une décision judiciaire
+Soit à l’adresse d’un des parents décidée de commun accord
+Le Ti 021 vise à enregistrer :
+Le fait que le mineur réside partiellement, de façon égalitaire ou pas, chez le parent hébergeur (c’est-à-dire le parent auprès duquel il n’est pas inscrit à titre principal)
+Le fait que le parent hébergeur accueille partiellement, de façon égalitaire ou pas, le mineur
+Cette information 021 sera mentionnée autant dans le dossier du parent hébergeur que dans celui du mineur.
+⇨ Cette information s’enregistre sur base d’une demande du parent hébergeur avec présentation des documents justificatifs.
+⇨ Le TI 021 s’adapte à la date de cette demande.
+⇨ L’information 021 s’adapte de la manière suivante : 10 – 021 – 0 – date de la demande (xx-xx-xxxx) – code rôle 02 (1) – numéro national (du mineur)
+Attention: L’information s’adapte dans le dossier du parent hébergeur et sera autogénérée dans le dossier du mineur. L’inverse n’est pas autorisé.
+(1) Les codes rôles sont :
+01 – Hébergé par la personne dont le numéro national est mentionné au TI 021
+02 – Parent hébergeur du mineur dont le numéro national est mentionné au TI 021
+Le code rôle 01 s’adaptera donc automatiquement dans le dossier de l’enfant (‘’hébergé par…’’).
+A noter qu'il est possible d’encoder dans la structure un numéro national fictif si l’enfant ne possède pas de numéro national. Ce numéro fictif reprendra alors la date de naissance en 6 chiffres dans l’ordre année – mois – jour, suivi de 999-00 s’il s’agit d’un garçon, et de 000-00 s’il s’agit d’une fille. Ce numéro fictif est suivi des codes nom et prénoms (maximum 10 codes).
+Remarques importantes :
+➢Le TI 021 ne constituant pas la résidence principale du mineur :
+Cette information ne sera pas mentionnée sur des certificats ni sur des documents d’identitéUn contrôle de résidence ne doit pas être effectué
+L’enfant ne sera pas inscrit dans la composition de ménage du parent hébergeur
+L’enregistrement du TI 021 ne doit pas être communiqué à l’autre parent
+➢La notion de ‘’parent hébergeur’’ ne concerne que les ascendants au premier degré (pas les grands-parents, famille d’accueil,…)
+Codes opérations autorisés (C.O.) : 10 – 12 – 13
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 027 – Domicile légal (D.L)
+⇨ Le TI 027 reprend le domicile légal le plus récent pour autant qu’il ne corresponde pas à la résidence principale enregistrée au TI 020.
+Il y a donc lieu de distinguer la résidence principale du domicile légal :
+La résidence principale est le lieu où vit habituellement une personne.
+Le domicile légal est une notion juridique qui marque une relation juridique entre une personne et un lieu. L’article 102 du Code civil le définit comme suit : ‘’Le domicile de tout belge, quant à l’exercice de ses droits civils, est au lieu où il a son principal établissement’’.
+Le domicile légal est un domicile imposé :
+Le juge ou le notaire ont leur domicile à l’endroit où ils exercent
+L’interdit est domicilié chez son tuteur
+Le mineur d’âge non émancipé est domicilié à la résidence de ses parents
+La notion de domicile rejoint par cet aspect celle de la résidence principale, tout en étant distincts l’un de l’autre.
+⇨ Cette information s’enregistre sur base d’un jugement, d’un document officiel,…
+⇨ Le TI 027 s’adapte à la date du jugement ou de tout autre document officiel statuant sur le domicile légal
+⇨ L’information 027 s’adapte de la manière suivante : 10 – 027 – 0 – date de confirmation du domicile légal (xx-xx-xxxx) – graphique (1)
+(1) maximum 40 caractères alphanumériques. Texte libre reproduisant le domicile légal.
+Remarque : Le Ti 027 n’établit aucun lien avec les autres TI, notamment avec le TI 020. En cas de changement de résidence principale, le TI 027 ne change pas automatiquement.
+Cette information doit être introduite par la commune de gestion.
+Code opération autorisé (C.O.) : 10 et 13. En cas de modification de l’information, il faut d’abord la supprimer (C.O. 13) et ensuite la réintroduire au moyen du C.O. 10.
+Code service (C.S.) : 0
+L’information 027 n’est pas conservée en historique.
+Texte:
+TI 024 – Adresse de référence (A.R)
+⇨ Le TI 024 indique que l’adresse reprise au TI 020 doit être considérée comme une adresse de référence. Il renseigne également la date à partir de laquelle cette adresse est une adresse de référence.
+L'adresse de référence (ou adresse administrative) est l’adresse précise dans une commune belge d’une personne physique inscrite dans les registres, mais ne disposant plus d’une habitation où elle peut recevoir son courrier.
+La possibilité d’octroi d’une inscription en adresse de référence est toutefois strictement limitée à une certaine catégorie de personnes :
+Les personnes séjournant en demeure mobile
+Les détenus qui ne remplissent plus les conditions pour une absence temporaire
+Les personnes ne disposant pas ou plus de résidence en raison d’un manque de ressources suffisantes.
+Les personnes qui, pour des raisons professionnelles, n’ont pas (plus) de résidence principale pour une durée maximale d’un an. Cette limitation ne s’applique toutefois pas aux cas suivants :
+Le personnel militaire et civil des Forces belges stationnées à l’étranger (ainsi que les membres de leur famille. 
+Les membres de la police fédérale en mission à l’étranger (ainsi que les membres de leur famille)
+Les agents fédéraux, régionaux et communaux exerçant une fonction dans une représentation diplomatique ou consulaire à l’étranger
+Les personnes envoyées en mission de coopération par des associations reconnues (ainsi que les membres de leur famille)
+Cette adresse de référence où une personne physique dépourvue de résidence fixe est inscrite peut-être celle :
+d’une autre personne physique ;
+d’une personne morale.
+Toutefois, s’il s’agit d’une inscription chez une personne morale, cette inscription est strictement limitée :
+aux populations nomades : à l’adresse une asbl, d’une fondation ou d’une société à finalité sociale et défendant les intérêts d’un ou plusieurs groupes de population nomades ;
+aux sans-abri à l’adresse du CPAS de la commune où ils sont habituellement présents ;
+aux détenus et aux personnes internées dans des établissements de défense sociale (depuis le 1er janvier 2016) à l’adresse du CPAS de leur dernière commune de gestion s’ils ne disposent plus d’un ménage ou d’un foyer.
+Remarques importantes :
+En cas de changement d’adresse de la personne fournissant l’adresse de référence, une nouvelle demande doit être introduite.
+Si l’adresse de référence est l’adresse d’une personne physique, une enquête de résidence devra parallèlement confirmer que la personne qui a sollicité l’adresse de référence n’y réside pas.
+⇨ Cette information s’enregistre sur base d’un accord écrit de la personne physique ou morale qui ‘’prête’’ son adresse.
+⇨ Le TI 024 s’adapte :
+A la date de la déclaration d’acceptation expresse s’il s’agit d’une inscription chez une personne physique
+A la date mentionnée sur l’attestation s’il s’agit d’une inscription chez une personne morale (le plus souvent, il s’agit des CPAS).
+⇨ L’information 024 s’adapte de la manière suivante : 10 – 024 – 0 – date de l’accord (xx-xx-xxxx)
+Etant donné qu’il existe un lien entre le TI 020 et le TI 024, il y a lieu de vérifier que la date du TI 024 est égale ou plus récente à celle du TI 020.
+Lors de l’introduction d’un nouveau TI 020, le TI 024 se supprime automatiquement (sauf si le TI 024 le plus récent est déjà supprimé).
+Code opération autorisé (C.O.) : 10
+L’information 024 est conservée en historique.
+Texte:
+TI 026 – Absence temporaire (ABS)
+⇨ Le TI 026 renseigne une absence temporaire, qui est définie comme le fait de ne pas résider de manière effective au lieu de sa résidence durant une période déterminée (minimum 3 mois et maximum 1 an).
+La personne considérée comme ‘’temporairement absente’’ devra néanmoins conserver une résidence principale et suffisamment d’intérêts lui permettant la réintégration de son domicile à tout moment durant l’absence.
+L’absence ne peut excéder 1 an mais peut toutefois être renouvelée une fois via une nouvelle déclaration de la personne ou du ménage concernés.
+Il est cependant possible de déroger au principe de la durée limitée à 2 ans pour les situations particulières suivantes :
+Personnes résidant sur le territoire belge dans des établissements hospitaliers, maisons de repos,… et ce à des fins de soins thérapeutiques et/ou médicaux
+Personnes détenues dans des centres pénitentiaires ou de défense sociale, mineurs placés dans un ‘’centre fermé’’,…
+Personnel militaire en mission à l’étranger (ainsi que les membres de leur famille)
+Membres du personnel de la police fédérale en mission à l’étranger (ainsi que les membres de leur famille)
+Agents détachés dans un poste diplomatique ou consulaire à l’étranger (ainsi que les membres de leur famille)
+Personnes en mission de coopération au développement à l’étranger (ainsi que les membres de leur famille)
+Personnes disparues depuis 6 mois au plus
+Personnes effectuant un travail ou une mission dans un cadre professionnel au sein du Royaume ou à l’étranger (ainsi que les membres de leur famille)
+Etudiants de plus de 16 ans encore financièrement à charge de leur famille
+⇨ Cette information s’enregistre sur base d’une déclaration écrite et motivée de la personne qui sollicite une absence temporaire (ou de la personne de référence si l’absence concerne un ménage). La déclaration sera accompagnée de pièces justifiant cette absence.
+⇨ Le TI 026 s’adapte à la date du début de l’absence temporaire.
+⇨ L’information 026 s’adapte de la manière suivante :
+Pour les communes unilingues : 10 – 026 – 0 – date de l’absence (xx-xx-xxxx) – code (1) – lieu A (max. 75 caractères) (2)
+Pour les communes bilingues :  10 – 026 – 0 – date de l’absence (xx-xx-xxxx) – code (1) – lieu A (max. 75 caractères) (2) – lieu B (max. 75 caractères) (2)
+(1) Codes :
+Code 10 : Absente temporaire
+Code 11 : Thérapie et/ou assistance médicale
+Code 12 : Détention
+Code 13 : Placé en institution (mineur)
+Code 14 : Mission à l’étranger – Défense
+Code 15 : Mission à l’étranger – Police
+Code 16 : Milice
+Code 17 : Mission à l’étranger – Fonctionnaire
+Code 18 : Mission à l’étranger – Coopération
+Code 19 : Disparition longue durée
+Code 20 : Mission professionnelle
+Code 21 : Etudes
+(2) Lieux :
+Lieu A : mention du lieu de l’absence en français
+Lieu B : mention du lieu de l’absence dans la seconde langue du pays. Les zones A et B sont séparées par un astérisque.
+Remarque : Les codes 01 (absence temporaire) et 02 (disparition longue durée) ne sont plus utilisables si la date information est supérieure à la date d’activation des nouveaux codes les remplaçant.
+Code opération autorisé (C.O.) : 10 – 11 – 12 – 13 et 20
+Code service (C.S.) : 0
+L’information 026 est conservée en historique.
+Texte:
+TI 252 – Adresse non communicable (ANC)
+⇨ Le TI 252 vise à enregistrer la date à partir de laquelle l’adresse (reprise au TI 020) devient non communicable à des tiers, ainsi que celle à laquelle elle redevient communicable.
+En effet, toute personne peut demander à l’administration communale de sa commune de résidence que son adresse ne soit pas communiquée à des tiers. La demande doit être écrite et motivée.
+C’est le Collège communal qui statue sur la demande et sa décision est notifiée par écrit au demandeur.
+L’agrément de la demande n’implique la non-communication de l’adresse que pour une période de six mois à compter de la date de la décision du Collège communal.
+Les instructions générales du 7 octobre 1992 (M.B. 15.10.1992) précisent d’ailleurs en leur point 115 qu’il convient d’avertir les demandeurs que la mention "adresse non communicable" dans les registres est sans effet lorsque le tiers qui sollicite l’adresse peut se prévaloir de l’application d’une disposition légale ou d’un titre exécutoire.
+⇨ Le TI 252 s’enregistre sur base de la décision du Collège communal qui a donné son agrément pour que l’adresse du citoyen demandeur soit non communicable.
+⇨ Le TI 252 s’enregistre dès que le Collège communal a marqué son accord sur la demande d’adresse non communicable.
+⇨ Le TI 252 s’enregistre de la manière suivante : 10 – 252 – 0 – date de mise à jour – date de début (1) – date d’expiration (2)
+(1) Date de début : date de la décision du Collège communal
+(2) Date d’expiration : date de la décision du Collège communal + 6 mois.
+Exemple : Le collège décide que l’adresse soit non communicable en sa séance du 18 avril 2019. La date du début sera le 18 avril 2019 et la date de fin sera le 18 octobre 2019.
+Remarque importante :
+Si un nouveau TI 001 ou 020 est introduit, il est automatiquement généré une annulation du TI 252.
+Le citoyen devra dès lors introduire une nouvelle demande d’adresse non communicable, s’il le souhaite.
+Codes opération autorisés (C.O.) : 10 et 13.
+Code service (C.S.) : 0
+Aucun historique n’est conservé dans ce type d’information.
+Texte:
+TI 140 – Composition de ménage (PRM) / TI 141 – Position dans le ménage (M.M)
+⇨ Le TI 140 renseigne la composition du ménage d’une personne. Le TI 141 renseigne quant à lui la position qu’occupe une personne dans un ménage.
+Un ménage est constitué, soit par une personne vivant habituellement seule, soit par deux ou plusieurs personnes qui, unies ou non par des liens de parenté, occupent habituellement un même logement et y vivent en commun.
+Le fait d’avoir une vie commune doit être considéré comme le critère décisif pour déterminer si des personnes constituent ou non un ménage. L’absence de vie commune se traduit par la constatation qu’une personne constitue un ménage isolé.
+Les membres d’une communauté religieuse, les personnes vivant en maison de repos, les militaires réunis dans une caserne et qui n’ont conservé ailleurs ni foyer ni ménage, constituent un seul et même ménage et sont quant à eux considérés comme personnes vivant en ‘’communauté’’.
+Une personne dispose d’un foyer lorsque personne d’autre n’est inscrit à l’adresse à laquelle l’intéressé est inscrit dans les registres. Il faut toutefois que l’intéressé y conserve des intérêts suffisants et puisse réintégrer le logement à tout moment (ex. : propriétaire ou locataire d’un logement non occupé).
+L’information ‘’composition de ménage’’ présente donc deux aspects :
+Le TI 140 – pour la personne de référence du ménage : elle reprend les différents membres du ménage et la position de chacun dans le ménage (conjoint – enfant – non apparenté – …)
+Le TI 141 – pour le membre du ménage : elle reprend la personne de référence du ménage et la position dans le ménage.
+Par personne de référence du ménage, on entend la personne qui est habituellement en contact avec l’administration pour les affaires concernant le ménage.
+La personne de référence du ménage peut toujours être modifiée, à condition que cette modification se fasse avec l’accord de la personne de référence du ménage précédente.
+A noter que la pratique visant à encore utiliser l’expression ‘’chef de ménage’’ dans les documents officiels destinés au public est à proscrire !
+Les personnes faisant partie d’un même ménage doivent avoir la même résidence (TI 020). Il en résulte que le numéro national de chaque membre de ménage est connu au moment de la reprise de cette information.
+⇨ Les informations 140-141 s’enregistrent sur base :
+D’une modification du TI 020 (adresse) et éventuellement du TI 001 (commune) et que l’entièreté du ménage ne fait pas l’objet de cette modification
+D’un changement dans la position du ménage (modification de la personne de référence, modification suite à un mariage ou à une cohabitation légale,…)
+Du décès de la personne de référence ou d’un membre – modification uniquement dans le dossier du ou des membre(s) vivant(s) ; la composition de ménage de la personne décédée doit rester en l’état
+Si des éléments de faits mentionnés dans une enquête de police visant à déterminer la résidence réelle ne correspondent pas à la déclaration de changement d’adresse de la personne de référence ( ex : la personne se déclare isolée alors qu’elle ne l’est en réalité pas).
+⇨ Les TI 140-141 s’adaptent :
+A la date de la déclaration de changement d’adresse
+A la date de déclaration en cas de modification de la personne de référence
+A la date du mariage ou de la déclaration de cohabitation légale
+A la date du décès
+A la date de l’enquête de police dans certains cas
+⇨ Les informations 140-141 s’adaptent de la manière suivante :
+Structure propre à la personne de référence du ménage : 10 – 140 – 0 – date de l’information – code position ménage (1) – NN du membre du ménage (2) – code position ménage – NN du membre du ménage – code position ménage (*) – NN du membre du ménage – …
+(1) Codes position ménage (ou la position qu’occupe le membre dans le ménage) :
+01 – isolé
+02 – époux
+03 – fils
+04 – gendre
+05 – petit-fils
+06 – père
+07 – beau-père
+08 – grand-père
+09 – frère
+10 – beau-frère
+11 – apparenté
+12 – non apparenté
+13 – beau-fils
+14 – arrière-petit-fils
+15 – oncle
+16 – neveu
+17 – cousin
+20 – communauté
+21 – partenaire
+22 – cohabitant légal
+23 – comaternité
+Si le titulaire du dossier est une femme, la position ménage est automatiquement mise au genre féminin (ex. : mère – sœur – bru – …)
+(2) le NN peut être un numéro fictif
+       2. Structure propre au membre du ménage : 10 – 141 – 0 – date de l’information – code position ménage (1) – NN de la personne de référence
+(1) Codes position ménage (ou la position qu’occupe le membre dans le ménage) : pareil. 
+       3. Mises à jour lorsque la personne de référence quitte seule un ménage (suite à un changement d’adresse) constitué d’au moins 3 personnes :
+Il faut d’abord isoler un des membres du ménage (qui deviendra la nouvelle personne de référence - ne jamais isoler la personne de référence !) et ensuite relier les autres membres restant à l’adresse à la nouvelle personne de référence du ménage. 
+Dans le dossier de la nouvelle personne de référence du ménage :10 – 140 – 0 – date de l’information – code 01. 
+Dans le dossier des autres membres restant à l’adresse : 10 – 141 – 0 – date de l’information – code position ménage (1) – NN de la nouvelle personne de référence
+(1) positionne le membre dans le ménage de la nouvelle personne de référence
+Il faut ensuite mettre à jour la composition de ménage de la personne qui a quitté le ménage s’il s’avère qu’elle n’est pas isolée à la nouvelle adresse.
+Si la personne qui a quitté le ménage a fixé sa résidence principale dans une nouvelle commune de gestion, il appartiendra alors à cette nouvelle commune de mettre à jour l’information 140-141 dans son dossier (l’ancienne commune n’étant plus commune de gestion).
+        4. Mises à jour lorsque la personne de référence quitte avec un ou plusieurs membres un ménage (suite à un changement d’adresse) :
+Il y a lieu d’adapter l’information ‘’composition de ménage’’ uniquement dans le dossier des membres restant à l’adresse (voir les 2 dernières structures ci-dessus)
+Mises à jour lorsqu’un (ou plusieurs) membre(s) du ménage a(ont) fixé sa(leur) résidence principale dans une autre commune de gestion :
+Le (les) membre(s) du ménage qui ne réside(nt) plus à l’adresse de la personne de référence doit(doivent) dès lors être supprimé(s) au moyen du code opération (C.O.) 12 :
+Dans le dossier de la personne de référence :
+12 – 140 – 0 – date de l’information – NN du membre à supprimer
+(opération à renouveler autant de fois qu’il n’y a de membres à supprimer)
+Remarques :
+Dans l’historique des TIs 140/141 d’un dossier, il est uniquement possible de corriger une position ménage au moyen du C.O. 11. La correction d’une date erronée requerra quant à elle l’intervention des services du Registre national (Délégations régionales).
+Chaque information 141 génère automatiquement une information chez la personne de référence du ménage.
+Il ne peut y avoir simultanément un TI 141 actif et un ou plusieurs TI 140 actifs dans un dossier.
+Codes opération autorisés (C.O.) : 10 – 11 et 12. Le code 13 est à proscrire !
+Code service (C.S.) : 0
+L’historique est conservé aux TI 140 et 141.
+Question:
+Avez-vous tout compris? 
+Un citoyen s'est fait expulser de son
+logement et la société de logement vous demande sa radiation d'office de
+l'adresse. 
+En vous renseignant sur l'intéressé, vous apprenez qu'il est
+"interné" en hôpital psychiatrique et qu'il ne pourra en sortir qu'à
+la seule condition de trouver un logement. S
+Où
+devez-vous l'inscrire? Une commune voisine vous conseille de le radier afin de le faire inscrire en
+adresse de référence au CPAS et une autre conseille que l'inscription se fasse au sein de l'institution psychiatrique comme
+pour un détenu.
+Feedback:
+Soit, la commune inscrit
+l’intéressé à l’adresse du Centre dans lequel il se trouve
+Soit, le CPAS territorialement
+compétent demande expressément à la commune une radiation d’office en vue
+d’une inscription en adresse de référence CPAS (sans-abri).  La
+personne sera alors inscrite en ‘’isolée’’ au TI 140.  Et un TI 026
+(absence temporaire avec mention de l’adresse de l’établissement
+psychiatrique) devra apparaître au RN.
+L’adresse de référence CPAS en tant que détenu (qui ne nécessite
+pas l’accord du CPAS ni une radiation d’office au préalable) n’est possible que
+si la personne est réellement détenue dans un établissement pénitentiaire ou
+dans un centre de défense sociale.  Elle sera alors inscrite en
+‘’communauté’’ au TI 141.
+Question:
+Une personne vous informe
+par mail le 16/12 de sa volonté de procéder à un changement d'adresse.   La procédure est introduite. L'agent de
+quartier confirme l'emménagement.  Nous passons donc un TI020 à la date du 16/12. 
+Cette dame revient vers
+nous et nous présente un contrat de bail à partir du 01/12.
+Elle nous demande donc de revoir la date d'inscription à cette même date. 
+Quelle date faut-il prendre en compte pour le changement d'adresse pour le TI020?
+Option de réponse:
+Le 16/12 puisque c'est la date où vous avez pris connaissance de la demande
+Option de réponse:
+Le 01/12 puisque c'est la date à laquelle la dame est en possession de son logement
+Feedback si réponse incorrecte:
+Faux!
+C’est toujours la date de la demande de changement d’adresse qui doit
+être prise en considération.
+Feedback si réponse correcte:
+Correct! 
+C’est toujours la date de la demande de changement d’adresse qui doit
+être prise en considération.
+Question:
+Où faut-il inscrire le mineur lorsque les parents
+sont séparés et qu’un régime de garde partagée est appliqué?
+Feedback:
+Dans le cas où les parents sont
+séparés, il est fréquent que soit le juge soit les parents eux-mêmes aient
+établi un régime selon lequel le mineur réside à part égale chez chacun des
+deux parents (50% du temps chez l’un et 50% du temps chez l’autre parent).
+Dans pareilles situations, le
+mineur doit en principe rester inscrit à l’adresse de la dernière inscription
+régulière (c’est-à-dire l’adresse à laquelle le mineur était inscrit avant que
+ne survienne le divorce entre les parents).
+Si le juge devait toutefois fixer
+chez quel parent le mineur doit être inscrit, l’adresse de la dernière
+inscription régulière ne doit pas être suivie et le mineur doit être inscrit à
+l’adresse qui a été fixée par le juge. Il en va de même si les parents devaient
+avoir fixé dans un acte notarial ou dans un accord homologué par le tribunal
+l’adresse à laquelle le mineur doit être inscrit.
+S’il n’est manifestement pas possible de régler
+l’inscription du mineur non-émancipé conformément aux modalités susmentionnées,
+l’inscription s’effectue à l’adresse de la résidence principale du parent qui
+perçoit les allocations familiales, en attendant que les cours et tribunaux se
+prononcent sur la question
+Question:
+Une personne
+résidant à l’étranger pour raisons professionnelles peut-elle avoir une adresse
+de référence en Belgique ?
+Option de réponse:
+Oui!
+Option de réponse:
+Non!
+Feedback si réponse incorrecte:
+Et non!
+Les
+personnes qui, pour des raisons professionnelles, n’ont pas ou plus de
+résidence principale peuvent bénéficier d’une adresse de référence pour une
+durée maximale d’un an.
+Feedback si réponse correcte:
+Oui, les
+personnes qui, pour des raisons professionnelles, n’ont pas ou plus de
+résidence principale peuvent bénéficier d’une adresse de référence pour une
+durée maximale d’un an.
+Titre, page:
+Les TI en lien avec l'identité de la personne
+Question:
+Testez votre intuition
+Quels sont les TI en lien avec l'identité de la personne?
+Feedback:
+Les TI en avec l'identité de la personne sont les suivants: 
+TI 000 ; 
+TI 001 ; 
+TI 011 ; 
+TI 012 ; 
+TI 013; 
+TI 031 ; 
+TI 032 ; 
+TI 100 ; 
+TI 101 ; 
+TI 247.
+Texte:
+TI 000 – Numéro national
+Lorsqu’un utilisateur du registre national procède à l’enregistrement d’une personne, un numéro national d’identification des personnes physiques est automatiquement attribué.
+Ce numéro, composé de onze chiffres, est unique et est en principe conservé à vie.
+Un premier groupe de ce numéro, composé de six chiffres, représente la date de naissance.
+Un deuxième groupe, composé de trois chiffres, est appelé le numéro d’ordre.
+Un troisième groupe, composé de deux chiffres, est appelé le numéro de contrôle.
+Le numéro d’ordre est constitué par le rang d’inscription de la personne dans le premier groupe (date de naissance). A une personne de sexe féminin, le numéro d’ordre sera pair. Il sera impair si la personne est de sexe masculin.
+Le numéro de contrôle est quant à lui calculé à partir de la division par 97 du nombre de neuf chiffres (constitué par la juxtaposition de la date de naissance et du numéro d’ordre). Le reste de la division est soustrait de 97. La différence ainsi obtenue constitue le numéro de contrôle.
+Un même numéro ne sera jamais attribué à deux personnes différentes, même nées à des siècles différents.
+Il est possible, au cours de sa vie, qu’une personne se voit attribuer un nouveau numéro national suite à une modification de sa date de naissance ou suite à un changement de sexe. L’ancien numéro national est dès lors d’office annulé (les doublons n’étant pas autorisés).
+Texte:
+TI 010 – Nom / prénoms (NM)
+⇨Ce type d’information reprend le nom patronymique (nom de famille), tous les prénoms et le titre de noblesse.
+⇨ L’information est enregistrée sur base de l’acte de naissance (qui fait foi de l’orthographe). Pour les étrangers nés à l’étranger, elle peut être enregistrée sur base d’un passeport ou d’un document d’identité national.
+⇨ L’information est adaptée lors de la création d’un dossier (collecte), lors d’un changement de nom ou de prénom, ou encore lors d’une correction de l’information.
+En application de la Loi du 08.05.2014, il est possible aux enfants belges de porter le nom de ses deux parents (dans un souci d’égalité de l’homme et de la femme dans le mode de transmission du nom à l’enfant ou à l’adopté). Dans la terminologie du Registre national, le double nom est indiqué comme ‘’groupe de noms’’.
+⇨ Le TI 010 s’adapte de la manière suivante : 10 – 010 – 0 – date (xx-xx-xxxx) – nom – prénom(s)
+Structure d’une mise à jour en cas de double nom :
+10 – 010 – 0 – date (xx-xx-xxxx) – code groupe de nom 1 – code groupe de nom 2 – code prénom(s)
+Structure suite à un changement de nom ou prénom(s) :
+10 – 010 – 0 – date officielle du changement (1) – nom – prénom(s)
+(1) La date de l’information est :
+La date de naissance
+La date de la reconnaissance
+La date de transcription en cas de changement de nom ou de prénom(s) (de correction ou rectification) consécutif à un arrêté royal, un arrêté ministériel, un jugement, un arrêt ou un document officiel
+La date de l’acte de choix de nom
+L’attribution du double nom (en application de l’art. 12 de la Loi du 08.08.2014)
+Tout changement de nom devra être justifié dans le TI 013 
+Les codes opérations autorisés sont les codes 10 – 11 – 12 – 13 – 14 – 16 – 20 et 21.
+L’information est conservée en historique.
+Texte:
+TI 011 – Pseudonyme ou nom déclaré (PSD)
+Dans ce type d’information, il y a lieu de faire la distinction entre : 
+le pseudonyme ; 
+le nom déclaré (désignation des personnes d’origine étrangère dont l’identité n’a pas encore été prouvée de manière définitive). 
+Le pseudonyme
+⇨ Le TI 011 renseigne le pseudonyme d’une personne ; le pseudonyme étant un nom d’emprunt adopté librement pour se faire connaître dans la société. Il est le plus souvent utilisé par les artistes et est indépendant du nom et des prénoms.
+Bien qu’il n’ait aucune valeur juridique, il peut toutefois être protégé de la même façon que le nom.
+⇨ L’information 011 s’enregistre sur base d’une simple déclaration de la personne concernée accompagnée éventuellement de pièces justificatives.
+⇨ Elle s’adapte immédiatement à la date de la déclaration.
+⇨ Le TI 011 (pseudonyme) s’adapte de la manière suivante : 10 – 011 – 0 – date de déclaration ( xx-xx-xxxx) – code(s) pseudonyme
+Le nom déclaré
+⇨ Le TI 011 peut également renseigner le ‘’nom déclaré’’, qui concerne uniquement des personnes de nationalité étrangère pouvant être inscrites au registre d’attente mais qui ne peuvent toutefois pas apporter la preuve de leur identité au moyen d’un passeport national ou d’une carte d’identité nationale.
+⇨ L’information 011 s’enregistre sur base de la seule déclaration de la personne concernée.
+⇨ Elle s’adapte à la création du dossier (collecte) dans le registre d’attente.
+⇨ Le TI 011 (nom déclaré) s’adapte de la manière suivante : 10 – 011 – 0 – date de déclaration ( xx-xx-xxxx)
+Le ‘’nom déclaré’’ au TI 011, qui peut être introduit afin de désigner la personne d’origine étrangère dont l’identité n’a pas été prouvée de manière définitive, accompagne le TI 010, et leur date est identique.
+Lorsque la personne, après obtention du droit de séjour, se présente avec un document d’identité internationalement reconnu, le ‘’nom déclaré’’ peut être corrigé dans le dossier :
+Si l’identité enregistrée au Registre national est identique à celle reprise sur le passeport ou la carte d’identité, la commune procède à l’effacement de la mention ‘’nom déclaré’’.
+Si l’identité enregistrée au Registre national ne correspond pas celle mentionnée sur le passeport ou la carte d’identité, il y aura lieu pour la commune de procéder aux rectifications en demandant au préalable l’avis de l’Office des Étrangers. Les communes doivent en effet s’assurer qu’il ne s’agit pas d’une fraude à l’identité.
+Afin de maintenir malgré tout une indication du ‘’nom déclaré’’ dans le dossier de la personne concernée, le code opération 12 est autorisé pour le TI 011 depuis 2010.
+Texte:
+TI 012 – Titre de noblesse (pas d’abréviation)
+⇨ Le Ti 012 renseigne un titre de noblesse. Celui-ci précède le nom (à l’exception de ‘’écuyer’’).
+⇨ Dans le cas exceptionnel où le titre de noblesse s’incorpore au TI 010 (nom) et en fasse partie, le TI 012 s’enregistre sur base d’un acte de naissance. Par contre, et dans la plupart des cas, si le titre de noblesse est attribué ultérieurement à la naissance, le TI 012 s’enregistre sur base d’un document officiel concédant ce titre.
+⇨ Le TI 012 s’adapte à la naissance, lors de la collecte (dans les cas exceptionnels) ou à la date du document officiel, de l’arrêté royal, …, lorsque la distinction honorifique est octroyée ultérieurement.
+⇨ L’information 012 s’adapte de la manière suivante :
+Si le titre est acquis à la naissance : 10 – 012 – 0 – date de naissance ( xx-xx-xxxx) – code titre (1)
+Si le titre est acquis ultérieurement : 10 – 012 – 0 – date du document officiel ( xx-xx-xxxx) – code titre (1)
+(1) Les codes titres sont les suivants :
+01 Prince
+02 Princesse
+03 Duc
+04 Duchesse
+05 Marquis
+06 Marquise
+07 Comte
+08 Comtesse
+09 Vicomte
+10 Vicomtesse
+11 Baron
+12 Baronne
+13 Chevalier
+15 Ecuyer
+17 Archiduc
+18 Archiduchesse
+19 Grand-Duc
+20 Grande-Duchesse
+21 Roi des Belges
+22 Reine des Belges
+23 Prince de Belgique
+24 Princesse de Belgique
+25 Duc de Brabant, Prince de Belgique
+26 Duchesse de Brabant, Princesse de Belgique
+Codes opérations autorisés (C.O.) : 10 – 11 – 12 – 13 – 17 et 20.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 013 – Modification du nom / du titre (MNM)
+⇨ Le TI 013 renseigne les raisons d’une modification du nom et du prénom.
+⇨ L’information 013 s’enregistre sur base d’un arrêt, d’un jugement, d’un arrêté royal, d’un arrêté ministériel, d’un document officiel ou d’un acte de choix de nom.
+Le nom est rectifié par un arrêt ou jugement (il en va de même pour la rectification d’un prénom). La modification du nom se fait par un arrêté du Ministre de la Justice ou en produisant un document officiel.
+Des modifications similaires peuvent également se produire pour le titre de noblesse (TI 012).
+⇨ Le TI 013 s’adapte à la date à laquelle les rectifications et les modifications sortent leurs effets juridiques (date d’intégration dans la BAEC, date de l’arrêté relatif au changement de nom / prénom(s) ou du jugement rectificatif).
+⇨ L’information 013 s’adapte de la manière suivante :
+Structure d’une mise à jour : 10 – 013 – 0 – date de changement ou correction ( xx-xx-xxxx) – code justificatif (1) – commentaire (maximum 60 caractères alphanumériques) (2)
+(1) Les codes justifiant la modification ou la correction du nom ou du prénom sont les suivants :
+01 arrêté royal
+02 arrêt ou jugement
+03 arrêté ministériel
+04 article 12 de la loi du 08 mai 2014 (voir supra – point n° 7 / TI 010 – ‘’groupe de noms’’)
+08 document officiel (ex : reconnaissance, adoption, erreur matérielle) ou titre d’identité nationale d’un étranger (passeport ou carte d’identité)
+15 titre de noblesse
+(2) Les commentaires renseignent le nom ou le prénom avant modification ou correction.
+Exemple : changement du nom de Dupont Hubert en Durand Hubert : ‘’anc. Dupont’’
+N.B. L’introduction du TI 013 nécessite la mise à jour préalable du TI 010 portant la même date :
+Exemple :
+TI 010 05.06.2015 Durand Hubert
+TI 010 06.08.1956 Dupont Hubert
+TI 013 05.06.2015 A.R. – anc. ‘’Dupont’’
+Codes opérations autorisés (C.O.) : 10 – 11 – 12 – 13 – 17 et 20.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 031 – Nationalité (NAT)
+⇨ Le TI 031 renseigne, d’une part, la nationalité des citoyens belges et d’autre part, celle des ressortissants étrangers.
+Cette information implique différentes possibilités :
+La nationalité belge sans justification de nationalité pour les belges d’origine nés en Belgique
+La nationalité belge avec justification de nationalité pour les belges non visés au point a), avec mention de la date d’acquisition ou d’attribution de la nationalité
+La nationalité étrangère avec, si besoin en est, l’acte ou le titre établissant la nationalité ou la modifiant.
+Les codes nationalités sont repris dans la liste des pays. Il en est de même pour les codes concernant les réfugiés et apatrides.
+Lorsque la nationalité d’un ressortissant étranger n’est pas fixée lors de l’inscription dans les registres de population (en l’occurrence, au registre des étrangers après décision positive de régularisation), il y a lieu d’introduire la mention ‘’pas encore définitivement établie’’ – code 901 – au TI 031. La mention ‘’indéterminée’’ est désormais à proscrire dans le cas d’espèce.
+Si la nationalité d’un ressortissant étranger ne peut être définitivement établie, elle est alors reprise comme étant ‘’déclarée’’.
+⇨ Cette information s’enregistre sur base :
+D’un acte de naissance
+D’un jugement
+D’une attestation du Commissariat général aux réfugiés et aux apatrides (CGRA)
+D’un document officiel légalisé par l’autorité compétente
+…
+⇨ Le TI 031 s’adapte :
+A la date de naissance
+A la date de force de chose jugée (c.-à-d. après expiration des délais de recours)
+A la date de la décision s’il s’agit d’une attestation du CGRA pour la qualité de réfugié
+A la date de prise d’effets du document officiel
+…
+⇨ L’information 031 s’adapte de la manière suivante :
+Sans justification de la nationalité ni commentaire : 10 – 031 – 0 – date (xx-xx-xxxx) – nationalité (code pays)
+Avec justification de la nationalité et avec ou sans commentaire : 10 – 031 – 0 – date (xx-xx-xxxx) – nationalité (code pays) – code justifiant la nationalité (1) – lieu – commentaire
+(1) codes nationalités :
+11 – Né(e) en Belgique – Art. 8, par 1,1
+12 – Né(e) en Belgique – Art. 9,1
+13 – Né(e) en Belgique – Art. 10, al. 1
+14 – Né(e) en Belgique – Art. 10, al. 2
+15 – Né(e) en Belgique – Art. 11
+16 – Né(e) en Belgique – Art. 11, al. 1
+17 – Né(e) en Belgique – Art. 11, al. 2
+18 – Né(e) en Belgique – Art. 11 bis, par 1
+19 – Né(e) en Belgique – Art. 12 bis, par 1-1
+20 – Par filiation
+21 – Né(e) à l’étranger – Art. 8, par 1,2-a
+22 – Né(e) à l’étranger – Art. 8, par 1,2-a
+23 – Né(e) à l’étranger – Art. 8, par 1,2-b
+24 – Né(e) à l’étranger – Art. 8, par 1,2-c
+25 – Né(e) à l’étranger – Art. 8, par 1,2-c
+26 – Né(e) à l’étranger – Art. 9, 2-a
+27 – Né(e) à l’étranger – Art. 9, 2-b
+28 – Né(e) à l’étranger – Art. 9, 2-c
+29 – Par conservation de la nationalité – Art. 22, par 1,5
+30 – Par naturalisation
+31 – Né(e) en Belgique – Art. 11, par 1er, 1
+32 – Né(e) en Belgique – Art. 11, par 1er, 2
+33 – Par déclaration parents – Art. 11, par 2
+35 – Naturalisation mérite exceptionnel – Art. 19 par 1er
+36 – Naturalisation, apatride – Art. 19 par 2
+40 – Par déclaration – Art. 12 bis, § 1er, 1°
+41 – Par déclaration – Art. 12 bis, § 1er, 2°
+42 – Par déclaration – Art. 12 bis, § 1er, 3°
+43 – Par déclaration – Art. 12 bis, § 1er, 4°
+44 – Par déclaration – Art. 12 bis, § 1er, 5°
+45 – Nationalité déclarée
+50 – Par mariage
+51 – Déclaration suite à mariage : Art. 16
+60 – Par option
+65 – Par effet collectif – Art. 12
+66 – Par effet collectif – Art. 12
+70 – Par recouvrement
+71 – Par recouvrement – Art. 24
+80 – Par conservation de la nationalité
+81 – En vertu de l’art. 5 L.C. – A.R. 14/12/1932
+82 – En vertu de l’art. 15 L.C. – A.R. 14/12/1932
+85 – Né(e) à l’étranger – Art. 12 bis, par 1-2
+86 – Art. 12 bis, § 1er, 3°
+87 – Art. 12 bis, § 1er, 2°
+88 – Art. 12 bis, § 1er, 3°
+90 – cas spéciaux
+91 – Par possession d’état – Art. 17
+92 – Par conservation de la nationalité – Art. 22, par 1,5
+95 – Art. 23
+96 – Art. 23, par 1,1
+97 – Art. 23/1, par 1,1
+98 – Art. 23/1, par 1,2
+99 – Art. 23/1, par 1,3
+Pour connaître la traduction de ces différents codes, il y a lieu de s’en référer aux Instructions du Registre national pour la tenue à jour des informations.
+A noter que les champs prévus pour le code justifiant la nationalité ainsi que pour le commentaire n’étant pas obligatoires, il est possible de justifier la nationalité sans mettre aucun commentaire, comme il est possible d’indiquer un commentaire sans justificatif de la nationalité.
+Certains codes ont été créés ultérieurement ou remplacés par d’autres. C’est ainsi que l’on trouve certains codes à utiliser :
+Pour une date d’information antérieure au 01.01.1985
+Par naissance – code 10
+Né à l’étranger – code 20
+Par naturalisation – code 30
+Par mariage – code 50
+Par option – code 60
+Par recouvrement de la nationalité – code 70
+Conservation de la nationalité – code 80
+Enfant mineurs non émancipés (A.R. du 14.12.1932) – code 81
+Par déclaration – code 82
+Cas spéciaux nécessitant des informations complémentaires – code 90
+Code nationalité non mentionné – code 00
+  Pour une date d’information ayant effet à partir du 01.01.1985
+Pour les naissances en Belgique et à l’étranger – par attribution de la nationalité – codes 11 à 25
+Pour les attributions par effet collectif – code 65
+Pour les naissances à l’étranger – par attribution – codes 21 à 28
+Pour les acquisitions de la nationalité belge – codes 30, 51, 60, 70, 90 et 91
+Pour une date d’information ayant effet à partir du 01.01.1992
+Pour les naissances en Belgique – codes 15, 16, 18 et 19
+Pour la déclaration de conservation de la nationalité – code 29
+ Pour une date d’information à partir du 1er mai 2000
+Pour les personnes nées à l’étranger ayant atteint l’âge de 18 ans -codes 85 et 86
+En application de la loi du 27 décembre 2006
+Pour l’étranger qui a fait une déclaration devant l’officier de l’état civil -codes 87 et 88
+Pour les déchéances de la nationalité belge -code 95
+La personne qui ‘’déclare se nommer… et être de nationalité…’’
+Code 45
+En application de la loi du 04 décembre 2012
+Modifiant le Code de la nationalité belge afin de rendre l’acquisition de la nationalité belge neutre du point de vue de l’immigration. Codes à utiliser pour une date d’effet à partir du 1er janvier 2013.
+En application de la loi du 04.12.2012
+Naissance en Belgique – par attribution – codes 31 à 33
+Par effet collectif – code 65
+Par naturalisation – codes 35 et 36
+Par acquisition de la nationalité belge par déclaration – codes 40 à 44
+Par recouvrement – code 71
+Par déclaration de conservation de la nationalité belge – code 92
+Déchéance de la nationalité – code 96 à 99
+Codes opération autorisés (C.O.) : 10 – 11 – 13 et 20
+Code service (C.S.) : 0
+L’information 031 est conservée en historique.
+Texte:
+TI 032 – Plurinationalité (P.N)
+⇨ Le TI 032 renseigne la nationalité d’un autre pays qu’un belge a acquis volontairement, tout en conservant la nationalité belge (conformément à l’entrée en vigueur de la règle de la nationalité multiple du 08.06.2007). Cette information n’est toutefois pas mentionnée pour les belges qui tiennent une nationalité étrangère par une autre source (exemple : par attribution).
+Toutefois, le principe de la double nationalité ne permet pas d’invoquer plusieurs nationalités en même temps. Un belge possédant une autre nationalité sera toujours considéré comme belge pour les autorités belges, et ce, de manière incontestable. La notification de l’acquisition de la nationalité étrangère relèvera quant à elle des autorités étrangères.
+N.B. Pour les nationalités acquises entre le 08.06.2007et le 27.04.2008, la nationalité multiple ne peut être introduite pour certains Etats. C’est le cas notamment pour l’Autriche, le Danemark, la France, l’Irlande, l’Italie, Le Luxembourg, les Pays-Bas, la Norvège, l’Espagne et le Royaume-Uni. A partir du 28.04.2008, la plurinationalité est autorisée pour toutes les nationalités.
+⇨ Cette information s’enregistre sur base :
+D’un acte d’acquisition de la nationalité étrangère
+D’un certificat confirmant la nationalité étrangère
+D’un passeport délivré par une autorité étrangère (pour autant qu’il soit clairement stipulé que la nationalité étrangère a été acquise après le 08.06.2007 ou selon le cas, après le 28.04.2008.
+⇨ Le TI 032 s’adapte à la prise d’effet du document officiel.
+⇨ L’information 032 s’adapte de la manière suivante :
+Structure simple : 10 – 032 – 0 – date (xx-xx-xxxx) – nationalité (code pays)
+Structure avec graphique : 10 – 032 – 0 – date (xx-xx-xxxx) – nationalité (code pays) – graphique (max. 60 caractères)
+N.B. La date de l’information doit être plus récente que le 08.06.2007, date de l’entrée en vigueur de la règle de la nationalité multiple.
+Codes opération autorisés (C.O.) : 10 – 12 et 13
+Code service (C.S.) : 0
+L’information 032 est conservée en historique.
+Texte:
+TI 100 – Lieu de naissance (L.N)
+⇨ Le TI 100 indique l’heure, la date et le lieu de naissance. Y sont ou peuvent également être mentionnés le numéro de l’acte ainsi qu’une indication complémentaire relative notamment à l’inscription dans un registre supplétoire (voir infra – ‘’structure d’une mise à jour’’).
+Cette information est automatiquement introduite au moment de la création du dossier (collecte) mais peut toutefois être corrigée ultérieurement.
+⇨ Comme pour le TI 010 (nom), l’information 100 est enregistrée sur base de l’acte de naissance (qui fait foi de la date et du lieu de naissance). Pour les étrangers nés à l’étranger, elle peut être enregistrée sur base d’un passeport ou d’un document d’identité national.
+⇨ L’information est automatiquement adaptée à la création du dossier (collecte).
+⇨ L’information 100 s’adapte de la manière suivante :
+Avec code INS (personnes nées en Belgique) : 10 – 100 – 0 – date (xx-xx-xxxx) (1) – INS commune (2) – n° d’acte (3) – n° d’acte BAEC (4) – heure (5) – R.S. (6)
+Avec mention en clair (personnes nées à l’étranger) : 10 – 100 – 0 – date (xx-xx-xxxx) (1) – INS pays (2) – n° d’acte (3) – n° d’acte BAEC (4) – heure (5) – R.S. (6)
+(1) Date de naissance : composée de 8 chiffres qui doit obligatoirement correspondre à la première partie des 6 chiffres du numéro national. Sauf exception en cas de date incomplète (le jour et le mois sont remplacés par des zéros) ou de date inconnue (la date est constituée de 8 zéros)
+(2) Lieu de naissance :
+Si la personne est née dans une commune belge (même si cette commune est supprimée – par exemple, suite à une fusion) : il faut indiquer le code INS de cette commune.
+Si la personne est née à l’étranger : il faut indiquer le code pays (3 chiffres) ainsi que la dénomination du lieu en clair (maximum 40 caractères). Si le lieu de naissance est inconnu, on utilisera un code fictif (999).
+(3) Numéro d’acte : Cette zone est obligatoire. Si le numéro n’est pas connu, il y a lieu d’indiquer 5 zéros. Le numéro d’acte peut être ajouté ou modifié ultérieurement par le code opération 25.
+(4) Numéro d’acte BAEC : Cette zone, qui n’est pas obligatoire, comporte maximum 14 caractères numériques.
+(5) Heure de naissance : elle est présentée en 4 positions pour les heures et les minutes.
+(6) Registre supplétoire :
+Le numéro d’acte d’état civil peut être complété par :
+L’indication de l’année du registre si celle-ci est différente de l’année de naissance
+L’indication que le registre utilisé est le registre supplétoire.
+Si une de ces indications doit être ajoutée, elle sera reprise à la fin de l’information, précédée du signe +. En code :
++01 : année du registre 1970 si l’évènement a lieu en 1969 ; le chiffre 1 indique qu’il l’agit du registre supplétoire.
++(blanc)1 : l’année du registre est la même que celle de l’événement (blanc) – l’acte est enregistré dans le registre supplétoire
++9(blanc) : l’événement a lieu en 1968 mais figure au registre de 1969 – il s’agit du registre ordinaire (blanc dans la case du registre supplétoire).
+Codes opération autorisés (C.O.) : 10 – 11 et 25.
+Code service (C.S.) : 0
+Il n’y a pas d’historique du TI 100.
+Texte:
+TI 101 – Date de naissance déclarée (DNS)
+⇨ Le TI 101 renseigne la date de naissance. En effet, lorsqu’une date de naissance est incomplète ou totalement indéterminée, cette information peut reprendre, le cas échéant, tout document déclaratif d’une date de naissance et ses références (date – lieu – nature du document).
+Cette information reprend les données suivantes :
+La date de l’information
+La date de naissance
+L’indication du document justificatif
+⇨ L’information 101 s’enregistre sur base d’un document officiel justifiant la date de naissance. Ce document peut être un acte de naissance, un passeport, une carte d’identité du pays d’origine, un certificat du C.G.R.A.,…
+⇨ L’information est automatiquement adaptée dès que la commune a connaissance du document officiel.
+⇨ L’information 101 s’adapte de la manière suivante : 10 – 101 – 0 – date de l’information (xx-xx-xxxx) (1) – date de naissance (xx-xx-xxxx) (2) – code doc. Justificatif (3)
+(1) Date de l’information : la date de naissance de l’année de naissance dont le mois et le jour sont éventuellement remplacés par des zéros.
+(2) Date de naissance : elle doit correspondre à la date de naissance réelle ou à une date de naissance fictive. L’année de naissance doit être conforme à l’année de naissance figurant dans le numéro national !
+(3) Codes indiquant la nature du document justificatif :
+00 – acte de naissance
+01 – passeport
+02 – bulletin de renseignements pour les étrangers (Office des Étrangers – O.E.)
+03 – bulletin de renseignements pour les demandeurs d’asile (O.E.)
+04 – extrait du Registre de l’Etat civil délivré par les autorités locales de provenance
+05 – extrait de l’acte de naissance (Consulat)
+06 – Extrait de l’acte de mariage (Consulat)
+07 – carte d’identité du pays d’origine
+08 – certificat du C.G.R.A.
+09 – extrait d’acte de mariage ou acte de mariage établi en Belgique
+10 – carnet de mariage
+11 – bulletin de renseignements du SPF Affaires étrangères
+99 – sans document justificatif
+Remarque : La commune pourra uniquement corriger le code de justification au moyen du code opération 10 (l’ancienne information sera écrasée). L’introduction d’une nouvelle information ainsi que toute autre mise à jour du TI 101 devra être effectuée par les services du Registre national.
+Codes opération autorisés (C.O.) : 10 et 13.
+Code service (C.S.) : 0
+Il n’y a pas d’historique du TI 101
+Texte:
+TI 247 – Données de contact du citoyen (D.C)
+⇨ Le TI 247 reprend uniquement les données de contact des citoyens (à la différence du TI 246 qui peut contenir d’autres éléments).
+L’enregistrement des données de contact est sollicité par un certain nombre d’instances, notamment des services publics tels que le département des Finances ou les services de secours et de protection civile.
+L’enregistrement centralisé de ces données et leur communication ont également pour vocation de favoriser et de développer les échanges électroniques d’informations avec le citoyen.
+Pour cette raison, la loi du 9 novembre 2015 a ajouté cette ‘’nouvelle information légale’’ à la liste des informations pour toute personne inscrite au Registre national des personnes physiques.
+Toutefois, l’accès à cette nouvelle information est soumis à l’autorisation préalable du Comité sectoriel du Registre national.
+Le citoyen peut enregistrer, modifier ou supprimer ses coordonnées :
+Soit directement via l’application ‘’Mon Dossier’’ du Registre national sur le site Internet https://mondossier.rrn.fgov.be
+Soit via le guichet électronique de la commune ou une application créée à cette fin
+Soit en se rendant au service population de sa commune de résidence
+Remarque :
+Seules les personnes âgées de plus de dix-huit ans et plus, et disposant de la capacité juridique, peuvent communiquer leurs données de contact.
+⇨ Le TI 247 s’enregistre de la manière suivante :
+Structure d’une mise à jour : 10 – 247 – 0 – date info – adresse de courriel – n° de GSM – n° de téléphone – n° de fax
+La taille de l’adresse électronique est de 120 caractères maximum.
+Les zones contenant le numéro de GSM, de téléphone et de fax ne peuvent contenir que 20 caractères maximum.
+Codes opération autorisés (C.O.) : 10, 11 et 13.
+Code service (C.S.) : 0
+L’information 247 n’est pas conservée en historique en cas de suppression manuelle.
+Contrairement au TI 246, l’information 247 ne supprime pas automatiquement en cas de changement de commune.
+Question:
+Avez-vous tout compris?
+Sur base de
+la présentation d’un passeport en ordre, une demande de correction a été
+demandée à l’Office des étrangers.  Suite à une instruction positive, la modification a été effectuée par le RN. 
+Le  TI
+« 101 » a été mis à jour et le numéro national n’a pas changé.
+Qu’en est-il du TI 013 comme demandé
+dans l’instruction ? Faut-il passer l’information « 013 »
+en indiquant un commentaire, bien que la modification ne concerne pas le
+nom/prénom?
+Feedback:
+Le TI 013 ne concerne que la modification du nom/prénom, et pas la
+modification d’une date de naissance.  
+De plus, aucun code correspondant à la mention ‘’changement sur base
+d’un passeport national valide’’ n’est prévu dans la nomenclature établie
+au TI 013.  A voir peut-être avec la Délégation régionale si possibilité de mettre un info au TI 246 (infos communales)
+qui sera toutefois supprimée si l’intéressé change de commune.
+ 
+Par contre, en consultant la fiche de l’intéressé, il faut la date
+info du TI 101 : 
+10
+= 101 = 0 = XX XX XXXX (date de réception du passeport ou date de la mise à
+jour) = XX XX XXXX (date de naissance) = 01 (passeport).
+Titre, page:
+Les TI en lien avec l’état civil
+Texte, introduction:
+4 axes :
+Etat civil
+Filiation
+Union
+Décès
+Texte:
+TI 120 – Etat civil (E.C)
+⇨ Le TI 120 renseigne l’état civil d’une personne, la situant dans la famille et la société. Dans son sens restreint, l’état civil est l’état de :
+Célibataire
+Marié
+Divorcé
+Veuf
+Toutefois, au registre national, les différents états civils considérés sont :
+Célibataire
+Marié
+Annulation de mariage (le mariage est supposé n’avoir jamais existé – ne conserve pas ses effets légaux)
+Mariage putatif (mariage nul que les époux ont contracté de bonne foi – conserve certains de ses effets légaux)
+Veuf
+Divorcé
+Séparé de corps et de biens
+Dissolution du mariage sous une forme particulière
+Partenariat
+Fin de partenariat
+Indéterminé
+L’information 120 comprend :
+La date du fait ou la date à laquelle la modification de l’état civil doit être prise en considération
+L’état civil proprement dit
+Le numéro d’acte
+L’identification du conjoint (éventuellement)
+Le lieu du fait
+Une indication supplémentaire relative à l’inscription dans un registre supplétoire (facultatif)
+En cas de divorce ou de séparation de corps et de bien : la date du jugement, le code INS de la commune où le jugement a été prononcé, la juridiction, la date de transcription et le code INS de la commune de transcription
+Dans le cas où une personne est célibataire, l’information ne comprend que la date de naissance et le code ‘’célibataire’’.
+N.B. En cas de divorce et de séparation de corps et de bien, il y a lieu de distinguer les modifications d’état civil intervenues avant le 1er octobre 1994 ou à partir du 1er octobre 1994 (en application de la loi du 30 juin 1994).
+⇨ L’information 120 s’enregistre sur base d’un acte de naissance, d’un acte de mariage, d’un acte de décès ou d’un jugement ou arrêt prononçant le divorce – la séparation de biens et de corps – l’annulation du mariage ou le mariage putatif.
+En aucun cas le TI 120 ne peut être mis à jour sur simple déclaration de l’intéressé !
+⇨ Le TI 120 s’adapte :
+A la date de naissance pour l’état de célibat ou indéterminé
+A la date du mariage ou du décès
+A la date de la transcription du jugement ou de l’arrêt pour le divorce ou la séparation de biens et de corps antérieurs au 1er octobre 1994
+A la date à laquelle le jugement a été passé en force de chose jugée pour le divorce ou la séparation de biens et de corps à partir du 1er octobre 1994
+A la date de la transcription du jugement ou de l’arrêt pour l’annulation du mariage ou le mariage putatif
+A la date mentionnée dans l’acte pour la dissolution de mariage sous une forme particulière.
+⇨ L’information 120 s’adapte de la manière suivante :
+Structure d’une mise à jour pour l’état de célibat ou l’état indéterminé : 10 – 120 – 0 – date – code état civil (1)
+(1) codes :
+10 – célibataire
+90 – indéterminé
+Structure d’une mise à jour pour un mariage ou un décès : 10 – 120 – 0 – date – code état civil (1) – NN du conjoint (2) – n° d’acte – code INS (3)
+(1) codes :
+20 – marié
+30 – veuf (la génération du code ‘’veuf’’ se fait automatiquement lorsque le décès est encodé dans le dossier du conjoint ou du partenaire. Cette information ne s’introduit donc que si le conjoint décédé n’a jamais été enregistré en Belgique).
+(2) Le numéro national du conjoint peut être également un numéro fictif. Il y a dès lors lieu d’encoder manuellement le nom et prénom(s)
+(3 Le code INS est celui de la commune où a eu lieu le fait. Si ce fait a eu lieu à l’étranger, il faut dès lors introduire le code pays et le lieu (en clair).
+Structure d’une mise à jour pour le divorce et la séparation de biens et de corps : 10 – 120 – 0 – date (1) – code état civil (2) – NN du conjoint (3) – n° d’acte – code juridiction (4) – code INS Jugement – date jugement – date transcription – code INS transcription – commentaire (max. 60 caractères)
+(1) dates :
+Date de transcription du jugement pour le divorce ou la séparation antérieurs au 1er octobre 1994
+Date à laquelle le jugement a été passé en force de chose pour le divorce ou la séparation à partir du 1er octobre 1994.
+(2) codes état civil :
+40 – divorce antérieur au 1er octobre 1994
+41 – divorce à partir du 1er octobre 1994
+50 – séparation antérieure au 1er octobre 1994
+51 – séparation à partir du 1er octobre 1994
+(3) le numéro national du conjoint peut être un numéro fictif
+(4) codes juridiction :
+0 – indéterminé
+1 – jugement du Tribunal de Première instance de
+2 – arrêt de la Cour d’appel de
+Les codes INS jugement et transcription sont ceux de la commune où le divorce ou la séparation ont été prononcés et transcrits. En cas de jugement et/ou de transcription à l’étranger, il y a lieu d’introduire le code pays et le lieu (en clair).
+Structure d’une mise à jour pour l’annulation du mariage : 10 – 120 – 0 – date (1) – code 25 – NN du conjoint – n° d’acte – code INS (2)
+(1) date de transcription ou de l’arrêt dans les registres de l’état civil
+(2) code INS de la commune où a été prononcée l’annulation
+Remarques :
+L’annulation du mariage suit le mariage concerné. La mention ‘’célibataire’’ peut ensuite être à nouveau encodée.
+Si l’annulation du mariage est prononcée après qu’un ou plusieurs faits relatifs à l’état civil ont eu lieu, seuls les services du Registre national peuvent procéder à cette annulation. La demande d’annulation devra alors être accompagnée des pièces justificatives.
+Structure d’une mise à jour pour un mariage putatif, une dissolution de mariage sous forme particulière et un partenariat :
+10 – 120 – 0 – date – code état civil (1) – NN du conjoint – n° d’acte – code INS – commentaire
+(1) codes état civil :
+26 – mariage putatif
+60 – dissolution mariage sous forme particulière
+80 – partenariat
+Structure d’une mise à jour pour une fin de partenariat : 10 – 120 – 0 – date – code 81 – NN du conjoint – n° d’acte – juridiction (1) – code INS – INS commune transcription – date – commentaire
+(1) codes juridiction :
+0 – indéterminé
+1 – jugement du Tribunal de Première instance de
+2 – arrêt de la Cour d’appel de
+Codes opération autorisés (C.O.) : 10 – 11 – 12 – 13 – 17 – 20 et 25
+ C.O. 12 : uniquement pour les codes état civil 50-51
+ C.O. 25 : pour l’ajout ou la correction du numéro d’un acte
+ C.O. 20 : pour la correction d’une date
+Code service (C.S.) : 0
+L’historique est conservé au TI 120.
+Texte:
+TI 110 – Filiation ascendante (FIL)
+⇨ Le TI 110 renseigne la filiation d’une personne, c’est-à-dire le lien de parenté l’unissant à son père, à sa mère.
+Cette information reprend :
+La date à laquelle la filiation est établie
+La forme de filiation (enfant de parents mariés – enfant reconnu par le père après la naissance – …)
+L’identification du ou des parent(s)
+Le lieu de naissance ou de transcription d’un acte ou d’un jugement dans les registres de l’état civil
+On distingue :
+La filiation maternelle qui est établie :
+Dans l’acte de naissance
+Par reconnaissance de la mère par acte authentique en l’absence d’un acte de naissance ou si son nom ne figure pas dans l’acte
+Par jugement dans le cas d’une recherche en maternité
+Par adoption (simple ou plénière)
+La filiation paternelle qui est établie :
+Directement dans le chef du mari de la mère pendant le mariage ou dans les 300 jours suivant sa dissolution
+Par reconnaissance du père par acte authentique
+Par jugement dans le cas d’une recherche en paternité
+Par adoption (simple ou plénière)
+Depuis 2006, la loi du 18 mai 2006 a rendu possible l’adoption d’un enfant par des personnes de même sexe. Les programmes du Registre national ont par conséquent été adaptés, rendant possible l’enregistrement au TI 110 du numéro d’identification des parents de même sexe.
+Il en est de même pour la filiation de la coparenté des couples de même sexe, autorisée par la loi du 05 mai 2014. Cette loi permet d’établir une filiation juridique à l’égard du partenaire ou de l’époux – l’épouse qui a participé au projet de procréation sans qu’il ne faille suivre une procédure d’adoption. A cet effet, 4 nouveaux codes rendant possible l’enregistrement de cette information ont été créés par les services du Registre national.
+⇨ L’information 110 s’enregistre sur base d’un acte de naissance, d’un jugement ou de tout autre acte authentique établissant la filiation.
+⇨ L’information est adaptée :
+A la naissance (lors de la création du dossier)
+A la date de l’acte authentique
+A la date du jugement
+⇨ L’information 110 s’adapte de la manière suivante :
+Il faut distinguer les formes de filiation prévues par la loi avant le 06 juin 1987, celles prévues à partir de cette date, ainsi que celles prévues à partir du 1er janvier 2015
+Filiations antérieures au 06 juin 1987
+Enfant légitime (code 00)
+Filiation indéterminée (code 09)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN du père – NN de la mère
+Enfant légitimé (code 01)
+Enfant adopté (code 04)
+Enfant légitimé par adoption (code 05)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – lieu (INS) – n° acte – NN du père – NN de la mère – commentaire (max. 60 caractères)
+Enfant naturel non reconnu (code 02)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN de la mère
+Enfant naturel reconnu (code 03)
+•Enfant naturel par suite de désaveu (code 07)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – lieu (INS) – n° acte – NN de la mère – commentaire (max. 60 caractères)
+Enfant trouvé (code 06)
+Filiation inconnue (code 08)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation
+Filiations à partir du 06 juin 1987
+Enfant issu du mariage (code 10)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN du père – NN de la mère
+Filiation indéterminée (code 19)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN du père – NN de la mère – commentaire (max. 60 caractères)
+Filiation maternelle avec reconnaissance paternelle à la naissance (code 11)
+Adoption simple (code 14)
+Adoption plénière (code 15)
+Filiation paternelle et/ou maternelle par jugement (code 21)
+Annulation de filiation maternelle et/ou paternelle (code 23)
+Révocation d’adoption (code 24)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – lieu (INS) – n° acte – NN du père – NN de la mère – commentaire (max. 60 caractères)
+Filiation maternelle – inscription dans l’acte de naissance (code 12)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN de la mère
+Filiation maternelle par reconnaissance (code 13)
+Filiation maternelle par suite d’annulation de filiation paternelle (code 17)
+10 – 110 – 0 – date filiation – code filiation – lieu (INS) – n° acte – NN de la mère – commentaire (max. 60 caractères)
+Filiation paternelle par reconnaissance (code 20)
+Filiation paternelle par annulation de filiation maternelle (code 22)
+10 – 110 – 0 – date filiation – code filiation – lieu (INS) – n° acte – NN du père – commentaire (max. 60 caractères)
+Enfant trouvé (code 16)
+Filiation inconnue (code 18)
+10 – 110 – 0 – date filiation – code filiation
+Filiations à partir du 1er janvier 2015
+Enfant issu du mariage de deux femmes (code 25)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – NN de la mère – NN de la mère
+Filiation maternelle avec reconnaissance de la coparenté à la naissance (code 26)
+Filiation comaternelle et/ou maternelle par jugement (code 28)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – lieu (INS) – n° acte – NN de la mère – NN de la mère – commentaire (max. 60 caractères)
+Filiation comaternelle avec reconnaissance (code 27)
+10 – 110 – 0 – date filiation (xx-xx-xxxx) – code filiation – lieu (INS) – n° acte – NN de la mère – commentaire (max. 60 caractères)
+Filiation maternelle par suite d’annulation de filiation comaternelle (code 29)
+Filiation paternelle par annulation de filiation comaternelle (code 30)
+10 – 110 – 0 – date filiation – code filiation
+Remarques :
+Numéro d’identification du père et de la mère
+Si un des deux parents ou les deux ne sont pas enregistrés au Registre national, l’identification se fera par un numéro national fictif :
+Si la date de naissance est connue : numéro fictif de onze chiffres reprenant la date de naissance (année-mois-jour) suivi de 99900 s’il s’agit du père, et de 00000 s’il s’agit de la mère. Ce numéro est suivi des codes nom et prénoms.
+Si la date de naissance est inconnue : numéro national 000001 999 00 s’il s’agit du père – numéro national 000001 000 00 s’il s’agit de la mère. Ce numéro est également suivi des codes nom et prénoms.
+Introduction de plusieurs informations 110 à la même date
+Il est maintenant possible d’introduire plusieurs informations à la même date pour tous les codes de filiation par l’utilisation du code service 1.
+Annulation d’une information au moyen du code opération 13
+En cas de plusieurs informations dans le TI 110, un numéro d’ordre doit être ajouté à la fin de la structure afin d’indiquer l’information qui doit être annulée. Si l’information la plus récente doit être annulée, le numéro d’ordre n’est pas requis.
+Exemple : l’information la plus récente se trouvant au-dessus dans le TI visé est la numéro 1, la deuxième information est la numéro 2, etc…
+Codes opération autorisés (C.O.) : 10 – 11 – 13 et 17
+Code service (C.S.) : 0 et 1
+L’historique est conservé au TI 110.
+Texte:
+TI 114 – Filiation descendante (FIL)
+⇨ Le TI 114 a pour objectif de contenir, dans le dossier du ou des parents, l’identification du ou des enfants.
+L’information 114 reprend également la date et le lieu de transcription d’un acte ou d’un jugement relatif à la filiation de l’enfant dans les registres de l’état civil.
+Toute modification de la filiation au TI 110 (reconnaissance – adoption – annulation de filiation – révocation d’adoption – …) nécessite l’adaptation du TI 114 au regard des nouvelles informations introduites en filiation.
+En principe, la mise à jour du TI 114 est automatique, par le biais d’une autogénération à partir du TI 110 dans le dossier de l’enfant.
+⇨ L’information 114 s’enregistre sur base d’un acte de naissance ou d’un jugement établissant une filiation.
+⇨ La date du TI 114 doit correspondre à celle du TI 110.
+Toutefois, ceci n’est pas une règle en cas de filiation multiple dans le dossier de l’enfant (ex. : pré ou post-reconnaissance paternelle). Il faudra dès lors adapter manuellement le TI 114 dans le dossier des parents.
+⇨ L’information 114 s’adapte de la manière suivante :
+Structure d’une mise à jour avec numéro national réel de l’enfant :
+10 – 114 – 0 – date filiation (1) – code filiation (2) – NN de l’enfant
+Structure d’une mise à jour avec numéro national fictif de l’enfant :
+10 – 114 – 0 – date filiation (1) – code filiation (2) – NN fictif de l’enfant – nom – prénom(s)
+(1) La date du TI 114 doit correspondre à celle du TI 110.
+(2) Le code filiation du TI 114 est celui du TI 110 de l’enfant.
+Remarque : les champs ‘’n° d’acte’’ – ‘’lieu’’ et ‘’commentaires’’ présents dans la structure ne doivent pas nécessairement être complétés.
+En cas de fin de la relation de filiation dans le dossier du parent, il y a lieu de compléter le champ ‘’justification de fin’’
+Cela consiste à mettre une date de fin de validité au TI 114 de l’enfant si le code au TI 110 est :
+17 – filiation maternelle par suite d’annulation de filiation paternelle
+22 – filiation paternelle par annulation de filiation maternelle
+23 – annulation de filiation maternelle et/ou paternelle
+24 – révocation d’adoption
+29 – filiation maternelle par suite d’annulation de filiation comaternelle
+30 – filiation paternelle par suite d’annulation de filiation comaternelle
+L’information doit d’abord être mise à jour dans le TI 114 des parents concernés, avec le code pour la justification de la cessation (code opération 11) et ensuite l’ajout de la date de fin (code opération 12).
+La mise à jour est complétée avec l’enregistrement de l’annulation au TI 110 dans le dossier de l’enfant. Cette information est automatiquement générée au TI 114 du parent concerné.
+Exemple : fin de la filiation suite à l’annulation de la comaternité
+Statuts de départ :
+Dans le dossier de l’enfant :
+Au TI 110 : 01.07.2014 Filiation maternelle avec reconnaissance de la coparenté à la naissance de Dupont, Ingrid (74.08.08 364-36) et de Durant, Isabelle (70.04.06 390-23)
+Dans le dossier des coparentes :
+74.08.08 364-36
+Au TI 114 : 01.07.2014 Parent de Dupont Lise (14.07.01 017-34)
+70.04.06 390-23
+Au TI 114 : 01.07.2014 Parent de Dupont Lise (14.07.01 017-34)
+Si 70.04.06 390-23 perd son droit :
+1.Mettre les fins de filiation (code 29)
+a) Utiliser le code opération 11 du TI 114 pour mettre le code de fin, et ensuite utiliser le code opération 12 pour mettre la date de fin :
+ 70.04.06 390-23 – 11 – 114 – 0 – 01.07.2014 – 26 – 14.07.01 017-34 – 29
+ 70.04.06 390-23 – 12 – 114 – 0 – 01.06.2018 – 01
+b) Dans l’autre dossier :
+ 74.08.08 364-36 – 11 – 114 – 0 – 01.07.2014 – 26 – 14.07.01 017-34 – 29
+ 74.08.08 364-36 – 12 – 114 – 0 – 01.06.2018 – 01
+2.Mettre la nouvelle filiation dans le dossier de l’enfant et de la mère biologique
+Il sera ainsi indiqué dans le dossier de l’enfant :
+110 01.06.2018 Filiation maternelle par suite d’annulation de filiation comaternelle de : Dupont Ingrid (74.08.08 364-36)
+110 01.07.2014 Filiation maternelle avec reconnaissance de la coparente à la naissance de Dupont, Ingrid (74.08.08 364-36) et de Durant, Isabelle (70.04.06 390-23)
+Il sera ainsi indiqué dans le dossier de la mère biologique :
+114 01.06.2018 Parent de Dupont Lise (14.07.01 017-34)
+114 01.07.2014 Parent de Dupont, Ingrid (74.08.08 364-36) et de Durant, Isabelle (70.04.06 390-23) Justificatif de fin : 29 (Supprimée le 01.06.2018)
+En cas d’utilisation du code opération (C.O.) 13 (annulation) et si plusieurs informations 114 figurent dans le dossier, il est nécessaire d’indiquer le numéro de l’information à annuler.
+Si un Ti 114 doit être ajouté en historique (c’est-à-dire à une date antérieure à une information 114 existante), il y a lieu d’utiliser le code opération (C.O.) 17. L’information sera automatiquement placée en-dessous de l’information la plus récente.
+Codes opération autorisés (C.O.) : 10 – 11 – 13 et 17.
+Code service (C.S.) : 0
+L’historique est conservé au TI 114
+Texte:
+TI 121 – Lieu de naissance du conjoint (CJT)
+⇨ Le TI 121 renseigne le lieu de naissance du conjoint.
+Cette information comprend :
+La date du mariage
+Le lieu de naissance du conjoint
+Par l’introduction de la date du mariage, il y a relation avec le TI 120 de sorte que le conjoint peut être identifié aisément.
+⇨ L’information 121 s’enregistre sur base d’un acte de mariage.
+⇨ Le TI 121 s’adapte se génère automatiquement à la mise à jour du TI 120. Il est toutefois possible de l’adapter manuellement.
+⇨ L’information 121 s’adapte de la manière suivante : 10 – 121 – 0 – date mariage – lieu naissance conjoint (1)
+(1) Le lieu peut être un code INS commune, ou un code pays suivi du lieu (en clair).
+Codes opération autorisés (C.O.) : 10 – 11 – 13 et 17
+Code service (C.S.) : 0
+L’historique est conservé au TI 121.
+Texte:
+TI 122 – Contrat de mariage / patrimonial (CMP)
+⇨ Le TI 122 renseigne l’existence d’un contrat de mariage ou d’un contrat patrimonial.
+La déclaration – facultative – de l’existence de ces deux types de contrat complète ainsi la mention relative à l’état civil (TI120).
+Cette information comprend :
+La date de la déclaration d’un contrat de mariage ou d’un contrat patrimonial
+Le type de contrat (de mariage ou patrimonial)
+L’identité et l’adresse administrative du notaire auprès duquel l’acte a été enregistré
+⇨ L’information 122 s’enregistre sur base d’un acte notarié.
+⇨ Le TI 122 s’adapte à la date de l’acte déposé chez le notaire.
+⇨ L’information 122 s’adapte de la manière suivante : 10 – 122 – 0 – date déclaration contrat – contrat (1) – code INS (2) – commentaire (3)
+(1) codes contrat :
+Code 1 – contrat patrimonial
+Code 2 – contrat de mariage
+(2) Le code INS est celui de la commune où est située l’étude du notaire qui a authentifié le contrat de mariage ou le contrat patrimonial
+(3) Le commentaire reprend l’identité du notaire. Il n’est pas nécessaire de la faire précéder de la mention ‘’notaire’’ étant donné que cette mention s’indique automatiquement.
+La date de déclaration de contrat ne peut être antérieure à la date d’entrée en vigueur de l’arrêté royal du 5 septembre 1996, soit le 3 octobre 1996.
+Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+L’historique est conservé au TI 122.
+Texte:
+TI 124 – Mariage de complaisance (F.M)
+⇨ Le TI 124 stocke les différentes étapes de la procédure lorsqu’il existe une suspicion de mariage blanc (ou mariage de complaisance).
+Par mariage blanc (ou de complaisance), on entend mariage visant uniquement l’obtention d’un avantage en matière de séjour lié au statut d’époux (épouse). Bien que les consentements formels aient été donnés en vue de celui-ci, l’intention de l’un au moins des époux n’est manifestement pas la création d’une communauté de vie durable.
+L’information 124 permettra donc la mémorisation des formalités et décisions (prises par l’officier de l’état civil) précédant cet événement et ce, afin d’éviter que lors d’un changement de commune de gestion, la nouvelle commune valide un mariage douteux.
+Le mariage de complaisance est passible de poursuites pénales et il peut être déclaré nul. Toutefois, le partenaire qui était de bonne foi est considéré comme victime de l’union de complaisance et n’encourt dès lors aucune sanction pénale.
+Le TI 124 comporte :
+La date de la décision prise par la commune
+Le code décision
+Le code INS de la commune qui a pris la décision
+La date de notification de la décision aux parties intéressées
+Le numéro national du partenaire
+⇨ L’information 124 s’enregistre sur base de la décision prise par l’officier de l’état civil.
+Cette décision s’appuie sur une combinaison de facteurs constituant chacun une indication précieuse comme :
+Les candidats au mariage ne peuvent communiquer entre eux qu’imparfaitement ou par l’entremise d’un interprète
+Les candidats au mariage ne se sont jamais rencontrés avant l’acte de déclaration de mariage
+L’un des candidats au mariage cohabite durablement avec une autre personne
+…
+⇨ L’information 124 s’adapte à la délivrance de l’accusé de réception lorsque le mariage peut procurer un avantage en matière de séjour, lié au statut d’époux (épouse). D’autres informations relatives aux formalités et décisions seront ajoutées au TI 124 au fur et à mesure de la procédure.
+⇨ L’information 124 s’adapte de la manière suivante : 10 – 124 – 0 – date de l’information (1) – code décision (2) – Code INS (3) – date de notification (4) – numéro national (5)
+(1) la date de l’information est celle de la décision prise par l’officier de l’état civil
+(2) codes décisions :
+01 – délivrance de l’accusé de réception de la déclaration de mariage
+02 – refus de l’établissement de l’acte de déclaration de mariage
+03 – sursis à la célébration du mariage
+04 – refus de célébrer le mariage
+(3) code INS de la commune (de l’Officier de l’état civil) qui a pris la décision
+(4) date de la notification de la décision aux parties intéressées. Pour les codes 02 et 04, une date réelle est obligatoire. Une date non définie (avec huit zéros) est uniquement possible pour les codes 01 et 03
+(5) le numéro national est l’identifiant du dossier du partenaire. L’utilisation d’un numéro national fictif est interdite. L’information sera automatiquement enregistrée dans le dossier du partenaire.
+Remarque :
+Les personnes qui envisagent de se marier et qui ne disposent pas d’un numéro national seront inscrites dans le registre d’attente de la commune de la déclaration de mariage. Elles seront mentionnées au TI 210 (registre d’inscription) avec le code 09
+TI 210/9 = Registre d’attente – Déclaration mariage/cohabitation
+Codes opération autorisés (C.O.) : 10 – 11 et 13
+Remarque pour les C.O. 11 et 13 :
+Lorsqu’il y a plusieurs informations actives au TI 124, même avec des dates différentes, un numéro d’ordre doit être ajouté à la fin de la structure, pour indiquer l’information que l’on veut corriger/annuler. L’information la plus récente au-dessus dans les informations au TI concerné porte le numéro 1, la seconde information porte le numéro 2, etc…
+En cas d’annulation de la première information, le numéro d’ordre n’est pas requis.
+Code service (C.S.) : 0
+L’historique est conservé au TI 124. Toutefois, les informations sont effacées 5 ans après la date à laquelle l’officier de l’état civil notifie aux parties intéressées :
+La décision de refus d’établissement de l’acte de déclaration de mariage ;
+La décision de refus de célébrer le mariage.
+De même, les informations sont automatiquement effacées dès l’enregistrement de la célébration du mariage entre les parties intéressées.
+Texte:
+TI 123 – Cohabitation légale (C.L)
+⇨ Le TI 123 renseigne la cohabitation légale de deux personnes.
+Par cohabitation légale, on entend la situation de vie commune de deux personnes ayant fait la déclaration de cohabitation légale auprès de l’officier de l’état civil du domicile commun qui l’actera dans le registre de la population.
+Conditions pour les déclarants :
+Ils doivent posséder la capacité juridique
+Ils ne doivent pas être liés par un mariage ou par une autre cohabitation légale
+Ils doivent vivre en commun à la même adresse au moment de la déclaration
+Ils ne peuvent être mineurs (moins de 18 ans), sauf si leur dossier comporte un TI 111 (représentant légal) avec un code 50 (émancipation).
+L’information 123 comprend :
+La date de la déclaration
+Le lieu et la date d’enregistrement de la cohabitation légale
+L’identification du cohabitant
+L’identification du notaire et son adresse administrative, si convention passée en la forme authentique devant notaire.
+La fin de la cohabitation légale peut intervenir :
+Pour cause de décès ou de mariage
+Par déclaration de commun accord ou unilatérale
+En vertu d’un jugement du tribunal
+⇨ En cas de cessation unilatérale, la partie déclarante doit le faire signifier à l’autre partie par exploit d’huissier.
+⇨ En cas d’annulation de la cohabitation prononcée par un jugement ou un arrêt, un extrait reprenant le dispositif du jugement ou de l’arrêt doit être communiqué sans délai par le greffier à l’Officier de l’état civil de la commune du domicile des deux parties (ou à l’officier de l’état civil de la commune du domicile de chacune des parties si celles-ci ne sont plus domiciliées dans la même commune).
+⇨ L’information 123 s’enregistre sur base d’une déclaration ou de cessation de cohabitation légale, ou sur base d’un jugement en cas de cessation (dans les cas plus rares).
+⇨ Le TI 123 s’adapte à la date de déclaration de cohabitation ou de cessation de cohabitation.
+⇨ L’information 123 s’adapte de la manière suivante :
+Déclaration de cohabitation légale :
+10 – 123 – 0 – date déclaration – INS commune – date enregistrement – NN cohabitant (1)
+Si convention passée devant notaire : Nom et prénom du notaire – INS commune de résidence du notaire ou code pays
+(1) Le numéro national peut être un numéro fictif
+Déclaration de cessation de cohabitation légale :
+10 – 123 – 0 – date de fin – code cessation (1) INS commune de cessation ou code pays
+Si les parties ne résident plus dans la même commune : date de notification ou de signification de la cessation – INS commune de notification ou de signification ou code pays
+(1)Codes de cessation :
+1 – mariage
+2 – décès
+3 – commun accord
+4 – déclaration unilatérale
+5 – jugement du tribunal
+6 – annulation par décision de justice
+Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+L’historique est conservé au TI 123.
+Texte:
+TI 125 – Cohabitation légale de complaisance (FCL)
+⇨ Le TI 125 stocke les différentes étapes de la procédure lorsqu’il existe une suspicion de cohabitation légale de complaisance.
+La définition de la cohabitation légale de complaisance est officiellement inscrite au Code civil. En effet, après que la lutte contre le mariage de complaisance eut été renforcée ces dernières années, certaines communes ont alors remarqué que les candidats au mariage déboutés se tournaient vers la cohabitation légale, autre voie pour obtenir une régularisation.
+L’information 125 permet donc, tout comme le TI 124, la mémorisation des formalités et décisions (prises par l’officier de l’état civil) précédant cet événement et ce, afin d’éviter que lors d’un changement de commune de gestion, la nouvelle commune valide une cohabitation légale douteuse.
+Tout comme pour le mariage de complaisance, la cohabitation légale de complaisance est passible de sanctions pénales. De même que le juge pourra prononcer l’annulation de cette cohabitation ainsi qu’une interdiction d’entrée sur le territoire de cinq ans.
+Le TI 125 comporte :
+La date de la décision prise par la commune
+Le code décision
+Le code INS de la commune qui a pris la décision
+La date de notification de la décision aux parties intéressées
+Le numéro national du partenaire
+⇨ L’information 125 s’enregistre sur base de la décision prise par l’officier de l’état civil.
+⇨ L’information 125 s’adapte à la date de la décision prise par l’officier de l’état civil.
+⇨ L’information 125 s’adapte de la manière suivante : 10 – 125 – 0 – date de l’information (1) – code décision (2) – Code INS (3) – date de notification (4) – numéro national (5)
+(1) la date de l’information est celle de la décision prise par l’officier de l’état civil
+(2) codes décisions :
+01 – sursis à acter la déclaration de cohabitation légale
+02 – refus d’acter la déclaration de cohabitation légale
+(3) code INS de la commune (de l’Officier de l’état civil) qui a pris la décision
+(4) date de la notification de la décision aux parties intéressées. Une date non définie est complétée avec huit zéros.
+(5) le numéro national est l’identifiant du dossier du partenaire. L’utilisation d’un numéro national fictif est interdite. 
+L’information sera automatiquement enregistrée dans le dossier du partenaire.
+Remarque :
+Les personnes qui envisagent de conclure une cohabitation légale et qui ne disposent pas d’un numéro national seront inscrites dans le registre d’attente de la commune de la déclaration de mariage. Elles seront mentionnées au TI 210 (registre d’inscription) avec le code 09
+TI 210/9 = Registre d’attente – Déclaration mariage/cohabitation
+Codes opération autorisés (C.O.) : 10 – 11 et 13
+Remarque pour les C.O. 11 et 13 :
+Lorsqu’il y a plusieurs informations actives au TI 124, même avec des dates différentes, un numéro d’ordre doit être ajouté à la fin de la structure, pour indiquer l’information que l’on veut corriger/annuler. L’information la plus récente au-dessus dans les informations au TI concerné porte le numéro 1, la seconde information porte le numéro 2, etc…
+En cas d’annulation de la première information, le numéro d’ordre n’est pas requis.
+Code service (C.S.) : 0
+L’historique est conservé au TI 125. Toutefois, les informations sont effacées cinq ans après la date à laquelle l’officier de l’état civil notifie aux parties intéressées la décision de refus d’acter la cohabitation légale.
+De même que les informations sont automatiquement effacées dès l’enregistrement de la cohabitation légale.
+La radiation du registre d’attente sera effectuée après la même période.
+Texte:
+TI 150 – Décès (DEC)
+⇨ Le TI 150 renseigne la date, l’heure, le numéro d’acte et le lieu du décès d’une personne.
+La date de décès est la date à laquelle le décès est réellement survenu (et non la date de déclaration du décès).
+Le lieu de décès est celui où le décès est réellement survenu ou constaté, et non la commune de gestion (résidence) de la personne décédée.
+Depuis l’introduction de la BAEC (Banque de Données des Actes de l’Etat Civil) en date du 31 mars 2019, un acte de décès établi dans une commune est immédiatement disponible dans l’autre commune, et génère automatiquement la mise à jour du TI 150 (et du TI 001 – décédé) dans le dossier de la personne que l’acte concerne.
+Il reviendra cependant à la commune de résidence du défunt d’adapter éventuellement les TI 140/141 des membres survivants, et d’annuler les fonctions électroniques de sa carte d’identité dans le mois qui suit la date du décès.
+Pour les décès survenus à l’étranger : les actes établis à l’étranger ne sont pris en considération qu’après avoir été déclarés valables par l’Officier de l’état civil qui établi un acte belge dans la BAEC.
+Remarque : Lorsqu’une personne est déclarée disparue, une décision judiciaire déclarative de décès peut suppléer à l’acte de décès. De même qu’un jugement rectificatif de l’acte d’état civil peut être prononcé par une juridiction si la personne venait à réapparaître (Décision rectificative de l’acte d’état civil). Le Ti 150 peut également renseigner ces deux informations.
+⇨ L’information 150 s’enregistre sur base d’un acte de décès, d’une décision judiciaire déclarative de décès coulée en force de chose jugée ou d’une décision rectificative de l’acte d’état civil.
+⇨ Le TI 150 s’adapte à la date du décès ou à celle reprise dans la décision judiciaire déclarative de décès.
+⇨ Bien que l’information 150 se génère automatiquement, elle s’adapte de la manière suivante :
+Sur base d’un acte de décès :
+10 – 150 – 0 – date du décès – n° d’acte – heure du décès (1) – code INS commune du décès
+(1) Heure correcte entre 00 :00 et 23 :59. L’heure inconnue est représentée par 99 :99
+N.B.
+Si le décès est survenu à l’étranger, il y a lieu d’introduire le code pays du décès et le lieu en clair.
+Il est possible d’ajouter ou de corriger le numéro de l’acte au moyen du code opération (C.O.) 25
+Sur base d’une décision judiciaire déclarative de décès :
+10 – 150 – 0 – date de l’information (1) – code type 1 (2) – date transcription (3) – code INS (4)– références décision (max. 40 caractères alphanumériques) (5)
+(1) la date de l’information est celle fixée dans la décision judiciaire déclarative de décès
+(2) le code 1 : déclaration judiciaire déclarative de décès
+(3) la date de transcription de la décision judiciaire déclarative de décès
+(4) code INS :
+De la commune où l’acte est transcrit
+Du dernier lieu de domicile du défunt
+(5) les références de la décision judiciaire et sa date
+Sur base d’une décision rectificative de l’acte d’état civil :
+10 – 150 – 0 – date de l’information (1) – code type 2 (2) – code INS 1 (3) – code INS 2 (4) références décision (max. 40 caractères alphanumériques) (5)
+(1) la date de l’information est celle fixée dans la décision rectificative de l’acte d’état civil
+(2) le code 2 : décision rectificative de l’acte d’état civil
+(3) code INS de la commune où l’acte est transcrit
+(4) code INS de la nouvelle commune de résidence
+(5) les références de la décision rectificative de l’acte d’état civil
+Remarques :
+Si la personne décédée est mariée ou séparée de corps, l’état civil veuvage est automatiquement généré au TI 120 du conjoint survivant. De même que l’introduction du TI 150 génère automatiquement une cessation de la cohabitation légale (au TI 123).
+L’introduction du TI 150 modifie automatiquement le TI 001 (résidence). La mention ‘’décédée’’ y est indiquée à la date du décès.
+La dernière information ‘’composition de ménage’’ reste en l’état dans le dossier de la personne décédée au moment de son décès. Il y a lieu toutefois de procéder manuellement à la mise à jour des TIs 140/141 dans le dossier des membres du ménage survivants (suppression de la personne décédée).
+Codes opération autorisés (C.O.) : 10 et 25. Le code 13, non autorisé pour les communes, est uniquement utilisé par les services du Registre national.
+Code service (C.S.) : 0
+Texte:
+TI 151 – Disparition (D.D)
+⇨ Le TI 151 vise à enregistrer :
+La décision du juge de paix portant désignation d’un administrateur judiciaire en cas de présomption d’absence d’une personne constatée par le tribunal de 1ère Instance
+La décision déclarative d’absence➢Le jugement de rectification de l’acte d’état civil en cas de preuve que la personne déclarée absente est en vie ou en cas de réapparition de celle-ciL’absence se caractérise par la disparition d’une personne et plus spécifiquement par l’incertitude quant à la vie ou à la mort de cette personne.
+Dans cette hypothèse, le législateur a mis en place deux procédures judiciaires permettant de placer les biens de la personne absente sous administration, et après un certain délai, lui reconnaître le statut de personne décédée.
+La première phase est la présomption d’absence. Ainsi, lorsqu’une personne a cessé de paraître au lieu de son domicile ou de sa résidence depuis plus de trois mois sans que l’on ait eu de ses nouvelles pendant au moins trois mois et qu’il en découle une incertitude quant à sa vie ou à sa mort, le juge de paix peut, à la demande de toute personne intéressée ou du procureur du Roi, constater la présomption d’absence.
+Si le juge de paix constate la présomption d’absence, il pourra désigner par ordonnance motivée, un administrateur judiciaire en tenant compte de la nature et de la composition des biens à gérer.
+Un mois au plus après avoir accepté sa désignation, l’administrateur judiciaire rédige un rapport concernant la situation patrimoniale du présumé absent et le transmet au juge de paix.
+La mission de l’administrateur judiciaire consiste à gérer les biens du présumé absent en bon père de famille. II peut se faire assister dans sa gestion par une ou plusieurs personnes agissant sous sa responsabilité.
+Il est important de souligner que la personne présumée absente est toujours considérée comme vivante de sorte qu’elle reste propriétaire de ses biens et sa succession ne s’ouvre pas.
+La seconde phase consiste en la déclaration d’absence. Pour qu’une personne soit déclarée absente, il faut que des conditions soient réunies.
+Soit il faut qu’un délai de 5 ans se soit écoulé depuis la décision constatant la présomption d’absence, soit il faut qu’un délai de 7 ans se soit écoulé depuis la dernière fois où une personne a eu de ses nouvelles.
+Si l’une de ces conditions est remplie, le tribunal de la famille, peut, à la demande de toute personne intéressée ou du procureur du Roi, déclarer l’absence.
+Il est utile de préciser que la décision déclarative d’absence coulée en force de chose jugée tient lieu d’acte de l’état civil. Elle produit donc tous les effets du décès à la date de sa transcription.
+Si le déclaré absent réapparaît, il pourra faire tierce opposition au jugement déclaratif d’absence rendu par le tribunal. Il devra ensuite faire procéder à la rectification de l’acte de décès transcrit et ce, conformément aux articles 101 du Code civil et 1383 à 1385 du Code judiciaire.
+⇨ L’information 151 s’enregistre sur base :
+De la décision d’un juge de paix (désignation – remplacement – fin du mandat ou modification des pouvoirs de l’administrateur judiciaire)
+De la décision déclarative d’absence
+D’un jugement rectificatif de l’acte d’état civil
+⇨ Le TI 151 s’adapte :
+A la date de la décision du juge de paix
+A la date de transcription de la décision déclarative d’absence➢A la date de transcription de la décision rectificative de l’acte d’état civil
+⇨ L’information 151 s’adapte de la manière suivante :
+Décision du juge de paix
+10 – 151 – 0 – date (1) – code type (2) – NN de l’administrateur judiciaire – graphique (max. 40 caractères alphanumériques) (3)
+(1) date de la décision du juge de paix
+(2) type de décision :
+1 – désignation d’un administrateur judiciaire
+2 – remplacement de l’administrateur judiciaire
+3 – fin du mandant de l’administrateur judiciaire
+4 – modification des pouvoirs de l’administrateur judiciaire(3) le graphique indique la référence de la décision du juge de paix
+Décision déclarative d’absence ou jugement de rectification de l’acte d’état civil
+10 – 151 – 0 – date (1) – code type (2) – graphique (max. 40 caractères alphanumériques) (3)
+(1) date de transcription de la décision déclarative ou du jugement rectificatif
+(2) type de décision :•5 – décision déclarative d’absence•6 – jugement de rectification(3) le graphique indiquant la référence de la décision déclarative d’absence ou du jugement rectificatif ainsi que leur date
+Remarques :
+L’introduction d’une décision déclarative d’absence (type 5) au TI 151 a pour effet de modifier le TI 001 (résidence) dans le dossier de la personne. Une information ‘’absence déclarée’’ sera autogénérée dans ce TI.
+L’introduction d’une décision déclarative d’absence (type 5) a pour effet de modifier l’état civil du conjoint si la personne déclarée absente est mariée ou séparée de corps et de biens. L’état civil veuvage y sera automatiquement généré.
+De même que la personne déclarée absente sera supprimée du ménage si celle-ci faisait partie d’un ménage.
+L’introduction du jugement rectificatif au TI 151 a pour effet de supprimer automatiquement la mention ‘’absence déclarée’’ au TI 001 à la date de la transcription de la décision.Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+Texte:
+TI 152 – Mode de sépulture (SPL)
+Ce TI ne peut plus être modifié: il est remplacé par le TI 153.
+Texte:
+TI 153 – Mode de sépulture et rites (SPL)
+⇨ Le TI 153 enregistre, dans sa nouvelle structure, les informations contenues dans une déclaration relative aux dernières volontés quant au mode de sépulture.
+En vertu de la loi du 20 juillet 1971 sur les funérailles et sépultures, toute personne peut de son vivant informer de son plein gré et par écrit l’Officier de l’état civil de sa commune d’inscription de la façon dont il souhaite que soit accompagné et déposé son corps à son décès dans sa dernière demeure (caveau – urne funéraire – …)
+Remarque importante :
+Des réformes sont intervenues dans la manière dont les communes sont légalement tenues de recevoir la déclaration relative aux dernières volontés quant au mode de sépulture. Par conséquent, les programmes de mise à jour au Registre national de ces informations ont été adaptés de manière à ce le TI 152 ne puisse plus être mis à jour et soit remplacé par le TI 153 (que nous allons développer dans ce point).
+De plus, depuis le 1er janvier 2002, la matière relative aux funérailles et sépultures a été transférée aux Régions :
+La Région flamande a fait usage de ses compétences pour promulguer un décret permettant :
+Le maintien du choix du mode de sépulture ou la destination des cendres
+Le choix du rite de la conviction philosophique pour les funérailles
+La possibilité de faire mentionner dans l’acte l’existence d’un contrat d’obsèques
+Pour les 19 communes de la Région de Bruxelles-Capitale, il est également prévu la possibilité :
+De choisir son mode de sépulture ou la destination des cendres
+De choisir le rite confessionnel ou non confessionnel pour les obsèques
+La possibilité de faire mentionner dans l’acte de dernières volontés l’existence d’un contrat d’obsèques
+Pour la Région wallonne, il est également prévu la possibilité :
+De choisir son mode de sépulture ou la destination des cendres
+De choisir le rite confessionnel ou non confessionnel pour les obsèques
+La possibilité de faire mentionner dans l’acte de dernières volontés l’existence d’un contrat d’obsèques
+La déclaration relative aux dernières volontés quant au mode de sépulture et au rite de conviction philosophique pour les funérailles est introduite par écrit, datée, signée et remise contre récépissé à l’Officier de l’état civil de la commune d’inscription du déclarant.
+En cas de changement de résidence principale, la déclaration est maintenue dans le dossier du citoyen concerné qui est transféré à la commune où il s’est établi.
+Le déclarant peut toujours retirer ou modifier sa déclaration.
+N.B. En cas de décès d’une personne dans la commune où elle a son domicile, l’Officier de l’état civil doit, lors de la déclaration de décès, vérifier si une déclaration de dernières volontés a été consignée dans les registres. Si le décès intervient dans une commune autre que celle de la résidence principale, celle-ci transmet sans délai à la commune du décès les informations relatives aux dernières volontés du défunt.
+L’information 153 comprend :
+La date d’information : date à laquelle la demande a été introduite auprès de l’Officier de l’Etat civil
+Le code indiquant le mode de sépulture (ces codes correspondent avec les codes du TI 152)
+Le code du rite de la conviction philosophique pour les funérailles
+Le code INS de la commune où la déclaration a été introduite
+La date de déclaration : date à laquelle la déclaration a été introduite auprès de l’Officier de l’état civil
+Le code INS inhumation : code INS de la commune dans laquelle le déclarant souhaite être inhumé ou dans laquelle il souhaite que ses cendres soient inhumées / dispersées / placées (uniquement possible pour les communes de la Région flamande)
+L’existence d’un contrat d’obsèques (codifié)
+L’identité de la société avec laquelle le contrat d’obsèques a été conclu
+La date du contrat d’obsèques : date à laquelle il a été conclu
+Le numéro du contrat d’obsèques
+Pour les personnes de moins de 16 ans, l’information 153 comprend également :
+Le numéro national du représentant légal
+Un graphique reprenant le nom et le premier prénom de ce représentant légal (en clair)
+⇨ L’information 153 s’enregistre sur base de la déclaration de la personne.
+⇨ Le TI 153 s’adapte à la date de la déclaration.
+⇨ L’information 153 s’adapte de la manière suivante :
+Structure d’une mise à jour pour la Région wallonne et les 19 communes de la Région de Bruxelles-Capitale :
+10 – 153 – 0 – date info (1) – mode de sépulture (2) – rite funéraire (3) – contrat d’obsèques (4) – INS commune (5) – date du document (6) – numéro BCE (7) – date du contrat (8) – numéro du contrat (9) – NN du représentant légal (10)– graphique (max. 60 caractères) (11)
+(1) Date à laquelle la demande a été introduite auprès de l’officier de l’état civil
+(2) Codes des différents modes de sépulture :
+01 – inhumation des restes mortels
+03 – crémation et inhumation des cendres dans l’enceinte du cimetière
+04 – crémation et placement des cendres dans le columbarium du cimetière
+05 – crémation et dispersion des cendres sur la pelouse de dispersion du cimetière
+06 – crémation et dispersion des cendres en mer territoriale belge
+07 – crémation et dispersion des cendres à un endroit autre que le cimetière ou la mer territoriale belge
+08 – crémation et inhumation des cendres à un endroit autre que le cimetière
+09 – crémation et conservation des cendres à un endroit autre que le cimetière
+(3) Codes du rite de la conviction philosophique pour les funérailles
+01 – cérémonie funéraire selon le culte catholique
+02 – cérémonie funéraire selon le culte protestant
+03 – cérémonie funéraire selon le culte anglican
+04 – cérémonie funéraire selon le culte orthodoxe
+05 – cérémonie funéraire selon le culte juif
+06 – cérémonie funéraire selon le culte islamique
+07 – cérémonie funéraire selon la conviction laïque
+08 – cérémonie funéraire selon la conviction philosophique neutre
+(4) Code INS de la commune où la déclaration a été introduite auprès de l’officier de l’état civil
+(5) Date de rédaction de la déclaration
+(6) Existence d’un contrat d’obsèques : codes
+00 – pas de contrat d’obsèques
+01 – existence d’un contrat d’obsèques
+(7) Identité de la société avec laquelle le contrat d’obsèques a été conclu : numéro d’inscription de la société qui a émis le contrat à la Banque Carrefour des Entreprises (BCE) en 10 caractères
+(8) Date à laquelle de contrat d’obsèques a été conclu
+(9) Références du contrat d’obsèques (zone alphanumérique – max. 30 caractères)
+(10) Pour les personnes de moins de 16 ans : numéro national du représentant légal
+(11) Graphique reprenant le nom et le premier prénom du représentant légal (en clair)
+Structure d’une mise à jour pour la Région flamande
+10 – 153 – 0 – date info – mode de sépulture – rite funéraire – contrat d’obsèques – INS commune – date du document – code INS inhumation (1) – numéro BCE – date du contrat – numéro du contrat – NN du représentant légal – graphique (max. 60 caractères)
+N.B. Cette structure est identique à celle propre aux communes de la Région wallonne ou aux 19 communes de la Région Bruxelles-Capitale. Cependant, pour les communes de la Région flamande, il est possible d’ajouter dans la structure la commune de la dernière demeure du déclarant :
+(1) Le code INS de la commune où la personne souhaite être inhumée, ou le code INS de la commune ou la personne souhaite que ses cendres soient inhumées, placées ou dispersées. Si la commune n’est pas exprimée, le code INS ne contient que des zéros.
+Remarque générale :
+Il y a 3 possibilités pour introduire les codes concernant le mode de sépulture et les rites :
+Le déclarant opte uniquement pour un mode de sépulture
+Le déclarant opte uniquement pour un rite
+Le déclarant opte pour une combinaison des deux.
+Il n’y a pas d’historique de l’information 153 :
+En cas de modification de la déclaration, seule la mention de la déclaration la plus récente est conservée
+En cas de révocation de la déclaration, de radiation d’office ou de radiation pour l’étranger, aucune information n’est conservée
+Dans la mesure où les deux TIs se complètent, les informations déjà encodées au TI 152 seront de facto confirmées au TI 153. Ceci permettra alors de supprimer (manuellement) le TI 152 lorsque l’on crée pour une même personne un TI 153.
+Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+L’information ne contient aucun historique, seule la mention de la déclaration la plus récente est conservée.
+De même que si la personne est rayée d’office ou rayée pour l’étranger, aucune information n’est conservée.
+Titre, page:
+Les TI en lien avec l'étranger
+Texte, introduction:
+3 axes : 
+Arrivée depuis l’étranger
+Départ pour l’étranger
+TI spécifiques aux personnes de nationalité
+étrangère
+Texte:
+TI 006 – Origine (ORG)
+⇨ Cette information a pour effet de reprendre la date d’arrivée en Belgique d’une personne de nationalité belge ou étrangère ainsi que le pays où elle résidait avant son installation dans notre Royaume et la localité de ce pays si elle est connue.
+⇨ Le Ti 006 s’enregistre sur base de la déclaration d’arrivée du ressortissant étranger ou de la personne de nationalité belge n’ayant jamais résidé en Belgique auparavant.
+⇨ L’information 006 s’adapte lors de la création du dossier. Toutefois, pour la personne de nationalité belge, il est possible qu’un dossier ait déjà été collecté par un poste diplomatique ou une ambassade. Il y a dès lors lieu de n’introduire que l’information en elle-même et non de procéder à une collecte (sous peine de la création d’un doublon, ce qui n’est pas autorisé).
+⇨ Elle s’adapte de la manière suivante :
+Si le nom de la localité est inconnu :
+10 – 006 – 0 – date ( xx-xx-xxxx) – code pays
+Si le nom de la localité est connu :
+10 – 006 – 0 – date ( xx-xx-xxxx) – localité (en clair) – code pays
+Pour cette dernière structure, l’information en clair (information non codée), guillemets et code pays compris, ne peut dépasser 40 caractères, et il ne peut y avoir, dans cette dénomination en clair, que 4 caractères numériques successifs.
+Le code se trouvant dans la structure doit exclusivement être un code pays ; les codes spéciaux (apatrides et réfugiés) étant exclus.
+S’il n’y a qu’une seule information 001 (pas d’historique) dans le dossier, il faut que la date de l’information 006 soit antérieure ou égale à la date de l’information 001 (contenant le code INS d’une commune belge).
+Si par contre plusieurs informations 001 existent dans le dossier, la date de l’information 006 doit être postérieure à la date correspondant à un code pays et antérieur à la date correspondant au code INS d’une commune belge.
+Cette information, qui est conservée dans l’historique du dossier, peut être corrigée, supprimée ou annulée.
+Texte:
+TI 018 – Adresse à l’étranger (DAE)
+⇨ Le TI 018 renseigne la nouvelle adresse à l’étranger qu’une personne communique lors de son départ auprès du service Population.
+⇨ Cette information s’enregistre sur base de la déclaration réalisée par l’intéressé lui-même ou par la personne de référence du ménage lorsque ce départ pour l’étranger concerne tout le ménage.
+⇨ Le TI 018 s’adapte à la date de signature de la déclaration de départ dans la commune d’inscription.
+⇨ L’information 018 s’adapte de la manière suivante : 10 – 018 – 0 – date de déclaration ( xx-xx-xxxx) – zone texte 1 (1) ; zone texte 2 (2) ; zone texte 3 (3) – code pays
+(1) maximum 55 caractères
+(2) maximum 55 caractères
+(3) maximum 55 caractères
+La longueur cumulée des trois zones de texte, y compris les deux signes de séparation ( ;) ne peut excéder 70 caractères, et la troisième zone de texte est facultative.
+Le TI 018 doit correspondre à un TI 001 (radiation pour l’étranger) et les dates doivent être identiques.
+Codes opérations autorisés (C.O.) : 10 et 13.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 022 – Résidence à l’étranger (R.E)
+⇨ Le TI 022, qui complète le TI 001, renseigne la résidence principale d’un ressortissant belge à l’étranger.
+En effet, la loi du 26 juin 2002 relative aux registres consulaires de la population indique que les Belges qui établissent leur résidence principale dans la circonscription d’un poste consulaire et qui ne sont pas/plus inscrits dans les registres de la population d’une commune belge peuvent se faire inscrire dans les registres de la population dudit poste.
+L’information 022 ne peut être introduite que par le SPF Affaires étrangères. Il en va de même pour toute mise à jour ou modification d’informations relevant de l’état civil dont le SPF Affaires étrangères ou les postes diplomatiques auraient reçu notification ou relatives à des actes qu’ils auraient passés.
+⇨ Cette information s’enregistre sur base d’une demande d’immatriculation d’un ressortissant belge auprès d’un poste diplomatique ou consulaire belges à l’étranger.
+⇨ Le TI 022 s’adapte à la date à laquelle l’intéressé est inscrit à l’étranger.
+⇨ L’information 022 s’adapte de la manière suivante : 10 – 022 – 0 – date d’inscription (xx-xx-xxxx) – poste diplomatique (1) – territoire (2) – zone de texte 1 (max 150 caractères – zone de texte 2 (maximum 150 caractères) – zone de texte 3 (maximum 150 caractères) (3) – code pays (4)
+(1) Poste diplomatique : le code du poste diplomatique (4 chiffres) attribué par le SPF Affairess étrangères
+(2) Territoire : le code pays (3 chiffres) attribué par le SPF Affaires étrangères qui correspond au code du poste diplomatique
+(3) Résidence à l’étranger : 3 zones de texte libre qui totalisent au maximum 152 caractères malgré les longueurs maximales respectives de ces 3 zones. La troisième zone de texte est facultative et chaque zone de texte est séparée par un point-virgule (le deuxième point-virgule n’est indispensable que si la troisième zone de texte comporte une information).
+(4) Code pays : qui correspond ici à la résidence principale et non au poste diplomatique (obligatoirement 5 caractères, à savoir le code pays entre parenthèses).
+L’affichage dans le dossier se présente donc comme suit :
+ Poste diplomatique : poste diplomatique / pays
+ Résidence : adresse ; localité / pays
+Remarques importantes :
+Tout belge qui est inscrit dans les registres de la population tenus par des postes diplomatiques ou consulaires belges à l’étranger a l’obligation du droit de vote s’il remplit les conditions.
+Une nouvelle structure du TI 022 a été adaptée en vue notamment de l’exécution de la modification de la législation relative au droit de vote des Belges à l’étranger, et ce afin de pouvoir garantir une présentation plus structurée des informations.
+L’information 022 est conservée en historique.
+Texte:
+TI 023 – Adresse postale à l’étranger (A.E)
+⇨ Le TI 023 renseigne l’adresse postale (ou l’adresse de correspondance) d’un ressortissant belge inscrit dans un poste diplomatique ou consulaire belge à l’étranger.
+Dans le cadre du droit de vote des Belges à l’étranger pour les élections législatives fédérales, le TI 023 indique l’adresse à laquelle le ressortissant belge souhaite recevoir sa convocation (dans le cas du vote en personne dans une commune belge) ou son bulletin de vote (dans le cas du vote par correspondance).
+⇨ Cette information s’enregistre sur base d’une déclaration du ressortissant belge.
+⇨ Le TI 023 s’adapte à la date à laquelle l’intéressé est inscrit à l’adresse postale à l’étranger.
+⇨ L’information 023 s’adapte de la manière suivante : 10 – 023 – 0 – date d’inscription (xx-xx-xxxx) – zone de texte 1 (max 150 caractères – zone de texte 2 (maximum 150 caractères) – zone de texte 3 (maximum 150 caractères) (1) – code pays (2)
+(1) 3 zones de texte libre qui ne peuvent excéder 152 caractères malgré les longueurs maximales respectives.
+(2) Code pays : obligatoirement 5 caractères, à savoir le code pays entre parenthèses.
+Codes opérations autorisés (C.O.) : 10 – 11 – 12 – 13 – 20
+Code service (C.S.) : 0
+L’information 023 est conservée en historique.
+Texte:
+TI 008 – Droit de retour (D.R)
+⇨ Cette information enregistre le droit de retour octroyé aux personnes de nationalité étrangère inscrites dans les registres de population ou dans le registre des étrangers lorsqu’elles souhaitent quitter la Belgique.
+L’absence ne peut en principe excéder 1 an. Toutefois, et sous certaines conditions, le droit de retour peut être exercé après une absence de plus d’un an (en application de l’art. 39 de l’A.R. du 08.10.1981 sur l’accès au territoire, le séjour, l’établissement et l’éloignement des étrangers).
+⇨ L’information 008 s’enregistre sur base d’une annexe relative au ‘’droit de retour’’.
+⇨ Elle s’adapte à la délivrance dudit document.
+⇨ Elle s’adapte de la manière suivante : 10 – 008 – 0 – date de délivrance de l’annexe ( xx-xx-xxxx) – date échéance (xx-xx-xxxx)
+Si le TI 001 le plus récent du dossier n’est pas une commune belge, l’introduction d’un nouveau TI 001 indiquant une commune belge donnera lieu à une suppression automatique de l’information 008.
+Par contre, si la date du nouveau TI 001 d’une commune belge est plus récente que la date d’échéance de l’information 008, la commune de gestion doit alors supprimer elle-même l’information 008 manuellement (la suppression ne se fera pas automatiquement) après contrôle du droit de retour.
+L’information est conservée en historique et les codes opérations autorisés sont les codes 10 – 11 – 12 – 13 et 17.
+Texte:
+TI 211 – Document d’identité – étrangers (D.I)
+⇨ Le TI 211 indique le type de document sur lequel l’Office des Étrangers s’est basé pour déterminer l’inscription d’un étranger lors de sa demande d’asile, et pour procéder à son inscription au registre d’attente (R.A.).
+Ce document peut être un passeport, un document d’identité, un acte de naissance, une carte de vaccination, un permis de conduire.
+En l’absence de tout document, l’Office des Étrangers peut se baser sur une simple déclaration orale.
+Cette information est introduite par l’Office des Étrangers. Il n’y a dès lors pas lieu d’en développer la structure.
+Texte:
+TI 202 – Informations spéciales – étrangers (I.S)
+⇨ Le TI 202, qui doit obligatoirement être encodé à partir du 03 mars 2008, reprend les informations suivantes :
+Le motif du séjour
+Le numéro national de la personne qui ouvre le droit au regroupement familial
+Initialement, il fallait reprendre au TI 202 toutes les informations complémentaires en rapport avec la situation de séjour des étrangers introduites de manière facultative par les communes dans une zone alphanumérique non structurée.
+L’ancienne structure ne peut plus être utilisée. S’il est nécessaire de conserver l’information présente dans le TI 202 à ce moment-là, ou encore d’encoder une nouvelle information similaire, celle-ci peut être mentionnée dans le TI 246 (informations communales) (voir infra)
+Le TI 202 a depuis été adapté et structuré afin de pouvoir reprendre les informations suivantes :
+Le motif du séjour :
+Regroupement familial, cohabitation, adoption et autre membres de la famille
+Asile ou protections diverses
+Régularisation
+Travailleur
+Autres motifs
+Étudiant
+Résident de longue durée
+Étranger bénéficiant d’un statut spécial
+Mobilité
+Belpic – code provisoire
+Le numéro national de la personne ouvrant le droit au regroupement familial
+Le motif du séjour doit obligatoirement être repris dans le dossier des catégories d’étrangers suivants :
+Des étrangers européens ou non européens qui, après l’entrée en vigueur des nouvelles dispositions relatives au TI 202, effectuent une demande pour la première fois et qui obtiennent une carte d’étranger ou un document de séjour
+Des étrangers européens ou non européens qui, après l’entrée en vigueur des nouvelles dispositions relatives au TI 202, effectuent une demande pour le première fois et qui obtiennent le renouvellement ou la prolongation de leur carte d’étranger ou leur document de séjour.
+⇨ L’information 202 s’adapte à la date du fait.
+⇨ Le TI 202 s’enregistre de la manière suivante :
+Structure d’une mise à jour avant le 03 mars 2008
+10 – 202 – 0 – date info – libellé (1ère langue ) – libellé (2ème langue)
+Structure d’une mise à jour à partir du 03 mars 2008
+10 – 202 – 0 – date info – décision (en clair) (1) – NN
+(1) ou motif du séjour :
+Regroupement familial, cohabitation, adoption et autrse membres de la famille
+Asile ou protections diverses
+Régularisation
+Travailleur
+Autres motifs
+Étudiant
+Résident de longue durée
+Étranger bénéficiant d’un statut spécial
+Mobilité
+Belpic – code provisoire
+Remarques :
+La suppression automatique du TI 202 lors du changement de la commune de résidence est encore uniquement appliquée lorsque l’information a été introduite au moyen de l’ancienne structure (avant le 03 mars 2008).
+Le TI 202 n’est pas repris dans les dossiers des personnes qui sont inscrites au registre d’attente.
+Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 205 – Qualité de la personne – registre d’attente – étrangers (Q.P)
+⇨ Le TI 205, qui ne concerne que les étrangers inscrits au registre d’attente et au registre des étrangers, reprend uniquement la catégorie à laquelle la personne appartient lors de son inscription au registre dont elle dépend.
+Ces catégories sont :
+Demandeur d’asile (registre d’attente – RA + registre des étrangers – RE)
+Membre de la famille d’un demandeur d’asile (RA + RE)
+Personne déplacée (RE)
+Personne déplacée et demandeuse d’asile (RE)
+⇨ L’information 205 s’adapte à la date à laquelle un des statuts indiqués ci-dessus est accordé à la personne.
+⇨ Le TI 205 s’enregistre de la manière suivante : 10 – 205 – 0 – date info (1) – code (2)
+(1) date à laquelle le statut a été accordé
+(2) codes statut :
+1 – demandeur d’asile
+2 – enfant ou conjoint candidat réfugié
+3 – personne déplacée
+4 – personne déplacée et demandeur d’asile
+Codes opération autorisés (C.O.) : 10, 12 et 13
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 206 – Situation administrative – étrangers (S.A)
+⇨ Le TI 206 reprend la situation administrative (actuelle et en historique) des personnes reprises au registre d’attente (R.A.).
+L’information 206 mentionne la notification par la commune d’une décision émanant de l’Office des Étrangers (O.E.) ou d’un autre organisme.
+⇨ L’information 206 s’adapte lorsque la commune à connaissance de la décision.
+⇨ Le TI 206 s’enregistre de la manière suivante : 10 – 206 – 0 – date info (1) – notification (2) – organisme (3) – INS commune de notification – référence (facultatif)
+(1) date info : celle de la notification
+(2) codes notification :
+01 – demande d’asile introduite
+10 – ancienne procédure d’asile
+11 – avis du CGRA (Commissariat Général aux Réfugiés et aux Apatrides) (procédure avant le 01.06.93)
+12 – protection subsidiaire
+13 – notification par la poste par
+14 – notification par (remise en mains propres)
+15 – notification par fax par
+16 – notification par
+17 – retrait de la décision du
+18 – biffure
+20 – recours non suspensif
+22 – introduction d’un recours suspensif
+30 – a quitté le territoire
+40 – renonciation à la demande d’asile
+45 – séjour illimité – demande d’asile sans objet (art. 55)
+50 – octroi d’un délai pour quitter le territoire
+60 – évasion (d’un centre fermé)
+80 – procédure
+(3) codes organisme :
+0 – AUT (autres – communes,…)
+1 – OE (Office des Étrangers)
+2 – CGRA (Commissariat Général aux Réfugiés et aux Apatrides)
+3 – CPRR (Commission Permanente de Recours)
+4 – CE (Conseil d’Etat)
+5 – MI (Ministre de l’Intérieur)
+6 – DCAR (Centre d’intégration sociale)
+7 – CCE (Conseil du Contentieux des Etrangers)
+8 – FEDASIL
+Codes opération autorisés (C.O.) : 10 et 13
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 207 – Lieu obligatoire d’inscription – étrangers (LOI)
+⇨ Le TI 207 indique le lieu obligatoire d’inscription – CPAS dont l’étranger concerné dépend – fixé par le Ministre de l’Intérieur ou son délégué, en application de l’article 54 de la loi du 15 décembre 1980.
+L’information 207 (tout comme les TIs 205 et 206) peut être consultées par les communes, les CPAS, l’Office des Étrangers ou par les services de la Direction de l’Aide sociale du SPF Affaires sociales, Santé publique et Environnement.
+Cette information est introduite par l’Office des Étrangers. Il n’y a dès lors pas lieu d’en développer la structure.
+Texte:
+TI 213 – Autre nom ou pseudonyme – étrangers (ALS)
+⇨ Le TI 213 renseigne ‘’l’autre nom’’ ou le pseudonyme d’un étranger.
+Tout demandeur d’asile est tenu de se présenter à l’Office des Étrangers qui, après un entretien avec l’intéressé, enregistre sa demande.
+C’est à l’occasion de cette demande que sont enregistrées les informations d’identité du demandeur sur la base de tout document susceptible d’être pris en considération ou, habituellement, sur déclaration verbale. Il va sans dire que tant les documents présentés que les déclarations des intéressés sont souvent sujets à caution et que des vérifications ultérieures sont parfois nécessaires. Il n’est pas non plus exclu qu’un individu se fasse connaître sous des identités différentes, d’où la nécessité d’enregistrer des "alias" au TI 213.
+Cette information est introduite par l’Office des Étrangers. Il n’y a dès lors pas lieu d’en développer la structure.
+Titre, page:
+Les TI en lien avec les documents & le travail
+Texte, introduction:
+4 axes :
+Pièces « prouvant » l’identité
+Le travail des belges
+Les pensions
+Le travail des étrangers
+Texte:
+TI 180 – Numéro de carte d’identité électronique (CER)
+⇨ Le TI 180 reprend les numéros des certificats d’identité et de signature repris sur la carte d’identité électronique, ainsi que le numéro de celle-ci.
+Toutefois, à partir du 16 janvier 2007, seul le numéro de la carte d’identité électronique et l’éventuelle présence des certificats sont enregistrés dans le nouveau type d’information 180.
+Pour les enfants belges de moins de 12 ans, seule la présence du certificat d’identité est mentionnée ; l’obligation de signature de la carte n’étant pas requise jusqu’à l’âge de 12 ans de l’enfant.
+Le certificat d’identité peut être activé à partir de l’âge de 6 ans.
+⇨ Sur quelle base, quand et comment s’adapte l’information ?
+L’introduction de l’information se fait automatiquement lors de la délivrance de la carte. L’annulation se fait également automatiquement lors de la révocation de la carte.
+Remarque importante :
+Il est impératif de vérifier si l’enregistrement automatique du TI 180 a bien eu lieu au Registre national suite à l’activation de la carte d’identité. Il peut en effet arriver que suite à un problème technique, l’autogénération ne s’est pas effectuée. Dans ce cas, il convient d’introduire manuellement le TI 180 en respectant les structures suivantes :
+Structure avec une date d’information antérieure au 16 janvier 2007 :
+10 – 180 – 0 – date de l’activation des certificats – n° de la carte d’identité (1) – certif. 1 (2) – certif. 2 (3)
+(1) Le numéro de la carte d’identité électronique en 12 chiffres continus
+(2) (3) Le numéro du certificat en 39 chiffres
+Structure avec une date d’information à partir du 16 janvier 2007 :
+10 – 180 – 0 – date de l’activation des certificats – n° de la carte d’identité (1) – certif. 1 (2) – certif. 2 (3)
+(1) Le numéro de la carte d’identité électronique en 12 chiffres continus
+(2) (3) La présence éventuelle des certificats (codifié) :
+0 – pas de certificat
+1 – présence du certificat
+Ces champs relatifs à la présence ou non des certificats doivent impérativement être complétés.
+Codes opération autorisés (C.O.) : 10, 12 et 13
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 195 – Titre d’identité (C.I)
+⇨ Le TI 195 reprend les cartes et les titres d’identité aussi bien personnes de nationalité belge que celles de nationalité étrangère.
+L’information 195 se compose :
+De la date à laquelle le document d’identité est délivré
+Du type de carte délivrée
+Du numéro de la carte
+Du code INS de la commune de délivrance de la carte
+De la date à laquelle la carte est périmée
+Du numéro d’ordre du duplicata (01, 02,..)
+Du numéro de prolongation de la carte (01, 02 ou 03)
+De la durée de validité
+⇨ Le TI 195 s’enregistre sur base de la délivrance du document d’identité
+⇨ Le TI 195 s’adapte à la date à laquelle le document d’identité a été délivré.
+⇨ Le TI 195 s’enregistre de la manière suivante : 10 – 195 – 0 – date info – type de carte (1) – n° carte – INS commune – date péremption – duplicata (2) – prolongation (2) – durée (2)
+(1) les types de documents d’identité :
+00 – CI
+0100 – annexe 15 – attestation
+0110 – annexe 35 – document spécial de séjour
+0120 – annexe 12 – attestation
+0121 – annexe 6 – attestation
+0122 – annexe 49
+0123 – annexe 50
+0124 – annexe 51
+0200 – carte d’identité provisoire
+0210 – certificat d’identité provisoire – 12 ans
+10 – CIRE (certificat d’inscription au registre des étrangers)
+11 – carte A
+12 – carte B
+13 – carte C
+14 – carte D
+15 – carte E
+16 – carte E+
+17 – carte F
+18 – carte F+
+19 – carte H
+20 – Ci. Etr.
+21 – carte de séjour – membre de famille d’un citoyen de l’UE
+22 – carte de séjour permanent – membre de famille d’un citoyen de l’UE
+23 – I. ICT
+24 – J. Mobile ICT
+30 – A.I.
+40 – C. CEE
+41 – attestation d’enregistrement
+42 – document attestant la permanence du séjour
+50 – C. Im. B.
+60 – C.I. Enf
+70 – Cert. I. Enf
+71 – Doc. I. Enf. – 12 ans
+80 – C. CEE Indep.
+90 – T.I. Spec. Etr
+91 – C.I. Spéciale P
+92 – C.I. Spéciale E
+93 – C.I. Spéciale S
+94 – C.I. Spéciale C
+95 – C.I. Spéciale D
+(2) Ces 3 dernières cases de la structure ne doivent pas nécessairement être remplies. Elles seront constituées de zéros si elles sont sans objet.
+Remarques :
+L’information d’un certain nombre de titres d’identité sera introduite automatiquement au TI 195 dès la délivrance de la carte dans le système BELPIC. Pour d’autres types d’information, la mise à jour doit cependant être effectuée manuellement.
+Le nombre d’informations liées au TI 195 étant limité, un code rejet a été ajouté. Ce code indique que le TI 195 contient son maximum d’informations et doit par conséquent être abrégé. Cela peut se faire en groupant les prolongations relatives à un même titre d’identité dans une seule information.
+Les programmes du Registre national ont été adaptés de sorte que lors de l’introduction de certains types d’information, il y a d’abord lieu de procéder à l’annulation de la carte d’identité de l’intéressé. Le contrôle de l’annulation de la carte est prévu pour les informations suivantes :
+TI 001 – lors de l’annulation d’un dossier
+TI 001 – lors de l’introduction d’une radiation d’office
+TI 031 – lors d’un changement de nationalité
+TI 150 – lors de l’introduction d’un décès
+Si la carte d’identité n’a pas été annulée au préalable, le code rejet 366 est automatiquement renvoyé.
+Codes opération autorisés (C.O.) : 10, 11, 13 et 20
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 191 et TI 194 – Permis de conduire (P.C)
+⇨ Le TI 191 renseigne les informations relatives au permis de conduire de tout citoyen titulaire de ce document.
+⇨ Le TI 194 reprend les informations liées au permis de conduire. Toutefois, ce type d’information, qui ne peut plus être enrichi depuis le 01.10.1998, a été remplacé par le TI 191.
+Toutefois, les communes ne doivent plus procéder à l’enregistrement de ces informations dans les registres de la population et dans le registre des étrangers par l’arrêté royal du 26 mars 2014 (publié au Moniteur belge le 05 juin 2014 – entré en vigueur le 15 juin 2014).
+Depuis le 15 juin 2014, le traitement de ce type de données est centralisé au SPF Mobilité et Transport par le biais du système Mercurius, et sans intervention du Registre national.
+Concrètement, cela signifie que les mises à jour par les communes ont cessé à partir du 15 juin 2014.
+Il n’y a dès lors pas lieu de développer la structure pour ce type d’information.
+Texte:
+TI 199 – passeport – Belges (PAS)
+⇨ Le TI 199 renseigne les informations relatives aux passeports délivrés à un Belge par une autorité communale ou par un poste diplomatique ou consulaire.
+L’information 199 comprend :
+La date de délivrance du passeport, ou la date à laquelle un évènement s’est produit, par exemple, la perte du passeport
+Le numéro du passeport
+Le code statut du passeport :
+Délivrance
+Annulation
+Destruction
+Perte
+Vol
+Invalidation
+Retrait ou conservation par l’autorité
+Erreur administrative
+Erreur de production
+Le code INS de la commune belge ou du poste diplomatique ou consulaire qui délivre le passeport
+La date de production (première date de validité mentionnée sur le passeport)
+La date de péremption (date ultime de validité mentionnée sur le passeport)
+En application des diverses circulaires du SPF Affaires étrangères, les adaptations suivantes ont été mises en application :
+Tous les passeports belges ont une durée de validité de 7 ans pour les personnes de 18 ans et plus, et une validité de 5 ans pour les personnes de 0 à 18 ans
+Les prorogations (ou prolongations) de sont plus autorisées
+Le système du deuxième passeport reste d’application
+Remarques :
+La délivrance de passeports pour les réfugiés et apatrides, qui était autrefois de la compétence des autorités provinciales, est maintenant de la compétence des communes.
+Les communes peuvent également délivrer un passeport aux ressortissants belges résidant à l’étranger, pour autant qu’ils soient inscrits dans les registres d’un poste consulaire ou diplomatique (un TI 022 doit apparaître dans le dossier).
+La délivrance de passeports pour les personnes de nationalité étrangère est quant à elle toujours de la compétence de l’ambassade du pays d’origine.
+⇨ Le TI 199 s’enregistre sur base du passeport délivré à l’intéressé
+⇨ Le TI 199 s’adapte à la date à laquelle le passeport a été délivré.
+⇨ Le TI 199 s’enregistre de la manière suivante :
+La réglementation relative aux passeports ayant été modifiée, on distinguera la structure appliquée avant le 1er avril 2002, et celle à appliquer à partir du 1er avril 2002
+Structure d’une mise à jour pour tous les passeports délivrés avant le 1er avril 2002
+10 – 199 – 0 – date délivrance – n° passeport – statut (1) – INS commune – ou poste diplomatique – date péremption – n° de prorogation (2) – n° d’ordre (facultatif) – ancien numéro de passeport (facultatif)
+(1) les différents statuts (à sélectionner) sont :
+Délivrance
+Annulation
+Destruction
+Perte
+Vol
+Invalidation
+Retrait ou conservation par l’autorité
+Erreur administrative
+Erreur de production
+(2) numéro de prorogation (ou prolongation du passeport) :
+00 – en cas de délivrance
+01 – en cas de première prorogation
+02 – en cas de deuxième prorogation
+Structure d’une mise à jour pour tous les passeports délivrés à partir du 1er avril 2002
+10 – 199 – 0 – date délivrance – n° passeport – statut (1) – INS commune – ou poste diplomatique – date production – date péremption
+(1) les différents statuts (à sélectionner) sont :
+Délivrance
+Annulation
+Destruction
+Perte
+Vol
+Invalidation
+Retrait ou conservation par l’autorité
+Erreur administrative
+Erreur de production
+Codes opération autorisés (C.O.) : 10, 12, 13 et 17
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 070 – Profession (PRF)
+⇨ Le TI 070 renseigne la profession, c’est-à-dire l’activité dont une personne tire ses principaux moyens d’existence. Il reprend uniquement la profession principale.
+Cette information exclu toute indication quelconque relative :
+A une spécialité dans la catégorie de profession
+A l’employeur
+A une profession complémentaire
+A un titre ou un mandat
+A l’endroit où s’exerce cette profession
+⇨ L’information 070 s’enregistre sur base de la déclaration du la personne qui sollicite l’adaptation dans son dossier personnel. Toutefois, vu que les communes ne peuvent vérifier l’exactitude de la profession, il est vivement conseillé qu’elles exigent la production d’un document officiel, et ce afin d’éviter les abus notamment dans le cas des professions libérales dont les titres sont protégés par la loi.
+⇨ Le TI 070 s’enregistre à la prise d’effet du document officiel ou à la date à laquelle la commune a pris connaissance de la déclaration de la personne concernée (par exemple, lors de l’inscription dans les registres de population).
+⇨ L’information 070 s’adapte de la manière suivante : 10 – 070 – 0 – date (xx-xx-xxxx) – code profession
+Remarques :
+La date de l’information ne peut jamais être approximative, c’est-à-dire que le mois et/ou le jour ne peuvent être remplacés par des zéros.
+Le code ‘’sans profession – étudiant’’ peut être introduit à partir de l’âge de 12 ans. Tous les autres codes profession doivent être introduits avec une date d’information supérieure à la date de naissance + 17 ans.
+L’information est codée en 5 chiffres, lesquels indiquent la profession proprement dite, et est suivie d’un sixième chiffre (0-1-2-3-4-5-6-9) mentionnant le statut social correspondant (profession protégée – (pré) pensionné – indépendant – salarié – stagiaire/apprenti – aide – non déterminé)
+Une profession n’apparaît pas dans la liste ?
+Une nouvelle liste simplifiée des codes profession est d’application à partir du 01.11.2007. Dans certains cas strictement justifiés, le Registre national peut créer de nouveaux codes profession si ceux-ci font défaut dans la liste. Les demandes de nouveaux codes doivent être adressées au service Relations extérieures.
+Si l’adaptation du TI 070 est à une date antérieure au 01.11.2007, il y a lieu de s’en référer à l’ancienne liste des codes professions.
+Codes opération autorisés (C.O.) : 10 – 11 – 13 – 17 et 20
+Code service (C.S.) : 0
+L’information 070 est conservée en historique.
+Texte:
+TI 193 – Carte de commerçant ambulant (AMB)
+⇨ Le TI 193 vise à enregistrer la carte de commerçant ambulant délivrée à l’intéressé.
+Par commerce ambulant, on entend la vente, l’offre en vente et l’exposition en vue de la vente de produits ou de services au consommateur par un commerçant en dehors de son établissement, inscrit à la Banque-Carrefour des Entreprises.
+La carte de commerçant ambulant est délivrée par les guichets d’entreprises qui disposent de bureaux dans tout le pays. Ces guichets agréés sont contrôlés et surveillés par le SPF Economie.
+Afin de limiter au maximum les risques de falsifications, l’autorisation d’activité ambulante est délivrée sur un support électronique depuis le 01.04.2013 et plus sur un support papier (les autorisations papiers ont perdu toute validité depuis le 01.04.2014).
+L’information 193 se compose :
+De la date à laquelle le carte de commerçant ambulant a été délivrée
+Du numéro de la carte de commerçant ambulant composé en principe de la manière suivante :
+Les deux premières positions indiquent l’année de délivrance
+La ou les deux position(s) suivante(s) indiquent la province
+Les quatre dernières positions indiquent un numéro de série
+Du numéro d’ordre de la carte de commerçant ambulant
+De l’indication de la catégorie :
+Marchés publics
+Voie publique
+Porte à porte
+En d’autres endroits
+Du code INS de la commune qui délivre la carte
+De la date de péremption de la carte
+⇨ Le TI 193 s’enregistre sur base de la délivrance de la carte de commerçant ambulant
+⇨ Le TI 193 s’adapte à la date à laquelle la carte de commerçant ambulant a été délivrée.
+⇨ Le TI 193 s’enregistre de la manière suivante : 10 – 193 – 0 – date info (1) – n° de carte – n° d’ordre (2) – catégorie (3) – INS commune – date de péremption
+(1) la date est celle de la délivrance de la carte
+(2) si le numéro d’ordre est absent, il faut alors introduire deux zéros (00)
+(3) catégories (à sélectionner) :
+Marchés publics
+Voie publique
+Porte à porte
+En d’autres endroits
+Codes opération autorisés (C.O.) : 10, 11, 13 et 20
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 196 – Sécurité sociale (CSS)
+⇨ Le TI 196 renseigne la carte de sécurité sociale délivrée à tout travailleur, belge ou étranger, inscrit au registre de la population ou au registre des étrangers et qui a accompli ses obligations scolaires à temps plein.
+La carte de sécurité sociale contient les informations relatives à l’identité du travailleur (nom et prénoms, date et lieu de naissance, adresse, profession et numéro national). Ces informations sont celles enregistrées au Registre national.
+L’information 196 se compose :
+De la date de délivrance de la carte
+Du code régime de sécurité sociale
+Travailleur(se)
+Secteur public
+Indépendant(e)
+Pensionné(e)
+Du numéro de la carte
+⇨ Le TI 196 s’enregistre sur base de la carte de sécurité sociale délivrée à l’intéressé
+⇨ Le TI 196 s’adapte à la date à laquelle la carte de sécurité sociale a été délivrée (c’est-à-dire celle à laquelle le travailleur vient retirer sa carte à l’administration communale).
+⇨ Le TI 196 s’enregistre de la manière suivante : 10 – 196 – 0 – date délivrance – code régime sécu (1) – n° carte sécu. Sociale (2)
+(1) les différents régimes de sécurité sociale sont :
+01 – travailleur(se)
+02 – secteur public
+03 – indépendant
+04 – pensionné(e)
+(2) le numéro de la carte de sécurité sociale se compose de 12 chiffres :
+Les trois premiers indiquent la commune qui a délivré la carte
+Les sept chiffres suivants constituent un numéro de série
+Les deux derniers chiffres forment le nombre de contrôle
+Remarque : la date de l’information doit être plus récente que la date de naissance de l’intéressé = 16 ans.
+Codes opération autorisés (C.O.) : 10, 11, 12, 13 et 20
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TIs 040 à 046 – Données de la Banque Carrefour de la Sécurité Sociale – BCSS (pas d’abbréviation)
+⇨ Ces types d’information ne concernent que les registres de la Banque-carrefour de la Sécurité Sociale (BCSS). Ils renseignent des informations de personnes qui ont été rayées d’office, ou qui ont été rayées pour l’étranger sans demander leur inscription dans les registres d’un poste diplomatique.
+Ces informations sont :
+TI 040 : celles relatives au sexe
+TI 041 : celles relatives aux nom et prénoms
+TI 042 : celles relatives à la résidence principale.
+TI 043 : celles relatives à la nationalité
+TI 044 : celles relatives au lieu et à la date de naissance
+TI 045 : celles relatives à l’état civil
+TI 046 : celles relatives au décès
+Dès que le dossier d’une personne radiée est modifié dans les registres de la BCSS, il est transmis au Registre national et les informations y sont automatiquement enregistrées.
+Etant donné que ces informations ne sont pas adaptées par les communes, il n’est pas nécessaire d’en développer les sources et les structures.
+Texte:
+TI 073 – Brevets de pension (P.S)
+⇨ Le TI 073 renseigne le brevet de pension (c’est-à-dire le document qui matérialise un droit à la pension) dont une personne est titulaire.
+Cette information comprend la date de l’attribution du brevet de pension, la catégorie du brevet (ou type de pension octroyée) et son numéro.
+⇨ Cette information s’enregistre sur base du document officiel octroyant le brevet de pension.
+⇨ Le TI 073 s’adapte à la date à laquelle le droit de percevoir une pension déterminée est reconnu. Si la commune ignore cette date, elle adaptera cette information à la date à laquelle elle a eu connaissance du brevet.
+⇨ L’information 073 s’adapte de la manière suivante : 10 – 073 – 0 – date (xx-xx-xxxx) – catégorie (1) – numéro du brevet
+(1) Les catégories de brevet sont différentes pour les pensions octroyées en Belgique ou à l’étranger :
+Codes prévus pour les brevets octroyés en Belgique :
+01 – pension de retraite et de survie
+02 – pension de l’Etat
+03 – pension de guerre
+04 – pension de mineur
+05 – pension communale
+06 – pension d’invalide et d’estropié
+07 – pension d’indépendant
+08 – pension mixte
+09 – pension militaire d’ancienneté
+10 – rente en cas d’accidents de travail
+Codes prévus pour les brevets octroyés à l’étranger :
+20 – Hors des pays de l’U.E.
+21 – Allemagne
+22 – France
+23 – Luxembourg (Grand-Duché)
+24 – Danemark
+25 – Italie
+26 – Grande-Bretagne
+27 – Irlande
+28 – Pays-Bas
+29 – Autres cas
+Remarque : Aucune mise à jour ne peut engendrer des informations ayant la même date, la même catégorie de brevet et le même numéro. Toutefois, il est autorisé d’introduire plusieurs brevets ayant le même numéro mais se rapportant à des catégories différentes.
+Codes opération autorisés (C.O.) : 10 – 12 et 13
+Code service (C.S.) : 0
+L’information 073 est conservée en historique.
+Texte:
+TI 074 – Pension spéciale (S.P)
+⇨ Le TI 074 renseigne les brevets de pension d’origines diverses qui, à cause de leur structure ou de leur contenu, ne peuvent être repris au TI 073.
+Cette information comporte la date d’attribution du brevet, le numéro de série de l’information et l’identification du brevet.
+⇨ Comme pour le TI 073, cette information s’enregistre sur base du document officiel octroyant le brevet de pension.
+⇨ Le TI 074 s’adapte à la date à laquelle le droit de percevoir une pension déterminée est reconnu. Si la commune ignore cette date, elle adaptera cette information à la date à laquelle elle a eu connaissance du brevet.
+⇨ L’information 074 s’adapte de la manière suivante : 10 – 074 – 0 – date (xx-xx-xxxx) – numéro de série (1) – identification du brevet (maximum 40 caractères alphanumériques)
+(1) Numéro de série : 1, 2 ou 3 selon le nombre de TI 074 déjà repris dans le dossier.
+Remarques :
+Si le dossier ne contient aucun TI 074, le numéro de série sera 1. A contrario, si le dossier contient déjà un TI 074, le numéro de série de la nouvelle information sera supérieur d’une unité à celle déjà contenue dans le dossier.
+En cas d’annulation d’une des informations 074, la structure de l’annulation devra mentionner le numéro de série à la fin. Il faudra ensuite adapter les informations 074 de manière à assurer une suite logique dans les numéros de série.
+En cas d’annulation du TI 074 le plus ancien, la structure ne devra pas mentionner le numéro de série.
+Codes opération autorisés (C.O.) : 10 – 12 et 13
+Code service (C.S.) : 0
+L’information 074 est conservée en historique.
+Texte:
+TI 197 – Carte professionnelle – étrangers (C.P)
+⇨ Le TI 197 renseigne la carte professionnelle délivrée à tout étranger qui exerce, en Belgique, une activité lucrative indépendante.
+Cette information ne concerne que les personnes de nationalité étrangère qui s’établissent dans une commune belge.
+Cette matière relève de la compétence des différentes Régions. Raison pour laquelle le numéro de la carte professionnelle est précédée d’un code pour la Région compétente : RW pour la Région wallonne, BR pour la Région de Bruxelles-Capitale, et VL pour la Région flamande.
+Toutefois, certaines catégories de personnes de nationalité étrangère sont toutefois dispensées de l’obligation d’être titulaires de cette carte ou ne doivent pas obligatoirement en avoir une :
+Les ressortissants d’un pays de l’U.E.
+Par la nature de la profession ou la durée trop limitée de l’activité exercée.
+L’information 197 comprend :
+La date de délivrance de la carte professionnelle (date du début de validité)
+Le numéro de la carte
+La date de péremption de la carte
+⇨ Le TI 197 s’enregistre sur base de la carte professionnelle délivrée à l’intéressé
+⇨ Le TI 197 s’adapte à la date à laquelle la carte professionnelle a été délivrée.
+⇨ Le TI 197 s’enregistre de la manière suivante : 10 – 197 – 0 – date de délivrance – n° de carte – date d’échéance
+Remarques :
+La date de début de validité doit être au moins supérieure de 16 ans à la date de naissance.
+Si la carte est délivrée pour une durée indéterminée, on indiquera 00009999 comme date d’échéance.
+Codes opération autorisés (C.O.) : 10, 11, 12 et 13.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 198 – Permis de travail – étrangers (P.T)
+⇨ Le TI 198 renseigne le permis de travail à toute personne de nationalité étrangère (hors U.E.) qui exerce en Belgique une activité professionnelle en tant que travailleur salarié.
+Cette information ne concerne que les personnes de nationalité étrangère qui s’établissent dans une commune belge.
+Cette matière relève de la compétence des différentes Régions. Raison pour laquelle le numéro de la carte est précédée d’un code pour la Région compétente : RW pour la Région wallonne, BR pour la Région de Bruxelles-Capitale, et VL pour la Région flamande.
+L’information 198 comprend :
+La date de délivrance du permis de travail (date du début de validité)
+Le numéro du permis de travail
+La date d’échéance du permis de travail
+⇨ Le TI 198 s’enregistre sur base du permis de travail délivré à l’intéressé
+⇨ Le TI 198 s’adapte à la date à laquelle le permis a été délivré.
+⇨ Le TI 198 s’enregistre de la manière suivante : 10 – 198 – 0 – date de délivrance – n° du permis – date d’échéance
+Codes opération autorisés (C.O.) : 10, 11, 12 et 13.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Question:
+Faut-il enregistrer la profession dans le Registre national ?
+Option de réponse:
+Non, cette information ne fait plus partie des informations légales du RN.
+Option de réponse:
+Oui, il faut l'enregistrer.
+Feedback si réponse incorrecte:
+En application de la loi du 9
+novembre 2015 portant dispositions diverses Intérieur, cette
+information ne fait plus partie des informations légales du Registre national.
+Mais cette suppression ne
+signifie pas qu’elle ne doit plus être mise à jour. En effet, ce TI fait
+toujours partie des informations qui doivent être mises à jour dans les
+registres de la population.
+La profession a en effet de
+l’importance lors de la constitution des bureaux électoraux.
+Les autorités relevant de l’Etat,
+des Communautés, des Régions, des provinces, des communes, des CPAS, de tout
+organisme d’intérêt public, ont l’obligation de communiquer les coordonnées des
+titulaires de fonctions du niveau A ou B, ainsi que le personnel enseignant.
+Cependant, dans un but de
+motivation et de renouvellement des bureaux électoraux et afin de ne pas
+désigner toujours les mêmes électeurs à des fonctions de présidence de bureau,
+il est conseillé, au vu de la nouvelle nomenclature utilisée en matière de
+catégorie de professions par le RNPP, d’inclure d’autres professions dans le
+processus d’élaboration de bureaux électoraux.
+La mise à jour du TI 070, peut
+avoir lieu lors de toute démarche administrative du citoyen auprès du service
+population ou du service de l’état civil.
+A noter aussi : lorsqu'il
+s'agit d'une profession libérale dont les titres sont protégés par la loi,
+l'agent du service communal exigera un document officiel attestant l'exercice
+de ladite profession.
+Feedback si réponse correcte:
+En application de la loi du 9
+novembre 2015 portant dispositions diverses Intérieur, cette
+information ne fait plus partie des informations légales du Registre national.
+Mais cette suppression ne
+signifie pas qu’elle ne doit plus être mise à jour. En effet, ce TI fait
+toujours partie des informations qui doivent être mises à jour dans les
+registres de la population.
+La profession a en effet de
+l’importance lors de la constitution des bureaux électoraux.
+Les autorités relevant de l’Etat,
+des Communautés, des Régions, des provinces, des communes, des CPAS, de tout
+organisme d’intérêt public, ont l’obligation de communiquer les coordonnées des
+titulaires de fonctions du niveau A ou B, ainsi que le personnel enseignant.
+Cependant, dans un but de
+motivation et de renouvellement des bureaux électoraux et afin de ne pas
+désigner toujours les mêmes électeurs à des fonctions de présidence de bureau,
+il est conseillé, au vu de la nouvelle nomenclature utilisée en matière de
+catégorie de professions par le RNPP, d’inclure d’autres professions dans le
+processus d’élaboration de bureaux électoraux.
+La mise à jour du TI 070, peut
+avoir lieu lors de toute démarche administrative du citoyen auprès du service
+population ou du service de l’état civil.
+A noter aussi : lorsqu'il
+s'agit d'une profession libérale dont les titres sont protégés par la loi,
+l'agent du service communal exigera un document officiel attestant l'exercice
+de ladite profession.
+Titre, page:
+Les TI en lien avec les élections et le dossier administratif
+Texte, introduction:
+3 axes
+Les élections
+La représentation
+Le dossier administratif
+Texte:
+TI 130 – Informations électorales (E.L)
+⇨ TI 130 reprend les informations électorales suivantes :
+La déchéance du droit de vote ou du droit de participer à une consultation populaire communale d’un citoyen
+Le fait qu’une personne possède à nouveau la qualité d’électeur ou de participant à une consultation populaire communale
+L’enregistrement des personnes susceptibles d’être désignées pour les fonctions de président dans un bureau de vote, ou de président ou d’assesseur dans un bureau de dépouillement
+L’enregistrement des personnes susceptibles d’être désignées pour la fonction d’assesseur dans un bureau de vote. Cette information concerne également les ressortissants de l’Union européenne pour les élections communales dans les communes de la Région de Bruxelles-Capitale.
+L’enregistrement des volontaires.
+Le nombre de fois où une personne a siégé comme président ou assesseur.
+Remarques :
+Si une personne remplit toutes les conditions d’électorat, il n’est pas nécessaire d’introduire dans son dossier une information ‘’électeur’’ ou ‘’participant à une consultation populaire communale’’.
+La déchéance de l’électorat doit également être introduite dans le dossier des ressortissants de l’Union européenne (élections pour le Parlement européen et communales) et dans le dossier des ressortissants hors Union européenne (élections communales). Cette information est essentielle lorsque le Collège communal doit apprécier le bien-fondé de la demande de participation desdits ressortissants à une élection avant leur inscription sur une liste électorale.
+L’information 130 comprend :
+La date à laquelle la situation électorale prend cours
+Le code de la situation électorale
+La date de fin de déchéance (du droit de vote ou de participation à une consultation populaire commune)
+L’indication du souhait d’une personne d’être volontaire pour une fonction dans un bureau de vote ou de dépouillement
+Le nombre de fois qu’une personne a exercé une fonction dans un bureau de vote ou de dépouillement
+Les codes renseignant une situation électorale sont les suivants :
+Code 6 : président dans un bureau de vote, ou président/assesseur dans un bureau de dépouillement
+Code 7 : assesseur dans un bureau de vote
+Codes valables jusqu’au 15.04.2009
+Code 1 : électeur / participant à une consultation populaire électorale
+Code 3 : non électeur / non participant à une consultation populaire électorale
+Codes valables à partir du 15.04.2009
+En application de la loi du 15.04.2009, la condamnation n’entraîne plus automatiquement la déchéance ou la suspension provisoire du droit de vote. Le juge pénal est dorénavant tenu de se prononcer explicitement sur la privation éventuelle des droits électoraux d’une personne qu’il aura condamnée du chef d’un crime ou d’un délit et en fixer la durée dans le jugement ou l’arrêt.
+Code 4 : électeur
+Code 5 : non électeur
+Code 8 : candidat
+Code 9 : non candidat
+⇨ L’information 130 s’enregistre sur base :
+D’une mesure visant suspendre une personne de ses droits électoraux (définie dans le Code civil) ou suite au fait qu’une personne possède à nouveau ou recouvre ses droits électoraux
+Du fait qu’une personne est susceptible d’occuper une fonction au sein d’un bureau de vote ou de dépouillement (président ou assesseur)
+⇨ L’information 130 s’adapte :
+A la date à laquelle une personne est susceptible d’être désignée pour occuper une fonction dans un bureau de vote ou de dépouillement
+A la date à laquelle une personne est suspendue de ses droits électoraux
+A la date à laquelle une personne possède à nouveau ses droits électoraux après une période de déchéance
+A la date à laquelle une personne recouvre sa qualité d’électeur / participant à une consultation populaire communale (pour certaines condamnations déterminées ou déclarations d’incapacité)
+A la date à laquelle une personne est non électeur / non candidat
+⇨ L’information 130 s’adapte de la manière suivante :
+Structure pour le code 4 (électeur) et le code 8 (candidat) – codes valables à partir du 15.04.2009
+10 – 130 – 0 – date de l’information – code 4 ou code 8
+Structure pour le code 5 (non électeur) et le code 9 (non candidat) – codes valables à partir du 15.04.2009
+10 – 130 – 0 – date de l’information – code 5 ou code 9 – date de fin d’échéance
+Les codes 4/8 et 5/9 peuvent en même temps, et dans différentes combinaisons, être présents dans un dossier.
+Exemple 1 : la personne est suspendue du droit de vote le 15.04.2013 pour une période de 5 ans, mais il peut être candidat (non électeur – candidat) :
+Mise à jour :
+10=130=0=15042013=5=14042018
+10=130=0=15042013=8
+Exemple 2 : la personne est exclue du droit de vote le 20.03.2013 et elle ne peut pas être candidate aux élections pour une période de 10 ans (non électeur – non candidat) :
+Mise à jour :
+10=130=0=20032013=5=31122199
+10=130=0=20032013=9=19032023
+Structure pour le code 6 (président dans un bureau de vote ou président / assesseur dans un bureau de dépouillement)
+10 – 130 – 0 – date de l’information – code 6 – catégorie (1) – vol (2) – nombre (3) – code INS (4)
+(1) catégories :
+01 – magistrats
+02 – stagiaires judiciaires
+03 – avocats et avocats stagiaires
+04 – notaires
+05 – huissiers de justice
+06 – fonctionnaires de niveau A et B
+07 – personnel enseignant
+08 – volontaires
+09 – personnes désignées parmi les électeurs de la circonscription électorale
+(2) vol : indication du souhait de l’intéressé de siéger comme volontaire :
+00 – pas volontaire
+01 – volontaire
+Afin d’éviter un double emploi de la dénomination dans l’impression, les volontaires ne sont pas mentionnés comme une catégorie distincte ; la catégorie 08 ne peut donc pas être introduite.
+(3) nombre : il s’agit ici du nombre de fois qu’une personne a effectivement siégé dans un bureau de vote ou de dépouillement.
+(4) code INS : celui de la commune qui introduit l’information.
+Structure pour le code 7 (assesseur dans un bureau de vote)
+10 – 130 – 0 – date de l’information – code 7 – catégorie 00 – vol – nombre – code INS
+ANCIENNES STRUCTURES (jusqu’au 15.04.2009)
+Structure pour le code 1 (électeur / participant à une consultation populaire) – structure sans date de fin d’échéance
+10 – 130 – 0 – date de l’information – code 1
+Structure pour le code 3 (Non électeur / non participant à une consultation populaire) –structure avec date de fin d’échéance
+10 – 130 – 0 – date de l’information – code 3 – date de fin d’échéance
+Structure pour le code 6 (président dans un bureau de vote ou président / assesseur dans un bureau de dépouillement)
+10 – 130 – 0 – date de l’information – code 6 – catégorie (1)
+(1) catégories :
+01 – juges
+02 – juges de paix
+03 – juges au Tribunal de police
+04 – avocats
+05 – notaires
+06 – fonctionnaires de niveau A et B de toutes les autorités publiques
+07 – personnel enseignant
+08 – stagiaires du parquet
+09 – électeurs ordinaires
+10 – volontaires
+Codes opération autorisés (C.O.) : 10 – 11 – 13 et 20
+Code service (C.S.) : 0
+L’historique est conservé au TI 130.
+Texte:
+TI 131 – Ressortissants étrangers – élections (EUE)
+⇨ TI 131 renseigne la participation des ressortissants étrangers résidant en Belgique aux élections européennes et communales.
+Ce type d’information a pour but d’enregistrer l’approbation de la demande introduite par :
+Les ressortissants des Etats membres de l’Union européenne résidant en Belgique en vue d’être inscrits sur la liste des électeurs pour les élections communales et/ou du Parlement européen
+Les ressortissants d’un Etat hors Union européenne résidant en Belgique depuis au moins 5 années consécutives, en vue d’être inscrits sur la liste des électeurs pour les élections communales.
+C’est le Collège communal qui marque son approbation pour la participation à ces élections.
+L’information 131 comprend :
+La date à laquelle le ressortissant reçoit l’approbation pour la participation aux élections communales et/ou européennes
+La catégorie : 01 (le demandeur souhaite participer aux élections européennes) et 02 (le demandeur souhaite participer aux élections communales)
+Le Code INS de la commune de la résidence principale où le demandeur a été accepté comme électeur
+Un graphique reprenant la commune ou la circonscription électorale dans laquelle l’intéressé a été inscrit en dernier lieu comme électeur dans son Etat d’origine au consulat de l’Etat de résidence pour l’élection du Parlement européen uniquement.
+⇨ L’information 131 s’enregistre sur base de la requête du ressortissant et de son approbation par le Collège communal.
+⇨ L’information 131 s’adapte à la date à laquelle le Collège communal donne l’agrément pour la participation aux élections communales et/ou européennes.
+⇨ L’information 131 s’adapte de la manière suivante :
+Structure propre aux élections du Parlement européen
+10 – 131 – 0 – date de l’information – code 01 – code INS – graphique (max. 40 caractères)
+Structure propre aux élections communales
+10 – 131 – 0 – date de l’information – code 02 – code INS
+Remarque :
+Dès qu’un citoyen de l’Union européenne ou hors Union européenne est inscrit sur une liste d’électeurs, cette inscription reste valable pour les prochaines élections communales et/ou du Parlement européen, et ce aussi longtemps qu’il remplit les conditions d’électorat. Une nouvelle demande ne doit donc pas être chaque fois introduite.
+A contrario, elle cesse d’être valable si le ressortissant étranger en manifeste le souhait (ou s’il ne satisfait plus à l’une ou l’autre condition d’électorat). Il en est de même si la personne est rayée d’office ou rayée pour l’étranger.
+Codes opération autorisés (C.O.) : 10 – 12 et 13
+Code service (C.S.) : 0
+L’historique est conservé au TI 131.
+Texte:
+TI 132 – Droit de vote des belges résidant à l’étranger (EL.)
+⇨ TI 132 vise à l’enregistrement de l’exercice particulier du droit de vote des Belges établis à l’étranger pour les élections législatives fédérales.
+Tous les Belges résidant à l’étranger et inscrits aux registres de la population tenus dans les postes diplomatiques ou consulaires à l’étranger et qui remplissent les conditions d’électorat sont soumis à l’obligation de vote.
+Ils doivent dès lors s’inscrire sur la liste des électeurs belges résidant à l’étranger.
+Ils ne sont toutefois plus obligés de se réinscrire comme électeur à chaque élection, sauf si :
+Ils ne sont plus immatriculés dans le poste diplomatique ou consulaire en question
+Ils n’ont pas voté à l’élection précédente
+Ils ont choisi de voter par correspondance lors des précédentes élections et n’ont pas confirmé leur mode de vote dans le délai prévu.
+Leur droit de vote peut être exercé de cinq manières différentes :
+Vote en personne dans une commune belge
+Vote par procuration dans une commune belge
+Vote en personne dans le poste diplomatique ou consulaire
+Vote par procuration dans le poste diplomatique ou consulaire
+Vote par correspondance
+L’information 132 se compose :
+De la date d’information :
+Date à laquelle le poste diplomatique ou consulaire reçoit la demande d’inscription sur la liste des électeurs ou celle modifiant le mode de vote
+Date à laquelle le recours est introduit contre la non-reconnaissance par le poste diplomatique ou contre la décision du Collège communal
+Du code correspondant au mode de vote (ex. : code 01 – vote en personne dans une commune belge)
+Du code INS de la commune belge dans laquelle l’électeur est inscrit ou dans laquelle le recours est introduit)
+Du code du poste diplomatique (attribué par le SPF Affaires étrangères)
+De l’indication de l’adresse où la personne souhaite recevoir la convocation ou le bulletin de vote (codifié)
+Du numéro national du mandataire en cas de vote par procuration
+Du critère de sélection de la commune dans laquelle l’électeur votera (commune belge du lieu de naissance de l’électeur, commune belge dans laquelle l’électeur a un jour été inscrit,…)
+De la date de validité des élections
+De la participation aux élections (ce qui permet à l’électeur belge établi à l’étranger de sélectionner à quelle(s) élection(s) il désire/veut participer)
+D’un commentaire (graphique) qui sert à indiquer le nom de l’époux lorsque le formulaire concerne une femme mariée. En effet, dans un certain nombre de pays, un courrier adressé à une femme mariée ne lui parvient pas si l’adresse ne mentionne pas le nom de son époux.
+⇨ Le TI 132 étant exclusivement mis à jour par les postes diplomatiques ou consulaires du SPF Affaires étrangères, il n’y a pas lieu d’en développer la/les structure(s).
+Il faut toutefois savoir que le TI 132 se supprime dans les cas suivants :
+En cas de nouvelle mise à jour du TI 001
+En cas de mise à jour du TI 130 (code 3 – déchéance des droits électoraux)
+En cas de décès (mise à jour du TI 150)
+En cas de changement de nationalité (TI 031) – un Belge acquiert la nationalité étrangère
+En cas de mise à jour de la résidence à l’étranger (TI 022)
+Un dossier peut comporter plusieurs TI 132 actifs (ex. : lorsque le ressortissant belge à l’étranger est à la fois candidat électeur et mandataire pour une autre personne).
+Texte:
+TI 111 – Personne représentée (P.P)
+⇨ Le TI 111 renseigne pour une personne mineure qu’elle a été émancipée, et pour une personne majeure qu’une mesure de protection à son égard a été instaurée.
+L’information 111 reprend :
+La date à laquelle la mesure de protection produit ses effets
+Le statut juridique de la personne (émancipation pour les mineurs d’âge, et sous administration pour les personnes majeures)
+La justification de la mesure de protection (protection des biens, protection de la personne,…)
+Les références et la date de la décision judiciaire (en commentaires).
+Les personnes sous statut de minorité prolongée ainsi que les personnes protégées qui ont été déclarées incapables d’exercer leurs droits politiques ne peuvent être admises au vote pendant la durée de l’incapacité. Il convient donc, lors de l’adaptation du TI 111, de mettre à jour l’information 130 (informations électorales) en introduisant le code 5 (non électeur).
+Une loi du 17 mars 2013 (entrée en vigueur le 01.09.2014) a réformé les régimes d’incapacité et instauré un nouveau statut de protection conforme à la dignité humaine. Par conséquent, les services du Registre national ont procédé à des adaptations. 
+Certains codes utilisés dans les structures de mise à jour ne sont plus d’application au 01.09.2014 et d’autres ont été adaptés à cette même date.
+⇨ L’information 111 s’enregistre sur base d’une décision judiciaire (en principe, un jugement).
+⇨ L’information est adaptée à la date à laquelle la mesure de protection produit ses effets.
+⇨ L’information 111 s’adapte de la manière suivante : 10 – 111 – 0 – date info (xx-xx-xxxx) (1) – code situation juridique (2) – code justificatif (3) – commentaire (4)
+(1) La date de l’information est celle à laquelle la mesure de protection produit ses effets :
+la date de publication au Moniteur belge en ce qui concerne certains actes
+la date du dépôt de la requête visant à désigner un administrateur pour les autres actes.
+(2) Codes situation
+Codes utilisés avant le 01.09.2014
+50 – personne émancipée (mineurs non mariés)
+61 – personne placée sous statut de minorité prolongée
+62 – personne ayant réintégré ses droits
+63 – personne interdite
+65 – personne colloquée à domicile
+67 – personne internée dans un établissement
+68 – sous administration provisoire
+69 – mise sous conseil judiciaire
+62 – personne ayant réintégré ses droits
+63 – personne interdite
+65 – personne colloquée à domicile
+67 – personne internée dans un établissement
+68 – sous administration provisoire
+69 – mise sous conseil judiciaire
+Codes utilisés à partir du 01.09.2014 :
+50 – personne émancipée (mineurs non mariés)
+70 – sous administration provisoire
+(3) Codes justificatifs :
+Codes utilisés avant le 01.09.2014
+2 – conseil de famille
+3 – jugement du tribunal
+5 – ordonnance du juge de paix
+7 – autorité à définir
+Codes utilisés à partir du 01.09.2014
+3 – jugement du tribunal
+4 – protection judiciaire concernant les biens
+5 – ordonnance du juge de paix
+6 – protection judiciaire concernant la personne
+8 – protection judiciaire concernant les biens et la personne
+(4) Le commentaire (40 caractères) reprend les références et la date de la décision judiciaire
+Quand une décision judiciaire met fin à la mesure de protection, le TI 111 doit être supprimé (de même que le code 5 dans le TI 130).
+Codes opération autorisés (C.O.) : 10 – 11 – 12 – 13 et 17
+Code service (C.S.) : 0
+L’historique est conservé au TI 111.
+Texte:
+TI 113 – Personne qui représente (RPR)
+⇨ Le TI 113 renseigne, dans le dossier de la personne protégée, l’identité de la personne qui a été désignée comme administrateur de la personne et/ou des biens. Dans le dossier d’un mineur non émancipé, l’information reprend l’identité du tuteur (et du subrogé tuteur) ou du tuteur officieux.
+L’information 113 reprend :
+La date à laquelle la mesure de protection produit ses effets
+Le statut de la personne qui représente
+La base ou la justification de la mesure de protection (administrateur des biens, jugement du tribunal, conseil de famille,…)
+Le numéro national de l’administrateur ou du tuteur, son nom et son adresse
+Les références et la date de la décision judiciaire (en commentaires).
+Pour les mineurs non émancipés, une loi du 17 mars 2013 (entrée en vigueur le 01.09.2014) a réformé les régimes d’incapacité et instauré un nouveau statut de protection conforme à la dignité humaine. Par conséquent, les services du Registre national ont procédé à des adaptations. Certains codes utilisés dans les structures de mise à jour ne sont plus d’application au 01.09.2014 et d’autres ont été adaptés à cette même date.
+Le TI 113 doit être repris dans le dossier de la personne protégée, internée, colloquée, interdite, placée sous minorité prolongée ou mineure assistée ou représentée.
+⇨ L’information 113 s’enregistre sur base d’une décision judiciaire (en principe, un jugement), d’un acte notarié, d’une décision du conseil de famille,....
+⇨ L’information est adaptée à la date à laquelle la mesure de protection produit ses effets.
+⇨ L’information 113 s’adapte de la manière suivante :
+Structure d’une mise à jour pour la personne protégée ou le mineur non émancipé :
+10 – 113 – 0 – date info (xx-xx-xxxx) (1) – code statut (2) – code justificatif (3) – commentaire
+(1) La date de l’information est celle à laquelle la mesure de protection produit ses effets :
+la date de publication au Moniteur belge en ce qui concerne certains actes
+la date du dépôt de la requête visant à désigner un administrateur pour les autres actes.
+(2) Codes statuts
+Codes utilisés avant le 01.09.2014
+10 – pour mineur non émancipé ou sous statut de minorité prolongée
+21 – administrateur légal (autre que le père ou la mère)
+22 – tuteur
+23 – personne qui a le droit de garde
+24 – administrateur provisoire
+25 – conseil judiciaire
+26 – curateur
+Codes utilisés à partir du 01.09.2014 :
+10 – pour mineur non émancipé
+22 – tuteur
+23 – personne qui a l’autorité parentale
+27 – subrogé tuteur
+28 – tuteur officieux
+30 – administrateur des biens
+31 – administrateur de la personne
+32 – administrateur des biens et de la personne
+(3) Codes justificatifs :
+Codes utilisés avant le 01.09.2014
+1 – naissance
+2 – conseil de famille
+3 – jugement du tribunal
+4 – acte notarié
+5 – ordonnance du juge de paix
+6 – décès
+Codes utilisés à partir du 01.09.2014
+1 – naissance
+2 – conseil de famille
+3 – jugement du tribunal
+4 – acte notarié
+5 – ordonnance du juge de paix
+6 – décès
+7 – tribunal de première instance
+8 – tribunal de la famille
+Structure d’une mise à jour pour le code information 10 (uniquement) :
+10 – 113 – 0 – date info (xx-xx-xxxx) – code statut – code 10 – nom/adresse
+Quand une décision judiciaire met fin à la mesure de protection, le TI 113 doit être supprimé.
+Codes opération autorisés (C.O.) : 10 – 11 – 12 – 13 – 17 et 20.
+Code service (C.S.) : 0
+L’historique est conservé au TI 113.
+Texte:
+TI 160 – Milice (MIL)
+⇨ Le TI 160 reprenait les informations relatives à la milice, c’est-à-dire les obligations militaires auxquelles était soumise une tranche de la population masculine.
+Toutefois, les lois sur la milice ayant été suspendues, ce TI n’est dès lors plus d’application.
+Texte:
+TI 190 – Reconnaissance titre (TIT)
+⇨ Le TI 190 reprend les titres reconnus par une commission compétente suite à des faits de guerre.
+Ces titres peuvent être celui de :
+Prisonnier politique
+Déporté
+Résistant armé
+Résistant civil
+Membre de la presse clandestine
+Réfractaire au travail obligatoire
+Orphelin de guerre
+Veuve de guerre
+⇨ Le TI 190 s’enregistre sur base du document officiel de reconnaissance émis par une commission compétente (ex. : Commission des Reconnaissances du SPF Santé Publique).
+⇨ Le TI 190 s’adapte à la date de reconnaissance du titre. Cette date doit toujours être postérieure à celle d’entrée en vigueur de la première décision rendue à ce sujet, à savoir la date du 22 décembre 1946.
+⇨ Le TI 190 s’enregistre de la manière suivante :10 – 190 – 0 – date de la reconnaissance du titre – code du titre (1) – commentaire (2)
+(1) Codes du titre :
+01 – Prisonnier politique
+02 – Déporté
+03 – Résistant armé
+04 – Résistant civil
+05 – Membre de la presse clandestine
+06 – Réfractaire au travail obligatoire
+08 – Orphelin de guerre
+09 – Veuve de guerre
+(2) Commentaire :
+Il est facultatif et contient maximum 20 caractères alphanumériques. Il est toutefois élargi à 40 caractères pour les communes bilingues, dans le cas où les mentions sont libellées dans 2 langues différentes. Ces mentions doivent être séparées par un astérisque.
+Codes opération autorisés (C.O.) : 10, 11, 12, 13 et 20
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 253 – Date de collecte (COL)
+⇨ Le TI 253 fait référence à la date à laquelle la collecte d’un dossier a été effectuée au Registre national, collecte ayant donné lieu à l’attribution d’un numéro national pour la personne concernée.
+Ce TI 253 est automatiquement généré au moment de la collecte.
+Texte:
+TI 250 – Référence à un dossier annulé (D.A)
+⇨ Le TI 250 fait référence à un dossier annulé.
+Lors de l’annulation d’un dossier au Registre national en raison :
+D’une date de naissance erronée
+D’un sexe erroné
+De l’enregistrement de modification du sexe (sur base d’un acte d’état civil)
+En cas de double dossier (doublon),
+Le numéro national du nouveau dossier actif est mentionné dans le TI 002 du dossier annulé.
+Il est cependant nécessaire, lors de la consultation du nouveau dossier, d’avoir également la communication faisant référence à l’ancien dossier annulé. Cette référence de l’ancien dossier sera renseignée au nouveau type d’information TI 250 qui figure dans le nouveau dossier actif après collecte.
+Remarque :
+A l’occasion de la recollecte d’un dossier, les demandes de mise à jour du TI 250, avec mention du motif, doivent être envoyées à la Délégation régionale du Registre national compétente.
+Les mises à jour du TI 250 (et du TI 002) étant réservées aux services du Registre national, il n’y a pas lieu d’en développer les structures.
+Texte:
+TI 254 – Date de la dernière mise à jour (pas d’abréviation)
+⇨ Le TI 254 indique la date de dernière mise à jour dans un dossier.
+Cette date est indiquée sur la partie supérieure d’une fiche RN, à côté du code INS de la commune de gestion.
+Elle reste inchangée lors de chaque impression ou interrogation, aussi longtemps qu’aucune nouvelle mise à jour n’intervient.
+Texte:
+TI 210 – Mention du registre (REG)
+⇨ Le TI 210 renseigne le registre dans lequel une personne est inscrite. Il peut s’agir du registre de la population, du registre des étrangers, du registre d’attente, du registre des non-résidents,…
+Pour les personnes de nationalité belge, cette information ne sera pas reprise étant donné qu’ils sont inscrits d’office dans le registre de la population (R.P.) ; elle sera toutefois reprise dans les dossiers des personnes de nationalité étrangère qui sont devenus belges.
+Pour le ressortissants étrangers, cette information permet d’indiquer le transfert du registre des étrangers (R.E.) au registre de la population (R.P.).
+Chaque commune dispose d’un registre d’attente (R.A.) :
+Dans lequel sont inscrits à l’adresse à laquelle ils ont établi leur résidence principale les étrangers qui introduisent une demande d’asile. Les membres de la famille qui les accompagnent y sont étalement inscrits. Lorsque le demandeur d’asile se voit reconnaître, par le CGRA (Commissariat Général aux Réfugiés et aux Apatrides) ou par le CCE (Conseil du Contentieux des Etrangers) la qualité de réfugié, le CGRA lui délivre une attestation sur base de laquelle il devra être inscrit au registre des étrangers (R.E.).
+Dans lequel sont inscrits les citoyens de l’Union européenne (UE) qui introduisent une demande d’inscription auprès de leur administration communale (annexe 19), en attendant qu’il soit procédé au contrôle de résidence. Ils seront inscrits préalablement, au moment de la collecte, à une adresse déclarée qui se traduit comme suit : ‘’Inscription sur déclaration, 0’’. En cas de contrôle positif sur leur résidence, ils seront inscrits dans le registre des étrangers (R.E.) à la date du rapport de police. Si le contrôle s’avère négatif, ils seront rayés d’office au moyen du code 99998 (‘’Radiation – pas droit d’inscription’’).
+Sont mentionnées au registre des non-résidents les personnes mentionnées dans un acte d’état civil mais qui ne font pas l’objet d’une inscription ou d’une mention au Registre national.
+L’information 210 comprend :
+La date de l’inscription dans le registre
+Le code relatif au registre
+⇨ L’information 210 peut s’adapter :
+À la date de la collecte
+A la date d’une attestation de reconnaissance par le CGRA de la qualité de réfugié
+A la date d’un rapport de police
+A la date d’une demande d’inscription
+…
+⇨ Le TI 210 s’enregistre de la manière suivante :  10 – 210 – 0 – date info – code registre (1)
+(1) date info : celle de la notification
+1 – R.E. (registre des étrangers)
+2 – R.P. (registre de la population)
+3 – Fonctionnaire U.E.
+4 – Etranger A.R. du 30.10.91
+5 – R.A. (registre d’attente)
+6 – R.A. – citoyen U.E. ayant introduit une demande d’attestation d’enregistrement
+7 – R.E. – membre de la famille ayant introduit une demande de carte de séjour de membre de la famille d’un citoyen de l’U.E.
+8 – Collecte état civil (E.C.)
+9 – R.A. – déclaration de mariage / cohabitation
+10 – Non-résident BAEC (Banque des actes de l’état civil)
+Le code 10 est autorisé à partir du 31 mars 2019 (= date de mise en vigueur de la BAEC).
+Le code 7 est bloqué à partir du 27 octobre 2017. Il ne pourra plus être utilisé et sera remplacé par le code 1. Les informations correspondant au code 7 sont toutefois conservées en historique.
+Remarque importante :
+Si, à la date de naissance d’un citoyen de l’U.E. devant être collecté au R.A., sa nationalité (TI 031) ne correspond pas à l’un des codes des 29 pays de l’UE, il y a lieu d’utiliser un code spécial.
+Le code service 6 doit être utilisé au moment de la collecte avec la nationalité d’origine (ex : Tchécoslovaquie). Immédiatement après la collecte, la nationalité d’origine de l’intéressé sera remplacée par la nationalité actuelle.
+ 
+Ex. : Le citoyen de l’UE qui est né en 1976 en Tchécoslovaquie doit être collecté avec le code nationalité 130. Immédiatement après la collecte, la nationalité doit, selon le cas, être adaptée en code 140 (République Tchèque) ou 141 (Slovaquie) avec une date d’information au 1er janvier 1993.
+Codes opération autorisés (C.O.) : 10 et 13
+Code opérations supplémentaires pour les codes 1 et 2 : 11 et 20.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 240 – Numéro de registre et folio (R.F)
+⇨ Le TI 240 renseigne le numéro du registre et du folio (ou feuillet) dans lequel une personne est inscrite.
+Ce numéro est spécifique à chaque commune. Ce qui signifie qu’en cas de changement de commune, ce numéro n’est plus reproduit. Il appartient alors à la nouvelle commune de réintroduire cette information.
+La date du TI 240 doit correspondre à la date du TI 001.
+⇨ Le TI 240 s’enregistre de la manière suivante :
+Structure d’une mise à jour : 10 – 240 – 0 – date info – numéro registre-folio (1)
+(1) numéro registre-folio :
+Ce numéro se compose de 7 chiffres (les lettres ne sont pas admises). En principe les trois premiers chiffres indiquent le numéro de registre et les quatre chiffres suivants indiquent le numéro de folio.
+Codes opération autorisés (C.O.) : 10, 11, 12, 13 et 20.
+Code service (C.S.) : 0
+L’information est conservée en historique.
+Texte:
+TI 246 – Information communale (N.C)
+⇨ Au TI 246, chaque commune, selon ses besoins, peut introduire les éléments qu’elle désire.
+Il a en effet été décidé de donner aux communes la possibilité d’enregistrer l’adresse e-mail ou le(s) numéro(s) de téléphone de leurs citoyens dans les registres de la population, et ce afin que les contacts puissent se dérouler de manière plus souple.
+L’information 246 se compose :
+De la date de l’information
+De deux zones de texte qui différencient chacune la langue (FR / N)
+Une zone pour une adresse de courriel
+Une zone pour un numéro de GSM
+Une zone pour un numéro de téléphone
+Une zone pour un numéro de fax
+La date de l’information 246 peut concerner soit la dernière mise à jour effectuée, soit un élément particulier dans la mesure om une date est sans utilité pour les autres éléments.
+⇨ Le TI 246 s’enregistre de la manière suivante : 10 – 246 – 0 – date info – information 1ère langue – information 2ème langue – adresse de courriel – n° de GSM – n° de téléphone
+Remarques :
+Seules les communes bilingues (région de Bruxelles) peuvent introduire une information 1ère langue et 2ème langue.
+La taille de l’adresse électronique est de 120 caractères maximum.
+➢Les zones contenant le numéro de GSM et de téléphone ne peuvent contenir que 20 caractères maximum.
+Codes opération autorisés (C.O.) : 10, 11, 12, 13 et 17.
+Code service (C.S.) : 0
+L’information 246 n’apparaît plus dans le dossier du citoyen si celui-ci déménage dans une autre commune. Il appartiendra dès lors à la nouvelle commune de gestion d’adapter à nouveau ce TI, avec l’accord du citoyen.

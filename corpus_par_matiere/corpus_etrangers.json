@@ -211,6 +211,13 @@
       "categorie": "etrangers",
       "sous_categorie": "dispositions_diverses",
       "notes": "Export XML de la base de connaissances Q&R du helpdesk Vanden Broele Connect (1257 entrees brutes au total). Seules les entrees possedant une vraie question d'origine (champ description non vide dans le XML source, 530/1257 entrees au total) ont ete retenues et integrees ici : les entrees sans question explicite (uniquement une reponse) ont ete exclues sur demande. La matiere de chaque entree est determinee par la plage d'ID du champ field4 du XML source (4622-4644 = etat_civil, 4645-4685 = etrangers, 4689-4756 = population) ; quand une entree cite des ID de plusieurs plages, la matiere du premier ID de la liste est retenue."
+    },
+    {
+      "document_id": "elearning_nationalite",
+      "titre": "E-learning \"La nationalite belge\" (Vanden Broele OrangeConnect)",
+      "type": "elearning_formation",
+      "statut": "en_vigueur",
+      "notes": "Module recu le 2026-08-14 (export docx). A permis de combler un trou important : 8 articles du Code de la nationalite belge (9, 11, 11bis, 12, 17, 19, 22, 24) etaient absents du corpus alors que 4 autres (8, 10, 12bis, 15) etaient deja indexes. A citer comme formation, le texte de loi (code_nationalite_belge) restant la source a citer en priorite pour chaque regle."
     }
   ],
   "articles": [
@@ -387,7 +394,7 @@
       "titre_contexte": "Reconnaissance de plein droit des actes authentiques etrangers",
       "statut": "en_vigueur",
       "derniere_modif": null,
-      "texte": "Un acte authentique etranger est reconnu en Belgique par toute autorite sans qu'il faille recourir a aucune procedure, si sa validite est etablie conformement au droit applicable en vertu du Code DIP - en tenant specialement compte de l'article 18 (fraude a la loi : les faits et actes ont ete construits artificiellement pour echapper a l'application du droit normalement competent) et de l'article 21 (exception d'ordre public international belge, appreciee en tenant compte de l'intensite du rattachement de la situation avec l'ordre juridique belge et de la gravite de l'effet produit). L'acte doit reunir les conditions necessaires a son authenticite selon le droit de l'Etat ou il a ete etabli. En cas de refus de reconnaissance par l'autorite (par exemple l'officier de l'etat civil), un recours peut etre introduit devant le tribunal de la famille.",
+      "texte": "Un acte authentique etranger est reconnu en Belgique par toute autorite sans qu'il faille recourir a aucune procedure, si sa validite est etablie conformement au droit applicable en vertu du Code DIP - en tenant specialement compte de l'article 18 (fraude a la loi : les faits et actes ont ete construits artificiellement pour echapper a l'application du droit normalement competent) et de l'article 21 (exception d'ordre public international belge, appreciee en tenant compte de l'intensite du rattachement de la situation avec l'ordre juridique belge et de la gravite de l'effet produit). L'acte doit reunir les conditions necessaires a son authenticite selon le droit de l'Etat ou il a ete etabli. En cas de refus de reconnaissance par l'autorite (par exemple l'officier de l'etat civil), un recours peut etre introduit devant le tribunal de la famille. Application pratique - mariage religieux etranger : un mariage religieux celebre a l'etranger peut etre reconnu en Belgique s'il est valide selon le droit du pays ou il a ete celebre ET s'il n'est pas contraire a l'ordre public belge. Certains Etats donnent la meme valeur juridique a un mariage religieux et civil ; d'autres exigent un enregistrement du mariage religieux dans un registre d'etat civil pour qu'il produise effet meme dans le pays d'origine (ex. delai de 40 jours suivant la celebration dans certains pays) - sans cet enregistrement local, la reconnaissance en Belgique sera egalement compromise. Un mariage 'informel' (religieux, non enregistre aupres d'une autorite civile ou religieuse officielle du pays de celebration) n'est generalement PAS reconnu, meme si le droit local prevoit des mecanismes de regularisation ulterieure - a verifier au cas par cas selon le droit etranger applicable.",
       "categorie": "etrangers",
       "sous_categorie": "reconnaissance_actes_etrangers_dip",
       "commente_par": [],
@@ -482,6 +489,785 @@
         "Une personne en carte A comme etudiante (ex. 2018-2024), puis en recherche d'emploi apres diplome (quelques mois), puis salariee non UE sous permis unique depuis 2024, sans interruption de sejour : sa periode d'etudes compte pour MOITIE dans le calcul des 5 ans (paragraphe 2), sa periode de recherche d'emploi et de travail salarie comptent en ENTIER (aucune de ces deux categories ne figure dans la liste d'exclusion du paragraphe 1) - elle N'EST PAS exclue du statut de resident de longue duree du seul fait d'avoir eu une carte A, et peut potentiellement atteindre le seuil de 5 ans en additionnant demi-periode d'etudes + periode de travail integrale.",
         "Ne pas confondre 'carte A' (un FORMAT de carte, delivre pour de tres nombreux motifs differents : etudes, travail, protection subsidiaire, etc.) avec 'sejour a caractere temporaire' au sens du paragraphe 1, point 5 (une CATEGORIE JURIDIQUE precise : au pair, travailleur saisonnier, travailleur detache, prestataire de services transfrontalier). Verifier TOUJOURS le motif/base legale reel du permis, jamais seulement la lettre de la carte."
       ]
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_9",
+      "document_id": "code_nationalite_belge",
+      "numero": "9",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Attribution automatique de la nationalite belge par adoption (enfant ne en Belgique ou a l'etranger)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'enfant NE EN BELGIQUE d'un adoptant belge au moment de la naissance obtient automatiquement la nationalite belge (art. 9, 1). L'enfant NE A L'ETRANGER obtient automatiquement la nationalite belge si l'adoptant est belge et NE EN BELGIQUE (ou sur un territoire ayant ete sous souverainete/administration belge) - art. 9, 2, a). Si l'adoptant belge est lui-meme ne a l'etranger, l'enfant obtient automatiquement la nationalite belge SEULEMENT s'il n'aurait aucune autre nationalite avant ses 18 ans (art. 9, 2, c). Dans tous ces cas, la nationalite belge est attribuee le jour ou l'ADOPTION PRODUIT SES EFFETS, sauf si l'adopte est MAJEUR a ce moment (pas d'attribution automatique pour un adopte deja majeur).",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [
+        "code_nationalite_belge#art_8"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_11",
+      "document_id": "code_nationalite_belge",
+      "numero": "11",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Attribution automatique de la nationalite belge aux Belges de deuxieme generation (parent/adoptant ne en Belgique)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Regle dite des 'Belges de deuxieme generation' : l'enfant ne en Belgique obtient automatiquement la nationalite belge si l'un de ses parents (ou adoptant) est LUI-MEME ne en Belgique ET a eu sa RESIDENCE PRINCIPALE en Belgique durant 5 ANS AU COURS DES 10 DERNIERES ANNEES precedant la naissance de l'enfant (ou la date de prise d'effet de l'adoption). Si l'enfant est MAJEUR au moment de la prise d'effet de l'adoption, la nationalite belge ne lui est PAS attribuee automatiquement sur cette base.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [
+        "code_nationalite_belge#art_10"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_11bis",
+      "document_id": "code_nationalite_belge",
+      "numero": "11bis",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Attribution de la nationalite belge par declaration - enfant ne en Belgique de parents etrangers installes depuis 10 ans",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un enfant NE EN BELGIQUE peut se voir attribuer la nationalite belge par DECLARATION (pas automatiquement) si, au moment de la declaration : l'enfant a MOINS DE 12 ANS ; ses DEUX parents etrangers sont domicilies en Belgique depuis AU MOINS 10 ANS CHACUN ; et l'UN des deux parents est autorise a sejourner de maniere ILLIMITEE dans le Royaume. A defaut d'une de ces conditions, l'OEC doit declarer la declaration IRRECEVABLE. Si les conditions sont remplies, le dossier est transmis au Parquet du Procureur du Roi, qui rend un avis (positif ou negatif) dans un delai de 4 MOIS - en l'absence d'avis dans ce delai, l'avis est REPUTE POSITIF et l'enfant se voit attribuer la nationalite belge a l'expiration du delai.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [
+        "code_nationalite_belge#art_15"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_12",
+      "document_id": "code_nationalite_belge",
+      "numero": "12",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Attribution automatique de la nationalite belge a l'enfant qui serait sinon apatride",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un enfant NE EN BELGIQUE qui ne pourrait obtenir AUCUNE AUTRE nationalite se voit attribuer automatiquement la nationalite belge (evite l'apatridie). Cet article NE s'applique PAS : si l'enfant peut obtenir une autre nationalite mais que ce sont les parents qui doivent effectuer une demarche administrative aupres de leurs propres autorites (l'inaction des parents ne rend pas l'enfant apatride au sens de cet article) ; si l'enfant obtient effectivement une autre nationalite avant ses 18 ans (la nationalite belge est alors REMPLACEE par la nouvelle). En cas de doute, le representant legal transmet a l'OEC de la commune de NAISSANCE (pas d'inscription) toutes les pieces confirmant l'absence de nationalite ; l'OEC transmet pour avis au PROCUREUR DU ROI de son arrondissement, qui rend un avis dans les plus brefs delais (aucun delai legal precis). Chaque commune de naissance developpe ainsi sa propre pratique au fil des dossiers similaires.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_17",
+      "document_id": "code_nationalite_belge",
+      "numero": "17",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Possession d'etat de Belge : regularisation apres au moins 10 ans consideree comme Belge de bonne foi",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Cas rare : une personne de BONNE FOI a qui la nationalite belge a ete octroyee par ERREUR, et qui a ete constamment consideree comme Belge par les autorites belges pendant AU MOINS 10 ANS, peut - si sa nationalite belge est ensuite contestee - l'acquerir formellement via une declaration (selon la procedure de l'art. 15). La declaration doit intervenir avant l'expiration d'un delai d'UN AN a compter de la contestation definitive par une autorite belge. Ce delai est prolonge jusqu'a l'age de 19 ANS pour le declarant dont la filiation envers un auteur belge a cesse d'etre etablie alors qu'il etait mineur non emancipe. Les actes/droits acquis anterieurement sur la base de la nationalite belge putative restent VALABLES, meme s'il s'avere que la personne ne l'avait en realite pas. Le dossier est transmis au Procureur du Roi.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [
+        "code_nationalite_belge#art_15"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_19",
+      "document_id": "code_nationalite_belge",
+      "numero": "19",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "La naturalisation : procedure parlementaire distincte de l'acquisition par declaration (merite exceptionnel)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La naturalisation vise le meme resultat que l'acquisition par declaration (art. 12bis) mais suit une procedure DIFFERENTE et EXCEPTIONNELLE : la demande est transmise a la CHAMBRE DES REPRESENTANTS, ce sont les parlementaires qui traitent le dossier (pas le Procureur du Roi ni le tribunal de la famille). Il n'y a PAS de condition d'anciennete de sejour (un titre de sejour illimite suffit pour introduire la demande), SAUF pour l'apatride reconnu qui doit prouver 2 ans de residence en Belgique au moins. Hormis le cas de l'apatridie, le demandeur doit prouver un MERITE EXCEPTIONNEL dans un domaine sportif, socioculturel ou scientifique. Contrairement a l'acquisition par declaration, AUCUN delai legal ne court pour le traitement du dossier de naturalisation.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_22",
+      "document_id": "code_nationalite_belge",
+      "numero": "22",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Perte de la nationalite belge : acquisition volontaire d'une autre nationalite, decheance, renonciation",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Perd la qualite de Belge (article 22, notamment paragraphe1er, 2 - RENONCIATION) : la personne ayant atteint 18 ans qui declare renoncer a la nationalite belge, A CONDITION de prouver qu'elle possede deja une nationalite etrangere, ou qu'elle l'acquiert/la recouvre PAR L'EFFET MEME de cette declaration. Si cette acquisition/ce recouvrement ne suit pas immediatement la declaration et aurait pour resultat de rendre la personne APATRIDE dans l'intervalle, la declaration de renonciation ne produit ses effets juridiques QU'AU MOMENT de l'acquisition/du recouvrement effectif de la nationalite etrangere (jamais avant, pour eviter une periode d'apatridie). D'autres causes de perte existent (decheance, acquisition volontaire d'une autre nationalite) mais ne sont pas detaillees dans cette entree - voir art. 22 et 23 du Code de la nationalite belge pour l'ensemble des modalites.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "code_nationalite_belge#art_24",
+      "document_id": "code_nationalite_belge",
+      "numero": "24",
+      "emplacement": "Loi du 28 juin 1984 instituant le Code de la nationalite belge",
+      "titre_contexte": "Recouvrement de la nationalite belge apres une perte autre que la decheance",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Celui qui a perdu la nationalite belge AUTREMENT que par decheance peut la RECOUVRER par une declaration (procedure de l'art. 15), a condition d'avoir AU MOINS 18 ANS, d'avoir sa residence principale en Belgique depuis AU MOINS 12 MOIS sur base d'un sejour legal ININTERROMPU, et d'etre, au moment de la declaration, admis/autorise au sejour pour une DUREE ILLIMITEE. Assouplissements : si la perte resultait d'une RENONCIATION, le Procureur du Roi peut choisir de ne pas emettre d'avis negatif malgre tout, apres avoir apprecie les circonstances de la perte et les raisons du souhait de recouvrement. Meme assouplissement possible si la perte resultait de l'IMPOSSIBILITE de faire la declaration visee a l'art. 22, paragraphe1er, 5, et que le declarant ne remplit pas les 2 dernieres conditions (residence 12 mois / sejour illimite) - le Procureur du Roi peut encore ecarter un avis negatif au vu des circonstances.",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite",
+      "commente_par": [],
+      "articles_lies": [
+        "code_nationalite_belge#art_15"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_intro_etrangers#definition-court-sejour",
+      "document_id": "elearning_intro_etrangers",
+      "numero": "definition-court-sejour",
+      "emplacement": "Module e-learning - Les indispensables du droit des etrangers",
+      "titre_contexte": "Definition du court sejour : deux regimes distincts selon que l'etranger est europeen (moins de 3 mois, Directive 2004/38) ou non europeen (90 jours sur 180, calcul par cachets Schengen)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La notion de court sejour recouvre deux regimes distincts selon la nationalite de l'etranger. Pour un ressortissant europeen et assimile (citoyen de l'UE, de l'EEE, ou Suisse), le court sejour est un sejour de moins de 3 mois, principe de libre circulation fixe par la Directive europeenne 2004/38/CE et transpose en droit belge par la loi du 15/12/1980. Pour un ressortissant d'un pays tiers (non europeen), le court sejour touristique est autorise pour maximum 90 jours sur une periode de 180 jours, calcules sur la base des cachets d'entree et de sortie dans l'espace Schengen (le calcul est interrompu a chaque cachet de sortie et reprend au cachet d'entree suivant) ; les jours d'arrivee et de depart sont tous deux comptabilises dans ce calcul.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [
+        "loi_15_12_1980#art_10"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_intro_etrangers#carte-orange-competence-communale",
+      "document_id": "elearning_intro_etrangers",
+      "numero": "carte-orange-competence-communale",
+      "emplacement": "Module e-learning - Les indispensables du droit des etrangers",
+      "titre_contexte": "Carte orange (demandeur de protection internationale) : delivrance et prolongation par la commune de residence, pas par l'Office des etrangers",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Une personne dont la demande de protection internationale (asile) est en cours de traitement peut obtenir une carte orange (attestation d'immatriculation) aupres de sa commune de residence. C'est la commune, et non l'Office des etrangers, qui gere cette carte : elle verifie au Registre national l'evolution de la demande de protection internationale et decide, sur cette base, de prolonger ou non la carte.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_intro_etrangers#choix-cadre-legal-regroupement-familial",
+      "document_id": "elearning_intro_etrangers",
+      "numero": "choix-cadre-legal-regroupement-familial",
+      "emplacement": "Module e-learning - Les indispensables du droit des etrangers",
+      "titre_contexte": "Regroupement familial : les 5 bases legales possibles (40bis, 40ter, 47/1, 10, 10bis) selon la nationalite et le statut de la personne rejointe, et la difference de redevance entre elles",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'element principal qui determine quel article de loi encadre une demande de regroupement familial est la nationalite et le statut de la personne qui est rejointe en Belgique (le regroupant), et non ceux du demandeur. Cinq bases legales distinctes existent : l'article 40bis s'applique lorsque le regroupant est un citoyen europeen (ou assimile) ou un Belge ayant exerce son droit a la libre circulation (ayant sejourne regulierement plus de 3 mois dans un autre pays de l'UE) - jamais de redevance dans ce cas ; l'article 47/1 s'applique dans les memes conditions de regroupant que le 40bis, mais pour d'autres membres de la famille non couverts par le 40bis (partenaire de fait, autre membre de famille a charge ou faisant partie du menage, autre membre necessitant une prise en charge personnelle pour raisons de sante graves) - egalement sans redevance, mais toujours soumis a l'approbation de l'Office des etrangers (jamais automatique, a la difference du 40bis) ; l'article 40ter s'applique lorsque le regroupant est un Belge n'ayant PAS exerce son droit a la libre circulation - une redevance est alors due sauf dispense ; l'article 10 s'applique lorsque le regroupant est un ressortissant de pays tiers en sejour illimite (carte B, K, L, F ou F+) ou reconnu refugie (carte A) ; l'article 10bis s'applique lorsque le regroupant est un ressortissant de pays tiers en sejour limite (carte A, H, I ou J). Piege frequent : un beneficiaire de la protection subsidiaire dispose d'une carte A mais est considere comme etant en sejour ILLIMITE - les personnes qui le rejoignent relevent donc de l'article 10, et non de l'article 10bis. Consequence pratique importante : une demande sur la base des articles 10/10bis ne peut normalement pas etre introduite directement a la commune si le demandeur n'est pas en sejour legal en Belgique, sauf circonstances exceptionnelles (article 12bis, paragraphe 1er, de la loi du 15/12/1980). En revanche, une demande de regroupement familial avec un conjoint belge (art. 40ter) peut etre introduite a la commune meme si le demandeur n'est plus en sejour legal. L'article 40ter ne couvre pas le cas d'un ascendant qui voudrait rejoindre son enfant belge majeur : ce cas de figure n'est pas un regroupement familial ouvert par cet article.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "loi_15_12_1980#art_10",
+        "loi_15_12_1980#art_40bis",
+        "loi_15_12_1980#art_40ter"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_court_sejour#definition-pays-europeens-assimiles",
+      "document_id": "elearning_court_sejour",
+      "numero": "definition-pays-europeens-assimiles",
+      "emplacement": "Module e-learning - Europeens, court sejour",
+      "titre_contexte": "Definition des pays europeens et assimiles pour le droit des etrangers : Espace economique europeen (UE + Islande, Liechtenstein, Norvege) + Suisse - ni uniquement l'UE, ni tout le continent europeen",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Pour l'application de la legislation sur l'acces au territoire, le sejour, l'etablissement et l'eloignement des etrangers, la categorie des pays europeens et assimiles ne correspond ni aux seuls pays de l'Union europeenne, ni a l'ensemble du continent europeen : il s'agit des pays de l'Espace economique europeen (l'ensemble des Etats membres de l'Union europeenne, plus l'Islande, le Liechtenstein et la Norvege) auxquels s'ajoute la Suisse. Tous les Etats membres de l'UE font partie de l'EEE, mais l'inverse n'est pas vrai (Islande, Liechtenstein, Norvege) ; de meme, l'appartenance a l'UE ou a l'EEE ne signifie pas automatiquement l'appartenance a l'espace Schengen.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_court_sejour#demarches-europeen-annexe-3ter",
+      "document_id": "elearning_court_sejour",
+      "numero": "demarches-europeen-annexe-3ter",
+      "emplacement": "Module e-learning - Europeens, court sejour",
+      "titre_contexte": "Demarches communales du court sejour pour un europeen : declaration de presence (annexe 3 ter) dans les 10 jours ouvrables, motifs de refus par l'Office des etrangers, et fin du court sejour",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Des son entree en Belgique, le citoyen europeen (ou assimile) doit se presenter aupres de sa commune de sejour dans les 10 jours ouvrables, sauf s'il loge dans un etablissement soumis a la legislation sur le controle des voyageurs (ex. hotel), s'il est hospitalise, ou s'il est detenu. La commune delivre alors une declaration de presence, appelee annexe 3 ter (annexe 3 ter a l'arrete royal du 08/10/1981), et en envoie une copie a l'adresse cs.3ter@ibz.fgov.be ; a defaut de duree de validite indiquee, l'annexe 3 ter n'est valable que 3 mois maximum. L'Office des etrangers peut refuser l'entree ou le sejour a un europeen pour des raisons d'ordre public, de sante publique, ou lorsque l'etranger a fourni de fausses informations (dans ce dernier cas, l'OE verifie au prealable les attaches de l'interesse avec la Belgique, son etat de sante et son lien avec son pays d'origine avant de decider). Le court sejour europeen ne peut pas etre prolonge en restant dans cette categorie : a l'expiration des 3 mois, l'europeen doit soit quitter le territoire, soit introduire une demande d'attestation d'enregistrement (annexe 19), ce qui fait basculer son sejour dans le regime du long sejour. Durant son court sejour, l'europeen a un acces illimite au marche du travail ; pour un travailleur saisonnier, la commune demande un numero national bis (via e-creabis aupres de la securite sociale), sauf si ce numero a deja ete attribue lors de la declaration de l'employeur.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_court_sejour#membres-famille-non-europeens-citoyen-ue",
+      "document_id": "elearning_court_sejour",
+      "numero": "membres-famille-non-europeens-citoyen-ue",
+      "emplacement": "Module e-learning - Europeens, court sejour",
+      "titre_contexte": "Membres de la famille non europeens d'un citoyen europeen en court sejour : definition et memes regles de sejour que le citoyen europeen rejoint",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un membre de la famille non europeen d'un citoyen de l'Union beneficie, pour son court sejour, des memes regles que le citoyen europeen qu'il accompagne ou rejoint (si le membre de famille est lui-meme europeen, son court sejour est accorde sur la base de sa propre citoyennete, sans recourir a cette procedure). Sont consideres comme membres de la famille : le conjoint ; le partenaire dans le cadre d'un partenariat equivalent a mariage (partenariats enregistres au Danemark, en Allemagne, en Finlande, en Islande, en Norvege, au Royaume-Uni et en Suede) ; le partenaire age de plus de 21 ans dans le cadre d'un partenariat non equivalent a mariage, avec qui le citoyen de l'Union entretient une relation durable et stable ; les descendants ages de moins de 21 ans du citoyen de l'Union, de son conjoint ou de son partenaire (si le citoyen de l'Union sejourne en qualite d'etudiant, ses descendants doivent en outre etre a charge, quel que soit leur age) ; les descendants ages de plus de 21 ans et a charge du citoyen de l'Union, de son conjoint ou de son partenaire ; les ascendants a charge du citoyen de l'Union, de son conjoint ou de son partenaire (sauf si le citoyen de l'Union sejourne en qualite d'etudiant : il ne peut alors pas se faire rejoindre par ses ascendants) ; et le pere et la mere du citoyen de l'Union mineur d'age, pour autant que ce dernier soit a leur charge et qu'ils en aient la garde.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_court_sejour#declaration-arrivee-non-europeens-calcul-90-180",
+      "document_id": "elearning_court_sejour",
+      "numero": "declaration-arrivee-non-europeens-calcul-90-180",
+      "emplacement": "Module e-learning - Court sejour des ressortissants non europeens (Generalites)",
+      "titre_contexte": "Declaration d'arrivee pour un non-europeen en court sejour : delai de 3 jours ouvrables, et les trois cas de figure (visa C, dispense de visa, titre de sejour europeen)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Toute personne qui entre en Belgique dans le cadre d'un court sejour doit se presenter dans la commune ou elle loge pour obtenir une declaration d'arrivee, dans les 3 jours ouvrables de son arrivee, sauf si elle est hospitalisee, detenue, ou loge a l'hotel ou etablissement assimile. Trois cas de figure se presentent pour determiner la validite de cette declaration : (a) la personne est soumise a un visa C, lequel mentionne la date d'entree prevue, la duree de sejour prevue (maximum 90 jours), le nombre d'entrees autorisees (une entree unique ne permet pas d'aller-retour sur le territoire Schengen, a l'inverse d'un visa a entrees multiples) et la date de validite jusqu'a laquelle le ou les sejours peuvent etre realises - le sejour ne peut en aucun cas depasser la validite du visa, meme si tous les jours autorises n'ont pas ete epuises ; (b) la personne est originaire d'un pays beneficiant d'une dispense de visa : le sejour touristique est alors autorise pour 90 jours ; (c) la personne dispose d'un titre de sejour dans un autre pays de l'Union europeenne : comme il n'y a pas de poste-frontiere interne a l'espace Schengen, il n'y a pas de cachet d'entree, et la declaration d'arrivee se base alors sur une declaration sur l'honneur de l'interesse quant a sa date d'arrivee (valable 90 jours, sans pouvoir depasser la validite du titre de sejour europeen). Dans les cas (b) et (c), le calcul des 90 jours se fait sur une fenetre de 180 jours en fonction des cachets d'entree et de sortie Schengen : chaque periode passee hors de l'espace Schengen est decomptee jusqu'au prochain cachet d'entree, et les jours d'arrivee et de depart sont tous deux comptabilises. Le ministere met a disposition un calculateur en ligne pour ce calcul, valable uniquement pour les sejours touristiques de 90 jours (pas pour les visas de duree inferieure).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_intro_etrangers#definition-court-sejour"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_court_sejour#prolongation-motifs-justificatifs",
+      "document_id": "elearning_court_sejour",
+      "numero": "prolongation-motifs-justificatifs",
+      "emplacement": "Module e-learning - Court sejour des ressortissants non europeens (Generalites)",
+      "titre_contexte": "Prolongation du court sejour pour un non-europeen : motifs admis (maladie, mariage, cohabitation legale, grossesse, stage, visite familiale) et justificatifs requis",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le court sejour d'un ressortissant non europeen peut etre prolonge pour l'un des motifs suivants, moyennant les justificatifs correspondants : maladie (certificat medical type etabli par un medecin specialiste, et preuve d'une assurance voyage) ; en vue de mariage (declaration d'intention, prise en charge par le futur conjoint, et preuve d'une assurance voyage) ; en vue de cohabitation legale (accuse de reception de la demande de cohabitation legale, et preuve d'une assurance voyage) ; grossesse (certificat medical type precisant la date prevue d'accouchement, puis certificat de naissance apres coup, et preuve d'une assurance voyage) ; stage (attestation de stage et preuve d'une assurance voyage) ; visite familiale (acte prouvant le lien familial, lettre de motivation, tout autre document justificatif, et preuve d'une assurance voyage) ; toute autre demande peut etre transmise au service court sejour competent, qui l'analysera au cas par cas.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_sejour_permanent#conditions-5-ans-calcul",
+      "document_id": "elearning_sejour_permanent",
+      "numero": "conditions-5-ans-calcul",
+      "emplacement": "Module e-learning - Demande de sejour permanent",
+      "titre_contexte": "Sejour permanent d'un citoyen europeen : condition de 5 ans de sejour ininterrompu depuis l'inscription au RA6 (annexe 19), et absences qui n'interrompent pas ce delai",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le sejour permanent d'un citoyen de l'Union est en principe conditionne par 5 ans de sejour ininterrompu, calcules a partir de son inscription au registre d'attente (RA6, suite a la delivrance de l'annexe 19). Ne rompent pas le caractere ininterrompu de ce sejour : les absences temporaires ne depassant pas au total 6 mois par an ; les absences dues a l'accomplissement d'obligations militaires ; et une absence de 12 mois consecutifs lorsqu'elle est justifiee par des raisons importantes (grossesse, accouchement, maladie grave, etudes, formations professionnelles, detachement d'ordre professionnel hors de Belgique, etc.).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_permanent_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_sejour_permanent#obtention-anticipee-avant-5-ans",
+      "document_id": "elearning_sejour_permanent",
+      "numero": "obtention-anticipee-avant-5-ans",
+      "emplacement": "Module e-learning - Demande de sejour permanent",
+      "titre_contexte": "Sejour permanent d'un citoyen europeen economiquement actif : 3 cas d'obtention anticipee avant les 5 ans (incapacite de travail permanente, retraite, deces en cours de carriere)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le sejour permanent peut etre accorde a un citoyen de l'Union economiquement actif avant l'ecoulement des 5 ans de sejour ininterrompu dans trois cas : (1) il cesse son activite a la suite d'une incapacite de travail permanente et sejourne en Belgique de facon continue depuis plus de 2 ans (sans condition de duree si l'incapacite resulte d'un accident du travail ou d'une maladie professionnelle ouvrant droit a une prestation a charge d'une institution belge) ; (2) il a atteint l'age legal de la pension de vieillesse (ou cesse ses activites en raison d'une retraite anticipee) au moment ou il cesse de travailler, a travaille en Belgique durant la derniere annee, et a sejourne de maniere ininterrompue en Belgique pendant plus de 3 ans au total ; (3) il decede en cours de carriere professionnelle, avant d'avoir acquis le droit au sejour permanent, apres avoir sejourne en Belgique de facon ininterrompue pendant 2 ans au moment de son deces (ou si le deces resulte d'un accident du travail ou d'une maladie professionnelle, sans condition de duree).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_permanent_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_sejour_permanent#conditions-5-ans-calcul"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_sejour_permanent#procedure-annexe-22-competence-communale",
+      "document_id": "elearning_sejour_permanent",
+      "numero": "procedure-annexe-22-competence-communale",
+      "emplacement": "Module e-learning - Demande de sejour permanent",
+      "titre_contexte": "Procedure de demande de sejour permanent (annexe 22) : la commune peut decider elle-meme d'octroyer le sejour permanent, la demande n'est pas obligatoire, et le renouvellement de la carte EU/EU+ est toujours une competence communale",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le citoyen europeen qui remplit les conditions se presente dans sa commune de residence et se voit delivrer une annexe 22. La commune peut decider d'octroyer elle-meme le sejour permanent : dans ce cas, la personne est directement inscrite au registre de la population (TI 210 RP), une carte EU+ est commandee, et une annexe 8quater est delivree et encodee dans l'attente de sa delivrance. Si la commune prefere soumettre la demande a l'approbation de l'Office des etrangers (notamment lorsque la demande est introduite avant l'echeance des 5 ans sur la base d'une des conditions d'exception), l'annexe 22 et les preuves des conditions d'exception lui sont transmises. Si la commune accorde elle-meme le sejour permanent, le dossier doit neanmoins etre transmis pour information a l'Office des etrangers. Si la personne ne totalise pas les 5 ans de sejour et ne remplit aucune condition d'exception, la commune delivre une annexe 23 (decision de refus de sejour permanent), egalement transmise a l'Office des etrangers. La demande de sejour permanent n'est pas obligatoire : le citoyen de l'Union peut choisir de simplement prolonger sa carte EU au lieu d'introduire cette demande (si la carte EU/E arrive a expiration pendant l'examen de la demande de sejour permanent, une annexe 8ter valable 45 jours et renouvelable peut etre delivree). Le renouvellement de la carte EU ou EU+ releve en toute hypothese de la competence de la commune, sans qu'aucune instruction ne doive etre demandee a l'Office des etrangers.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_permanent_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_sejour_permanent#conditions-5-ans-calcul"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#principe-visa-d-ou-changement-statut",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "principe-visa-d-ou-changement-statut",
+      "emplacement": "Module e-learning - Non europeens, long sejour",
+      "titre_contexte": "Long sejour non europeen : principe du visa D au poste diplomatique, possibilite de changement de statut directement en Belgique, et distinction permis unique / autres titres de sejour pour l'acces au marche du travail",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La regle generale veut que les ressortissants de pays tiers (non europeens et non assimiles) qui desirent obtenir un sejour de plus de 3 mois en Belgique introduisent une demande de visa D aupres du poste diplomatique belge du pays ou ils resident. La demande peut cependant, dans certaines conditions, etre introduite directement en Belgique, le plus souvent dans le cadre d'un changement de statut (par exemple un etudiant qui devient salarie). Depuis la Directive 2011/98/UE, il faut distinguer, pour l'acces au marche du travail : le permis unique, qui regroupe en une seule procedure l'autorisation de travail et l'autorisation de sejour - dans ce cas, c'est le travail qui conditionne le sejour ; et les autres situations de sejour (etudiant, regroupement familial, independant) ou la condition de sejour repose sur un autre motif que le travail, mais pour lesquelles le titre ou document de sejour precise neanmoins l'acces au marche du travail auquel la personne a droit (limite, illimite, ou aucun acces).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_long_terme_non_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#redevance-principe-et-exemptions-totales",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "redevance-principe-et-exemptions-totales",
+      "emplacement": "Module e-learning - Non europeens, long sejour",
+      "titre_contexte": "Redevance pour une demande de sejour de plus de 90 jours : principe general et categories toujours dispensees (mineurs, apatrides, citoyens UE et famille, visa D, demandeurs de protection internationale, art. 9ter)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La plupart des demandes de sejour de plus de 90 jours introduites en Belgique par un ressortissant de pays tiers sont soumises au paiement d'une redevance dont le montant varie selon la base legale de la demande (le montant precis, fixe par arrete, evolue regulierement et doit etre verifie aupres des sources officielles a jour). Certaines categories de personnes ne paient en revanche jamais cette redevance, quelle que soit leur demande : les etrangers ages de moins de 18 ans ; les apatrides reconnus dont il est etabli qu'ils ont perdu leur nationalite contre leur gre et qui demontrent ne pouvoir obtenir aucun titre de sejour legal et durable dans un autre Etat avec lequel ils auraient des liens ; les citoyens de l'UE/assimiles et les membres de leur famille ; les demandes sur la base de l'article 40bis/47/1 avec un Belge ayant exerce son droit a la libre circulation ; les etrangers sous visa D ; les beneficiaires de l'accord de retrait (Brexit) ; les etrangers de plus de 18 ans handicapes demandant un regroupement familial sur la base des articles 10, 10bis ou 40ter ; les beneficiaires de l'accord d'association CEE/Turquie ; les demandes de protection internationale ou temporaire ; et les demandes pour raison medicale (article 9ter).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_long_terme_non_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#permis-unique-annexe-46-49",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "permis-unique-annexe-46-49",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 1. Le permis unique",
+      "titre_contexte": "Permis unique : autorisation de travail (region) et autorisation de sejour (Office des etrangers) combinees - annexe 46, carte A limitee au travail, annexe 49 transitoire, et l'autorisation de travail illimitee n'entraine pas automatiquement le sejour illimite",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsqu'un ressortissant non europeen desire s'etablir en Belgique pour y exercer une activite de salarie, il doit suivre la procedure de permis unique, qui combine une autorisation de travail (delivree par la region) et une autorisation de sejour (delivree par l'Office des etrangers). Une fois l'accord donne par l'Office des etrangers, une annexe 46 est transmise a la fois a l'interesse et a sa commune de residence ; apres verification que les deux exemplaires sont identiques, la commune procede a une enquete de residence puis, une fois celle-ci positive, collecte la personne au registre des etrangers et commande une carte A dont la validite correspond a celle mentionnee sur l'annexe 46, avec un acces au marche du travail 'limite'. Dans l'attente de la delivrance de cette carte A, la commune delivre une annexe 49 (valable 45 jours, prolongeable 2 fois pour le meme delai), qui permet a l'interesse de commencer a travailler des sa reception. Point important : le fait que la region ait accorde une autorisation de travail illimitee n'entraine pas automatiquement l'octroi d'un sejour illimite - celui-ci reste soumis aux instructions et a l'appreciation de l'Office des etrangers.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_long_terme_non_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_long_sejour_non_europeens#principe-visa-d-ou-changement-statut"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#travailleur-hautement-qualifie-carte-h",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "travailleur-hautement-qualifie-carte-h",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 2. Le travailleur hautement qualifie",
+      "titre_contexte": "Travailleur hautement qualifie (Directive 2009/50/UE) : carte bleue europeenne (carte H), criteres de revenu et de qualification fixes par la region, et procedure de prolongation",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un ressortissant de pays tiers qui repond a des criteres precis (un niveau de revenu minimal fixe par la region, et des qualifications elevees dans le cadre de son travail) peut se voir octroyer une carte 'bleue europeenne', appelee carte H. La procedure suit globalement les memes grandes etapes que le permis unique classique (annexe 46, annexe 49 transitoire dans l'attente de l'enquete de residence). La demande de prolongation de la carte H doit etre introduite aupres de la region competente au plus tard 2 mois avant l'expiration de la carte. Si ni la region ni l'Office des etrangers n'ont pris de decision a l'expiration de la carte H, une annexe 49 (valable 30 jours, renouvelable une fois pour le meme delai) peut etre delivree, pour autant que l'etranger prouve que sa demande de renouvellement d'autorisation de travail a ete declaree recevable par la region. Une decision de refus de sejour, le cas echeant, est notifiee via une annexe 52.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_long_terme_non_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_long_sejour_non_europeens#permis-unique-annexe-46-49"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#regularisation-humanitaire-art-9bis",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "regularisation-humanitaire-art-9bis",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 9.a. Regularisation humanitaire (article 9bis)",
+      "titre_contexte": "Regularisation humanitaire (article 9bis de la loi du 15/12/1980) : circonstances exceptionnelles empechant le retour au pays pour une demande de visa, documents requis, controle de la redevance (annexes 42/43) et enquete de residence",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'article 9bis de la loi du 15 decembre 1980 permet d'introduire une demande d'autorisation de sejour en Belgique lorsque des circonstances exceptionnelles empechent l'etranger de retourner dans son pays d'origine pour y introduire une demande de visa aupres du poste diplomatique ou consulaire belge. L'etranger doit presenter a sa commune de residence : la preuve du paiement de la redevance, un document d'identite national (pas necessairement en cours de validite), une adresse de residence effective en Belgique, une preuve d'election de domicile (a defaut, il est repute avoir elu domicile a l'Office des etrangers), sa composition de famille, son numero de l'Office des etrangers, ainsi que l'expose des circonstances exceptionnelles et des raisons justifiant la demande. Un demandeur de protection internationale dont la demande est encore pendante, ou une personne demontrant l'impossibilite d'obtenir un tel document en Belgique, est dispense de fournir le document d'identite. La commune verifie d'abord le paiement de la redevance : en cas de non-paiement, elle rend une decision d'irrecevabilite (annexe 42) ; en cas de paiement partiel, une annexe 43 est delivree, avec un delai de 30 jours pour completer le paiement (a defaut, annexe 42). Une fois la redevance payee, la commune mene une enquete de residence : si elle est negative, la commune prend une decision de non-prise en consideration ; si elle est positive, la commune delivre une attestation de reception de la demande et transmet le dossier a l'Office des etrangers. Celui-ci peut rendre une decision d'irrecevabilite, une decision de rejet au fond, ou autoriser le sejour : dans ce dernier cas, la commune inscrit l'interesse au registre des etrangers et delivre une carte A (certificat d'inscription, sejour temporaire, validite fixee par l'Office des etrangers) ou une carte B (valable 5 ans).",
+      "categorie": "etrangers",
+      "sous_categorie": "regularisation",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#regularisation-medicale-art-9ter",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "regularisation-medicale-art-9ter",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 9.b. Regularisation medicale (article 9ter)",
+      "titre_contexte": "Regularisation medicale (article 9ter de la loi du 15/12/1980) : maladie grave sans traitement adequat dans le pays d'origine, demande par lettre recommandee a l'Office des etrangers, certificat medical de moins de 3 mois, et dispense documentaire pour les demandeurs de protection internationale",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'article 9ter de la loi du 15 decembre 1980 permet d'introduire une demande d'autorisation de sejour lorsque l'etranger souffre d'une maladie dans un etat tel qu'elle entraine un risque reel pour sa vie ou son integrite physique, ou un risque reel de traitement inhumain ou degradant, faute de traitement adequat disponible dans son pays d'origine ou de residence. Contrairement a l'article 9bis, la demande est introduite directement aupres de l'Office des etrangers par lettre recommandee (et non aupres de la commune), avec notamment : le document d'identite, un certificat medical type datant de moins de 3 mois, l'adresse de residence effective en Belgique, la composition de famille, et tous documents utiles sur la maladie et les possibilites de traitement dans le pays d'origine. Un demandeur de protection internationale dont la demande n'a pas encore fait l'objet d'une decision definitive est dispense de fournir un document d'identite ou les elements de preuve equivalents. Si l'Office des etrangers declare la demande recevable, l'etranger est inscrit au registre des etrangers et recoit une attestation d'immatriculation modele A, valable 3 mois, pendant l'examen au fond ; en cas d'autorisation de sejour, une carte A (certificat d'inscription, sejour temporaire) valable 1 an est delivree.",
+      "categorie": "etrangers",
+      "sous_categorie": "regularisation",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_long_sejour_non_europeens#regularisation-humanitaire-art-9bis"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#sejour-illimite-etablissement-carte-k",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "sejour-illimite-etablissement-carte-k",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 10.a-b. Sejour illimite et autorisation d'etablissement (carte K)",
+      "titre_contexte": "Sejour illimite pour un non-europeen : droit acquis apres 5 ans dans certains statuts (protection internationale, regroupement art. 10, permis unique, regularisation medicale) ; autorisation d'etablissement (carte K, ex-carte C) via l'annexe 16",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'octroi d'un sejour illimite a un ressortissant de pays tiers reste toujours soumis a l'approbation de l'Office des etrangers. Il s'agit toutefois d'un droit acquis apres 5 ans pour le sejour sous protection internationale, le regroupement familial sur la base de l'article 10, le permis unique, et les regularisations medicales sur la base de l'article 9ter ; les autres cas restent soumis a l'avis discretionnaire de l'Office des etrangers. Independamment de ce sejour illimite, une demande d'autorisation d'etablissement (carte K, anciennement carte C) peut etre introduite par toute personne identifiable (via un passeport), disposant deja d'un sejour illimite (carte B ou carte F) et justifiant d'un sejour regulier et ininterrompu de 5 ans en Belgique. La demande est introduite aupres de la commune de residence via une annexe 16 ; si les conditions sont remplies, la commune delivre une annexe 16bis et transmet le dossier a l'Office des etrangers (sinon, annexe 16ter). L'Office des etrangers dispose de 5 mois pour statuer : en cas de refus, il transmet une annexe 17 ; en cas de decision positive ou d'absence de decision au terme des 5 mois, la commune delivre une carte K, valable 10 ans.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_illimite_etablissement",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#resident-longue-duree-carte-l",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "resident-longue-duree-carte-l",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 10.c. Le resident longue duree (carte L)",
+      "titre_contexte": "Statut de resident longue duree en Belgique (carte L, ex-carte D) : conditions (5 ans reguliers ininterrompus, exclusion des sejours temporaires par nature), revenus stables, couverture sante, et procedure identique a la carte K (annexe 16)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le statut de resident longue duree en Belgique (carte L, anciennement carte D) concerne les ressortissants de pays tiers identifies justifiant d'un sejour regulier et ininterrompu de 5 ans (sous carte A, B, H, C, K, F ou F+), a l'exclusion des sejours par definition temporaires (etudiants, jeunes au pair, travailleurs saisonniers, etc.), des demandes d'asile en cours (attestation d'immatriculation) et des beneficiaires de titres speciaux. Le candidat doit se presenter dans sa commune de residence avec son passeport valable (ou une attestation de reconnaissance du CGRA), la preuve de revenus stables, reguliers et suffisants, la preuve d'une couverture de soins de sante, et son extrait de casier judiciaire. La demande suit la meme procedure que la carte K : introduction via une annexe 16, annexe 16bis si les conditions sont remplies (16ter sinon), delai de 5 mois pour l'Office des etrangers (annexe 17 en cas de refus), puis delivrance d'une carte L valable 10 ans en cas de decision positive ou d'absence de decision au terme du delai.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_illimite_etablissement",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_long_sejour_non_europeens#sejour-illimite-etablissement-carte-k"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_long_sejour_non_europeens#droit-au-retour-1-an-et-au-dela",
+      "document_id": "elearning_long_sejour_non_europeens",
+      "numero": "droit-au-retour-1-an-et-au-dela",
+      "emplacement": "Module e-learning - Non europeens, long sejour, 11. Le droit au retour",
+      "titre_contexte": "Droit au retour d'un etranger qui quitte temporairement la Belgique : delai de principe d'1 an (annexe 18 au depart, annexe 15 au retour), prolongation possible (centre d'interet en Belgique, obligations militaires), et delais specifiques pour un resident longue duree (1 an hors UE, 6 ans hors Belgique)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'etranger admis ou autorise au sejour de plus de 3 mois ou a l'etablissement qui quitte le territoire belge dispose d'un droit de retour pendant 1 an. Avant son depart, il avertit sa commune de residence de son intention de quitter la Belgique et d'y revenir ; la commune delivre une attestation de depart (annexe 18). A son retour (dans les 15 jours), la commune delivre une annexe 15 valable 3 mois et transmet une demande a l'Office des etrangers pour replacer l'etranger dans sa situation de sejour anterieure ; l'Office des etrangers replace l'interesse dans sa situation anterieure (ou ne prend pas de decision dans le delai de 3 mois, ce qui produit le meme effet), ou notifie un refus via une annexe 14. Ce delai de principe d'1 an peut etre prolonge dans deux cas : lorsque l'etranger conserve son centre d'interet en Belgique, ou lorsqu'il quitte la Belgique pour accomplir des obligations militaires legales dans son pays - la meme procedure (annexe 18 au depart, annexe 15 au retour) s'applique alors. Pour un etranger beneficiant du statut de resident de longue duree, le delai est different : 1 an s'il s'absente du territoire des Etats membres de l'Union europeenne (porte a 24 mois s'il s'agit d'un ancien travailleur hautement qualifie, carte H), et 6 ans s'il s'absente uniquement du territoire belge tout en restant dans l'UE ; ce delai peut egalement etre prolonge au-dela s'il conserve son centre d'interet en Belgique ou doit accomplir des obligations militaires legales.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_illimite_etablissement",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_long_sejour_non_europeens#resident-longue-duree-carte-l"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#art-40bis-documents-immediat-vs-3-mois",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "art-40bis-documents-immediat-vs-3-mois",
+      "emplacement": "Module e-learning - Regroupement familial avec un(e) europeen(ne), article 40bis",
+      "titre_contexte": "Article 40bis (regroupement avec un citoyen europeen ou un Belge ayant exerce la libre circulation) : principe des documents a fournir immediatement contre les documents a fournir dans les 3 mois suivant l'annexe 19ter",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Pour une demande de regroupement familial sur la base de l'article 40bis (avec un citoyen europeen/assimile ou un Belge ayant exerce son droit a la libre circulation), la demande peut etre introduite directement en Belgique, que le demandeur soit sous couvert d'un visa touristique, dispense de visa, ou meme en dehors de tout sejour legal. Il n'y a jamais de redevance a payer dans ce cadre. Le principe general est celui d'une fourniture en deux temps : le document prouvant le lien de parente ou l'existence de la relation (acte de mariage, acte de naissance, declaration de cohabitation legale...) doit etre fourni immediatement, au moment de l'etablissement de l'annexe 19ter ; en revanche, la preuve d'identite ainsi que, le cas echeant, la preuve de ressources suffisantes et la preuve d'une assurance maladie (si le citoyen europeen rejoint est lui-meme titulaire de moyens de subsistance suffisants, ou si le lien de parente est un lien a charge) peuvent etre fournies dans un delai de 3 mois si elles ne sont pas disponibles au moment de l'annexe 19ter. Un ascendant ou un descendant a charge doit en outre prouver ne pas disposer de moyens suffisants pour subvenir a ses propres besoins (par exemple, des preuves d'envoi d'argent au pays d'origine avant son arrivee). Un cohabitant legal doit prouver le caractere durable et stable de la relation (cohabitation ininterrompue d'un an, ou connaissance depuis 2 ans avec au moins 3 rencontres totalisant 45 jours, ou enfant commun).",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_intro_etrangers#choix-cadre-legal-regroupement-familial",
+        "loi_15_12_1980#art_40bis"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#art-47-1-toujours-soumis-approbation-oe",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "art-47-1-toujours-soumis-approbation-oe",
+      "emplacement": "Module e-learning - Regroupement familial avec un autre citoyen de l'UE, article 47/1",
+      "titre_contexte": "Article 47/1 : regroupement avec un citoyen europeen pour les membres de famille non couverts par le 40bis (partenaire de fait, autre membre a charge/du menage, membre necessitant des soins) - toujours soumis a l'approbation de l'Office des etrangers",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'article 47/1 s'applique, comme l'article 40bis, aussi bien aux membres de la famille d'un citoyen europeen que d'un Belge ayant exerce son droit a la libre circulation, mais pour des categories de membres de famille plus larges : le 'partenaire de fait' (preuve d'une relation durable, par tout moyen approprie) ; un autre membre de la famille qui, dans le pays d'origine, etait a charge du citoyen europeen ou faisait partie de son menage (preuve du lien de parente, et preuve d'etre a charge ou d'avoir fait partie du meme menage avant l'arrivee en Belgique) ; et un autre membre de la famille dont le citoyen europeen doit personnellement s'occuper en raison de problemes de sante graves (preuve du lien de parente, preuve du probleme de sante grave, et preuve que seul le citoyen europeen rejoint peut s'en occuper personnellement). A la difference de l'article 40bis, ces trois categories sont toujours soumises a l'approbation de l'Office des etrangers, jamais a une decision automatique de la commune : l'annexe 8ter ou la carte EU n'est delivree que sur instructions de l'Office des etrangers, ou en l'absence de decision negative a l'echeance du delai de 6 mois de l'annexe 19.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_intro_etrangers#choix-cadre-legal-regroupement-familial"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#art-40ter-non-retrait-titre-et-carte-f",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "art-40ter-non-retrait-titre-et-carte-f",
+      "emplacement": "Module e-learning - L'article 40ter",
+      "titre_contexte": "Article 40ter (regroupement avec un Belge n'ayant pas exerce la libre circulation) : un titre de sejour valide deja obtenu sur une autre base n'est jamais retire pour le remplacer par une attestation d'immatriculation, et procedure carte F puis F+ apres 5 ans",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le regroupement familial sur la base de l'article 40ter concerne le conjoint, partenaire equivalent, descendant, cohabitant ou ascendant au premier degre d'un enfant belge mineur, lorsque le Belge rejoint n'a pas exerce son droit a la libre circulation. Une redevance est due sauf dispense. Regle importante : lorsqu'une personne introduit une demande sur la base de l'article 40ter alors qu'elle disposait deja d'un titre de sejour de plus de 3 mois valide sur une autre base (par exemple une carte A d'etudiante), ce titre n'est jamais retire tant qu'il reste valable, meme s'il s'agit d'un changement de statut - il ne peut pas etre 'retrograde' vers une attestation d'immatriculation. Ce n'est que si ce titre de sejour arrive a echeance avant la fin du delai de 6 mois de l'annexe 19ter, et que sa prolongation n'est plus possible sur son ancienne base (par exemple des etudes terminees), que la commune delivre alors une attestation d'immatriculation pour le solde du delai restant. Si la demande est introduite via le poste diplomatique belge a l'etranger (visa D B20 ou B21), l'etranger se presente dans les 8 jours ouvrables de son arrivee, recoit une annexe 15 valable 45 jours dans l'attente de l'enquete de residence, puis une carte F. Apres un sejour ininterrompu de 5 ans (plus tot dans certaines exceptions), une demande de sejour permanent (carte F+) est introduite via une annexe 22 ; l'Office des etrangers dispose de 5 mois pour statuer, la demande etant consideree comme acceptee en l'absence de decision a l'echeance de ce delai.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_intro_etrangers#choix-cadre-legal-regroupement-familial",
+        "loi_15_12_1980#art_40ter"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#annexe-20-competence-communale-documents-manquants",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "annexe-20-competence-communale-documents-manquants",
+      "emplacement": "Module e-learning - L'article 40ter",
+      "titre_contexte": "Regroupement familial (annexe 19ter) : si les documents complementaires ne sont pas fournis dans le delai de 3 mois, c'est la commune elle-meme (pas l'Office des etrangers) qui decide de delivrer une annexe 20 et de radier pour perte de droit au sejour",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Lorsqu'une personne introduit une demande de regroupement familial via une annexe 19ter et ne fournit pas, dans le delai de 3 mois, les documents complementaires requis (par exemple les preuves de revenus du menage), c'est la commune elle-meme qui a l'initiative de delivrer une annexe 20, de retirer l'attestation d'immatriculation, et le cas echeant de proceder a la radiation pour perte de droit au sejour. Il ne s'agit pas d'une decision de l'Office des etrangers : la commune n'a pas a attendre d'instructions pour agir a l'expiration de ce delai.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_regroupement_familial#art-40ter-non-retrait-titre-et-carte-f",
+        "loi_15_12_1980#art_40ter"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#art-10bis-carte-a-validite-carte-b-jamais-automatique",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "art-10bis-carte-a-validite-carte-b-jamais-automatique",
+      "emplacement": "Module e-learning - Regroupement familial avec un non-europeen en sejour limite, article 10bis",
+      "titre_contexte": "Article 10bis (regroupement avec un ressortissant de pays tiers en sejour limite, carte A/H/I/J) : la carte A du membre de famille suit toujours la validite de la personne rejointe (meme au-dela d'un an, sans limite d'age), et le passage a la carte B apres 5 ans n'est jamais automatique",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'article 10bis s'applique au regroupement familial avec un ressortissant de pays tiers titulaire d'un titre de sejour limite (carte A, H, I ou J) - attention, un beneficiaire de la protection subsidiaire avec une carte A est considere en sejour illimite, donc l'article 10 s'applique alors, pas le 10bis. La carte A delivree au membre de la famille a toujours la meme duree de validite que celle de la personne rejointe, meme si cette duree depasse un an, et ce sans limite d'age pour un enfant mineur qui rejoint son parent (par exemple, un enfant de 17 ans dont le titre de sejour du pere restant valable 18 mois recevra une carte A de 18 mois, et non une carte limitee a un an ni une carte limitee a sa majorite). Apres 5 ans de sejour sous cette base, une carte B peut etre delivree, mais uniquement sur instructions expresses de l'Office des etrangers - ce n'est jamais une decision automatique de la commune, meme si entre-temps la personne rejointe a elle-meme obtenu un sejour illimite. Si les conditions de l'article 10bis ne sont plus reunies (par exemple, absence de cohabitation, ou perte de revenus suffisants du conjoint) ou pour des raisons d'ordre public, l'Office des etrangers peut prendre une decision de refus (annexe 14 ou 14ter).",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_intro_etrangers#choix-cadre-legal-regroupement-familial"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#art-10-circonstances-exceptionnelles-delai-9-mois",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "art-10-circonstances-exceptionnelles-delai-9-mois",
+      "emplacement": "Module e-learning - Regroupement familial avec un non-europeen en sejour illimite, article 10",
+      "titre_contexte": "Article 10 (regroupement avec un ressortissant de pays tiers en sejour illimite ou refugie reconnu) : demande sous circonstances exceptionnelles (art. 12bis paragraphe 1er) sans passer par le poste diplomatique, delai total de 9 mois avant la carte A",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "L'article 10 s'applique au regroupement familial avec un ressortissant de pays tiers en sejour illimite (carte B, K, L, F ou F+) ou reconnu refugie (carte A). L'article 12bis, paragraphe 1er, de la loi du 15/12/1980 permet, sous circonstances exceptionnelles, d'introduire la demande directement en Belgique sans passer par le poste diplomatique belge a l'etranger, meme si le demandeur ne remplit pas les conditions de sejour normales - a condition de justifier les raisons pour lesquelles la demande n'est pas introduite a l'etranger. Apres enquete de residence, la commune transmet directement le dossier a l'Office des etrangers, qui prend soit une decision de non-prise en consideration, soit un accord se traduisant par la delivrance d'une annexe 15bis et d'une attestation d'immatriculation. Le delai total avant l'obtention d'une carte A dans ce cadre est de 9 mois : un premier delai de 4 mois avant la delivrance de l'attestation d'immatriculation, puis cette attestation est valable 5 mois supplementaires, au terme desquels la carte A est delivree si l'Office des etrangers n'a pas pris de decision contraire. Un parent d'un enfant mineur reconnu refugie ou beneficiaire de la protection subsidiaire peut egalement introduire une demande sur cette base, y compris si l'enfant a entretemps atteint 18 ans (pour autant qu'il avait moins de 18 ans au moment de sa demande de protection internationale), a condition d'introduire la demande dans les 3 mois de la reconnaissance de l'enfant. Apres 5 ans de sejour, l'Office des etrangers donne son accord pour la delivrance d'une carte B, si toutes les conditions restent remplies.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_regroupement_familial#art-10bis-carte-a-validite-carte-b-jamais-automatique"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#protection-temporaire-deux-cas",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "protection-temporaire-deux-cas",
+      "emplacement": "Module e-learning - Le regroupement familial avec un titulaire de la protection temporaire",
+      "titre_contexte": "Regroupement familial avec un beneficiaire de la protection temporaire : deux cas selon que le membre de famille remplit lui-meme les conditions de la protection temporaire ou non",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Pour le regroupement familial avec un beneficiaire de la protection temporaire, deux situations se presentent. Si le membre de la famille remplit lui-meme les conditions de la protection temporaire (famille deja constituee dans le pays d'origine, separation due a l'afflux massif, se trouver hors du territoire des Etats membres de l'UE, absence de maladie visee par la loi), la demande doit obligatoirement etre introduite aupres du poste diplomatique ou consulaire belge a l'etranger (jamais en Belgique) : en cas d'accord, un visa D B49 est delivre, puis a l'arrivee une annexe 15 et, apres enquete de residence positive, une inscription au registre des etrangers avec une carte A a la validite de la protection temporaire en cours. Si le membre de la famille ne remplit PAS lui-meme les conditions de la protection temporaire, la demande peut au contraire etre introduite en Belgique ; le regroupant doit alors disposer de moyens de subsistance stables, suffisants et reguliers (120% du revenu d'integration sociale), d'un logement suffisant et d'une assurance maladie - sauf pour les ascendants directs d'un beneficiaire mineur, ou si le regroupant ne fait venir que ses enfants mineurs, ou si la demande est introduite dans l'annee de la decision d'octroi de la protection temporaire au regroupant (auquel cas ces conditions de moyens, logement et assurance ne s'appliquent pas non plus).",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_regroupement_familial#mineur-protection-internationale-parents",
+      "document_id": "elearning_regroupement_familial",
+      "numero": "mineur-protection-internationale-parents",
+      "emplacement": "Module e-learning - Le regroupement familial avec un enfant mineur accompagne beneficiaire de la protection internationale",
+      "titre_contexte": "Regroupement familial d'un enfant mineur beneficiaire de la protection internationale avec ses parents : pas de condition de moyens de subsistance, de logement ou d'assurance ; delai avant la carte A (9 mois si demande en Belgique)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Les parents d'un enfant mineur non marie, beneficiaire de la protection internationale et residant en Belgique avec au moins l'un d'entre eux, peuvent le rejoindre sans devoir remplir les conditions habituelles de moyens de subsistance suffisants, de logement suffisant ou d'assurance maladie - a condition que le lien de filiation existait deja dans le pays d'origine et que les parents viennent vivre avec l'enfant avant qu'il n'atteigne 18 ans. Si la demande est introduite a l'etranger, un visa D B38 est delivre au poste diplomatique belge, puis, apres enquete de residence positive, une carte A valable 1 an. Si la demande est introduite en Belgique (sans condition d'etre en sejour legal), sur presentation d'un dossier complet (passeport, extrait de casier judiciaire, preuve du lien de filiation, certificat medical), la commune delivre une annexe 15bis, puis, apres enquete de residence positive, une attestation d'immatriculation valable 9 mois a compter de l'annexe 15bis (prolongeable 2 fois 3 mois si le dossier est complexe, sur instructions de l'Office des etrangers, ou d'un mois supplementaire en l'absence d'instructions a l'echeance) ; la carte A d'un an n'est commandee que sur instructions de l'Office des etrangers.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_citoyens_europeens#dossier-complet-01-09-2025-preuve-nationalite",
+      "document_id": "elearning_citoyens_europeens",
+      "numero": "dossier-complet-01-09-2025-preuve-nationalite",
+      "emplacement": "Module e-learning - Enregistrement des citoyens europeens, annexe 19",
+      "titre_contexte": "Enregistrement d'un citoyen europeen (annexe 19) : depuis le 01/09/2025, le justificatif de sejour doit etre fourni des l'introduction de la demande (dossier complet) ; preuve de nationalite acceptee meme perimee, sauf decision d'entree qui reste reservee a l'Office des etrangers",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Depuis le 01/09/2025, un citoyen europeen ou assimile qui introduit une demande d'inscription (attestation d'enregistrement, annexe 19) doit justifier son sejour en Belgique (etudiant, travailleur, moyens de subsistance suffisants, etc.) des l'introduction de sa demande - il ne dispose plus, comme avant cette date, d'un delai de 3 mois pour le faire. Cette regle du 'dossier complet' s'applique aussi aux dossiers introduits avant le 01/09/2025 mais non encore clotures definitivement. La preuve de la nationalite peut etre apportee par une carte d'identite ou un passeport, meme perime, ou par tout autre document prouvant la qualite de citoyen de l'Union - mais dans ce dernier cas (preuve autre qu'une carte d'identite ou un passeport en cours de validite), la decision d'entree sur le territoire ne peut etre prise que par l'Office des etrangers, jamais par la commune. Si la preuve de nationalite ne peut pas etre apportee du tout, la commune notifie a l'interesse une annexe 19quinquies (refus de prise en consideration).",
+      "categorie": "etrangers",
+      "sous_categorie": "enregistrement_citoyens_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": true
+    },
+    {
+      "entry_id": "elearning_citoyens_europeens#registre-attente-sans-enquete-prealable",
+      "document_id": "elearning_citoyens_europeens",
+      "numero": "registre-attente-sans-enquete-prealable",
+      "emplacement": "Module e-learning - Enregistrement des citoyens europeens, annexe 19",
+      "titre_contexte": "Un citoyen europeen peut etre inscrit au registre d'attente et obtenir son annexe 19 (voire une annexe 8ter) sans enquete de residence prealable, contrairement a un ressortissant de pays tiers",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Contrairement aux ressortissants de pays tiers, un citoyen europeen peut etre directement inscrit dans un registre d'attente et obtenir son annexe 19 (voire une annexe 8ter) alors qu'aucune enquete de residence n'a encore ete realisee. C'est seulement a la suite d'un controle de residence positif que le citoyen de l'Union sera inscrit au registre des etrangers. En cas d'enquete negative, la personne est radiee (pas de droit d'inscription), mais cela n'interrompt pas pour autant la procedure de demande d'attestation d'enregistrement en cours.",
+      "categorie": "etrangers",
+      "sous_categorie": "enregistrement_citoyens_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_citoyens_europeens#dossier-complet-01-09-2025-preuve-nationalite"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_citoyens_europeens#membre-famille-non-ue-documents-annexe-3ter",
+      "document_id": "elearning_citoyens_europeens",
+      "numero": "membre-famille-non-ue-documents-annexe-3ter",
+      "emplacement": "Module e-learning - Membres de la famille d'un citoyen europeen",
+      "titre_contexte": "Membre de famille non europeen d'un citoyen europeen en court sejour : documents requis (passeport+visa C ou autre preuve), dispense pour titulaire d'une carte de sejour permanent, annexe 3ter, et impossibilite de prolonger le court sejour",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le membre de la famille (non europeen) d'un citoyen de l'Union dispose, comme le citoyen europeen lui-meme, de 10 jours ouvrables a partir de son entree en Belgique pour se presenter aupres de sa commune de sejour (sauf s'il loge a l'hotel, est hospitalise, ou est detenu). Il doit fournir son passeport en cours de validite, revetu eventuellement d'un visa C, ou tout autre document prouvant sa qualite de membre de famille d'un citoyen de l'Union ; le membre de famille deja titulaire d'une carte de sejour (permanent) de membre de la famille d'un citoyen de l'Union est dispense de l'obligation de visa C. Lorsque la qualite de membre de famille est prouvee par un document autre qu'un passeport valide eventuellement revetu d'un visa C, la decision d'entree ne peut etre prise que par l'Office des etrangers, jamais par la commune. La commune delivre alors une declaration de presence (annexe 3ter), sans duree de validite propre distincte de celle du citoyen europeen rejoint, et en envoie une copie a l'Office des etrangers (cs.3ter@ibz.fgov.be). Le court sejour du membre de famille ne peut pas etre prolonge en tant que tel : a son terme, il doit soit quitter le territoire, soit introduire une demande de carte de sejour de membre de la famille d'un citoyen de l'Union (annexe 19ter). Aucun cachet d'entree ou de sortie n'est appose dans le passeport d'un membre de famille deja titulaire d'une carte de sejour permanent de membre de la famille d'un citoyen de l'Union.",
+      "categorie": "etrangers",
+      "sous_categorie": "enregistrement_citoyens_europeens",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_court_sejour#membres-famille-non-europeens-citoyen-ue"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_citoyens_europeens#frontaliers-etudiants-annexe-33-travailleurs-annexe-15",
+      "document_id": "elearning_citoyens_europeens",
+      "numero": "frontaliers-etudiants-annexe-33-travailleurs-annexe-15",
+      "emplacement": "Module e-learning - Cas particuliers : saisonniers, mobilite, frontaliers",
+      "titre_contexte": "Etudiants et travailleurs frontaliers europeens : annexe 33 renouvelable pour l'etudiant qui reste domicilie dans un pays limitrophe, et annexe 15 barree (mention de couverture provisoire biffee) pour le travailleur frontalier",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un etudiant europeen frontalier (domicilie dans un pays limitrophe et etudiant en Belgique) doit fournir les memes documents qu'un autre etudiant europeen, mais se presente aupres de sa commune de residence dans les 8 jours ouvrables de son entree en Belgique ; la commune lui delivre une annexe 33, renouvelable si la demande de renouvellement est introduite avant l'expiration de l'annexe, si l'etudiant continue a resider dans le pays limitrophe et y retourne en principe chaque week-end, et sur presentation d'une attestation d'inscription dans un etablissement d'enseignement organise, reconnu ou subsidie par les pouvoirs publics. Un travailleur frontalier europeen doit prouver sa citoyennete aupres de la commune ou se situe son lieu de travail (et non sa commune de residence, situee a l'etranger) ; la commune lui delivre une annexe 15, en barrant la mention 'La presente attestation couvre provisoirement le sejour jusqu'au...' (puisqu'il ne reside pas en Belgique).",
+      "categorie": "etrangers",
+      "sous_categorie": "enregistrement_citoyens_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_citoyens_europeens#travailleurs-saisonniers-ue-annexe-3-marche-travail-limite",
+      "document_id": "elearning_citoyens_europeens",
+      "numero": "travailleurs-saisonniers-ue-annexe-3-marche-travail-limite",
+      "emplacement": "Module e-learning - Les travailleurs saisonniers (europeens)",
+      "titre_contexte": "Travailleur saisonnier europeen en court sejour : exception au principe d'interdiction de travailler, annexe 3 avec mention marche du travail limite, et deux regimes de prolongation selon que le total depasse ou non 90 jours sur 180",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Une personne en court sejour ne peut en principe pas travailler en Belgique ; l'exception concerne les travailleurs saisonniers europeens, qui peuvent venir travailler pour une duree maximale de 90 jours. Le travailleur doit presenter a la commune, dans les 3 jours ouvrables de son arrivee, son passeport valable, un visa C portant la mention 'travailleur saisonnier' (sauf dispense de visa), et son permis de travail en tant que travailleur saisonnier. La commune delivre une annexe 3 (declaration d'arrivee), dont la duree de validite est egale a celle de l'autorisation de travail, avec la mention 'Marche du travail : limite'. Deux regimes de prolongation existent : si la prolongation reste dans la limite de 90 jours sur une periode de 180 jours, la commune peut, selon le dossier, rendre une decision d'irrecevabilite (si le sejour est deja expire ou si aucun document n'est fourni), demander les documents manquants, ou transmettre le dossier a l'Office des etrangers ; en cas d'accord, l'annexe 3 est prorogee (ou une nouvelle vignette-visa est apposee si l'etranger est soumis a visa), avec des prorogations de 15 en 15 jours si le ministre ne decide pas avant l'expiration de l'annexe 3, sans jamais depasser 90 jours sur 180. Si la prolongation depasse 90 jours sur 180, la demande se fait aupres de l'autorite regionale competente ; en cas d'accord, un visa D 'travailleur saisonnier' est appose par le SPF Affaires etrangeres, et l'etranger n'est alors ni inscrit au registre des etrangers, ni mis en possession d'une carte A. A la fin du sejour, la commune diligente une enquete de residence ('si reside') : si l'etranger a quitte le territoire, le dossier est clos ; s'il reside toujours en Belgique, le rapport de police est transmis a l'Office des etrangers en vue de la delivrance d'un ordre de quitter le territoire (annexe 13).",
+      "categorie": "etrangers",
+      "sous_categorie": "enregistrement_citoyens_europeens",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_protection_internationale#acteurs-et-definitions",
+      "document_id": "elearning_protection_internationale",
+      "numero": "acteurs-et-definitions",
+      "emplacement": "Module e-learning - Protection internationale (MINTEH), 1.1 Definitions",
+      "titre_contexte": "Demande de protection internationale : definitions cles (demandeur, decision definitive, DUPI, pays surs) et role des 4 instances (Office des etrangers, CGRA, CCE, Conseil d'Etat)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "La demande de protection internationale (synonyme de demande d'asile) englobe la demande de reconnaissance du statut de refugie et la demande de protection subsidiaire. Le demandeur de protection internationale est toute personne ayant introduit une telle demande et attendant une decision definitive - une decision qui met fin a la procedure (positive ou negative) et qui n'est plus susceptible de recours. Une demande ulterieure de protection internationale (DUPI) est toute nouvelle demande introduite apres une decision definitive. Les pays surs sont des pays consideres comme suffisamment stables pour ne pas justifier l'octroi de la protection internationale : les demandes provenant de ces pays font l'objet d'une procedure acceleree. Un refugie reconnu dans un autre pays est une personne ayant deja obtenu le statut de refugie dans un autre Etat membre de l'UE mais souhaitant obtenir cette reconnaissance egalement en Belgique. Quatre instances interviennent dans la procedure : l'Office des etrangers enregistre les demandes, determine la langue de la procedure, prend les empreintes digitales, et decide de l'Etat responsable de l'examen sur la base du reglement Dublin ; le Commissariat general aux refugies et aux apatrides (CGRA) examine le fond de la demande, organise les auditions, et decide d'accorder ou de refuser le statut de refugie ou la protection subsidiaire ; le Conseil du contentieux des etrangers (CCE) connait des recours contre les decisions de l'Office des etrangers et du CGRA, et peut les annuler, confirmer ou modifier ; le Conseil d'Etat examine les recours en cassation contre les arrets du CCE.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_protection_internationale#inscription-registre-attente-codes-ti",
+      "document_id": "elearning_protection_internationale",
+      "numero": "inscription-registre-attente-codes-ti",
+      "emplacement": "Module e-learning - Protection internationale (MINTEH), 1.2 Inscription et gestion du registre",
+      "titre_contexte": "Demandeur de protection internationale : inscription automatique au registre d'attente par l'Office des etrangers, role de mise a jour de la commune, et signification de quelques codes TI cles (205, 206, 207, 211, 212, 213)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Tout demandeur de protection internationale est inscrit automatiquement au registre d'attente par l'Office des etrangers des l'introduction de sa demande. Les administrations communales sont chargees de verifier et de mettre a jour les informations contenues dans ce registre, notamment en cas de changement d'adresse. Plusieurs codes TI specifiques renseignent le statut du demandeur : le TI 205 identifie le type de demandeur, le TI 206 les donnees relatives a la procedure, le TI 207 indique le lieu d'inscription obligatoire (competence de Fedasil), le TI 211 indique la valeur a accorder a l'identite - toute modification d'identite ne peut se faire qu'en accord avec l'Office des etrangers - le TI 212 indique le domicile elu par le candidat refugie (centre ouvert, domicile, avocat, CGRA...) : les decisions prises dans le cadre de la procedure peuvent y etre notifiees, et sont considerees comme notifiees apres 15 jours ; le TI 213 signale qu'un alias a eventuellement ete introduit.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_protection_internationale#acteurs-et-definitions"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_protection_internationale#titres-sejour-ai-cartes-a-decisions-cgra",
+      "document_id": "elearning_protection_internationale",
+      "numero": "titres-sejour-ai-cartes-a-decisions-cgra",
+      "emplacement": "Module e-learning - Protection internationale (MINTEH), 2. La demande en pratique",
+      "titre_contexte": "Titres de sejour du demandeur de protection internationale : attestation d'immatriculation (AI) initiale de 4 mois puis prorogations de 8 mois, acces au marche du travail apres 4 mois, et titre delivre selon la decision du CGRA (carte A 5 ans si refugie, carte A 1 an si protection subsidiaire)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Le demandeur de protection internationale recoit d'abord une attestation d'immatriculation (AI) initiale valable 4 mois, renouvelable par periodes de 8 mois jusqu'a la decision definitive ou instruction de l'Office des etrangers. L'acces au marche du travail n'est pas autorise pendant les 4 premiers mois, puis devient illimite. Selon la decision du CGRA : la reconnaissance du statut de refugie remplace l'AI par une carte A valable 5 ans ; le refus du statut de refugie combine a l'octroi de la protection subsidiaire remplace l'AI par une carte A valable 1 an, renouvelable ; le refus des deux statuts prolonge l'AI par periodes de 8 mois dans l'attente d'une decision definitive ou d'une instruction de la cellule Protection internationale. En cas de recours introduit devant le Conseil du contentieux des etrangers (CCE), l'AI est prolongee pendant toute la duree de la procedure ; en cas d'annulation de la decision par le CCE, l'AI est prolongee par periodes de 8 mois ; en cas de rejet du recours, l'AI est prolongee en attendant une decision definitive ou une instruction ; en cas de reconnaissance du statut de refugie ou d'octroi de la protection subsidiaire suite a un recours, l'AI est remplacee par une carte A. Une demande ulterieure de protection internationale (DUPI) declaree irrecevable met fin a la prorogation de l'AI ; une DUPI declaree recevable suit la meme procedure qu'une premiere demande. Dans le cadre de la procedure de Dublin, l'AI est prorogee si la Belgique est declaree competente pour examiner la demande.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [
+        "elearning_protection_internationale#acteurs-et-definitions"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "elearning_protection_internationale#apatridie-procedure-01-09-2024-tribunal-famille",
+      "document_id": "elearning_protection_internationale",
+      "numero": "apatridie-procedure-01-09-2024-tribunal-famille",
+      "emplacement": "Module e-learning - Protection internationale (MINTEH), 3. Sejour en qualite d'apatride",
+      "titre_contexte": "Nouvelle procedure de sejour pour les apatrides depuis le 01/09/2024 : demande par courrier recommande a l'Office des etrangers, avis du CGRA, mais seul le Tribunal de la famille est competent pour reconnaitre le statut d'apatride (pas l'Office des etrangers)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Depuis le 1er septembre 2024, une procedure specifique permet a une personne apatride d'obtenir un titre de sejour, dans le but d'harmoniser le traitement de ces demandes avec celui des refugies. Quatre instances interviennent : l'Office des etrangers examine les demandes d'admission au sejour ; le CGRA emet un avis sur les demandes retenues par l'Office des etrangers ; le Conseil du contentieux des etrangers examine les recours contre les decisions de l'Office des etrangers ; et le Tribunal de la famille est seul competent pour reconnaitre le statut d'apatride en tant que tel. La demande doit etre envoyee par courrier recommande directement a l'Office des etrangers, sans redevance a payer. L'Office des etrangers examine d'abord la recevabilite de la demande (refus possible si incomplete ou si les conditions ne sont pas remplies), puis, si la demande est retenue, sollicite l'avis du CGRA avant de prendre sa decision finale d'admission ou de refus. En cas d'admission, l'interesse obtient d'abord une carte valable 5 ans a dater de la decision ; une carte B (sejour illimite) pourra etre delivree apres 5 ans, sur instructions de l'Office des etrangers. En cas d'admission, la commune effectue une enquete de residence, inscrit l'interesse au registre des etrangers, delivre la carte de sejour, et met a jour le registre - attention, la mise a jour de la nationalite (TI 031) ne se fait PAS sur instructions de l'Office des etrangers : c'est le Tribunal de la famille qui reste seul competent en la matiere.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": true
+    },
+    {
+      "entry_id": "elearning_protection_internationale#mena-definition-demandes-carte-a-ai",
+      "document_id": "elearning_protection_internationale",
+      "numero": "mena-definition-demandes-carte-a-ai",
+      "emplacement": "Module e-learning - Protection internationale (MINTEH), Les Mineurs Etrangers Non Accompagnes",
+      "titre_contexte": "Mineurs Etrangers Non Accompagnes (MENA) : definition, types de demandes possibles, et titres delivres par la commune sur instructions de l'Office des etrangers (carte A 1 an renouvelable via le tuteur, ou attestation d'immatriculation 6 mois)",
+      "statut": "en_vigueur",
+      "derniere_modif": null,
+      "texte": "Un Mineur Etranger Non Accompagne (MENA) est un etranger qui parait ou declare avoir moins de 18 ans, est ressortissant d'un pays non membre de l'Espace economique europeen, n'est pas accompagne d'une personne exercant l'autorite parentale ou la tutelle a son egard, et soit ne remplit pas les conditions d'entree ou de sejour, soit est demandeur de protection internationale. Un MENA peut introduire une demande de protection internationale, une demande de sejour sur la base de l'article 9bis ou 9ter, ou une demande en tant que victime de la traite des etres humains. Lorsque l'Office des etrangers examine ces demandes, un retour du MENA dans son pays peut etre envisage s'il s'agit de la solution la plus durable - dans ce cas, la commune de residence notifie la decision au tuteur. Si l'Office des etrangers accorde le sejour en Belgique, il envoie des instructions a la commune de residence en vue de la delivrance d'une carte A valable 1 an, renouvelable sur production, via le tuteur, de preuves de scolarite et de connaissance d'une langue nationale. Si aucune decision ne peut encore etre prise, l'Office des etrangers peut donner instruction a la commune de delivrer une attestation d'immatriculation valable 6 mois, a charge pour le tuteur de fournir des preuves de solutions durables offertes au mineur ; a l'issue, l'Office des etrangers decide soit la delivrance d'une carte A, soit la prolongation de l'attestation d'immatriculation dans l'attente de nouveaux elements.",
+      "categorie": "etrangers",
+      "sous_categorie": "protection_internationale",
+      "commente_par": [],
+      "articles_lies": [],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "loi_15_12_1980#art_40bis",
+      "document_id": "loi_15_12_1980",
+      "numero": "40bis",
+      "emplacement": "Titre premier, Chapitre Ibis",
+      "titre_contexte": "Membres de famille d'un citoyen de l'Union - definition et conditions (article condense, version 01/09/2024)",
+      "statut": "en_vigueur",
+      "derniere_modif": "2024-09-01",
+      "texte": "Sont consideres comme membres de famille d'un citoyen de l'Union, avec droit de l'accompagner ou de le rejoindre : 1) le conjoint, ou le partenaire lie par un partenariat enregistre considere comme equivalent a un mariage en Belgique ; 2) le partenaire lie par un partenariat enregistre conformement a une loi (non necessairement equivalent-mariage), a condition que les deux partenaires viennent vivre ensemble, prouvent une relation durable et stable (cohabitation ininterrompue d'au moins un an, ou connaissance d'au moins deux ans avec contacts reguliers et au moins 3 rencontres totalisant 45 jours ou davantage, ou un enfant commun), soient tous deux ages de plus de 21 ans (18 ans si preuve d'une cohabitation d'au moins un an avant l'arrivee en Belgique), soient celibataires et sans autre relation durable, ne soient pas dans un des liens de parente prohibes au mariage (art. 161 a 163 du Code civil), et n'aient pas fait l'objet d'un refus definitif de celebration du mariage (art. 167 du Code civil) ; 3) les descendants directs (ainsi que ceux du conjoint/partenaire), ages de moins de 21 ans ou a charge dans le pays d'origine, sous reserve du droit de garde de l'etranger rejoint (et de l'accord de l'autre titulaire de l'autorite parentale en cas de garde partagee) ; 4) les ascendants directs (ainsi que ceux du conjoint/partenaire) a charge dans le pays d'origine ; 5) les ascendants directs au premier degre qui exercent l'autorite parentale, garde comprise, sur un citoyen de l'Union mineur, pour autant qu'ils l'accompagnent en Belgique et s'en occupent effectivement. Pour un sejour de plus de 3 mois, le citoyen de l'Union rejoint doit en outre prouver des ressources suffisantes pour que les membres de sa famille ne deviennent pas une charge pour l'aide sociale, et une assurance maladie couvrant tous les risques pour eux en Belgique (evaluation tenant compte de la situation personnelle - nature et regularite des revenus, nombre de personnes a charge). Note : cet article est complexe et frequemment modifie (dernieres modifications substantielles en 2024) ; en cas de doute sur un dossier concret, verifier la version en vigueur au Moniteur belge plutot que de se fier a ce resume condense.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "loi_15_12_1980#art_10"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "loi_15_12_1980#art_40ter",
+      "document_id": "loi_15_12_1980",
+      "numero": "40ter",
+      "emplacement": "Titre premier, Chapitre Ibis",
+      "titre_contexte": "Membres de famille d'un Belge (ayant ou non exerce son droit de libre circulation) - definition et conditions (article condense, version 18/08/2025)",
+      "statut": "en_vigueur",
+      "derniere_modif": "2025-08-18",
+      "texte": "Un Belge ayant effectivement sejourne dans un autre Etat membre de l'UE (art. 21 TFUE) puis revenant s'etablir en Belgique est considere comme ayant exerce son droit de libre circulation : les membres de sa famille (au sens de l'article 40bis, paragraphe 2) beneficient alors des memes regles que les membres de famille d'un citoyen de l'Union, a condition que la vie familiale se soit developpee ou consolidee pendant ce sejour effectif a l'etranger, que les membres de famille accompagnent ou rejoignent le Belge en Belgique, et que la vie familiale n'ait pas pris fin avant l'entree du membre de famille en Belgique ou avant la demande. Pour un Belge n'ayant pas exerce ce droit (ou ne remplissant pas ces conditions), les memes categories de membres de famille s'appliquent avec des seuils differents : conjoint/partenaire equivalent-mariage (tous deux ages de plus de 21 ans) ; descendants directs du Belge ou de son conjoint/partenaire, ages de moins de 18 ans ou a charge, sous reserve de l'autorite parentale/droit de garde (et de l'accord de l'autre titulaire en cas de garde partagee) ; ascendants directs au premier degre exercant l'autorite parentale (garde comprise) sur un Belge MINEUR, pour autant qu'ils l'accompagnent et s'en occupent effectivement, munis d'un document d'identite valable. Pour le conjoint/partenaire et les descendants, le Belge regroupant doit prouver : des moyens de subsistance stables, suffisants et reguliers (au moins 110% du revenu minimum mensuel moyen garanti, majore de 10% par membre de famille supplementaire a charge ; le revenu d'integration sociale, l'aide sociale financiere, les allocations familiales de base, les allocations d'insertion et l'allocation de transition ne comptent PAS comme ressources, l'allocation de chomage ne compte que si le Belge prouve rechercher activement du travail ; cette condition de ressources ne s'applique pas si le Belge ne fait venir que des enfants mineurs) ; un logement suffisant conforme aux normes de securite et de salubrite ; et une assurance maladie couvrant tous les risques en Belgique pour lui et sa famille. Si un certificat de non-empechement a mariage a deja ete delivre, aucune nouvelle enquete n'est menee sur cette base sauf elements nouveaux. Le droit de sejour d'un membre de famille peut prendre fin dans les 5 ans suivant sa reconnaissance si les conditions ne sont plus remplies ; pour un ascendant qui ne demontre pas s'occuper effectivement du Belge mineur, le ministre tient compte de la solidite des liens familiaux, de la relation de dependance, et des consequences sur le droit de libre circulation du Belge mineur avant de refuser ou de mettre fin au sejour. Note : cet article est complexe et tres frequemment modifie (derniere modification substantielle en 2025) ; en cas de doute sur un dossier concret, verifier la version en vigueur au Moniteur belge plutot que de se fier a ce resume condense.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "commente_par": [],
+      "articles_lies": [
+        "loi_15_12_1980#art_40bis"
+      ],
+      "flag_recent": false
     }
   ],
   "pratiques_validees": [
@@ -1624,6 +2410,116 @@
       "source_validation": "FAQ Connect Vanden Broele (ref. 5063)",
       "categorie": "etrangers",
       "sous_categorie": "sejour_redevances"
+    },
+    {
+      "entry_id": "pratique_homme_de_27_ans_non_inscrit_en_belgique_acte_de_naissance_fr",
+      "document_id": "elearning_nationalite",
+      "code": "PV-ETR-096",
+      "titre": "Homme de 27 ans non inscrit en Belgique, acte de naissance francais mentionnant un pere ne au Congo belge en 1958 : doute sur l'attribution automatique de la nationalite belge",
+      "question_origine": "Un homme de 27 ans, jamais inscrit en Belgique, presente un acte de naissance francais ou il apparait que son pere est ne en 1958 au Congo belge (territoire alors soumis a la souverainete belge). Peut-il etre belge depuis sa naissance sur cette base ?",
+      "texte": "C'est un cas typique de doute serieux sur l'attribution automatique de la nationalite belge (potentiellement art. 8paragraphe1, 2 ou art. 11 CNB selon les faits precis - filiation, lieu de naissance du pere assimile a une naissance 'en Belgique' pour les territoires sous souverainete/administration belge). Plusieurs questions doivent etre eclaircies avant de conclure : la filiation envers ce pere est-elle etablie conformement au droit applicable ? l'interesse etant aujourd'hui majeur, cela a-t-il une incidence sur une attribution qui aurait du se faire des la naissance ? Depuis la loi du 6 decembre 2022, ce type de question complexe (hors cas de l'art. 10 CNB qui reste reserve au procureur du Roi de la commune de naissance de l'enfant) doit etre soumis pour AVIS NON CONTRAIGNANT a l'AUTORITE CENTRALE EN MATIERE DE NATIONALITE du SPF Justice (art. 24ter CNB), a la demande de l'OEC ou du gestionnaire des registres de population. Le dossier complet est transmis, l'autorite peut reclamer des pieces complementaires, et rend son avis dans un delai de 6 mois (prolongeable de 6 mois supplementaires).",
+      "precise_ou_complete": [],
+      "source_validation": "E-learning Vanden Broele OrangeConnect - module Nationalite belge",
+      "categorie": "etrangers",
+      "sous_categorie": "nationalite"
+    },
+    {
+      "entry_id": "pratique_regroupement_familial_choix_article_demandeuse_deboutee",
+      "document_id": "elearning_intro_etrangers",
+      "code": "PV-ETR-097",
+      "titre": "Choix de l'article applicable pour une demande de regroupement familial d'une personne deboutee de sa demande d'asile",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "articles_lies": [
+        "loi_15_12_1980#art_10"
+      ],
+      "flag_recent": false,
+      "question_origine": "Une ressortissante congolaise de 52 ans a ete deboutee de sa demande de protection internationale et aucune nouvelle procedure n'est en cours. Elle souhaite introduire une demande de regroupement familial a la commune.",
+      "texte": "Le fait que la demanderesse ne soit plus en sejour legal en Belgique ne l'empeche pas d'introduire une demande de regroupement familial a la commune si elle rejoint un conjoint belge : ce cas releve des articles 40bis/40ter de la loi du 15 decembre 1980, qui n'exigent pas un sejour legal prealable du demandeur. En revanche, si elle rejoignait un cousin francais (lien familial non vise) ou un conjoint etranger en sejour de type carte A (regime des articles 10/10bis, qui exige un sejour legal du demandeur pour introduire la demande a la commune), la demande ne pourrait pas etre introduite directement a la commune dans sa situation. De meme, rejoindre sa fille belge majeure de 25 ans n'ouvre pas de droit au regroupement familial sur la base de l'article 40ter, qui ne vise pas les ascendants d'un enfant belge majeur."
+    },
+    {
+      "entry_id": "pratique_calcul_90_180_jours_visa_c_entrees_multiples",
+      "document_id": "elearning_court_sejour",
+      "code": "PV-ETR-098",
+      "titre": "Calcul des 90 jours sur 180 pour une declaration d'arrivee : visa C a entrees multiples avec plusieurs sejours Schengen",
+      "question_origine": "Une ressortissante algerienne (pays soumis a visa) est titulaire d'un visa C a entrees multiples valable du 15/05/2020 au 15/12/2020. Elle a deja effectue plusieurs allers-retours dans differents Etats Schengen : entrees le 18/06/2020, 02/08/2020, 15/08/2020 et 15/09/2020 ; sorties le 28/07/2020, 07/08/2020 et 19/08/2020. Elle se presente le 18/09/2020 a la commune pour obtenir une declaration d'arrivee. Jusqu'a quelle date sa declaration d'arrivee sera-t-elle valable ?",
+      "texte": "La declaration d'arrivee sera valable jusqu'au 22/10/2020. Le calcul se fait sejour Schengen par sejour Schengen, jours d'entree et de sortie compris : 41 jours du 18/06 au 28/07, puis 6 jours du 02/08 au 07/08, puis 5 jours du 15/08 au 19/08, soit 52 jours deja utilises sur les 90 jours autorises. Il reste donc 38 jours (90-52) a partir du dernier cachet d'entree (15/09/2020), ce qui porte la validite au 22/10/2020. Le sejour ne peut en aucun cas depasser la date de fin de validite du visa C (15/12/2020 dans cet exemple).",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "articles_lies": [
+        "elearning_court_sejour#declaration-arrivee-non-europeens-calcul-90-180"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "pratique_declaration_arrivee_ne_peut_depasser_validite_visa",
+      "document_id": "elearning_court_sejour",
+      "code": "PV-ETR-099",
+      "titre": "La validite d'une declaration d'arrivee ne peut jamais depasser la date de fin de validite du visa, meme si des jours de sejour restent disponibles",
+      "question_origine": "Une personne de nationalite russe se presente dans sa commune le 15/05/2020 pour obtenir une declaration d'arrivee. Elle est en possession d'un visa C a entree unique de 60 jours, valable du 15/02/2020 au 16/06/2020. Quelle sera la validite de sa declaration d'arrivee : le 15 ou le 16/08/2020 (60 jours a partir de son arrivee), ou le 16/06/2020 ?",
+      "texte": "La declaration d'arrivee sera valable jusqu'au 16/06/2020, date de fin de validite du visa - et non 60 jours a partir de l'arrivee. La regle est stricte : le sejour ne peut jamais depasser la date de fin de validite du visa, meme si l'interesse n'a pas encore epuise tous les jours de sejour auxquels son visa lui donnait droit.",
+      "categorie": "etrangers",
+      "sous_categorie": "sejour_court_terme",
+      "articles_lies": [
+        "elearning_court_sejour#declaration-arrivee-non-europeens-calcul-90-180"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "pratique_titre_sejour_valide_jamais_retrograde_attestation_immatriculation",
+      "document_id": "elearning_regroupement_familial",
+      "code": "PV-ETR-100",
+      "titre": "Une etudiante etrangere se marie avec un Belge : sa carte de sejour valide n'est jamais retiree pour etre remplacee par une attestation d'immatriculation",
+      "question_origine": "Une jeune fille mexicaine a deja un sejour etudiant valide jusqu'au 31 octobre de l'annee courante. Elle et son petit ami belge se marient. Elle se presente a sa commune munie de l'acte de mariage et de la preuve de paiement de la redevance, sa carte de sejour etant toujours valide. Que fait la commune : refuser la demande jusqu'a la fin de ses etudes, etablir l'annexe 19ter en laissant sa carte etudiante valide jusqu'a son terme, ou retirer immediatement la carte etudiante pour la remplacer par une attestation d'immatriculation de 6 mois ?",
+      "texte": "La commune etablit l'annexe 19ter sans toucher a la carte de sejour etudiante, qui reste valable jusqu'a son terme. On ne retire jamais un titre de sejour tant qu'il est valable pour l'echanger contre une attestation d'immatriculation, meme en cas de changement de statut vers l'article 40ter. Ce n'est qu'a l'expiration de la carte etudiante, si la prolongation du sejour etudiant n'est plus possible, que la commune delivrera une attestation d'immatriculation pour le delai restant du regroupement familial.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "articles_lies": [
+        "elearning_regroupement_familial#art-40ter-non-retrait-titre-et-carte-f"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "pratique_enfant_17_ans_carte_a_validite_pere_sans_limite_age",
+      "document_id": "elearning_regroupement_familial",
+      "code": "PV-ETR-101",
+      "titre": "Enfant de 17 ans rejoignant son pere sous permis unique : la carte A suit la validite du pere meme au-dela d'un an, sans limite d'age",
+      "question_origine": "Un enfant de 17 ans muni d'un visa D rejoint son pere residant en Belgique sur base du permis unique. Au moment de l'inscription de l'enfant, la carte du pere est encore valable 18 mois. Quelle sera la validite de la carte A de l'enfant : limitee a un an puis renouvelee sans condition, identique a celle du pere meme si elle depasse un an, ou limitee a sa majorite ?",
+      "texte": "La carte A de l'enfant aura la meme validite que celle de son pere (18 mois dans cet exemple), meme si cette duree depasse un an, et sans limite d'age liee a la majorite de l'enfant : le principe est que la carte du membre de famille suit systematiquement la duree de validite de la personne rejointe.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "articles_lies": [
+        "elearning_regroupement_familial#art-10bis-carte-a-validite-carte-b-jamais-automatique"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "pratique_carte_b_10bis_jamais_automatique_meme_si_regroupant_sejour_illimite",
+      "document_id": "elearning_regroupement_familial",
+      "code": "PV-ETR-102",
+      "titre": "Regroupement familial article 10bis : la carte B apres 5 ans n'est jamais delivree automatiquement par la commune, meme si le regroupant obtient entretemps un sejour illimite",
+      "question_origine": "Un conjoint etranger est en Belgique depuis 5 ans sous carte A dans le cadre de l'article 10bis. Son epouse (la personne rejointe) vient d'obtenir un sejour illimite. La commune peut-elle commander directement une carte B pour l'epoux, ou une nouvelle demande sur base de l'article 10 est-elle necessaire, ou faut-il attendre des instructions de l'Office des etrangers ?",
+      "texte": "L'epoux reste sous carte A et continue a demander la prolongation de son sejour de la maniere habituelle. La carte B ne sera delivree qu'au bout de 5 ans de sejour ET uniquement sur instructions expresses de l'Office des etrangers - jamais automatiquement par la commune, meme si la personne rejointe a entretemps elle-meme obtenu un sejour illimite.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "articles_lies": [
+        "elearning_regroupement_familial#art-10bis-carte-a-validite-carte-b-jamais-automatique"
+      ],
+      "flag_recent": false
+    },
+    {
+      "entry_id": "pratique_delai_9_mois_carte_a_article_10_circonstances_exceptionnelles",
+      "document_id": "elearning_regroupement_familial",
+      "code": "PV-ETR-103",
+      "titre": "Regroupement familial article 10 (epouse d'un titulaire de carte B) sans visa D : delai total de 9 mois avant l'obtention de la carte A",
+      "question_origine": "Une jeune fille bresilienne rejoint son epoux en Belgique, qui sejourne sous carte B. Madame n'a pas pu faire la demande de visa D, mais sa demande complete a ete introduite dans les delais en Belgique. A quel moment pourra-t-elle obtenir sa carte A ?",
+      "texte": "Madame obtiendra sa carte A au bout de 9 mois au total apres l'introduction de l'annexe 15bis, si l'Office des etrangers n'a pas pris de decision contraire entretemps : un premier delai de 4 mois avant la delivrance de l'attestation d'immatriculation, puis cette attestation est valable 5 mois supplementaires, a l'expiration desquels la carte A est delivree en l'absence de decision contraire de l'Office des etrangers.",
+      "categorie": "etrangers",
+      "sous_categorie": "regroupement_familial",
+      "articles_lies": [
+        "elearning_regroupement_familial#art-10-circonstances-exceptionnelles-delai-9-mois"
+      ],
+      "flag_recent": false
     }
   ]
 }

@@ -1,0 +1,620 @@
+Les différents types de filiation
+Nom:
+Les différents types de filiation
+Description:
+En Belgique, il y a trois façons d'établir un lien de filiation entre un enfant et son/ses parents: 
+dans l'acte de naissance; 
+dans un acte d'état civil distinct (reconnaissance); 
+par voie judiciaire (adoption et établissement judiciaire de l'acte. 
+Dans ce module, nous nous pencherons sur les différents de filiation qui peuvent exister et leurs caractéristiques.
+Titre, page:
+La filiation maternelle.
+Texte, instruction:
+La filiation maternelle pose rarement problème puisqu'il est assez facile de voir qui a accouché. Un adage latin disait d'ailleurs "Mater semper certa est", la mère est toujours certaine. 
+Néanmoins, il peut y avoir des situations complexes, en particulier avec les évolutions technologiques.
+Texte, introduction:
+Texte:
+La filiation
+maternelle
+Etant
+donné que l’OEC reçoit un avis de naissance qui mentionne la personne qui a mis l'enfant au monde, la mère légale de l’enfant est celle qui
+a accouché. Plus précisément, le Code civil prévoit que la mère de l’enfant est celle qui se
+trouve désignée comme telle dans l’acte de naissance.
+Si
+la mère de l’enfant ne se trouve pas dans l’acte de naissance, celle-ci peut
+reconnaitre l’enfant. C'est un cas extrêmement rare.
+En effet, bien que l'article 62 du Code de droit international privé prévoit que l'établissement de la filiation maternelle dépende de la nationalité de la mère, il n'en restera pas moins impossible de pouvoir accoucher sous "X" comme le prévoit la législation française par exemple. Cette pratique étant contraire à l'Ordre public belge, la mère de l'enfant devra toujours être mentionnée dans l'avis de naissance que l'OEC réceptionnera. 
+Par contre, il est possible que la mère mentionnée comme telle dans un acte de naissance s'avère ne pas l'être (dans un cas d'usurpation d'identité par exemple) et qu'une action judiciaire ait pour conséquence d'annuler la filiation maternelle établie dans l'acte de naissance. Dans ce cas, la "vraie" mère pourra reconnaître l'enfant.
+Question:
+La mère de l'enfant est
+Option de réponse:
+celle qui déclare la naissance de l'enfant.
+Option de réponse:
+celle qui a accouché suivant la notification de naissance.
+Option de réponse:
+celle qui est mentionnée comme telle dans l'acte de naissance.
+Feedback si réponse incorrecte:
+Suivant l'article 312 du Code civil, c'est la femme qui se trouve dans l'acte de naissance qui est la mère de l'enfant.
+Il est donc important de de suivre l'identité reprise dans la notification de naissance.
+Feedback si réponse correcte:
+En effet, c'est la bonne réponse suivant l'article 312 du Code civil.
+Question:
+En tant qu'OEC, vous recevez un avis de naissance sans mention de la femme qui a accouché. Que faites-vous?
+Feedback:
+Il y aura lieu de prendre contact avec l'établissement hospitalier et/ou la personne qui atteste de la naissance afin de recueillir le maximum d'informations quant à la naissance, ce qui inclut les données relatives à mère de l'enfant.
+Question:
+Si la mère n'est pas mentionnée dans l'acte de naissance
+Option de réponse:
+Celle-ci peut reconnaitre l'enfant.
+Option de réponse:
+Elle devra reconnaitre l'enfant de manière judiciaire.
+Option de réponse:
+L'accoucheuse devra témoigner qu'il s'agit bien de la femme qui a accouché.
+Feedback si réponse incorrecte:
+L'article 313 du Code civil prévoit que la mère puisse reconnaitre son enfant si elle n'est pas mentionnée dans l'acte de naissance.
+Feedback si réponse correcte:
+C'est correct, l'article 313 du Code civil permet cette reconnaissance.
+Titre, page:
+L'établissement de la seconde filiation
+Texte, introduction:
+Lorsqu'une seconde filiation est établie celle-ci apparaitra toujours dans l'acte de naissance. Nous allons nous intéresser à la manière dont il en est fait mention.
+Question:
+La seconde filiation est établie (plusieurs réponses possibles) :
+Option de réponse:
+par présomption. Suivant le mariage de la mère.
+Option de réponse:
+par reconnaissance. Avant, au moment de la déclaration de naissance ou après la naissance.
+Option de réponse:
+par voie judiciaire.
+Option de réponse:
+par adoption.
+Option de réponse:
+via la notification de naissance.
+Feedback si réponse incorrecte:
+La notification de naissance ne permet que d'identifier la mère de l'enfant et les données relatives à la naissance (lieu, date, heure, sexe de l'enfant). 
+C'est bel et bien l'Officier de l'état civil qui sera chargé de vérifier la manière dont la seconde filiation peut être établie.
+Feedback si réponse correcte:
+En effet, la seconde filiation pourra être établie selon ces 4 possibilités. Les filiations par présomption et par reconnaissance sont les plus couramment établies.
+Titre, page:
+La filiation par présomption
+Texte, introduction:
+Question:
+Définissez en une phrase le principe de la filiation par présomption.
+Feedback:
+La présomption de filiation est le fait pour la loi de considérer a priori que l'époux ou l'épouse de la mère de l'enfant est le second parent de celui-ci. 
+Dès lors, sauf exception, la personne mariée à la mère est en principe le second parent.
+Titre, accordéon:
+"Le mari est en principe le père"
+Texte, accordéon:
+Comme expliqué précédemment suivant l'article 62 du CoDip, c'est la nationalité du conjoint ou de la conjointe de la mère qui déterminera si la seconde filiation sera ou non établie.
+Vous trouverez ci-dessous quelques exemples de législations étrangères qui doivent donc être prises en compte lorsque l'époux de la mère est de l'une de ses nationalités.
+Titre, barre d’accordéon:
+Texte:
+Présomption de filiation par mariage 
+Le mari de la mère de l’enfant est le père de l’enfant.
+La présomption de paternité est écartée :
+lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père ;
+en cas de demande en divorce ou en séparation de corps, lorsque l'enfant est né plus de trois cents jours après la date soit de l'homologation de la convention réglant l'ensemble des conséquences du divorce ou des mesures provisoires prises en application de l'article 250-2, soit de l'ordonnance de non-conciliation, et moins de cent quatre-vingts jours depuis le rejet définitif de la demande ou la réconciliation.
+Titre, barre d’accordéon:
+Texte:
+Présomption de filiation par mariage 
+Le mari de la mère est considéré comme le père de l’enfant. L’enfant né au moins 180 jours et au plus tard 300 jours après la dissolution du mariage a pour père le mari de la mère. Présomption réfutable devant le tribunal.
+Titre, barre d’accordéon:
+Texte:
+Présomption de filiation par mariage 
+Le mari de la mère est présumé être le père de l’enfant. Est aussi présumé être le père celui qui vit avec la mère de l’enfant. Cela doit être apporté par toute voie de droit. Réfutable par voie judiciaire ou lorsque les conjoints ont été formellement séparés de corps et de bien.
+Titre, barre d’accordéon:
+Texte:
+Présomption de filiation par mariage 
+Le mari de la mère est, en principe, considéré comme le père de l’enfant. Cette présomption peut être renversée si :
+l'enfant est né dans les 180 premiers jours du mariage de la mère et cette dernière ou le conjoint de la mère, déclare au moment de la déclaration de naissance que le conjoint de la mère n'est pas le père de l'enfant ;
+les époux vivent séparément depuis 300 jours et  la mère de l'enfant déclare au moment de la déclaration de naissance que son mari n'est pas le père ;
+la mère se remarie, son nouveau conjoint sera considéré comme le père de l’enfant.
+Titre, barre d’accordéon:
+Texte:
+Présomption de filiation par mariage
+Le mari de la mère est considéré comme le père de l’enfant. Cette présomption court jusqu’à 300 jours après la dissolution du mariage que ce soit par divorce ou par décès de l’ex-époux. Présomption réfutable devant le tribunal.
+Si la mère se remarie dans le délai de 300 jours, le nouveau mari est considéré comme le père de l’enfant.
+Texte:
+Présomption de filiation par mariage 
+Le mari de la mère est présumé être le père de l’enfant. Cette présomption vaut jusqu’à 44 semaines après la dissolution du mariage.
+Présomption réfutable devant le tribunal.
+Texte:
+La présomption de
+filiation par mariage en droit belge
+L'enfant
+né pendant le mariage ou dans les 300 jours qui suivent la dissolution ou
+l'annulation du mariage, a pour père l'époux ou l'épouse de la mère.
+Le délai de 300 jours n'est pas pris au hasard. C'est, en effet, la durée maximum d'une grossesse selon le droit belge. Une grossesse a une durée qui varie légalement entre 180 jours et 300 jours. C'est la raison pour laquelle, pour savoir si l'époux(se) de la mère est le second parent de l'enfant, ces délais seront pris en compte. 
+Cette
+présomption peut être écartée :
+lorsque l'enfant est né plus de 300 jours après que le tribunal
+de la famille a
+entériné l'accord des parties concernant l'autorisation donnée aux époux de
+résider séparément conformément à l'article 1256, du
+Code judiciaire, ou
+après une
+ordonnance prise en vertu de l'article 1280 du Code judiciaire,
+autorisant
+les époux à résider séparément, ou après le dépôt de la requête visée à
+l'article 1288bis du même Code;
+ lorsque l'enfant est né plus de 300 jours après la date
+d'inscription des époux à des adresses différentes, selon le registre de la
+population, le registre des étrangers ou le registre d'attente, pour autant
+qu'ils n'aient pas été réinscrits à la même adresse par la suite;
+ lorsque l'enfant est né plus de 300 jours après un jugement prononcé
+en
+vertu de l'article 223 et autorisant les époux à résider séparément, et moins
+de 180 jours après que cette mesure a pris fin, ou après la réunion de fait des
+époux. 
+Cela signifie donc que si l'époux(se) de la mère est belge, il/elle sera le second parent de l'enfant: 
+si les époux sont mariés et sont domiciliés à la même adresse;  
+si les époux sont mariés et domiciliés séparément depuis moins de 300 jours avant la naissance; 
+si l'enfant est né moins de 300 jours après l'ordonnance ou le jugement les autorisant à résider séparément ; 
+si l'enfant est né plus de 180 jours après la fin du jugement les autorisant à résider séparément; 
+si la demande de divorce par consentement mutuel a été déposée moins de 300 jours avant la naissance de l'enfant; 
+si l'époux(se) est décédé(e) depuis moins de 300 jours avant la naissance; 
+si les époux sont divorcés depuis moins de 300 jours et qu'il n'y a pas de séparation de domicile de plus de 300 jours avant la naissance.
+Inversément, il/elle ne sera pas considéré(e) comme le second parent de l'enfant: 
+si les époux sont mariés mais domiciliés à des adresses séparées depuis plus de 300 jours avant la naissance; 
+si les époux sont divorcés depuis plus de 300 jours avant la naissance;  
+si l'époux(se) est décédé(e) depuis plus de 300 jours avant la naissance; 
+si l'enfant est né plus de 300 jours après l'ordonnance ou le jugement les autorisant à résider séparément ; 
+si l'enfant est né moins de 180 jours après la fin du jugement les autorisant à résider séparément; 
+si la demande de divorce par consentement mutuel a été déposée plusde 300 jours avant la naissance de l'enfant. 
+Attention, si les époux n'ont jamais résidé officiellement ensemble, on considère que ces principes ne s'appliquent pas et qu'il y a présomption de filiation. Il faut donc bien une séparation active des époux pour que le principe s'applique. 
+Attention également au fait que la date de référence est la naissance de l'enfant et non la déclaration de naissance. Il ne sert à rien pour les parents d'attendre que 300 jours se passent pour déclarer l'enfant né. 
+En pratique, il faudra: 
+vérifier les adresses au RN; 
+éventuellement demander si une demande de divorce par consentement mutuel a été déposée; 
+examiner si un jugement a été rendu quant au domicile des parties.
+Titre, accordéon:
+Droit belge
+Question:
+Avez-vous tout compris?
+En droit belge, la personne mariée à la mère de l'enfant est considérée comme le second parent
+Option de réponse:
+si l'enfant est né dans le mariage ou jusqu'à 300 jours après la dissolution de celui-ci.
+Option de réponse:
+si l'enfant est uniquement né dans les liens du mariage.
+Option de réponse:
+si la mère déclare que le second parent est bel et bien son époux/se.
+Feedback si réponse incorrecte:
+Les articles 315 et 325/2 du Code civil prévoient que l'homme ou la coparente marié(e) à la mère de l'enfant doit être considéré(e) comme le second parent si l'enfant est né dans les liens du mariage.
+De plus cette présomption court jusqu'à 300 jours après le divorce.
+Feedback si réponse correcte:
+Correct suivant les articles 315 et 325/2 du Code civil.
+Question:
+Cependant, l'article 316bis du Code civil permet l'écartement de la seconde filiation dans certains cas. Et ce, même si la mère est mariée.
+Que prévoit cet article?
+Option de réponse:
+Il permet d'écarter la seconde filiation par présomption si la mère et la personne mariée avec elle déclarent devant l'Officier de l'état civil que l'époux/se n'est pas le second parent.
+Option de réponse:
+Il permet d'écarter la seconde filiation par présomption si la mère et la personne mariée avec elle résident de manière séparée suivant l'accord entériné par le tribunal de la famille ou à la suite d'une ordonnance autorisant les époux à résider séparément ou après le dépôt de la requête de divorce.
+Option de réponse:
+Il permet d'écarter la seconde filiation par présomption si la mère et la personne mariée avec elle résident à des adresses différentes depuis plus de 300 jours à la date de naissance de l'enfant, selon les inscriptions aux registres de la population.
+Option de réponse:
+Il permet d'écarter la seconde filiation par présomption si la mère et la personne mariée avec elle  lorsque un jugement les autorise à résider séparément et que l'enfant est né plus de 300 jours et moins de 180 jours après que cette mesure a pris fin, ou après la réunion de fait des époux.
+Option de réponse:
+Si la mère effectue une déclaration sur l'honneur que son époux/se n'est pas le second parent et en désigne un autre qui effectue une reconnaissance dans la foulée. Et ce, peu importe sa situation de résidence.
+Feedback si réponse incorrecte:
+Pour écarter la seconde filiation, il y a aura toujours la notion de "séparation" qui doit entrer en ligne de compte. Cette notion se vérifiera par les adresses mentionnées au registre national ou bien par la volonté des parties d'être séparée et confirmée devant un juge.
+Feedback si réponse correcte:
+C'est bien correct. Dans la pratique, et par facilité, c'est le registre national qui fait foi. Attention à ne pas oublier les deux autres possibilités.
+Texte:
+Quand peut-on faire intervenir la possibilité d'écartement de présomption de filiation?
+Ecoutez la mise en situation suivante et répondez à la question.
+Question:
+Comment réagissez-vous si la mère, mariée et séparée de son époux, se présente devant vous avec un autre homme que son mari pour effectuer une reconnaissance prénatale?
+NB : Tout le monde est belge.
+Feedback:
+Vous ne pouvez pas acter la reconnaissance. 
+En effet, l'écartement de la présomption de paternité n'est possible qu'au moment de la naissance de l'enfant.
+La mère et son mari pourraient très bien se redomicilier ensemble avant la naissance de l'enfant ou déclarer la naissance à deux, ce qui aurait pour conséquence de rétablir la présomption de filiation par mariage.
+Il y aura lieu d'informer les parents de ce qu'il se passera au moment de la naissance. Evoquer la possibilité de pouvoir écarter la filiation si la demande en divorce a été effectuée il y a au moins 300 jours au moment de la naissance ou encore si le juge de paix a autorisé les époux à résider séparément depuis au moins 300 jours au moment de la naissance de l'enfant.
+Texte:
+Quid en cas de concours de présomption?
+Question:
+Que se passe-t-il si l'enfant est né dans les 300 jours qui suivent la dissolution du mariage mais que la mère s'est remariée?
+NB: Tout le monde est belge.
+Feedback:
+C'est le nouveau conjoint de la mère qui sera considéré comme le second parent de l'enfant.
+Texte:
+Situations pratiques : 
+Ecoutez la mise en situation suivante et répondez à la question.
+Question:
+Que pouvez-dire quant à la déclaration de naissance?
+Feedback:
+Il y a lieu d'analyser la situation familiale de ses parents.
+Nous constatons qu'ils sont belges, mariés et domiciliés à la même adresse. Cela implique que le mari de la mère sera considéré comme le père de l'enfant.
+La mère peut donc effectuer la déclaration de naissance toute seule sans que le père soit présent.
+Bonus : Le nom de l'enfant. Celui-ci étant le premier enfant commun du couple et étant belge, c'est l'article 335 du Code civil qui s'appliquera. A savoir que le nom du père, le nom de la mère ou une combinaison des deux dans l'ordre choisi par les parents.
+Texte:
+Ecoutez la mise en situation suivante et répondez à la question.
+Question:
+Comment gérez-vous cette situation?
+Feedback:
+Vous constatez donc que la mère est mariée.
+Elle précise également "son épouse" et demande si "elle doit être présente". Cela signifie que vous êtes dans un cas de co-maternité.
+Si l'épouse de la mère est belge, cette dernière pourra être considérée comme la co-mère de l'enfant et pour autant qu'on se trouve pas dans le cadre d'un écartement de présomption à la suite d'une séparation.
+Si l'épouse de la mère est étrangère, il y a aura lieu de s'intéresser à la loi nationale de l'épouse afin de savoir si cette disposition est prévue dans la législation dont elle a la nationalité. Cfr : Art. 62 CoDip. 
+Dans le cas où vous ne connaissez pas le droit étranger à cet égard, un certificat de coutume sera demandé aux épouses. Dans l'affirmative, la présomption de filiation par mariage sera d'application. Dans le cas contraire, l'épouse aura à suivre les règles mises en place conformément à la loi dont elle dépend.
+Si rien n'est prévu, elles n'auront pas d'autres choix que de se tourner vers le tribunal de la famille.
+Titre, page:
+La filiation par reconnaissance
+Texte, introduction:
+Lorsqu'il n'y a pas de présomption de paternité ou que celle-ci a été anéantie par jugement, la seconde filiation peut s'établir par reconnaissance. 
+La reconnaissance peut être établie: 
+avant la naissance (reconnaissance prénatale) ; 
+au moment de l'établissement de l'acte de naissance (reconnaissance dans l'acte) ; 
+après l'établissement de l'acte de naissance (reconnaissance post-natale). 
+Avant d'acter une reconnaissance, il conviendra d'acter une déclaration de reconnaissance. 
+Voyons les principes de la reconnaissance.
+Texte:
+La filiation par
+reconnaissance
+Conditions de fond
+Lorsque les parents ne sont pas mariés ensemble, il est possible
+d’établir la seconde filiation par reconnaissance. Pour rappel, les conditions de fond quant à l'établissement de cette seconde filiation sera régie par le droit national du reconnaissant.
+En d'autres termes, il faudra analyser les conditions de la reconnaissance dans le droit de l'état dont il a la nationalité.
+Titre, accordéon:
+Exemples de législations étrangères
+Texte:
+Reconnaissance par le père 
+L’homme peut reconnaitre un enfant devant le centre d’aide sociale, l’officier de l’état civil, devant le tribunal ou par testament.
+L’homme peut reconnaitre si :
+il est majeur, quelle que soit sa (in)capacité juridique ; ou
+il a atteint l'âge de seize ans et est en mesure de comprendre la portée de la reconnaissance ; ou
+il n'a pas encore atteint l'âge de seize ans et a l'autorisation de son représentant légal.
+La mère consentira à la reconnaissance. L’enfant âgé de 14 ans ou plus devra consentir.
+Texte:
+Reconnaissance par le père
+Un père peut reconnaître un enfant (art. 316 du Code civil). La reconnaissance découle de :
+l'acte de naissance;
+une déclaration délivrée à l’OEC ;
+un autre acte ou document public.
+La reconnaissance d'un enfant mort-né n'est pas possible (art. 318 du Code civil).Celle d'un enfant mort est possible ainsi que celle d'un enfant à naître (art. 316 du Code civil).
+Le consentement de la mère ou de l’enfant pour la reconnaissance n'est pas requis (art. 316 du Code civil).
+En ce qui concerne la reconnaissance d'un enfant, il est fait référence à la loi nationale de la personne qui souhaite reconnaître un enfant ou à la loi nationale de l'enfant (art. 311-17 du Code civil).
+Texte:
+Reconnaissance par le père :
+La reconnaissance avant la naissance n’est pas prévue en droit camerounais.
+Au moment de la naissance ou après la naissance, le père qui n’est pas marié à la mère peut reconnaitre l’enfant. Le père biologique ne peut pas reconnaitre l’enfant si la mère était mariée à un autre homme sauf si ce dernier a effectué un désaveu de paternité par voie judiciaire.
+La reconnaissance s’effectuera :
+Soit par voie judiciaire ;
+Soit par déclaration devant l’OEC en présence de la mère et de deux témoins au moment de la naissance.
+Titre, barre d’accordéon:
+Texte:
+Reconnaissance par le père 
+Prévue par le droit allemand :
+l’homme mineur ou majeur peut reconnaître ;
+le consentement de la mère est nécessaire et celui de l'enfant n'est nécessaire que si l'enfant n'est pas sous l'autorité parentale de la mère ;
+un homme ayant une capacité juridique limitée peut reconnaître la paternité de manière indépendante, mais cela nécessite le consentement de son représentant légal. Le représentant légal peut reconnaître la paternité d'un homme qui est totalement incapable d'agir en son nom avec le consentement préalable du tribunal ;
+un homme marié peut reconnaître un enfant avec une autre femme, qui n'est pas son épouse, s'il prétend être le père de cet enfant ;
+si un homme reconnaît l'enfant d'une femme mariée qui est engagée dans une procédure de divorce avec son mari actuel, la reconnaissance de l'enfant par le (nouvel) homme requiert, outre le consentement de la mère et éventuellement de l'enfant, le consentement de l'homme qui était le mari de la femme au moment de la naissance de l'enfant ;
+la reconnaissance de l'enfant décédé par le père est possible devant l’officier de l'état civil et avec le consentement de la mère ;
+la reconnaissance d'un enfant à naître est possible ;
+le consentement de la mère en cas de reconnaissance d'un enfant par un homme est nécessaire et ne peut être remplacé par une décision de justice ;
+le consentement de l’enfant de moins de quatorze ans n’est pas obligatoire sauf si la mère n’a pas l’autorité parentale.
+Texte:
+Comme vous avez pu le constater certains Etats ne prévoient pas certains consentement comme le prévoit le Code civil belge.
+Cependant, l'article 62 du CoDip précise que même si la filiation est établie conformément à la nationalité de l'auteur, les consentements requis, eux, dépendent du lieu de résidence habituel du reconnaissant.
+Cela signifie que les consentements requis à l'article 329bis du Code civil belge seront nécessaires pour acter une reconnaissance en Belgique.En d'autres termes, la mère doit consentir à la reconnaissance tant que l'enfant est mineur et l'enfant doit consentir à sa reconnaissance à partir de ses douze ans. 
+Donc, entre les 12 ans et les 18 ans de l'enfant, l'enfant et sa mère doivent consentir.
+Texte:
+Une fois qu'il aura été établi que la reconnaissance est permise dans le droit étranger de l'auteur, l'acte sera établi conformément au Code civil belge.
+Ce sont les articles 327/1 et 327/2 du Code civil qui seront d'application.
+Il faudra donc acter d'abord une déclaration de reconnaissance et ensuite l'acte de reconnaissance. 
+Forme de la reconnaissance
+La reconnaissance est faite par acte de reconnaissance ou dans l’acte de naissance en fonction du moment où elle est faite: 
+avant la naissance: acte de reconnaissance qui est possible dès qu'un médecin ou un sage-femme atteste de la grossesse (art. 328 du Code civil);  
+lors de la déclaration de naissance: acte de naissance; 
+après l'établissement de l'acte de naissance: acte de reconnaissance. 
+Qui peut acter la reconnaissance?
+ Seul l'OEC peut acter une reconnaissance en Belgique. L'OEC compétent sera: 
+celui du lieu de domicile de la mère ou du second parent; 
+celui du lieu de résidence d'un des parents; 
+Bruxelles; 
+celui du lieu de naissance de l'enfant si l'enfant est né. 
+Quid si un des parents est marié à une autre personne ? 
+Si le second parent est marié à une autre personne que la mère, son conjoint devra être averti de la reconnaissance dans les 3 jours par lettre recommandée. Pour le père (ou la coparente) donc, le moment à prendre en considération pour analyser son état civil est le moment de la reconnaissance. Si le père était marié au moment de la naissance, a divorcé et qu'il reconnaît l'enfant par la suite, il ne faudra prévenir personne puisqu'il n'est plus marié. Par contre, même s'il était célibataire au moment de la naissance, le fait qu'il soit marié lorsqu'il reconnaît l'enfant implique qu'il faille avertir son époux/se. 
+Pour la mère, par contre, le moment à prendre en compte est le moment de la naissance. Si elle était célibataire au moment de la naissance, la loi n'a pas pu présumer la filiation d'un(e) éventuel(le) époux/se. Elle peut donc faire reconnaître son enfant même si elle s'est remariée. Par contre, si elle était mariée au moment de la naissance, son époux/se étant présumé second parent de l'enfant, elle ne pourra faire reconnaître son enfant par une autre personne que si la première filiation a été anéantie judiciairement.
+Titre, accordéon:
+La déclaration de reconnaissance
+Texte, accordéon:
+Une reconnaissance de filiation se fait en deux étapes: 
+la déclaration de
+reconnaissance où les deux parents annoncent leur volonté de reconnaître
+l'enfant (avec ce dernier s'il a plus de 12 ans) ou avec l'enfant majeur et le
+reconnaissant ; 
+la reconnaissance elle-même. 
+La procédure a été divisée en deux étapes pour permettre à l'OEC d'analyser correctement les documents présentés afin de lutter contre les reconnaissances frauduleuses.
+Titre, barre d’accordéon:
+La base légale
+Texte:
+Les documents nécessaires à joindre à la déclaration de reconnaissance
+En cas de reconnaissance postnatale, l’acte de naissance de l’enfant;
+En cas de reconnaissance prénatale, un certificat médical indiquant la date probable de l’accouchement;
+Une preuve d’identité du reconnaissant et le cas échéant, du parent à l’égard duquel la filiation est établie (s'il s'agit d'un document d'identité autre qu'un document d'identité belge, le document sera annexé dans la BAEC) ;
+Une preuve de l’inscription dans les registres de population pour l’une des parties;
+Une preuve de nationalité pour le déclarant non-inscrit ou si celle-ci n’est pas mentionnée au registre national. Dans le cas où l'intéressé n'est pas inscrit, la preuve de nationalité sera annexée dans la BAEC;
+Une preuve de nationalité pour le parent non-inscrit à l’égard du quel la filiation est établie si celle-ci n’est pas mentionnée au registre national. Dans le cas où le parent n'est pas inscrit, la preuve de nationalité sera annexée dans la BAEC;
+Une preuve d’état civil pour les deux parents sauf si celui-ci se trouve au registre national;
+Le cas échéant, un acte authentique dont il ressort que la personne qui doit donner son consentement préalable consent à la reconnaissance (NB: La procuration spéciale et authentique);
+Toute autre pièce authentique qui atteste que l’intéressé remplit les conditions requises par la loi pour pouvoir reconnaitre l’enfant (Un certificat de coutume par exemple).
+Texte:
+Avez-vous tout compris?
+Question:
+Quels sont les documents qui devront être enregistrés en tant qu'annexe dans la BAEC?
+Option de réponse:
+L'acte de naissance des parties
+Option de réponse:
+Le certificat de coutume
+Option de réponse:
+La preuve de nationalité pour la partie qui n'est pas inscrite au registre population
+Option de réponse:
+Toutes les pièces d'identités
+Option de réponse:
+Les documents d'identité autres que les documents belges
+Option de réponse:
+La preuve de l'état civil
+Option de réponse:
+La preuve de l'état civil pour le parent non inscrit dans les registres de la population
+Option de réponse:
+La déclaration de reconnaissance
+Feedback si réponse incorrecte:
+Pas de chance, ce n'est pas correct. Je vous invite à relire le texte ci-dessus et de recommencer le questionnaire plus bas.
+Feedback si réponse correcte:
+Tout à fait, il n'y a que les documents d'identité autres que belges ainsi que la preuve de nationalité en cas de non-inscription du parent ou du déclarant qui doivent être enregistrés dans la BAEC.
+Texte:
+Deuxième chance
+Question:
+Quels sont les documents qui devront être enregistrés en tant qu'annexe dans la BAEC?
+Option de réponse:
+L'acte de naissance des parties
+Option de réponse:
+Le certificat de coutume
+Option de réponse:
+La preuve de nationalité pour la partie qui n'est pas inscrite au registre population
+Option de réponse:
+Toutes les pièces d'identités
+Option de réponse:
+Les documents d'identité autres que les documents belges
+Option de réponse:
+La preuve de l'état civil
+Option de réponse:
+La preuve de l'état civil pour le parent non inscrit dans les registres de la population
+Option de réponse:
+La déclaration de reconnaissance
+Feedback si réponse incorrecte:
+Toujours pas? 
+Il n'y a que les documents d'identité autres que belges ainsi que la preuve de nationalité en cas de non-inscription du parent ou du déclarant qui doivent être enregistrés dans la BAEC.
+Feedback si réponse correcte:
+C'était facile si vous aviez déjà eu la bonne réponse la première fois.
+Question:
+La reconnaissance peut être
+Option de réponse:
+prénatale, dans l'acte de naissance, postnatale.
+Option de réponse:
+uniquement prénatale.
+Option de réponse:
+prénatale ou postnatale.
+Feedback si réponse incorrecte:
+L'article 327 du Code civil prévoit que la reconnaissance est faite dans l'acte de naissance (immédiate) ou par acte de reconnaissance (prénatale ou postnatale).
+Feedback si réponse correcte:
+Tout à fait, il est possible d'effectuer une reconnaissance avant la naissance, au moment de la déclaration de naissance ou après que l'enfant ait été déclaré.
+Question:
+Pour établir un acte de reconnaissance, que doivent faire les parents :
+Option de réponse:
+En faire la déclaration devant le juge de paix compétent.
+Option de réponse:
+En faire la déclaration devant un notaire compétent.
+Option de réponse:
+se diriger vers le tribunal compétent.
+Option de réponse:
+En faire la déclaration à l'Officier de l'état civil compétent.
+Feedback si réponse incorrecte:
+En Belgique, la déclaration de reconnaissance, qui donnera lieu à l'acte de reconnaissance, s'effectuera toujours auprès de l'Officier de l'état civil compétent.
+Feedback si réponse correcte:
+Exact, la reconnaissance est toujours effectuée devant l'Officier de l'état civil.
+Question:
+L'image ci-dessus est un extrait de l'article 327/1 du Code civil. Quels sont les éléments manquants? (Indice : Il y en a 5).
+Feedback:
+1) la commune;
+2) est inscrit dans les
+registres de la population, le registre des étrangers ou le registre d'attente;
+3) lieu
+de naissance de l'enfant;
+4) actuelle;
+5) Bruxelles.
+Le texte, avec les mots placés, donne ceci :
+Art. 327/1. § 1er. Toute personne qui désire reconnaître un enfant
+est tenue d'en faire la déclaration, moyennant le dépôt des documents visés à
+l'article 327/2 à l'officier de l'état civil de la commune où l'auteur de la
+reconnaissance, la personne qui doit donner son consentement préalable ou
+l'enfant, est inscrit dans les registres de la population, le registre des
+étrangers ou le registre d'attente à la date de l'établissement de l'acte ou à
+l'officier de l'état civil de la commune du lieu de naissance de l'enfant.
+Si aucune des personnes visées à
+l'alinéa 1er n'est inscrite dans l'un des registres visés à l'alinéa 1er, ou si
+la résidence actuelle de l'une d'elles ou de toutes ne correspond pas, pour des
+raisons légitimes, à cette inscription, la déclaration peut être faite à
+l'officier de l'état civil de la résidence actuelle de l'une d'elles.
+A défaut, la déclaration peut être faite à
+l'officier de l'état civil de Bruxelles.
+Question:
+En droit belge, qui peut reconnaitre :
+Option de réponse:
+Un homme célibataire ou marié.
+Option de réponse:
+Un homme ou une femme.
+Option de réponse:
+Un mineur.
+Option de réponse:
+Uniquement une personne majeure.
+Option de réponse:
+Une femme célibataire ou mariée.
+Option de réponse:
+La personne avec qui la mère promet de se marier.
+Feedback si réponse incorrecte:
+En droit belge, une personne, majeure ou mineure, homme ou femme et peu importe son état civil, peut reconnaitre l'enfant d'une femme enceinte ou qui a accouché.
+Feedback si réponse correcte:
+Tout à fait, tant que la seconde filiation n'est pas établie, n'importe quelle autre personne peut reconnaitre l'enfant d'une femme enceinte ou qui a accouché.
+Question:
+Qui doit consentir à la reconnaissance d'un enfant?
+Option de réponse:
+Personne.
+Option de réponse:
+La mère, jusqu'à ce que l'enfant ait atteint 18 ans.
+Option de réponse:
+L'enfant s'il a plus de 10 ans.
+Option de réponse:
+L'enfant s'il a plus de 12 ans.
+Option de réponse:
+Le Procureur du Roi.
+Option de réponse:
+Le père ou la coparente.
+Feedback si réponse incorrecte:
+Le Code civil prévoit que le consentement soit donné par la personne à l'égard duquel la filiation est établie. 
+Cela signifie que le parent qui aurait sa seule filiation dans l'acte de naissance de son enfant devra consentir à la reconnaissance pour le prétendant à la reconnaissance.
+De plus, l'enfant âgé de 12 ans devra consentir à la reconnaissance.
+Cependant une fois majeur, l'enfant sera le seul à devoir consentir à la reconnaissance par le déclarant.
+Feedback si réponse correcte:
+En effet, le parent se trouvant dans l'acte de naissance et l'enfant âgé de 12 ans doit consentir.
+Question:
+Lors de la déclaration de reconnaissance, les personnes présentes seront (plusieurs choix possibles) :
+Option de réponse:
+Une personne munie d'une procuration spéciale et authentique afin de représenter l'une des parties.
+Option de réponse:
+L'enfant peu importe son âge.
+Option de réponse:
+Le déclarant.
+Option de réponse:
+La mère.
+Option de réponse:
+La mère, sauf si l'enfant a plus de 18 ans.
+Option de réponse:
+L'enfant dès qu'il a atteint l'âge de 12 ans.
+Option de réponse:
+Si l'enfant est mineur et n'a pas d'auteur connu, c'est son représentant légal qui le représentera.
+Feedback si réponse incorrecte:
+L'article 329 bis du Code civil prévoit que :
+L'enfant majeur ou mineur émancipé doit marquer son consentement;
+Si l'enfant est mineur la mère marquera son consentement en cas de reconnaissance prénatale, après la naissance le parent à l'égard de qui la filiation est établie marquera son consentement.
+L'article 327/2, §2, 3° du Code civil prévoit expressément que le parent qui doit donner son consentement peut le faire par acte authentique. 
+Enfin l'article 21 du Code civil prévoit également que toute personne peut se faire représenter par un fondé de procuration spéciale et authentique.
+Feedback si réponse correcte:
+Tout à fait.
+Texte:
+Ecoutez le commentaire suivant et répondez à la question:
+Question:
+A l'établissement de l'acte de reconnaissance, y a-t-il une spécificité à laquelle il faudra prêter attention?
+Feedback:
+Une copie de l'acte de reconnaissance est envoyée dans les trois jours par lettre recommandée à l'époux ou l'épouse.
+Texte:
+Après l'établissement de la déclaration de reconnaissance: l'acte
+Lorsque la déclaration est effectuée en bonne et due forme et que le lien de filiation ne fait aucun doute, l'acte de reconnaissance pourra être signé dans la foulée de la déclaration de reconnaissance.
+Ainsi le lien de filiation sera établi et donc soit : 
+Avant la naissance, de sorte qu'un acte de reconnaissance prénatale soit visible dans la BAEC. La commune de naissance se basera sur cet acte pour établir la filiation. Le numéro de l'acte devra figurer sur la copie de l'acte de naissance.
+Au moment de la déclaration de reconnaissance, ainsi le consentement apparaîtra sur la copie de l'acte de naissance.
+Après la déclaration de naissance, ainsi l'acte de reconnaissance sera automatiquement lié à la BAEC grâce au numéro national de l'enfant. L'ajout du père se fera automatiquement ainsi que le cas échéant, la modification liée au nom. Les données liées à la reconnaissance apparaîtront donc sur la copie de l'acte de naissance.
+Titre, page:
+Le Consentement
+Nous avons pu le voir dans le chapitre précédent, le consentement est une notion importante en droit belge. L'OEC devra s'assurer que chaque partie qui doit consentir l'est bien fait en bonne et due forme.
+Texte, instruction:
+L'article 62 du Code de droit international privé prévoit ceci : 
+§ 1er. L'établissement et la contestation  du lien de filiation à l'égard d'une personne sont régis par le droit de l'Etat dont elle a la nationalité au moment de la naissance de l'enfant ou, si cet établissement résulte d'un acte volontaire, au moment de cet acte.
+  Lorsque le droit désigné par le présent article ne prévoit pas l'exigence d'un tel consentement, l'exigence et les conditions du consentement de l'enfant, ainsi que le mode d'expression de ce consentement, sont régis par le droit de l'Etat sur le territoire duquel il a sa résidence habituelle au moment de ce consentement.
+En d'autres termes, cela signifie que l'Officier de l'état civil doit s'assurer de la manière dont l'enfant doit consentir à la reconnaissance : 
+- Si la législation du reconnaissant prévoit un consentement, il sera nécessaire pour l'OEC de s'assurer d'avoir ledit consentement;
+- Si la législation du reconnaissant ne prévoit pas de consentement, l'OEC s'intéressera à la résidence habituelle de l'intéressé afin de connaitre les modalités pour obtenir ledit consentement.
+Lorsqu'une reconnaissance aura lieu en Belgique, il sera donc toujours nécessaire d'obtenir les consentements requis par le Code civil belge.
+Lorsqu'une reconnaissance aura lieu à l'étranger, il sera donc toujours nécessaire de vérifier la législation étrangère et le cas échéant, la résidence habituelle des intéressés afin de connaitre la manière dont les consentements sont à donner.
+Texte:
+Le consentement en droit belge
+L'article 327/2 §2, 3° indique : 
+ le cas échéant, un acte authentique attestant le consentement de la personne qui doit donner son consentement préalable à la reconnaissance.
+Mais qu'est-ce qu'un consentement ?
+Le dictionnaire Larousse le définit comme suit : "Action de donner son accord à une action, à un projet ; acquiescement, approbation, assentiment"
+Texte:
+Testez vos connaissances à priori
+Question:
+A quel article retrouve-t-on la notion de consentement, en ce qui concerne la reconnaissance, dans le Code civil ?
+Option de réponse:
+A l'article 329bis du Code civil
+Option de réponse:
+A l'article 21 du Code civil
+Option de réponse:
+A l'article 164/2 §2, 3° du Code civil
+Feedback si réponse incorrecte:
+En ce qui concerne la reconnaissance, c'est l'article 329bis du Code civil qui est d'application. 
+L'article 21 du Code civil prévoit que les parties peuvent se faire représenter par une tierce personne munie d'une procuration spéciale et authentique pour tous les actes de l'état civil.
+L'article 164/2 §2, 3° du Code civil quant à lui, prévoit que le futur époux absent lors de la déclaration doit avoir remis une procuration légalisée (et non un acte authentique) qui précise qu'il consent à la déclaration.
+Feedback si réponse correcte:
+C'est exact, il s'agit bien de l'article 329bis du Code civil. 
+L'article 21 du Code civil prévoit que les parties peuvent se faire représenter par une tierce personne munie d'une procuration spéciale et authentique pour tous les actes de l'état civil.
+L'article 164/2 §2, 3° du Code civil quant à lui, prévoit que le futur époux absent lors de la déclaration doit avoir remis une procuration légalisée (et non un acte authentique) qui précise qu'il consent à la déclaration.
+Texte:
+Toujours a priori, testez vos connaissances
+Question:
+Selon l'article 329bis du Code civil, selon les situations qui doit donner son consentement à la reconnaissance?
+Option de réponse:
+La mère si l'enfant est mineur.
+Option de réponse:
+L'enfant, dès qu'il a atteint l'âge de 12 ans  sauf si le tribunal estime que l'enfant manque de discernement.
+Option de réponse:
+La mère de l'enfant dans le cas d'une reconnaissance prénatale.
+Option de réponse:
+Le représentant légal.
+Option de réponse:
+Personne, si l'enfant n'a pas d'auteurs connu. Mais une notification de la reconnaissance doit être transmise au représentant légal de l'enfant.
+Option de réponse:
+Si le tribunal estime que le majeur n'est pas capable, le tribunal remplacera son consentement.
+Option de réponse:
+L'enfant majeur.
+Option de réponse:
+La mère de l'enfant même s'il est majeur.
+Option de réponse:
+L'enfant dès qu'il a atteint l'âge de 15 ans.
+Option de réponse:
+L'enfant mineur émancipé.
+Feedback si réponse incorrecte:
+Relisez les propositions.
+Feedback si réponse correcte:
+Correct !
+Texte:
+Ce que dit exactement l'article 329bis du Code civil : 
+ Art. 329bis : § 1er. La reconnaissance de l'enfant majeur ou mineur émancipé n'est recevable que moyennant son consentement préalable.
+Le consentement de l'enfant majeur n'est pas requis si le tribunal estime, en raison d'éléments de fait constatés par procès-verbal motivé, que l'enfant n'est pas capable d'exprimer sa volonté. Il en va de même si l'ordonnance du juge de paix prise en vertu de l'article 492/1 déclare l'enfant incapable de consentir à sa reconnaissance. L'enfant en mesure d'exprimer son opinion de manière autonome est entendu directement par le juge. Le cas échéant, la personne de confiance exprime l'opinion de l'enfant si celui-ci n'est pas en mesure d'exprimer lui-même son opinion. Le juge attache l'importance qu'il convient à cette opinion.
+La décision est enregistrée en tant qu'annexe dans la BAEC.
+§ 2. Si l'enfant est mineur non émancipé, la reconnaissance n'est recevable que moyennant le consentement préalable du parent à l'égard duquel la filiation est établie, ou de la mère si la reconnaissance est faite avant la naissance de l'enfant.
+Est en outre requis, le consentement préalable de l'enfant s'il a douze ans accomplis. Ce consentement n'est pas requis de l'enfant dont le tribunal estime, en raison d'éléments de fait constatés par procès-verbal motivé, qu'il est privé de discernement.
+La décision est enregistrée en tant qu'annexe dans la BAEC.
+A défaut de ces consentements, le candidat à la reconnaissance cite les personnes dont le consentement est requis devant le tribunal. Les parties sont entendues en chambre du conseil. Le tribunal tente de les concilier. S'il concilie les parties, le tribunal reçoit les consentements nécessaires. A défaut de conciliation, la demande est rejetée s'il est prouvé que le demandeur n'est pas le père ou la mère biologique. Le tribunal peut en outre refuser la reconnaissance si elle est contraire à l'intérêt de l'enfant.
+Si une action publique est intentée contre le candidat à la reconnaissance, du chef d'un fait visé à l'article 375 du Code pénal, commis sur la personne de la mère pendant la période légale de conception, la reconnaissance ne peut avoir lieu et le délai d'un an visé à l'alinéa 4 est suspendu jusqu'à ce que la décision sur l'action publique soit coulée en force de chose jugée. Si le candidat a la reconnaissance est reconnu coupable de ce chef, la reconnaissance ne peut avoir lieu et la demande d'autorisation de reconnaissance est rejetée.
+§ 3. Si l'enfant est mineur non émancipé et n'a pas d'auteur connu, ou que celui de ses auteurs à l'égard duquel la filiation est établie est décédé, présumé absent, dans l'impossibilité ou incapable d'exprimer sa volonté, l'officier de l'état civil doit notifier une copie littérale de la reconnaissance au représentant légal de l'enfant et à l'enfant lui-même, s'il a douze ans accomplis, à moins que ceux-ci n'aient préalablement consenti à la reconnaissance.
+Si la reconnaissance n'a pas été reçue par un officier de l'état civil belge, elle doit, à la requête de son auteur, être signifiée aux personnes désignées à l'alinéa 1er.
+Dans les six mois de la signification ou de la notification, les personnes auxquelles elle a été faite peuvent, par citation, requête conjointe ou requête contradictoire, demander au tribunal de la famille territorialement compétent d'annuler la reconnaissance.
+Le greffier informe immédiatement de cette demande l'officier de l'état civil qui a établi l'acte de reconnaissance.
+Les parties entendues, le tribunal statue sur l'action en nullité. II annule la reconnaissance s'il est prouvé que la partie défenderesse n'est pas le père ou la mère biologique. En outre, il annule la reconnaissance si elle est contraire à l'intérêt de l'enfant.
+L'alinéa 4 du § 2 est applicable par analogie. Jusqu'à l'expiration du délai de six mois ou jusqu'à ce que la décision de débouté soit passée en force de chose jugée, la reconnaissance est inopposable à l'enfant et à son représentant légal, lesquels pourront néanmoins s'en prévaloir.
+Texte:
+En résumé, lorsqu'une reconnaissance a lieu en Belgique, il faut : 
+1. Lors d'une reconnaissance prénatale :
+Le consentement de la mère.
+2. Lors d'une reconnaissance dans l'acte de naissance  :
+Le consentement du parent à l'égard duquel la filiation est établie, en général : la mère.
+3. Lors d'une reconnaissance postnatale : 
+Soit du parent à l'égard duquel la filiation est établie (en général la mère) si l'enfant a moins de 12 ans;
+Soit du parent à l'égard duquel la filiation est établie (en général la mère) ET de l'enfant s'il a 12 ans accomplis sauf si le tribunal estime que l'enfant manque de discernement;
+Soit de l'enfant majeur ou du mineur émancipé;
+Soit du tribunal si ce dernier a estimé que la majeur n'est pas capable de discernement;
+Soit de personne si l'enfant n'a pas d'auteur connu mais dans ce cas l'OEC prévient le représentant légal ainsi que l'enfant s'il a 12 ans accomplis.
+Toutes les décisions prises par le tribunal doivent être annexées à la BAEC.
+Texte:
+Le mode de consentement.
+La personne devant consentir à la reconnaissance peut le faire : 
+Soit en personne devant l'OEC;
+Soit par acte authentique.
+Par acte authentique cela signifie que la personne qui doit consentir à la reconnaissance ne pouvant être présente pourra s'adresser à un notaire afin de faire "prendre acte" de son consentement pour la reconnaissance en question.
+Cela ne peut pas être une procuration générale pour qu'un mandataire puisse faire les démarches à sa place. Il doit être indiqué clairement qu'elle "consent à la reconnaissance" en précisant de qui et par qui.

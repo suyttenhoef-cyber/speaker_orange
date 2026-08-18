@@ -1,0 +1,1723 @@
+Non Européens - Long séjour
+Nom:
+Non Européens - Long séjour
+Description:
+e-Learning - Longs séjours non européens
+Notes d’auteur:
+Courage à vous, chers apprenants !
+Titre:
+Étrangers - Longs séjours non européens
+Titre:
+Sous-titre:
+Public
+Cette formation est destinée aux agents administratifs en charge de la gestion des dossiers étrangers liés aux longs séjours non européens.
+Objectifs
+Ce module permet à l'agent de se familiariser avec la matière sur les longs séjours d'étrangers. L'agent peut assimiler ou réviser les différents éléments théoriques et législatifs de cette matière. Il pourra également tester ses connaissances de façon individuelle ou collective avec les autres agents de son administration.
+Contenu
+Le contenu de cette formation reprendra des éléments théoriques (Syllabus) composés de différentes parties textuelles mais aussi agrémentés d'illustrations, de questions, d'extraits sonores et/ou vidéos sur différentes situations du terrain.
+Début du mois d'avril 2022, l'agent pourra également tester ses connaissances en répondant au quiz (10 questions aléatoires) mis à disposition dans ce module.
+Gestionnaire de formation
+Vanden Broele - OrangeConnect
+Team e-Learning
+200, rue du Cerf
+B-1332 Genval
+m. +32 477 89 22 76
+elearning.orange@vandenbroele.be
+Modalités pratiques
+Cette formation peut être suivie de façon tout à fait autonome et selon une navigation libre dans la matière. Néanmoins, il est tout à fait possible pour l'apprenant de contacter Vanden Broele pour des éclaircissements sur la matière via l'intervention de nos différents experts.
+L'apprenant dispose donc d'une assistance technique et pédagogique illimitée, par e-mail ou téléphone.
+Remarques
+Cette formation est accessible à distance grâce à votre abonnement Vanden Broele (e-Learning asynchrone) via un ordinateur type PC/Laptop disposant d'une connexion à Internet. Elle a une durée théorique variable d'un module à l'autre et reste accessible toute la durée de votre abonnement.
+Sous réserver d'un abonnement par son administration, l'apprenant dispose également de liens directs vers la bibliothèque digitale OrangeConnect afin de prendre connaissance de l'ensemble des textes législatifs, procédures et actualités sur la matière.
+Titre:
+Longs séjours non européens - Syllabus
+Texte:
+La gestion des dossiers sur les longs séjours non européens est une matière à la fois fascinante mais aussi complexe ....
+Texte alternatif du bouton de démarrage:
+Suivre
+Titre:
+QUIZ - Testez vos connaissances !
+Texte:
+Répondez à ce QUIZ général et obtenez la note minimal de 60% pour clôturer votre cursus et recevoir votre attestation de réussite avec succès !
+Attention, tous les syllabus doivent obtenir un statut "Terminé" pour accéder à ce Quiz !
+Texte alternatif du bouton de démarrage:
+Démarrer !
+Titre:
+Partagez mon avis !
+Texte:
+Votre avis nous est précieux : il nous aidera à adapter et perfectionner nos prochains modules, afin de répondre au mieux à vos attentes et besoins. Merci pour votre contribution !
+Texte alternatif du bouton de démarrage:
+Donnez mon avis
+Titre:
+Certificat de réussite - Module sur les longs séjours non européens
+Texte:
+Une fois la théorie suivie et le quiz réussi avec une note minimale de 60%, vous pouvez télécharger votre certificat de réussite pour le module terminé.
+Texte alternatif du bouton de démarrage:
+Télécharger
+Titre:
+{fss:Media.GetAsset("UnderlineLarge","display=centered")}
+Texte:
+Vous souhaitez en savoir plus sur ce module ou nous faire une suggestion ? 
+                   Contactez nous au numéro 02 308 29 01 ou par e-mail via elearning.orange@vandenbroele.be.
+Titre, menu du cahier d’exercices:
+Instruction, menu du cahier d’exercices:
+Banque de questions
+Nom:
+Banque de questions
+Description:
+Banque des questions
+Non Européens - Long séjour
+Nom:
+Non Européens - Long séjour
+Description:
+Non Européens - Long séjour
+Question:
+Relie les visas étudiants aux bon codes
+Cible:
+B7
+Élément:
+Visa délivré dans le cadre d'un échange
+Cible:
+B35
+Élément:
+Visa délivré dans le cadre d'un séjour mobilité étudiant
+Cible:
+B6
+Élément:
+Visa délivré dans le cadre d'un séjour limité à la durée de la bourse
+Cible:
+B42
+Élément:
+Séjour étudiant , doit fournir une inscription scolaire définitive suite à un examen d'admission
+Cible:
+B43
+Élément:
+Séjour étudiant - doit présenter la preuve d'une couverture soins de santé
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+Exact
+Feedback si réponse correcte:
+Non
+Question:
+La personne doit elle payer une redevance dans les cas suivants :
+Réponse positive:
+soumis
+Réponse négative:
+dispensé
+Théorème:
+Un étudiant non boursier qui fait une demande de séjour sur cette base en Belgique
+Théorème:
+Un étranger qui se présente à l'office des étrangers pour faire une demande d'asile
+Théorème:
+Un citoyen britanique qui rentre dans les conditions en tant que titulaire de l'accord de retrait
+Théorème:
+Un chercheur qui fait sa demande de séjour en Belgique, sous séjour 
+légal et titulaire d'une bourse délivrée par une université belge
+Théorème:
+Une citoyenne Algérienne sans visa D qui rejoint son époux belge pour s'établir
+Théorème:
+Un monsieur sénégalais, sans visa D, qui rejoint son épouse française établie en Belgique
+Théorème:
+Une citoyenne américaine sans visa D qui rejoint son époux américain sous carte A
+Théorème:
+Un étudiant russe sous carte A qui change de statut pour devenir indépendant sous carte profesionelle
+Théorème:
+Une personne en séjour illégal qui fait une demande de régularisation sur base de l'article 9 bis
+Théorème:
+L'étranger qui introduite une demande de régularisation pour raisons médicales (art 9 ter)
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+Question:
+Quel est l'ordre logique d'une demande de séjour sur base du permis unique
+Élément:
+Sur accord de la région et de l'office des étrangers, une annexe 46 est transmise au poste diplomatique belge en vue de la délivrance d'un visa D
+Élément:
+La société établie en Belgique introduit une demande de permis unique auprès de la région..
+Élément:
+La commune lance une enquête de résidence
+Élément:
+La personne est inscrite au registre des étrangers suite au retour d'enquête positif
+Élément:
+L'étranger se présente dans sa commune de résidence dans les 8 jours ouvrable de son arrivée en Belgique
+Élément:
+La commune délivre une carte A  limitée à l'autorisation de travail
+Réponses pièges:
+La commune inscrit la personne au registre d'attente (RA6) en attendant le retour de l'enquête de résidence
+Question:
+Lorsqu'un permis unique a été accordé via l'annexe 46, dans l'attente de délivrance de la carte A, la commune délivre...
+Réponse:
+Une annexe 49
+Feedback:
+tout à fait
+Réponse:
+Une annexe 33
+Feedback:
+non, ce document concerne les étudiants
+Réponse:
+Rien, le travailleur a déjà obtenu l'annexe 46
+Feedback:
+non
+Réponse:
+Une annexe 52
+Feedback:
+non, l'annexe 52 est délivrée en cas de refus de séjour suite à un refus de permis unique
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+Répondez aux questions suivantes concernant le permis unique...
+Question:
+Répondez aux questions suivantes concernant le permis unique...
+Réponse positive:
+VRAI
+Réponse négative:
+FAUX
+Théorème:
+C'est l'office des étrangers qui décide à lui seul de l'octroi du permis unique
+Théorème:
+Si une autorisation de travail est illimitée, le séjour l'est aussi automatiquement
+Théorème:
+Une demande de séjour sur base du permis unique ne peut être introduite depuis la Belgique
+Théorème:
+A la différence d'une carte A, la carte H du travailleur hautement qualifié ne peut jamais être refusée par la région
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+Question:
+Le redevance est (plusieurs réponses possibles) :
+Réponse:
+A payer à la commune
+Réponse:
+Peut être payée après avoir introduit la demande de séjour
+Réponse:
+Remboursable par l'office des étrangers dans certains cas , principalement en cas d'erreur
+Réponse:
+A payer dans tous les cas de regroupement familial
+Réponse:
+Toujours du même montant
+Question:
+Complétez les mots manquants :
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Le travailleur non européen ne  peut commencer à travailler  que dès qu'il est en possession de son
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+annexe 49
+titre de séjour
+annexe 46
+visa D b34
+annexe 15
+Question:
+L'annexe 49 est :
+Réponse:
+Délivrée aux étudiants ayant fini leurs études, pour leur permettre de trouver un emploi
+Réponse:
+délivrée à une personne qui avait un séjour sur base du permis unique et pour qui la région a refusé le renouvellement de l'autorisation de travail, car c'est cette annexe 49 qui lui permettra de trouver un nouvel emploi.
+Réponse:
+délivrée lors du renouvellement de séjour sur base du permis unique suite à la délivrance d'une nouvelle annexe 46
+Réponse:
+délivrée lors d'un changement de statut d'indépendant à travailleur salarié, suite à l'accord de l'office et de la région via l'annexe 46
+Réponse:
+Prolongeable indéfiniment par périodes de 49 jours (d'où son nom)
+Question:
+Lorsqu'un autorisation de travail illimitée a été octroyée par la région, la personne qui désire prolonger son séjour doit présenter  notamment :
+Réponse:
+Uniquement sa nouvelle annexe 46, cela ne change rien à la procédure
+Réponse:
+Un extrait de casier judiciaire
+Réponse:
+La preuve d'une assurance maladie
+Réponse:
+Ses preuves de revenus (eg : ses 3 dernières fiches de paie)
+Réponse:
+rien,  il a droit à la carte B automatiquement
+Question:
+Complétez les mots manquants :
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Lorsque met fin a une autorisation de travail, il est mis fin au séjour dans les , si le titre de séjour se termine avant ce délai,  une est délivrée à l'étranger
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+la  Région
+la commune
+l'Office des étrangers
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+30 jours
+90 jours
+80 jours
+120 jours
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+nouvelle annexe 49
+annexe 51
+annexe 52
+Question:
+Délai d'une annexe 51
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Une personne est titulaire d'un titre de séjour valable jusqu'au 23/05/2021
+La région met fin à l'autorisation de travail le 12 avril 2021
+L'annexe  51 délivrée sera valable jusqu'au
+Réponses. Séparer les réponses en appuyant sur Entrée.:
+11/07/2021
+Réponses pièges. Séparer les réponses pièges en appuyant sur Entrée.:
+23/05/2021
+12/04/2021
+21/08/2021
+Question:
+L'annexe 51
+Réponse:
+Permet à la personne de travailler
+Réponse:
+est délivrée également au membre de famille du travailleur
+Réponse:
+est un ordre de quitter le territoire
+Réponse:
+est délivrée même si le titre de séjour du travailleur est encore valable pour 6 mois
+Question:
+Un ressortissant chinois se présente  le 12/05/2021 muni d'un visa D b15 et d'une carte professionnelle valable jusqu'au 15/01/2023
+Le titre de séjour délivré sera valable jusqu'au  :
+Réponse:
+12/05/2022
+Feedback:
+non, la durée de validité de la carte A sera de la durée de la CP + 3 mois
+Réponse:
+15/01/2023
+Feedback:
+non, la durée de validité de la carte A sera de la durée de la CP + 3 mois
+Réponse:
+12/05/2023
+Feedback:
+non, la durée de validité de la carte A sera de la durée de la CP + 3 mois
+Réponse:
+15/04/2023
+Feedback:
+Tout à fait
+Question:
+Quel document est délivré à la personne dans l'attente d'instructions de l'office des étrangers pour la prolongation du séjour et pour qui le titre de séjour arrive à expiration
+Cible:
+Un travailleur salarié ayant déjà reçu de la région une autorisation de travail limité
+Élément:
+une annexe 49 avec accès au marché du travail limité
+Cible:
+Un étudiant ayant introduit une demande de prolongation dans le même cadre
+Élément:
+Une annexe 15 avec accès au marché du travail limité
+Cible:
+Un étudiant ayant introduit une demande de séjour dans le cadre  d'une année de recherche en vue de trouver un emploi
+Élément:
+Une annexe 15 avec accès au marché du travail illimité
+Cible:
+Une personne ayant introduit une prolongation de son séjour sur base de la carte professionnelle
+Élément:
+Une annexe 15 avec accès au marché du travail : non
+Réponses pièges:
+Une annexe 49 avec accès au marché du travail illimité
+Une annexe 49 avec accès au marché du travail non
+Question:
+Quels documents  sont notamment  requis pour le séjour des travailleurs non ue qui sont détachés par un autre état membre de l'UE
+Réponse:
+Un annexe 46
+Réponse:
+L'autorisation de travail émise par la région
+Réponse:
+Le titre de séjour délivré par le pays UE dans lequel la personne était établie
+Réponse:
+Un attestation Limosa
+Réponse:
+Le contrat de détachement entre la société établie dans le pays UE et la société en Belgique
+Réponse:
+Un extrait de casier judiciaire datant de moins de 6 mois
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+non, ces personnes sont dipensées de permis de travail (arret Vanderelst)
+Question:
+Pour quelles suivantes la délivrance d'un nouveau titre de séjour est une compétence communale et lesquelles sont soumises à un accord préalable de l'office des étrangers.  (En tenant compte que la personne se présente avec les documents requis et en séjour légal)
+Réponse positive:
+Commune
+Réponse négative:
+Office des étrangers
+Théorème:
+Le passage d'un séjour sur base du permis unique à un séjour sur base de la carte profesionelle
+Théorème:
+Un étudiant ayant obtenu une annexe 46 dans le cadre d'un permis unique
+Théorème:
+Un travailleur non européen détaché en Belgique par un autre pays de l'UE
+Théorème:
+La prolongation d'un travailleurs soumis au Permis Unique et ayant obtenu une autorisation de travail illimitée
+Théorème:
+Une personne qui introduit une demande de séjour étudiant avant la fin de sa déclaration d'arrivée
+Théorème:
+La prolongation d'une carte B
+Théorème:
+La prolongation d'une carte K
+Théorème:
+La prolongation de séjour d'un chercheur avec convention d'accueil
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+Question:
+Dans le cadre d'un chercheur avec une convention d'accueil, quelle sera la durée de la carte délivrée pour la première carte de séjour  ?
+Cible:
+Convention d'accueil de moins d'un an
+Élément:
+carte A limitée à la convention d'accueil
+Cible:
+convention d'accueil de 4 ans
+Élément:
+carte A de 2 ans puis nouvelle carte de 2 ans
+Cible:
+Convention d'accueil de 2 ans
+Élément:
+carte A de 2 ans
+Cible:
+Convention d'accueil de 3 ans
+Élément:
+Carte A de 2 ans puis de 1 an
+Réponses pièges:
+Carte A de 3 ans
+Carte A de 3 ans puis carte A d'un an
+carte A d'un an
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Un étudiant mexicain se présente avec un visa D b41 "admis aux études - ULB".  Après   , lors de son enregistrement , il n'est pas dans la possibilité de présenter son inscription à l'établissement mentionné.  La commune lui délivre donc valable .  Si au bout de ces délai, il n'a toujours pas fourni l'inscription scolaire,  la commune procédera à  et lui notifiera
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+enquête de résidence positive
+Inscription au registre d'attente
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+une Attestation d'immatriculation
+une déclaration d'arrivée
+une annexe 15
+une annexe 33
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+4 mois
+3 mois
+2 mois
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+sa radiation pour perte de droit au séjour
+sa radiation d'office
+un rappel via une convocation en recommandé
+Éléments. Séparer les éléments en appuyant sur Entrée.:
+Une annexe 12 (Ordre de quitter le territoire)
+Une annexe 13 (ordre de quitter le territoire)
+Question:
+Complétez les mots manquants :
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Un ressortissant péruvien, dans le délai de validité de sa déclaration d'arrivée se présente avec la preuve de paiement de la redevance de    , son passeport valable, son inscription à l'Université Catholique de Louvain, , un certificat médical, un extrait de casier judiciaire et la preuve d'une couverture soins de santé.
+Après  , la commune lui délivre une
+Réponses. Séparer les réponses en appuyant sur Entrée.:
+237 €
+Une annexe 32
+retour positif de l'enquête de résidence
+Annexe 33ter
+Réponses pièges. Séparer les réponses pièges en appuyant sur Entrée.:
+366 €
+Un chèque de 800 €
+Les extraits de compte de son cousin chinois
+inscription au registre d'attente
+présentation du contrat de bail
+Carte A valable jusqu'au 31/10/..
+un délai de 90 jours
+Question:
+Quel est l'ordre de la procédure de demande de prolongation d'un séjour étudiant  ?
+Élément:
+L'étudiant se présente dans les 15 jours qui précèdent l'expiration de son titre de séjour
+Élément:
+Si tous les éléments n'ont pas été fourni il dispose de 15 jours pour compléter le dossier
+Élément:
+délivrance d'une annexe 33ter
+Élément:
+délivrance d'une carte A sur base d'instructions de l'oe ou directement si compétence communale
+Réponses pièges:
+délivrance d'une annexe 33
+Question:
+Une annexe 29 est délivrée
+Réponse:
+A l'étudiant qui introduite sa demande de prolongation au delà du délai légal
+Réponse:
+A l'étudiant qui s'est présenté dans les délai légaux mais avec un dossier incomplet, et qui ne l'a pas complété dans les 15 jours
+Réponse:
+A l'étudiant qui fait une demande de changement d'école
+Réponse:
+A l'étudiant qui n'a pas reçu de réponse de l'office des étrangers dans un délai de 90 jours après sa demande de prolongation
+Question:
+Pour introduire certaines demande de séjour, il faut être en séjour légal....
+Quelles situations y correspondent ?
+Réponse:
+Etre sous annexe 35 (reçue dans le cadre d'une recours contre un refus de regroupement familial par exemple)
+Réponse:
+Etre sous  AI dans le cadre d'unne demande de protection internationale
+Réponse:
+Etre sous carte A valable
+Réponse:
+Etre en séjour touristique (déclaration d'arrivée par exemple)
+Réponse:
+Avoir une demande d'article 9 bis en attente d'une décision de l'office des étrangers
+Question:
+Qui peut bénéficier d'un transfert ICT ?
+Réponse:
+Un étudiant
+Réponse:
+Tous les travailleurs, il n'y a aucune condition particulière
+Réponse:
+Les cadres
+Réponse:
+Les spécialistes
+Réponse:
+Les stagiaires
+Question:
+Une demande de séjour ICT - carte I  - peut elle être introduite depuis la Belgique ?
+Réponse:
+OUI
+Feedback:
+non, cette demande doit toujours être introduite depuis l'étranger
+Réponse:
+NON
+Question:
+Est ce qu'une demande de mobilité longue durée - carte J - peut être introduite depuis la Belgique
+Réponse:
+OUI
+Réponse:
+NON
+Feedback:
+La demande peut bien être introduite pendant un séjour en mobilité de courte durée
+Question:
+Une jeune fille au pair est....
+Réponse:
+soumise au permis de travail B
+Réponse:
+soumise au permis unique
+Réponse:
+dispensée de permis de travail, son contrat de jeune fille au pair suffit
+Réponse:
+doit obligatoirement avoir un séjour étudiant, son occupation en tant que jeune fille au pair est accessoire
+Feedback I si réponse incorrecte / Feedback II si réponse incorrecte:
+non, la jeune fille au pair est bien soumise au permis B
+Question:
+La séjour vacances-travail concerne les ressortissants :
+Réponse:
+Américains
+Réponse:
+Mexicains
+Réponse:
+Canadiens
+Réponse:
+Australiens
+Réponse:
+Russes
+Réponse:
+Neo-zélandais
+Réponse:
+Coréens du sud (république de Corée)
+Réponse:
+Coréens du Nord
+Réponse:
+Taiwanais
+Question:
+Reliez les procédures au bon article de la loi
+Cible:
+Demande pour raison médicale
+Élément:
+article 9ter de la loi du 15/12/80
+Cible:
+demande sur base de circonstances exceptionnelles
+Élément:
+article 9 bis de la loi du 15/12/80
+Cible:
+demande en séjour légal
+Élément:
+article 25/2 de la loi du 8/10/81
+Cible:
+Demande de regroupement familial avec un belge n'ayant pas exercé son droit à la libre circulation
+Élément:
+article 40 ter de la loi du 15/12/80
+Question:
+Qui peut être garant pour un étudiant (annexe 32)
+Réponse:
+un belge
+Réponse:
+un ami de l'étudiant, résident en Belgique avec une carte sur base du permis unique
+Réponse:
+Un ami chinois sous carte K
+Réponse:
+Un demandeur d'asile sous attestation d'immatriculation
+Réponse:
+Un français en séjour touristique
+Question:
+Dans quels cas faut il demander l'avis à l'office des étrangers pour la prolongation d'un séjour étudiant
+Réponse:
+A chaque fois
+Réponse:
+si l'étudiant à un nouveau garant, même si celui ci a des revenus suffisants
+Réponse:
+si l'étudiant à raté son année
+Réponse:
+Si l'étudiant a été radié d'office
+Réponse:
+en cas de doute sur la validité d'un des documents présenté
+Question:
+Dans le cadre d'un programme de mobilité, un étudiant Algérien a réalisé sa première année d'étude en Espagne.  Il continue a présent son cursus en Belgique.  La commune lui délivre :
+Réponse:
+Une carte A valable jusqu'au 31/10 de l'année courante
+Réponse:
+Une annexe 15
+Réponse:
+Une annexe 33
+Réponse:
+Une annexe 33ter
+Question:
+Dans le cadre d'une demande de séjour post-études, quels documents parmi les suivants sont à fournir
+Réponse:
+Les preuves qu'il est en recherche active d'un emploi (candidatures,  inscription actiris,..)
+Réponse:
+Un certificat médical
+Réponse:
+Une copie de son diplôme obtenu
+Réponse:
+La prise en charge qu'il avait déjà utilisée pour son séjour étudiant, si elle est bien valable pour toute la durée des études
+Réponse:
+La preuve d'une couverture soins de santé
+Question:
+Une demande de séjour post études peut elle être introduite par un étudiant dans le cadre d'un programme mobilité, si la Belgique n'est pas le premier pays où cette mobilité à été exercée ?
+Réponse:
+Oui
+Réponse:
+Non
+Question:
+Pour introduire une demande d'autorisation d'établissement (carte K) il faut  :
+Réponse:
+avoir une carte A
+Réponse:
+absolument travailler en Belgique
+Réponse:
+avoir minimum 5 ans de séjour ininterrompu
+Réponse:
+avoir une identité déterminée (pas de mention "déclare se nommer"
+Question:
+Complétez les mots manquants :
+Texte à trous. Indiquer le(s) trou(s) avec un espace réservé [placeholder].:
+Lors d'une demande d'autorisation d'établissement, si toutes les conditions sont remplies, la commune délivre à la personne une au bout de mois, si aucun avis contraire n'a été émis par l'office des étrangers, la commune délivre une carte
+Réponses. Séparer plusieurs réponses correctes en appuyant sur Entrée.:
+annexe 16
+Annexe 16
+Réponses. Séparer plusieurs réponses correctes en appuyant sur Entrée.:
+5
+cinq
+Cinq
+Réponses. Séparer plusieurs réponses correctes en appuyant sur Entrée.:
+K
+k
+Question:
+Quels catégories suivantes ne peuvent pas introduire une demande du statut de résident Longe Durée en Belgique après y avoir résidé au moins 5 ans :
+Réponse:
+Les étudiants
+Réponse:
+Les personnes qui ont obtenu une carte F en rejoignant leur enfant mineur belge
+Réponse:
+Les personnes dont le séjour est par définition temporaire (stagiaires, au pair, détachés,..)
+Réponse:
+Les travailleurs dans le cadre du permis unique
+Question:
+Reliez les codes visas au type de séjour correspondant
+Cible:
+B42
+Élément:
+Séjour étudiant - doit fournir preuve d'inscription
+Cible:
+B34
+Élément:
+séjour sur base du permis unique
+Cible:
+B10
+Élément:
+Regroupement familial art 10bis
+Cible:
+B11
+Élément:
+Regroupement familial art 10
+Non Européens - Long séjour
+Nom:
+Non Européens - Long séjour
+Description:
+Projet de certification pour le module sur les longs séjours non européens
+Valable jusqu’au (aaaa/mm/jj):
+2025/02/28
+Titre:
+Certificat e-Learning
+Texte:
+Félicitations ! Vous avez obtenu votre certification avec succès.
+N'hésitez pas à télécharger votre certificat en cliquant ci-dessous
+Nom du fichier après téléchargement:
+Attestation_e-Learning_VDB
+Nom:
+antica
+Nom:
+tahoma
+Texte:
+{person.midname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{person.firstname} {person.lastname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{certificate.nicename}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{instance.date}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+ID unique : {instance.guid}
+Police:
+antica
+Couleur du texte:
+#183E65
+QUIZ <b>Non Européens - Long séjour </b>
+Nom:
+QUIZ <b>Non Européens - Long séjour </b>
+Message d’alerte:
+Il reste 5 minutes
+Message d’alerte:
+Il reste 3 minutes
+Message d’alerte:
+Il reste 1 minute
+Titre, page de destination:
+QUIZ - Le long séjour des non-européens
+Texte, page de destination:
+Testez vos connaissances sur le long séjour des non-européens !
+Titre, page de démarrage:
+Préparez-vous !
+Texte, page de démarrage:
+Ce test évalue si vos connaissances sur le long séjour des ressortissants non UE  sont suffisantes après avoir suivi ce module de formation. Un résultat positif avec un score de minimum 60% permettra l'accès au téléchargement d'un certificat de participation et de succès au module ad-hoc. Ce type de test ne fournit pas de feed-back sur les questions au fur et à mesure de vos réponses. 
+Au cours de ce test, plusieurs questions vous seront posées.
+Suivez les instructions à l'écran pour y répondre. Si vous avez un doute sur une réponse, vous pouvez marquer une question en cliquant sur le bouton {fss:Media.GetAsset("Mark","width=70px")}. Pour revenir aux questions marquées et à celles auxquelles vous avez répondu pendant le test, cliquez sur {fss:Media.GetAsset("NineDotsTest","width=20px")}. À la fin du test, vous aurez la possibilité de revoir vos réponses avant de les envoyer.
+Pour réussir ce test, vous devez obtenir une note de 60 %.
+Bon travail !
+Nom, cluster de questions:
+Module Non Européens - Long séjour
+Tags pour sélectionner des questions spécifiques (| & !):
+tag4
+Nom, cluster de questions:
+Module Non Européens - Long séjour
+Tags pour sélectionner des questions spécifiques (| & !):
+tag3
+Nom, cluster de questions:
+Module Non Européens - Long séjour
+Tags pour sélectionner des questions spécifiques (| & !):
+tag5
+Titre, page d’envoi:
+SOUMETTRE
+Texte, page d’envoi:
+Vous êtes sur le point de valider vos réponses finales.
+Veuillez utiliser l'aperçu ci-dessous pour retourner aux questions que vous avez éventuellement marquées et y répondre.
+Si vous souhaitez continuer, cliquez sur le bouton « Soumettre », en bas à droite de l'écran.
+Titre, page de résultat:
+RÉSULTATS
+Texte d’introduction à l’aperçu des questions posées:
+Vous trouverez un aperçu détaillé de vos résultats au quiz ci-dessous. Vous avez également la possibilité de télécharger vos résultats :
+Texte de résultat (utiliser en option {correct} {total} {perc}):
+Réessayez.
+Vous n'avez pas réussi le test, veuillez réessayer.
+Texte de résultat (utiliser en option {correct} {total} {perc}):
+Bon travail !
+Titre, téléchargement de la page de résultat:
+TÉLÉCHARGER VOS RÉSULTATS
+Texte, téléchargement de la page de résultat:
+Téléchargez un aperçu de votre quiz à l'aide du bouton ci-dessous.
+Texte d’introduction aux résultats des clusters de questions:
+Relisez vos réponses ci-dessous
+Non Européens - Long séjour
+Nom:
+Non Européens - Long séjour
+Titre, page:
+Le long séjour non européen
+Texte, instruction:
+La règle générale veut que les citoyens hors Union Européenne et Assimilés  qui désirent obtenir un séjour de plus 3 mois en Belgique fassent leur demande de visa D au poste diplomatique belge du pays où ils résident.  
+La demande peut cependant être faite directement en Belgique sous certaines conditions, le plus souvent via une demande de changement de statut (e.g. un étudiant devenant un salarié,...).
+Concernant la question particulière de l'accès au marché de l'emploi depuis l'introduction de la Directive 2011/98/UE,  il faut distinguer: 
+le permis unique  qui regroupe l'autorisation de travail et l'autorisation au séjour. Dans ce cas ci, c'est bien le travail qui conditionne le séjour. 
+les autres situations de séjour (étudiant, regroupement familial, indépendant) où la condition de séjour est autre que le travail, mais pour laquelle le titre ou document de séjour précise l'accès au marché du travail auquel la personne à droit (limité, illimité ou non).
+Texte, introduction:
+1.  Le visa D
+Chaque visa D est accompagné d'un code correspondant au motif du séjour, ci dessous la liste de ces codes et leur explication.  A noter que certains d'entre eux sont très peu utilisés.
+Texte:
+2. La demande introduite en Belgique
+Nous le verrons, il est possible dans certains cas d'obtenir un séjour de plus de trois mois si l'on n'est pas titulaire d'un visa D.
+Ces conditions seront expliquées au cas par cas dans les chapitres correspondants.
+Le plus souvent,  ces demandes spécifiques sont soumise au paiement d'une redevance :
+Texte:
+Depuis le 1er janvier 2025, ce montant est fixé comme suit:
+Gratuit :
+Étranger âgé de moins de 18 ans ;
+Apatride reconnu dont il est établi qu’il a perdu sa nationalité contre son gré et qui démontre qu’il ne peut obtenir aucun titre de séjour légal et durable dans un autre État avec lequel il aurait des liens.
+Citoyens UE /assimilés et famille 
+Article 40 bis/47/1 avec un belge ayant exercé son droit à la libre circulation
+Etrangers sous visa D
+Bénéficiaires de l'accord de retrait (Brexit)
+Etrangers de plus de 18 ans handicapés et demandant un regroupement familial sur base de l'article 10,10bis ou 40ter
+Bénéficiaires de l'accord d'association CEE/Turquie
+Demande de protection internationale/temporaire
+demande pour raison médicale (9ter)
+148 euros :
+Demande d'autorisation de travail et de séjour (permis unique) – Article 61/25-1 de la loi du 15/12/1980 - ; 
+Demande d'autorisation de travail et de séjour afin d'occuper un travail hautement qualifié – Article 61/26 de la loi du 15/12/1980 ; 
+Chercheur avec convention d'accueil (sauf titulaire d'une bourse auprès d'un organisme désigné à l'art 1er/1 de l' AR du 15/12/80)
+Chercheur dans le cadre d'une mobilité longue durée  (sauf titulaire d'une bourse auprès d'un organisme désigné à l'art 1er/1 de l' AR du 15/12/80)
+Demande d’autorisation de séjour de plus de 90 jours en qualité de travailleur saisonnier – Article 61/29-4 de la loi du 15/12/1980 ; 
+Demande d’autorisation de séjour de plus de 90 jours en qualité de personne faisant l'objet d'un transfert temporaire intragroupe – Article 61/34 de la loi du 15/12/1980 ; 
+Demande d’autorisation de séjour de plus de 90 jours dans le cadre d'une mobilité de longue durée en qualité de personne faisant l'objet d'un transfert temporaire intragroupe  – Article 61/45 de la loi du 15/12/1980. 
+Demande de permis unique Stagiaire (article 61/13/18) -
+Demande de permis unique Volontaires (article 61/13/27) 
+Demande de séjour après l'achèvement de la recherche en vue de trouver un emploi ou de créer une entreprise (art 61/13/12)
+198 euros :
+Demande d’autorisation de séjour de plus de 90 jours d’un étranger porteur d'un permis de séjour de « résident de longue durée – UE » valable, délivré par un autre Etat membre de l'Union européenne sur la base de la directive 2003/109/CE – Article 61/7 de la loi du 15/12/1980, sauf (b) ;
+Demande d’autorisation de retour de l'étranger porteur d'un titre de séjour ou d'établissement belge valable et dont l'absence du Royaume est supérieure à un an – Article 19. § 2 de la loi du 15/12/1980, sauf (f) (g) ;
+Demande de recouvrement du statut de résident de longue durée après la perte du droit de retour – Article 19. § 2 de la loi du 15/12/1980, sauf (f) (g).
+213 euros :
+Demande de séjour des membres de la famille d'un Belge – Article 40 ter de la loi du 15/12/1980, sauf (a) et( h) ;
+Demande d’admission au séjour de plus de 90 jours des  membres de la famille d'un étranger admis ou autorisé à séjourner en Belgique pour une durée illimitée, ou autorisé à s'y établir (carte B, C, D,  F, F+ ou K) – Article 10.§1er, alinéa 1, 4° à 6° de la loi du 15/12/1980, sauf (a) (e) (f) ;
+Demande d'autorisation de séjour de plus de 90 jours des membres de la famille d'un étranger autorisé à séjourner en Belgique pour une durée limitée (carte A, H ou L) – Article 10bis.§2 de la loi du 15/12/1980, sauf (a) et (f) ;
+Demande d'autorisation de séjour de plus de 90 jours des membres de la famille d'un étranger autorisé au séjour en qualité d'étudiant (carte A) – Article 10bis.§1er de la loi du 15/12/1980, sauf (a) et (f) ;
+Demande d’admission au séjour de plus de 90 jours de l'étranger dont le droit de séjour est reconnu par un traité international, par une loi ou par un arrêté royal – Article 10.§1er, alinéa 1, 1° de la loi du 15/12/1980, sauf (a) (e) (f) ;
+Demande d’admission au séjour de plus de 90 jours de l'étranger qui remplit les conditions prévues par le Code de la nationalité belge pour recouvrer la nationalité belge – Article 10.§1er, alinéa 1, 2° de la loi du 15/12/1980, sauf (a) (e) (f) ;
+Demande d’admission au séjour de plus de 90 jours de la femme qui, par son mariage ou à la suite de l'acquisition par son mari d'une nationalité étrangère, a perdu la nationalité belge – Article 10.§1er, alinéa 1, 2° de la loi du 15/12/1980, sauf (a) (e) (f).
+236 euros :
+ Autorisation de séjour dans le cadre d'une activité indépendante (carte professionnelle ou dispense) 
+Travailleur non UE détaché intra UE
+Inscription dans un établissement d'enseignement supérieur privé 
+245 euros : 
+Demande d’autorisation de séjour de plus de 90 jours d’un étranger qui souhaite séjourner en Belgique en tant qu'étudiant dans un établissement d’enseignement supérieur public – Article 60 de la loi du 15/12/1980, sauf (b).
+368 euros :
+Demande d’autorisation de séjour de plus de 90 jours introduite en Belgique (circonstances exceptionnelles) – Article 9bis de la loi du 15/12/1980, sauf (b).
+En cas de demande de changement de statut, ou de demande de visa de retour après la perte du droit de retour : application du montant correspondant au statut demandé.
+ 
+(a) Sauf si le demandeur est un enfant handicapé célibataire âgé de plus de 18 ans, pour autant qu’il fournisse une attestation émanant d’un médecin agréé par le poste diplomatique ou consulaire belge indiquant qu’il se trouve, en raison de son handicap, dans l’incapacité de subvenir à ses propres besoins : gratuit.
+(b) Sauf si le demandeur est un étranger qui présente la preuve qu’il est titulaire d’une bourse octroyée par un organisme ou une autorité visé à l’article 1er/1 de l’arrêté royal du 08/10/1981 au moyen d’un formulaire type dont le modèle est arrêté par le Ministre ou par une attestation délivrée par la Direction générale Coopération au développement et Aide humanitaire du Service public fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement : gratuit.
+(c) Sauf si le demandeur est un étranger qui a été admis à la procédure de réinstallation dans le cadre d’un programme de réinstallation supervisé par le Haut-Commissariat des Nations Unies pour les Réfugiés : gratuit. 
+(d) Sauf si le demandeur est un étranger qui est indigent et qui en apporte la preuve par la gratuité des taxes consulaires accordée par le poste diplomatique ou consulaire sur base d’indigence justifiée, à la condition qu’il ne doive pas justifier de moyens de subsistance suffisants dans le cadre de sa demande : gratuit.
+(e) Sauf si le demandeur est un membre de la famille d’un étranger bénéficiaire du statut de réfugié ou du statut de protection subsidiaire : gratuit.
+(f) Sauf si le demandeur est bénéficiaire de l'accord créant une association entre la Communauté économique européenne et la Turquie signé le 12 septembre 1963 : gratuit.
+(g) Sauf si le demandeur est bénéficiaire du statut de réfugié, ou membre de la famille d'un étranger bénéficiaire du statut de réfugié : gratuit.
+(h) À l'exception des demandes introduites par les membres de la famille d'un Belge qui a exercé son droit à la libre circulation, conformément au Traité sur l'Union Européenne et au Traité sur le fonctionnement de l'Union Européenne : gratuit.
+Question:
+Quels cas ne sont jamais soumis à la redevance en Belgique  ?
+Option de réponse:
+Les personnes désirant effectuer une activité d'indépendant sur base de la carte professionnelle
+Option de réponse:
+les étudiants
+Option de réponse:
+Les citoyens européens
+Option de réponse:
+Les enfants mineurs
+Option de réponse:
+Les personnes qui viennent s'installer sur base d'un visa D
+Option de réponse:
+Une demande de régularisation sur base de l'article 9bis
+Feedback si réponse incorrecte:
+Non, ces cas sont en général soumis au paiement de la redevance,  sauf s'ils rentrent dans les exception
+Feedback si réponse correcte:
+Tout à fait, ces personnes ne doivent jamais payer de redevance pour introduire une demande
+Texte, accordéon:
+3. Pour info : Les pays tiers
+Les pays tiers sont les pays qui ne font pas partie des pays de l'Union Européenne et assimilés. 
+Donc, tous les pays sont des pays tiers sauf: 
+Allemagne, 
+Autriche, 
+Bulgarie, 
+Chypre, 
+Croatie, 
+Danemark, 
+Espagne, 
+Estonie, 
+Finlande, 
+France, 
+Grèce, 
+Hongrie, 
+Irlande, 
+Italie, 
+Lettonie, 
+Lituanie, 
+Luxembourg, 
+Malte, 
+Pays-Bas, 
+Pologne, 
+Portugal, 
+République Tchèque, 
+Roumanie, 
+Slovaquie, 
+Slovénie, 
+Suède, 
+Islande, 
+Liechtenstein, 
+Norvège, 
+Suisse.
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Procédure
+Titre, page:
+1. Le permis Unique
+Texte, instruction:
+Lorsqu'un ressortissant non européen désire s'établir en Belgique pour y exercer une activité de salarié, il doit suivre une procédure de permis unique combinant une autorisation de travail (délivrée par la région) et une autorisation de séjour (délivrée par l'office des étrangers). 
+Comme toutes les autorisations de séjour pour les non européens, cette demande est en théorie introduite via une demande de visa au poste diplomatique de son lieu de résidence.  Comme nous le verrons, ce statut peut lui être accordé dans certains cas s'il se trouve déjà en Belgique.
+Nous allons dans un premier temps nous intéresser à la procédure d'introduction de cette demande de permis unique, même si la commune n'intervient pas à ce stade là.
+Une fois ce permis unique octroyé, nous allons voir comment la commune procède à l'inscription de la personne, pour pouvoir délivrer la carte A, nous verrons aussi comment se passe la prolongation de ce séjour, l'octroi d'un séjour illimité, et éventuellement, le refus de renouvellement du séjour.
+Texte, introduction:
+Texte:
+a. Procédure d'octroi du permis unique
+Texte:
+b. La personne séjourne en Belgique sur une autre base, une annexe 46 lui a été accordée 
+La personne se présente munie de son annexe 46 à la commune. L'office des étrangers a transmis le même document à la commune de résidence.  
+Après s'être assurée que les deux annexes 46 sont identiques, la commune peut procéder à la commande d'une carte A dont la validité est mentionnée sur l'annexe 46.  L'accès au marché du travail est "limité". 
+Une annexe 49 valable 45 jours est délivrée en attente de la délivrance de la carte.
+Texte:
+c.  Le permis unique a été délivré à l'employeur et le Visa D B34 a été délivré par le poste diplomatique où l'étranger résidait
+L'étranger se présente dans les 8 jours ouvrables de son arrivée dans la commune où il réside. 
+La commune  lui délivre une annexe 49 (dans le cadre de l'art 105/2 §§4 et 5 : Pour requérir son inscription et/ou se voir délivrer le permis unique auquel il a droit) avec la mention d'accès limité au travail.  Cette annexe est valable 45 jour et prolongeable par 2 fois pour le même délai.  Dès qu'il est en possession de cette annexe 49, l'employé peut travailler 
+La commune procède a une enquête de résidence au domicile de l'intéressé.  Une fois celle ci effectuée, la personne peut être collectée au registre des étrangers  et une carte A peut lui être délivrée.
+Cette carte aura une mention limité  pour l'accès au marché au travail.  La validité de la carte A doit correspondre au délai mentionné sur l' autorisation de travail  que doit posséder l'employé.  Celle ci reprend également le numéro de TVA de l'employeur qui doit être mentionné lors de la commande de la carte A et qui apparaitra sur la puce.
+Texte:
+d. L'étranger déjà présent en Belgique  dans le cadre d'un séjour touristique, l'annexe 46 est envoyée à l'employeur et à la commune
+L'étranger se présente dans sa commune muni de son annexe 46.  La commune doit avoir reçu le même document de la part de l'office des étrangers.  Il faut alors vérifier que ces deux documents soient bien identiques.  
+Si tout est en ordre, la commune peut procéder à une enquête de résidence et délivrer en attendant à l'intéressé une annexe 49 valable 45 jours.  L'annexe peut être prolongée deux fois de 45 jours si l'enquête n'est pas revenue dans les délais
+Une fois l'enquête positive de retour, la commune peut collecter la personne au registre national et délivre une carte A à l'intéressé.  La durée de validité de celle ci est mentionnée sur les annexes 46 délivrées à l'employé et à la commune.  Le numéro de TVA mentionné sur l'annexe 46 doit être repris lors de la commande pour apparaitre sur la puce. 
+Dans l'attente de la délivrance de la carte A ,la commune  lui délivre une annexe 49 (dans le cadre de l'art 105/2 §§4 et 5: Pour requérir son inscription et/ou se voir délivrer le permis unique auquel il a droit) avec la mention d'accès limité au travail.  Cette annexe est valable 45 jour et prolongeable par 2 fois pour le même délai.  Dès qu'il est en possession de cette annexe 49, l'employé peut travailler
+Texte:
+e. Renouvellement du permis unique
+Texte:
+Avez-vous tout compris?
+Texte:
+Ecoutons la mise en situation suivante...
+Question:
+Que répondez vous à cette personne ?
+Feedback:
+Ce n'est pas parce que la région a donné une autorisation de travail illimitée qu'il en est de même pour le séjour.  Celui ci ne sera octroyé que sur base d'instructions de l'office des étrangers.
+Question:
+La carte A sur base du permis unique peut être délivrée à l'initiative :
+Option de réponse:
+de la commune, si le travailleur est en séjour régulier et qu'il présente une autorisation de travail conforme, délivrée par la commune
+Option de réponse:
+la commune doit transmettre une copie de l'autorisation de travail et la preuve de paiement de la redevance à l'office des étrangers et attendre des instructions
+Option de réponse:
+de la commune, si le l'office des étrangers lui a transmis l'accord via l'annexe 46 dont le travailleur dispose également
+Feedback si réponse incorrecte:
+Le principe du permis unique est l'octroi de l'autorisation de travail par la région mais aussi l'octroi au séjour par l'office des étrangers via l'annexe 46
+Feedback si réponse correcte:
+Tout à fait
+Question:
+L'annexe 49 est délivrée
+Option de réponse:
+Par l'ambassade de Belgique, pour que la personne puisse directement venir travailler en Belgique
+Option de réponse:
+Lorsque un personne  munie d'un visa D B 34 se présente à sa commune de résidence dans les 8 jours de son arrivée, dans le but de s'inscrire au registre, ce qui lui permet de commencer à travailler en attendant que l'enquête de résidence soit effectuée
+Option de réponse:
+Lorsqu'une personne renouvelle carte A sur base d'une renouvellement d'un permis unique, dans l'attente que la carte soit disponible
+Option de réponse:
+Lorsqu'une personne s'est vu refuser un permis unique, pour lui donner la possibilité de trouver un nouvel emploi
+Feedback si réponse incorrecte:
+Non, l'annexe 49 est délivrée par la commune de résidence à partir du moment où une demande d'autorisation de travail à déjà été délivrée, ou du moins a été déclarée recevable.
+Feedback si réponse correcte:
+Bravo
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+2. Le travailleur hautement qualifié (Directive 2009/50/UE)
+Texte, introduction:
+S'il répond à des critères bien précis (un certain niveau de revenu, fixé par la région, et avoir des qualifications élevées dans le cadre de son travail), le travailleur peut être considéré comme hautement qualifié est se voir octroyer une carte "bleue européenne" , ou carte H .  
+La procédure est sensiblement la même que pour la demande de permis unique "classique"
+Texte:
+a. Le visa D "B29" pour travailleur hautement qualifié à été délivré par le poste diplomatique belge 
+La personne se présente dans sa commune de résidence dans les 8 jours de son arrivée en Belgique.
+La commune délivre une annexe 49 à l'intéressé, celle ci est valable 45 jours et prolongeable par 2 fois dans l'attente du retour de l'enquête de résidence qui est lancée.  
+Dès le retour (positif) de l'enquête, une carte H peut être commandée.  La durée de validité de celle ci est celle mentionnée sur l'autorisation de travail. Celle-ci mentionne également le n° de TVA de la société qui doit être enregistré sur la puce.
+b. La demande est introduite à un ressortissant d'un pays tiers qui est déjà en Belgique
+Si le ressortissant d'un pays tiers est déjà autorisé au séjour sur un autre base (permis unique "classique", étudiant, indépendant,....), il est libre d'introduire via son employeur, une demande d'autorisation de travail et de séjour sur base d'un travail hautement qualifié.
+S'il y a accord de l'office des étrangers, une annexe 46 est transmise à la commune et à l'intéressé.
+Si le travailleur n'est pas encore repris au registre des étrangers, la commune procède à une enquête de résidence.  Dès son retour, ou si l'étranger était déjà repris au registre, une carte H peut être commandée  La validité de celle ci est mentionnée sur l'autorisation de travail, tout comme le numéro de tva de l'employeur, qui doit être enregistré sur la puce.
+c. Prolongation de la carte H
+La demande de prolongation doit être introduite auprès de la région compétente au plus tard deux mois avant expiration de la carte H.   
+Si l'office des étrangers donne son accord suite au renouvellement de l'autorisation de travail par la région, instruction est envoyée à la commune via annexe 46 de prolonger la carte H.
+Si ni la région ou l'office des étrangers n'a pas pris de décision à expiration de la carte H, une annexe 49 peut être délivrée dans la mesure où l'étranger apporte la preuve que la demande d'autorisation de travail à été déclarée recevable par la région.  Cette annexe 49  est valable 30 jours et renouvelable à une reprise pour le même délai.
+Tout comme pour le permis unique, l'office des étrangers peut prendre une décision de refus de séjour (charge pour le système d'aide sociale, séjourne à d'autre fin que le travail,...) via une annexe 52 qui sera transmise à la commune.
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+3. Transfert Intragroupe (ICT)
+Texte, instruction:
+Question:
+Un citoyen brésilien est détaché directement en Belgique par l'entreprise qui l'emploie au Brésil .
+La carte qui lui sera délivrée sera :
+Option de réponse:
+Une carte I
+Option de réponse:
+Une carte J
+Option de réponse:
+Une carte H
+Feedback si réponse incorrecte:
+non, en cas de détachement ICT direct cela sera une carte I
+Feedback si réponse correcte:
+oui
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, page:
+4. Les travailleurs saisonniers
+Texte, instruction:
+La procédure est celle du permis unique, la demande d'autorisation de travail saisonnier doit donc être introduite auprès de la région compétente.
+Texte:
+a. La demande a été faite via le poste diplomatique belge à l'étranger. 
+L'étranger se présente dans les 8 jours de son arrivée muni de son passeport et d'un visa D B36 "Travailleur saisonnier" dans la commune où il désire s'inscrire.  
+La commune délivre une annexe 49 valable 45 jours dans l'attente du retour de l'enquête de police.  Si l'enquête n'est pas de retour dans les délais, l'annexe 49 peut être prolongée par deux fois de 45 jours.
+Dès retour positif de l'enquête, l'étranger peut être collecté au registre national et délivrer une carte A portant la mention "travailleur saisonnier" de la même validité que l'autorisation de travail délivrée par la région
+b. Prolongation 
+La demande est toujours introduite auprès de la région compétente au plus tard un mois avant expiration de sa carte A.   
+Si la prolongation du volet travail et séjour sont est acceptée par la région et l'office des étrangers , une annexe 46 est transmise à la commune. Sur cette base, une nouvelle carte A portant la mention "travailleur saisonnier" peut être délivrée.  Sa validité sera mentionnée sur l'annexe 46 
+c. Le travailleur saisonnier séjourne dans le cadre d'un court séjour 
+La demande doit toujours être introduite auprès de la région compétente.  
+Lorsque la région et l'office des étrangers auront donné leur accord, une annexe 46 est transmise à l'intéressé et au SPF affaires étrangères .  
+Ce même SPF délivrera à l'intéressé un visa D B36 "travailleur saisonnier".  Ce visa D délivré donc à Bruxelles n'implique pas d'inscription au registre national et pas de délivrance de carte A. 
+L'étranger pourra séjourner en Belgique sur base du visa D qui a été délivre.  
+Une prolongation peut être introduite selon la même procédure auprès de la région, avec une prolongation du visa D, toujours au SPF affaires étrangères
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+5. Les chercheurs
+Texte, instruction:
+Il s'agit ici des ressortissants de pays tiers qui viennent en Belgique dans le cadre d'une convention d'accueil dans un établissement de recherche agréé.
+Texte:
+A. Séjour longue durée
+Depuis le 1er mars 2023, les chercheurs sont soumis à la procédure de permis unique qui doit être introduite par l’organisme de recherche auprès de la région compétente.  La procédure à suite est donc celle-ci (Voir aussi chapitre sur le permis unique).  
+Cette procédure est également d’application lorsque un chercheur ayant obtenu un titre de séjour à ce titre dans un autre pays de l’UE effectue une partie de sa recherche auprès  d’un organisme belge pour plus de 180 jours.
+B. Mobilité courte durée pour chercheurs 
+Un citoyen non européen  qui obtient un titre de séjour dans une autre pays de l’UE en tant que chercheur  à la possibilité d’exercer une partie de sa recherche en Belgique (pour une durée maximale de 180 jours sur 360).  Ceci s’applique également au membre de la famille qui l’a rejoint dans l’état membre précédent et qui y a obtenu dans ce cadre un titre de séjour. 
+L’organisme de recherche (en Belgique ou dans le pays UE de départ) signale à l’office des étrangers l’intention de faire bénéficier le chercheur (et éventuellement sa famille) du droit à la mobilité courte durée
+Dès que cette notification est faite à l’office des étrangers, la mobilité courte durée peut s’exercer. : l’office des Etrangers dispose de 30 jours pour éventuellement émettre une objection sur cette mobilité, si au bout des 30 jours aucune décision n’est prise, la mobilité est considérée approuvée
+Le chercheur (et éventuellement le membre de sa famille) se présente dans les 3 jours ouvrables de son arrivée auprès de sa commune de résidence muni de :
+                            - Passeport (valable pour la durée de la mobilité envisagée)
+                            - Titre de séjour délivré dans le pays de l’UE de départ (valable pour la durée de la mobilité envisagée)
+                            - Convention d’accueil établie par l’organisme de recherche en Belgique ou équivalent
+Sur présentation de ces documents, la commune délivre à l’intéressé une annexe 62 valable pour la durée de la rechercher effectuée en Belgique.  L’accès au marché du travail est « limité » pour le chercheur et « illimité » pour le membre de famille qui le rejoint (avec un maximum de 180 jours).
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Annexe 62
+Titre, barre d’accordéon:
+Liste des organismes agréés
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+6. Les dispenses de permis unique
+Texte, instruction:
+Certaines catégorie de travailleurs sont spécifiquement dispensés de la procédure de permis unique
+Texte, introduction:
+Texte:
+a. Les travailleurs ressortissants d'un pays tiers et détachés par un autre pays de l'UE
+La personne doit se présenter dans la commune où il désire s'installer muni de : 
+son passeport valable ;
+son titre de séjour valable du pays de l'UE qui la détache ;
+la preuve de paiement de la redevance (si pas de dispense) ;
+son permis de travail ou équivalent délivré par le pays UE qui la détache ;
+le contrat de détachement ;
+l'Attestation Limosa ;
+le formulaire A1 ;
+le certificat médical type ;
+un extrait de casier judiciaire. 
+Si  tous ses éléments sont fournis, le dossier sera envoyé à l'office des étrangers, et suite à des instructions positives et une enquête de résidence, une carte A sera délivrée (validité en fonction des instructions)
+Pour la prolongation, les mêmes documents doivent être fournis, la carte A sera prolongée sur base de nouvelles instructions
+Texte:
+b. Le garçon ou la jeune fille "au pair"
+Il s'agit d'un des rares cas où le travailleur est soumis au permis de travail B.
+Normalement la demande de séjour est introduite via le poste diplomatique belge avec l'obtention d'un visa D B14.  
+Dans ce cas, une fois que la personne se présente dans la commune où elle compte s'installer.  
+Une annexe 15 valable 45 jours et prolongeable 2 fois 45 jours est délivrée dans l'attente du retour de l'enquête de résidence.  
+Dès retour de cette enquête, la personne peut être collectée au registre national et une carte A limitée à la durée du Permis de travail B peut être délivrée.
+La demande peut être introduite depuis la Belgique. 
+ La personne doit dans ce cas se présenter munie :  
+de la preuve de paiement de la redevance (sauf dispense);
+du permis de travail B ;
+de la preuve de séjour valable (déclaration d'arrivée, titre de séjour,..) ;
+du certificat médical type ;
+d'un extrait de casier judiciaire.  
+Après enquête de résidence  et collecte au registre national si la personne n'était pas déjà inscrite, la commune peut délivrer une carte A de la même durée que le permis de travail.
+Texte:
+c. Le séjour vacances travail
+Un accord a été conclu entre la Belgique et certains pays  afin de permettre à leurs jeunes ressortissants (de 18 à 30 ans) de séjourner un an dans un de ces pays afin de développer sa culture et de s'enrichir d'autres modes de vie.  
+Pendant ce séjour, le jeune peut, s'il le désire, effectuer une activité de salariée tout en étant dispensé de permis de travail et de permis unique.
+Ce séjour s'octroie via le visa B24.  
+Suite à une enquête de résidence, la personne est collectée au registre national et une carte A valable un an depuis la date d'entrée est délivrée.   La mention pour l'accès au marché du travail est "illimité"
+Texte:
+Avez vous bien tout compris ?
+Ecoutons la mise en scène suivante....
+Question:
+Que répondez vous à cette personne ?
+Feedback:
+L'objectif du visa D B24 "vacances travail" est de s'imprégner et de s'enrichir de la vie culturel pendant une durée d'un an.  Un séjour sur cette base ne peut être prolongé....
+Texte:
+d. Les travailleurs frontaliers (art 106 A.R.)
+Il s'agit  d'un ressortissant d'un pays tiers qui travaille en Belgique tout en ayant sa résidence dans un pays limitrophe.  
+Deux situations possibles: 
+Il dispose déjà d'un titre de séjour dans ce pays, et un permis de travail B qui lui a été octroyé par la région pour son employeur Belge.  La commune peut lui délivrer une annexe 15 mentionnant un accès au travail "limité" et dont la validité est égale à celle du permis de travail B.
+Il est possible également qu'un  ressortissant d'un pays tiers travaille en Belgique, tout en résidant dans un pays frontalier et y étant conjoint de belge, ou plus probablement, conjoint d'un ressortissant de ce pays (exemple : Un américain travaille à Mons, mais sa résidence est à Lille où il réside avec son épouse française).  Dans ce cas, il peut disposer d'une annexe 15, mais cette fois ci, la mention pour le marché du travail sera "limité"
+Titre, accordéon:
+Pour aller plus loin
+Texte, accordéon:
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+7. Le travailleur indépendant ressortissant d'un pays tiers
+Texte, introduction:
+Tout ressortissant d'un pays tiers qui désire s'installer en Belgique pour y exercer une activité d'indépendant est soumis à l'octroi par la région compétente d'une carte professionnelle .   
+Cette demande se fait via le poste diplomatique belge du pays de résidence de l'intéressé, mais peut se faire aussi via un guichet d'entreprise agrée, si la personne a déjà été autorisée au séjour de plus de 3 mois sur une autre base.
+Texte:
+a. La demande a été introduite au poste diplomatique belge du pays où l'étranger résidait
+Texte:
+b. La demande est introduite en Belgique
+L'étranger se présente, muni :
+de la preuve de son séjour légal (déclaration d'arrivée, séjour sur une autre base)
+de son passeport
+de la preuve de paiement de la redevance (sauf dispense)
+de la carte professionnelle ou de la dispense de carte professionnelle
+du certificat médical type
+d'une extrait de casier judiciaire si nécessaire traduit et légalisé 
+Après enquête de résidence et collecte au registre national si nécessaire, la commune peut délivrer une carte A limitée à la carte professionnelle + 3 mois avec un maximum de 2 ans.  
+S'il y a dispense de carte professionnelle, la carte sera limitée à la durée de l'activité avec un maximum d'un an
+Attention, il existe des cartes professionnelles "subordonnées" qui sont délivré notamment dans le cadre des études (ex : architectes). Ces cartes ne permettent pas d'obtenir un séjour sur baser d'une activité d'indépendant .
+Texte:
+c. Prolongation du séjour
+Une copie de la (nouvelle) carte professionnelle doit être transmise à l'office des étrangers, la carte A pourra ensuite être prolongée sur base de leurs instructions.
+Il est possible que l'office des étrangers donne son accord pour une "prolongation d'office" par la commune, dans ce cas, la prolongation pourra être faite directement par la commune pour la validité de la nouvelle carte professionelle + 1mois .
+Question:
+La prolongation d'un séjour su base de la carte professionnelle est :
+Option de réponse:
+Sur base des instructions que l'office des étrangers envoie, car la région leur transmet une copie de la carte professionnelle renouvelée
+Option de réponse:
+toujours une compétence communale, sur présentation de la nouvelle carte professionnelle
+Option de réponse:
+En général soumis à l'office des étrangers, sauf accord spécifique de leur part pour une prolongation d'office sur présentation de la nouvelle carte professionnelle
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+8. Le séjour étudiant
+Texte, instruction:
+A nouveau la demande de séjour sur base d'études se fait en théorie via le poste diplomatique où le ressortissant d'un pays tiers réside, et donc, via l'attribution d'un visa D pour études.   
+La demande peut être également introduite en Belgique si la personne est en séjour légal.
+Texte:
+a. Demande introduite au poste diplomatique belge à l'étranger
+L'étrangers se présente dans les 8 jours ouvrables de son arrivée en Belgique.   
+Dans l'attente du retour de l'enquête de résidence, une annexe 15 valable 45 jours sera délivrée.
+Dès retour de l'enquête, la personne sera collectée au registre national et une carte A sera délivrée.  La validité de celle ci dépendra du visa D délivré :
+Texte:
+Lorsque la demande de séjour étudiant est introduite via un poste diplomatique, un code est mentionné sur le visa D qui est octroyé.
+Ce code B vous permet de connaître la situation et de savoir quel titre de séjour délivrer
+Texte:
+Dans le cadre des visa B41, B42 et B43 , il s'agit bien d'une attestation d'immatriculation valable 4 mois depuis la date d'entrée qui doit être délivrée.  Dès présentation avant ces quatre mois d'une inscription scolaire dans l'établissement spécifié sur la visa, une carte A est délivrée jusqu'au 31 octobre de l'année courante.
+Si à échéance de l'attestation d'immatriculation, aucun document n'est fourni, la commune délivre une annexe 12 (ordre de quitter le territoire) à l'intéressé.
+Attention, lorsqu'il se présente à la commune pour la première fois en vue de son inscription, l'annexe 15 ne peut pas être délivrée dans l'attente de l'enquête de résidence
+Texte:
+b. Demande introduite en séjour légal en Belgique dans un établissement reconnu
+Texte:
+c.  Demande introduite en séjour légal en Belgique dans un établissement non reconnu 
+Si la demande concerne un établissement privé et non reconnu et subventionné par les pouvoirs publics, elle doit être traitée dans le cadre d'une demande d'article 9 bis (voir "régularisations").
+Texte:
+d. A propos des moyens de subsistances suffisants
+Ces preuves sont : 
+l'attestation de bourse ;
+Une prise en charge conforme à l'annexe 32 (le garant doit être belge ou européen autorisé au séjour de plus de 3 mois, ressortissant d'un pays tiers sous séjour illimité ou limité si preuve de lien de parenté au 3ème degré).  La prise en charge doit être accompagnée des preuves de revenus du garant (salarié : 3 dernières fiches de paie, indépendant :  extrait de rôle, extrait BCE, preuve de paiement des lois sociales,..)  Si la prise en charge est faite à l'étranger, c'est le poste diplomatique belge qui vérifie la solvabilité et y appose le cachet "solvabilité vérifiée" ;
+Si l'étudiant assure lui même ses revenus ; il doit justifier un compte bloqué sur lequel  sont
+déposés des versements réguliers d'un montant de 8 148 EUR par an (679 x 12). 
+Compte personnel bloqué et géré par l'établissement scolaire
+Caution bancaire auprès d'une société reconnue (ex Studely)
+Toute autre preuve de moyens d'existence peut être soumise
+Texte:
+e. Prolongation 
+A)  Procédure
+Texte:
+B) Dossier soumis à l'office des étrangers 
+Tous les dossiers doivent être transmis à l'office des étrangers, mais dans certains cas la délivrance d'une nouvelle carte A peut directement être faite par la commune (revenus suffisants, pas de prolongation excessive, demande faite dans les délais,,...)
+Il faudra par contre passer par l'accord de l'office des étrangers : 
+en cas de changement d'école;
+suite à une radiation d'office ;
+si l'étudiant dépend du CPAS ;
+en cas de doute sur la validité d'un des documents ;
+en cas de crédits réussis insuffisants.
+Texte:
+f. Etudiants frontaliers 
+Les étudiants ressortissants d'un pays tiers effectuant leurs études en Belgique tout en résidant principalement dans un pays frontalier doivent se présenter dans la commune où ils logent ou où ils étudient en vue de la délivrance d'une annexe 33 valable jusqu'au 31/10 de l'année courante
+A cette fin, l'étudiant doit se munir : 
+d'un passeport valable ;
+du titre de séjour dans le pays frontalier ;
+de son inscription scolaire dans un établissement reconnu et subsidié ;
+de ses preuves de revenus suffisants (prise en charge, bourse,....).
+Texte:
+g. Mobilité
+L'étudiant se présentant en Belgique dans ce cadre  muni d'un visa D b35, il se voit délivrer, après enquête de résidence, une carte A valable pour la durée de l'échange pour deux années académiques. 
+La demande peut également être introduite en Belgique (procédure vue au point 2). 
+Si la Belgique n'est pas le premier pays dans lequel l'étudiant effectue sa mobilité, la commune délivre une annexe 33 sur présentation d'une attestation de mobilité émise par l'école et de la carte de séjour délivrée dans l'autre Etat membre.
+Texte:
+h. Séjour post-études
+Texte:
+Avez vous tout compris ?
+Ecoutons la mise en situation suivante....
+Question:
+Que répondez vous à cet étudiant ?
+Option de réponse:
+Si le dossier est complet la commune peut d'office procéder à la prolongation
+Option de réponse:
+Si le dossier est complet la commune peut d'office procéder à la prolongation mais comme il est en retard, il devra apporter la preuve de paiement de la redevance
+Option de réponse:
+Si la demande est complète,  elle sera  transmise à l'office des étrangers,  Aucune redevance ne sera réclamée, cela sera mentionné si c'est le cas, sur les instructions qui seront transmises.
+Option de réponse:
+La commune ne peut pas recevoir la demande même si le dossier est complet car la personne est hors délai, il faudra contacter l'office des étrangers pour qu'ils transmettent leur refus
+Feedback si réponse incorrecte:
+Non, le dossier est complet, il peut être transmis  à l'office des étrangers, qui mentionnera dans ses instructions sir le paiement de la redevance est nécessaire ou pas
+Feedback si réponse correcte:
+Oui, le dossier peut être transmit....
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+La législation
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La procédure
+Titre, page:
+9. Régularisations
+Texte:
+a. Régularisation humanitaire (article 9bis)
+Introduction
+L’article 9bis, de la loi du 15 décembre 1980 permet d’introduire une demande d’autorisation de séjour en Belgique lorsque des circonstances exceptionnelles empêchent l’étranger de retourner dans son pays d’origine pour y introduire une demande de visa auprès du poste diplomatique ou consulaire belge à l’étranger.
+Documents à fournir
+L'étranger doit présenter à sa commune de résidence les doucments suivants: 
+la preuve du paiement de la redevance ;
+un document d’identité national (passeport, titre de voyage ou carte d’identité) qui ne doit pas nécessairement être en cours de validité ;
+une adresse de résidence effective en Belgique ; 
+une preuve de sélection de domicile en Belgique. Si l’étranger n’élit pas domicile, il est réputé avoir élu domicile à l’Office des étrangers ou à l’adresse où il est maintenu (article 9quater, de la loi du 15 décembre 1980).
+une composition de famille ;
+son numéro de l’Office des étrangers ;
+l'exposé des circonstances exceptionnelles justifiant de l’introduction de la demande en Belgique et non à l’étranger (poste diplomatique ou consulaire belge) ainsi que les preuves ;
+l'exposé des raisons pour lesquelles l’étranger souhaite obtenir une autorisation de séjour de plus de 3 mois en Belgique  ainsi que les preuves.
+A noter que l'’étranger ne doit pas produire un document d’identité national dans deux cas: 
+il est demandeur d’asile et la demande de protection internationale n’a pas fait l’objet d’une décision définitive. Lorsque le demandeur d’asile introduit un recours en cassation administrative auprès du Conseil d’Etat et que ce recours est jugé recevable, la dispense vaut jusqu’au moment où un arrêt de rejet est prononcé. 
+il démontre valablement qu’il est dans l’impossibilité de se procurer un tel document en Belgique.
+Lorsque l’étranger ou son avocat introduit une nouvelle demande d’autorisation de séjour sur base de l’article 9bis alors qu’une demande sur le même fondement juridique est toujours pendante, l’étranger est réputé se désister de cette précédente demande et l’Office des étrangers ne statuera que sur base des informations contenues dans la nouvelle demande.
+Documents à délivrer par la commune
+Vérification par la commune du paiement de la redevance: 
+en cas de non-paiement de la redevance : la commune rend une décision d’irrecevabilité - une annexe 42 ;
+en cas de paiement partiel de la redevance : elle rend une décision informant du paiement partiel - une annexe 43: 
+si l'étranger ne paie pas dans les 30 jours de l'annexe 43, la commune délivre une décision d'irrecevabilité - une annexe 42; 
+si l'étranger paie dans le délai des 30 jours, elle procède à l'enquête de résidence. 
+L'enquête de résidence
+Si l'enquête de résidence est: 
+négative: la commune prend une  décision de non prise en considération - l'annexe 2 à la circulaire du 21 juin 2007; 
+positive : la commune délivre une attestation de réception de la demande - l'annexe 3 à la circulaire du 21 juin 2007) et envoie la demande à l'OE. 
+L'envoi de la demande à l’Office des étrangers 
+Si l'enquête de résidence est positive, la commune envoie la demande à l 'OE à l'adresse suivante: dex.9bisdemandes@ibz.fgov.be. 
+L'OE examine la demande: 
+Si les document d'identité n'ont pas été remis ou si l'OE estime qu'il n'y a pas de circonstance exceptionnelle: décision d'irrecevelabilité ; 
+Si les raisons invoquées pour obtenir le séjour en Belgique sont rejetées: décision selon laquelle la demande n'est pas fondée ;
+Si l'OE autorise le séjour: inscription au registre des étrangers et délivrance par la commune d’une carte A ou B. 
+La carte A est un certificat d'inscription au registre des étrangers - séjour temporaire dont la durée de validité est déterminée par l'OE. 
+La carte B est un certificat d'inscription au registre des étrangers qui est valable 5 ans. 
+Renouvellement
+Introduction par l’étranger auprès de sa commune d’une demande de renouvellement entre le 45ème et le 30ème jour avant l’expiration de sa carte A ou B.
+Carte A
+Si l’étranger est en possession d’une carte A, il doit produire à l’appui de sa demande la preuve qu’il remplit les conditions mises à son séjour.
+Si, à l’expiration de la carte A, aucune décision n’est prise par l’Office des étrangers, délivrance d’une annexe 15 valable 45 jours (prorogeable 2x45 jours) si la demande de renouvellement (accompagnée des documents requis) ait été introduite dans les délais.
+Le renouvellement de la carte A ne peut se faire que sur instructions de l’Office des étrangers. 
+Carte B
+Le renouvellement de la carte B relève de la compétence de la commune.
+Texte:
+b.  La régularisation médicale » – Article 9ter, de la loi du 15 décembre 1980
+L’article 9ter, de la loi du 15 décembre 1980 permet d’introduire une demande d’autorisation de séjour en Belgique lorsque l’étranger souffre d’une maladie dans un état tel qu’elle entraîne un risque réel pour sa vie ou son intégrité physique ou un risque réel de traitement inhumain ou dégradant lorsqu’il n’existe aucun traitement adéquat dans son pays d’origine ou dans le pays où il séjourne.
+Sur cette base, l'étranger peut demander un séjour limité ou illimité. 
+L'obtention d'un séjour limité
+Documents à fournir
+Dans ce cas, l'étranger doit fournir à l’Office des étrangers par lettre recommandée: 
+son document d’identité ;
+un certificat médical type datant de moins de 3 mois en vertu de l'Arrêté royal du 17 mai 2007 fixant des modalités d’exécution de la loi du 15 septembre 2006 modifiant la loi du 15 décembre 1980sur l’accès au territoire, le séjour, l’établissement et l’éloignement des étrangers; 
+son adresse de résidence effective en Belgique ;
+l'élection de domicile en Belgique. S'il n'élit pas domicile, il est réputé avoir élu domicile à l’Office des étrangers ou à l’adresse où il est maintenu (article 9quater, de la loi du 15 décembre 1980);
+sa composition de famille ;
+son numéro de l’Office des étrangers ;
+tous les documents et/ou renseignements utiles et récents relatifs à la maladie et aux possibilités et à l’accessibilité de traitement dans le pays d’origine ou de résidence de l’étranger.
+A défaut de document d’identité, l’étranger peut aussi produire des éléments de preuve répondant aux conditions suivantes :
+contenir le nom complet, la nationalité, le lieu et la date de naissance de l’étranger ;
+être délivrés par l’autorité compétente au vu des règles du droit international privé ;
+permettre d’établir un lien physique réel entre le document et l’étranger ;
+ne pas avoir été rédigés sur base de simples déclarations.
+L’étranger ne doit pas produire de document d’identité national ou les éléments de preuve mentionnés ci-dessus s’il est demandeur de protection internationale.
+La dispense documentaire est valable tant que la demande de protection internationale n’a pas fait l’objet d’une décision définitive. Lorsque le demandeur d’asile introduit un recours en cassation administrative auprès du Conseil d’Etat et que ce recours est jugé recevable, la dispense vaut jusqu’au moment où un arrêt de rejet est prononcé.
+Lorsque l’étranger ou son avocat introduit une nouvelle demande d’autorisation de séjour sur base de l’article 9ter alors qu’une demande sur le même fondement juridique est toujours pendante, l’étranger est réputé se désister de cette précédente demande et l’Office des étrangers ne statuera que sur base des informations contenue dans la nouvelle demande.
+Article 9bis, § 3, de la loi du 15 décembre 1980."
+Examen du dossier par l'OE
+La recevabilité
+L'OE rendra une décision d'irrecevabilité dans les cas suivants: 
+non introduction de la demande par lettre recommandée; 
+pas de mention de l’adresse effective en Belgique; 
+pas de certificat médical; 
+certificat médical datant de plus de 3 mois; 
+certificat médical pas rempli complètement ou correctement; 
+éléments déjà invoquées dans une précédente demande; 
+avis du médecin fonctionnaire de l’Office des étrangers que la maladie invoquée n’est manifestement pas une maladie pouvant donner lieu à l’obtention d’une autorisation de séjour. 
+L'OE peut également prendre une décision d'exclusion. 
+S'il rend une décision de recevabilité, l'étranger est inscrit au registre des étrangers et on lui délivre une attestation d'immatriculation - modèle A, valable 3 mois et on procède à l'examen du fond. 
+Le fond
+L'Oe peut rendre: 
+une décision d'exclusion; 
+une décision de refus de séjour: la commune notifie la décision de l'OE et retire l'attestation d'immatriculation et radie éventuellement l'étranger du registre des étrangers.; 
+une autorisation de séjour : délivrance d’une carte A - certificat d'inscription au registre des étrangres - séjour temporaire, valable 1 an. 
+Renouvellement
+Introduction par l’étranger auprès de sa commune d’une demande de renouvellement entre le 45ème et le 30ème jour avant l’expiration de sa carte A.
+Si l’étranger est en possession d’une carte A, il doit produire à l’appui de sa demande la preuve qu’il remplit les conditions mises à son séjour.
+Si, à l’expiration de la carte A, aucune décision n’est prise par l’Office des étrangers, délivrance d’une annexe 15 valable 45 jours (prorogeable 2x45 jours) si la demande de renouvellement (accompagnée des documents requis) ait été introduite dans les délais.
+Le renouvellement de la carte A ne peut se faire que sur instructions de l’Office des étrangers.
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Législation
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, page:
+10. Le séjour illimité, l'établissement , le statut de  Résident Longue Durée
+Texte:
+a. Le séjour illimité
+L'octroi d'un séjour illimité est toujours soumis à l'approbation de l'office des étrangers.  
+Il s'agit d'un droit  acquis après 5 ans en ce qui concerne le séjour sous protection internationale, le regroupement familial sur base de l'article 10, le permis unique et les régularisations médicales sur base de l'article 9ter.  
+Les autres cas sont soumis à l'avis discrétionnaire de l'office des étrangers.
+Texte:
+b. La demande d'autorisation d'établissement - carte K (anciennement carte C)
+A) Personnes concernées
+Uniquement les personnes qui peuvent s'identifier (via un passeport), qui ont un séjour illimité (carte B ou carte F) et qui ont un séjour régulier et ininterrompu de 5 ans en Belgique.
+B) Procédure
+La demande est introduite auprès de la commune de résidence via une annexe 16 reprenant la mention adéquate (l'annexe 16 étant valable pour la demande d'autorisation d'établissement et la demande de résidence de longue durée). 
+Si la personne ne répond pas au conditions, la commune délivre une annexe 16ter. 
+Si la personne répond à ces conditions, la commune délivre une annexe 16bis et la transmet avec l'annexe 16 à l'office des étrangers.
+L'office  des étrangers dispose de 5 mois pour statuer sur la demande.  
+Si la demande est refusée, l'office transmet à la commune une annexe 17 (rejet de demande d'autorisation d'établissement) 
+En cas de décision positive ou en l'absence de décision ou bout des 5 mois, la commune peut délivrer une carte K  valable 10 ans
+Texte:
+c. Le résident longue durée 
+A) Le résident longue durée en Belgique  - carte L (ancienne carte D) 
+Sont concernés les ressortissants de pays tiers identifiée ayant un séjour régulier et ininterrompu de 5 ans (carte A,B,H,C,K,F,F+)  à l'exclusion des séjours par définition temporaire (étudiants, au pair, saisonniers,...)  et des demandes d'asiles en cour (Attestation d'Immatriculation), des bénéficiaires de titres spéciaux.
+La personne se présente dans sa commune de résidence munie de :
+son passeport valable (ou attestation de reconnaissance du CGRA) ;
+la preuve de revenus stables, réguliers et suffisants ;
+la preuve d'une couverture soins de santé ;
+son extrait de casier judiciaire. 
+La demande est introduite dans la commune de résidence via une annexe 16 reprenant la mention adéquate (l'annexe 16 étant valable pour la demande d'autorisation d'établissement et la demande de résidence de longue durée). 
+Si la personne ne rempli pas les conditions, la commune délivre une annexe 16ter. 
+Si la personne rempli les conditions, la commune délivre une  annexe 16 bis et transmet la demande à l'office des étrangers qui dispose d'un délai de 5 mois pour statuer .  
+Si la demande est refusée, l'office transmet à la commune une annexe 17 (rejet de demande de statut de résident longue durée ). 
+En cas de décision positive ou en l'absence de décision ou bout des 5 mois, la commune peut délivrer une carte L  valable 10 ans.
+Texte:
+B)  Le séjour en Belgique d'un étranger ayant obtenu le statut de résident longue durée dans un autre pays de l'UE
+La demande a été introduite via le poste diplomatique belge à l'étranger (visa D b19)
+Suite à une enquête de résidence, la commune collecte la personne au registre national  et délivre une carte A en fonction de son activité (étudiant, indépendant,..) et sur preuve de paiement de la redevance de 63 €. 
+La demande est introduite en Belgique
+L'étranger se présenter dans la commune où il désire s'installer muni de son passeport et du titre de séjour longue durée délivré dans l'autre Etat Membre.
+Suite à un retour positif d'une enquête de résidence,  l'intéressé est collecté au registre national,  une annexe 41bis lui est délivrée ainsi qu'une attestation d'immatriculation valable 4 mois. 
+Indépendant : carte professionnelle (ou dispense), certificat médial type, casier judiciaire émanant du pays ou il a obtenu le statut RLD : délivrance d'une carte A de la durée de la carte professionnelle + 3mois ;
+Etudes ou formation professionnelle : inscription scolaire, preuve de revenus suffisants,  certificat médial type, casier judiciaire émanant du pays ou il a obtenu le statut RLD si plus de 21 ans; 
+Autres fins : preuves de revenus, couverture soins de santé,  certificat médial type, casier judiciaire émanant du pays ou il a obtenu le statut RLD ;
+Attention les personnes voulant exercer une activité de salarié doivent suivre la procédure de permis unique. 
+Une fois ces documents fournis, le dossier est transmis à l'office des étrangers.  Sur base d'instructions de leur part, ou en l'absence de décision au bout des 4 mois, la commune délivrera une carte A :
+pour les indépendants : de la validité de la carte professionnelle + 3mois; 
+pour les étudiants : 31/10 de l'année courant ;
+autres fins : limité à un an ou sur base des instructions de l'office des étrangers.
+Texte:
+C) Demande de regroupement familial avec un RLD
+La demande se fait sur base de l'article 10bis.  La redevance est de 63 €  pour autant que le membre de famille faisait partie du ménage du Résident Longue Durée  dans l'autre Etat membre.
+Titre, accordéon:
+Pour aller plus loin
+Titre, barre d’accordéon:
+Les annexes
+Titre, barre d’accordéon:
+Les ouvrages de référence
+Titre, barre d’accordéon:
+La législation
+Titre, page:
+11 . Le droit au retour
+Texte, introduction:
+Droit de retour, autorisation de revenir et recouvrement du statut de résident de longue durée
+Le droit au retour pendant un an
+L’étranger admis ou autorisé au séjour de plus de 3 mois ou à l’établissement qui quitte le territoire belge dispose d’un droit de retour pendant 1 an.
+Documents à fournir
+L'étranger doit fournir: 
+son passeport ou sa carte d’identité en cours de validité ; 
+un certificat d’inscription au registre des étrangers (carte A ou B), carte d’identité d’étranger (carte C), carte bleue européenne (carte H), attestation d’enregistrement (« annexe 8 » ou carte E) ou carte de séjour de membre de la famille d’un citoyen de l’Union (carte F) en cours de validité.
+Le renouvellement de la carte électronique peut être demandé de manière anticipée. La commune annule la carte au moyen du code d’annulation « 34 – droit de retour ». L’étranger reste en possession de sa carte jusqu’à l’activation de sa nouvelle carte.
+Documents délivrés par la commune
+Avant le départ: L’étranger avertit sa commune de résidence de son intention de quitter la Belgique et d’y revenir et la commune délivre une attestation de départ - annexe 18.
+Au retour: l'étranger informe la commune de son retour dans les 15 jours et la commune délivre une annexe 15 valable trois mois et envoie une demande à l'OE pour replacer l'étranger dans sa situation de séjour antérieure. L'OE peut prendre trois positions: 
+il décide de replacer l’étranger dans sa situation antérieure de séjour : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ;
+il ne prend pas de décision dans le délai de 3 mois : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ;
+il prend une décision négative : notification par la commune de la décision de l’Office des Étrangers - annexe 14.
+Texte:
+Le droit de retour au-delà d'un an
+1er cas: conservation de son centre d’intérêt en Belgique
+L’étranger qui conserve son centre d’intérêt en Belgique dispose d’un droit de séjour de plus d’1 an.
+Documents à fournir
+L'étranger doit fournir à sa commune: 
+son passeport ou carte d’identité en cours de validité ; 
+un certificat d’inscription au registre des étrangers (carte A ou B), carte d’identité d’étranger (carte C), carte bleue européenne (carte H), attestation d’enregistrement (« annexe 8 » ou carte E) ou carte de séjour de membre de la famille d’un citoyen de l’Union (carte F) en cours de validité.
+Le renouvellement de la carte électronique peut être demandé de manière anticipée. La commune annule la carte au moyen du code d’annulation  (34 – droit de retour). L’étranger reste en possession de sa carte jusqu’à l’activation de sa nouvelle carte.
+Documents à délivrer
+Avant le départ: l’étranger avertit sa commune de résidence de son intention de quitter la Belgique et d’y revenir et apporte la preuve de la conservation de ses intérêts en Belgique. La commune délivre une attestation de départ - annexe 18.
+Au retour: l’étranger informe la commune de son retour dans les 15 jours de son retour. La commune délivre une annexe 15 valable 3 mois et envoie la demande de replacer l’étranger dans sa situation de séjour antérieure à l’Office des étrangers. L'OE examine la demande et : 
+décide de replacer l’étranger dans sa situation antérieure de séjour : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ;
+ne prend pas de décision dans le délai de 3 mois : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ; 
+rend décision négative : notification par la commune de la décision de l’Office des étrangers - annexe 14.
+Texte:
+2ème cas: obligations militaires
+L’étranger qui quitte la Belgique pour accomplir dans son pays ses obligations militaires légales dispose d’un droit de retour de plus d’1 an.
+Documents à fournir
+L'étranger doit fournir les documents suivants à sa commune: 
+son passeport ou sa carte d’identité en cours de validité ; 
+un certificat d’inscription au registre des étrangers (carte A ou B), carte d’identité d’étranger (carte C), carte bleue européenne (carte H), attestation d’enregistrement (« annexe 8 » ou carte E) ou carte de séjour de membre de la famille d’un citoyen de l’Union (carte F) en cours de validité.
+Le renouvellement de la carte électronique peut être demandé de manière anticipée. La commune annule la carte au moyen du code d’annulation « 34 – droit de retour ». L’étranger reste en possession de sa carte jusqu’à l’activation de sa nouvelle carte.
+Documents à délivrer
+Avant le départ: l’étranger avertit sa commune de résidence de son intention de quitter la Belgique et d’y revenir et apporte la preuve de la conservation de ses intérêts en Belgique. La commune délivre une attestation de départ - annexe 18.
+Au retour: l’étranger informe la commune de son retour dans les 15 jours de son retour. La commune délivre une annexe 15 valable 3 mois et envoie la demande de replacer l’étranger dans sa situation de séjour antérieure à l’Office des étrangers. L'OE examine la demande et : 
+décide de replacer l’étranger dans sa situation antérieure de séjour : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ;
+ne prend pas de décision dans le délai de 3 mois : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ; 
+rend décision négative : notification par la commune de la décision de l’Office des étrangers - annexe 14.
+Texte:
+L'autorisation de revenir ou de rentrer après une période d’absence de plus d’un an
+La base légale
+Arrêté royal du 7 août 1995 déterminant les conditions et les cas dans lesquels l’étranger dont l’absence du Royaume est supérieur à un an, peut être autorisé à y revenir. 
+Circulaire du 5 février 1996 relative aux conditions et aux cas dans lesquels un étranger, dont l’absence du Royaume est supérieur à un an, peut être autorisé à y revenir.
+Les conditions
+Pour l'étranger âgé de moins de 21 ans :
+au moment du départ, être admis ou autorisé au séjour pour une durée illimitée ou à l’établissement  ;
+une absence de Belgique ne dépassant pas 5 ans ;
+un séjour régulier et ininterrompu en Belgique pendant 5 ans ;
+être éloigné de la Belgique pour des raisons indépendantes de la volonté de l’étranger( à noter que l'emprisonnement pour une infraction pénale qui est punissable en Belgique n’est pas une circonstance indépendante de la volonté de l’étranger).
+Pour l'étranger âgé de 21 ans et plus :
+au moment du départ, être admis ou autorisé au séjour pour une durée illimitée ou à l’établissement  ;
+une absence de Belgique ne dépassant pas 5 ans ;
+un séjour régulier et ininterrompu en Belgique pendant 15 ans ;
+des ressources suffisantes.
+Pour l'étranger né en Belgique :
+au moment du départ, être admis ou autorisé au séjour pour une durée illimitée ou à l’établissement  ;
+une absence de Belgique ne dépassant pas 5 ans ;
+un séjour régulier et ininterrompu en Belgique pendant 10 ans.
+Pour l'étranger âgé de moins de 30 ans et qui séjournait en Belgique dans le cadre d’un regroupement familial avec un ressortissant de pays tiers (article 10, de la loi du 15 décembre 1980) :
+au moment du départ, être admis ou autorisé au séjour pour une durée illimitée ou à l’établissement  ;
+une absence de Belgique ne dépassant pas 5 ans ;
+un séjour régulier et ininterrompu en Belgique pendant 10 ans.
+1er cas: Introduction à l'étranger
+Documents à fournir
+L'étranger doit fournir les documents suivants dans les 8 jours ouvrables de son entrée en Belgique à sa commune de résidence : 
+passeport en cours de validité ; et
+visa D « B27 » (autorisation de retour après 1 an). 
+La preuve du paiement de la redevance ne doit pas être demandée. Cette vérification a été effectuée par le poste diplomatique ou consulaire belge à l’étranger.
+Documents à délivrer
+La commune délivre une annexe 15 valable 45 jours - le temps de l'enquête de résidence. 
+Si à l’issue de ce délai de 45 jours, la commune n’est pas en mesure de collecter l’étranger dans le registre des étrangers, l’annexe 15 est prorogée (2x45 jours). Si à l’issue de ces 2 prorogations, l’étranger ne peut toujours pas être collecté, la commune prend contact avec l’Office des étrangers.
+L'enquête de résidence.
+La commune diligente une enquête de résidence. 
+Si l’enquête est positive, la commune collecte l’étranger au registre des étrangers et délivre le certificat d’inscription au registre des étrangers (carte B) valable 5 ans.
+Texte:
+2ème cas: Introduction en Belgique
+Documents à fournir
+L'étranger doit fournir les documents suivants: 
+son passeport en cours de validité ;
+une déclaration d’inscription (« annexe 3 »), déclaration d’inscription (« annexe 3ter »), certificat d’inscription au registre des étrangers (carte A ou B), carte d’identité d’étranger (carte C), carte bleue européenne (carte H), attestation d’enregistrement (« annexe 8 » ou carte E), document attestant de la permanence du séjour (« annexe 8bis » ou carte E+), carte de séjour (permanent) de membre de la famille d’un citoyen de l’Union en cours de validité; 
+la preuve du paiement de la redevance. 
+Documents à délivrer
+        1.  Contrôle du paiement de la redevance
+La commune contrôle le paiement de la redevance. 
+en cas de non-paiement de la redevance : la commune rend une décision d’irrecevabilité -annexe 42; 
+en cas de paiement partiel de la redevance : décision informant du paiement partiel - annexe 43 ; 
+en cas de non-paiement du montant complémentaire dans les 30 jours de l’annexe 43 : décision d’irrecevabilité - annexe 42 ;
+en cas de paiement de la redevance : la commune délivre un accusé de réception de la demande (annexe à la circulaire du 5 février 1996); 
+en cas de paiement du montant complémentaire dans les 30 jours de l’« annexe 43 » :la commune délivre un accusé de réception de la demande (annexe à la circulaire du 5 février 1996.
+          2.  Examen par la commune des documents d’entrée 
+La commune examine les documents d'entrée. 
+Si titre ou document de séjour est périmé : la commune prend contact avec l’Office des étrangers et soit notifie la décision d’irrecevabilité prise par l’Office des étrangers avec éventuellement un ordre de quitter le territoire soit délivre une déclaration d’arrivée - annexe 3. Si l’Office des étrangers n’est pas joignable ou si il ne prend pas de décision immédiatement, délivrance par la commune d’une annexe 15 valable 15 jours et retrait du titre de séjour au moyen d’une « annexe 37 » et transmission à l’Office des étrangers de l’« annexe 15 », de l’« annexe 37 » et de l’accusé de réception.
+Motivation de l’« annexe 37 » : « Conformément à l’article 35, alinéa 2, de l’arrêté royal du 8 octobre 1981, le titre de séjour ou d’établissement précité a perdu sa validité : l’intéressé a en effet séjourné plus de douze mois hors du Royaume, sans avoir satisfait aux obligations relatives à la prorogation ou au renouvellement de son titre, prévues à l’article 39 du même arrêté royal. ». Les mentions suivantes doivent être barrées : « La présente attestation couvre le séjour de l’intéressé(e) pendant huit jours ouvrables à partir de la date de sa délivrance » et « Il(elle) est tenu(e) de se présenter dans ce délai à l’administration communale du lieu où il(elle) réside pour régulariser sa situation ».
+Si le titre ou document de séjour est valable et et le passeport non valable : contact avec l’Office des étrangers et notification par la commune de la décision de refus prise par l’Office des étrangers avec un ordre de quitter le territoire. Si l’Office des étrangers n’est pas joignable ou si il ne prend pas de décision immédiatement, délivrance par la commune d’une annexe 15  valable 15 jours et retrait du titre de séjour au moyen d’une « annexe 37 » et transmission à l’Office des étrangers de l’« annexe 15 », de l’« annexe 37 » et de l’accusé de réception.
+Motivation de l’« annexe 37 » : « Conformément à l’article 35, alinéa 2, de l’arrêté royal du 8 octobre 1981, le titre de séjour ou d’établissement précité a perdu sa validité : l’intéressé a en effet séjourné plus de douze mois hors du Royaume, sans avoir satisfait aux obligations relatives à la prorogation ou au renouvellement de son titre, prévues à l’article 39 du même arrêté royal. ». Les mentions suivantes doivent être barrées : « La présente attestation couvre le séjour de l’intéressé(e) pendant huit jours ouvrables à partir de la date de sa délivrance » et « Il(elle) est tenu(e) de se présenter dans ce délai à l’administration communale du lieu où il(elle) réside pour régulariser sa situation »." 
+Si le titre ou document de séjour est valable et passeport estvalable : délivrance par la commune d’une annexe 15 valable 3 mois,  retrait du titre de séjour au moyen d’une « annexe 37 » et transmission à l’Office des étrangers de l’annexe 15, de l’annexe 37 et de l’accusé de réception.
+          3.Examen de la demande par l’Office des étrangers
+Plusieurs cas peuvent se présenter: 
+irrecevabilité de la demande : notification par la commune de la décision de l’Office des étrangers ;
+refus de l’autorisation de revenir : notification par la commune de la décision de l’Office des étrangers ;
+demande de renseignements et/ou de documents complémentaires : prorogation par la commune de l’annexe 15 ;
+octroi de l’autorisation de revenir : délivrance par la commune d’un certification d’inscription au registre des étrangers (carte B) valable 5 ans + éventuellement inscription au registre des étrangers.
+Texte:
+3ème cas: les résidents de longue durée
+L’étranger bénéficiant du statut de résident de longue durée en Belgique dispose d’un double délai pour revenir en Belgique :
+1 an : s’il s’absente du territoire des Etats membres de l’Union européenne ;
+6 ans : s’il s’absente du territoire belge.
+Le délai d’1 an est porté à 24 mois si le résident de longue durée est un ancien travailleur hautement qualifié (carte H).
+Il peut bénéficier d’un délai de plus d’1 an s’il conserve le centre de ses intérêts en Belgique ou s’il doit accomplir ses obligations militaires légales. 
+Documents à fournir
+son passeport ou carte d’identité en cours de validité ; 
+un permis de séjour de résident de longue durée-U.E. (carte D) en cours de validité.
+Le renouvellement de la carte électronique peut être demandée de manière anticipée. La commune annule la carte au moyen du code d’annulation « 34 – droit de retour ». L’étranger reste en possession de sa carte jusqu’à l’activation de sa nouvelle carte.
+Documents à délivrer
+Avant le départ: l’étranger avertit sa commune de résidence de son intention de quitter la Belgique et d’y revenir et apporte la preuve de la conservation de ses intérêts en Belgique. La commune délivre une attestation de départ - annexe 18.
+Au retour: l’étranger informe la commune de son retour dans les 15 jours de son retour. La commune délivre une annexe 15 valable 3 mois et envoie la demande de replacer l’étranger dans sa situation de séjour antérieure à l’Office des étrangers. L'OE examine la demande et : 
+décide de replacer l’étranger dans sa situation antérieure de séjour : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ;
+ne prend pas de décision dans le délai de 3 mois : délivrance de la carte de séjour correspondant au statut de séjour antérieur de l’étranger ; 
+rend décision négative : notification par la commune de la décision de l’Office des étrangers - annexe 14.
+Texte:
+Le recouvrement du statut de résident de longue durée
+Bases légales
+Articles 8 à 16, de l’arrêté royal du 22 juillet 2008 fixant certaines modalités d’exécution de la loi du 15 décembre 1980 sur l’accès au territoire, le séjour, l’établissement et l’éloignement des étrangers.
+Les conditions
+Dans le cas de la perte du statut de résident de longue durée à la suite d'une absence de plus de 12 mois du territoire des états membres 
+Etranger ayant séjourné en Belgique pendant 15 ans :
+au moment de la demande de recouvrement, absence de Belgique de moins de 5 ans ;
+séjour régulier et ininterrompu en Belgique pendant 15 ans.
+Etranger âgé de moins de 21 ans :
+au moment de la demande de recouvrement, absence de Belgique de moins de 5 ans ;
+être éloigné de la Belgique pour des raisons indépendantes de la volonté de l’étranger. A noter que l’emprisonnement pour une infraction pénale qui est punissable en Belgique n’est pas une circonstance indépendante de la volonté de l’étranger.
+Etranger né en Belgique :
+au moment de la demande de recouvrement, absence de Belgique de moins de 5 ans ;
+un séjour régulier et ininterrompu en Belgique pendant 10 ans.
+Dans le cas de la perte du statut de résident de longue durée à la suite d'une absence de plus de 6 ans en Belgique
+Etranger ayant séjourné en Belgique pendant 15 ans :
+un séjour régulier et ininterrompu en Belgique pendant 15 ans ;
+avoir suivi des études dans un autre Etat membre de l’Union européenne ou avoir été tenu éloigné de la Belgique pour des raisons indépendantes de la volonté de l’étranger. A noter que l'emprisonnement pour une infraction pénale qui est punissable en Belgique n’est pas une circonstance indépendante de la volonté de l’étranger.
+Etranger âgé de moins de 21 ans :
+un séjour régulier et ininterrompu en Belgique pendant 10 ans ;
+avoir suivi des études dans un autre Etat membre de l’Union européenne ou avoir été tenu éloigné de la Belgique pour des raisons indépendantes de la volonté de l’étranger. A noter que l’emprisonnement pour une infraction pénale qui est punissable en Belgique n’est pas une circonstance indépendante de la volonté de l’étranger.
+Etranger né en Belgique :
+un séjour régulier et ininterrompu en Belgique pendant 10 ans ;
+avoir suivi des études dans un autre Etat membre de l’Union européenne ou avoir été tenu éloigné de la Belgique pour des raisons indépendantes de la volonté de l’étranger. A noter que l’emprisonnement pour une infraction pénale qui est punissable en Belgique n’est pas une circonstance indépendante de la volonté de l’étranger.
+Introduction à l'étranger
+Documents à fournir
+L'étranger doit présenterà sa commune de résidence dans les 8 jours ouvrables de son entrée en Belgique les documents suivants: 
+son passeport en cours de validité ; 
+un visa D "B27" autorisation de retour après 1 an
+La preuve du paiement de la redevance ne doit pas être demandée. Cette vérification a été effectuée par le poste diplomatique ou consulaire belge à l’étranger.
+Documents à délivrer
+La commune délivre une annexe 15 valable 45 jours, le temps d'effectuer une enquête de résidence. 
+Si à l’issue de ce délai de 45 jours, la commune n’est pas en mesure de collecter l’étranger dans le registre des étrangers, l’« annexe 15 » est prorogée (2x45 jours). Si à l’issue de ces 2 prorogations, l’étranger ne peut toujours pas être collecté, la commune prend contact avec l’Office des étrangers.
+Réalisation d’une enquête de résidence
+Si l’enquête est positive, la commune collecte l’étranger au registre des étrangers, et délivre le permis de résident de longue durée-U.E. (carte D) valable 5 ans.
+Texte:
+Introduction en Belgique
+Documents à fournir
+L'étranger doit fournir les documents suivants: 
+passeport en cours de validité ;
+permis de résident de longue durée-U.E. (carte D) en cours de validité; 
+la preuve du paiement de la redevance. 
+Documents à délivrer
+Documents à délivrer
+        1.  Contrôle du paiement de la redevance
+La commune contrôle le paiement de la redevance. 
+en cas de non-paiement de la redevance : la commune rend une décision d’irrecevabilité -annexe 42; 
+en cas de paiement partiel de la redevance : décision informant du paiement partiel - annexe 43 ; 
+en cas de non-paiement du montant complémentaire dans les 30 jours de l’annexe 43 : décision d’irrecevabilité - annexe 42 ;
+en cas de paiement de la redevance : la commune délivre un accusé de réception de la demande (annexe à la circulaire du 5 février 1996); 
+en cas de paiement du montant complémentaire dans les 30 jours de l’« annexe 43 » :la commune délivre un accusé de réception de la demande.
+          2.  Enquête de résidence
+La commune procède à une enquête de résidence. 
+Si l'enquête est négative: prise de contact avec l'OE; 
+Si l'enquête est positive : délivrance par la commune d’une annexe 15 valable 3 mois et envoi du dossier à l'OE
+          3. Examen de la demande à l’Office des étrangers.
+L’Office des étrangers dispose d’un délai de 3 mois pour statut sur la demande de recouvrement du statut de résident de longue durée.
+L'OE peut décider du: 
+décider du recouvrement du statut : délivrance par la commune d’une carte D valable 5 ans et inscription au registre de la population ;
+ne pas accorder le recouvrement du statut : notification par la commune de la décision de l’Office des Étrangers - annexe 14 ;
+ne pas décider dans les 3 mois : délivrance par la commune d’une carte D valable 5 ans et inscription au registre de la population.
+Long séjour  - Non européen
+Nom:
+Long séjour  - Non européen
+Description:
+Projet de certification pour le module sur le long séjour NON-EU
+Valable jusqu’au (aaaa/mm/jj):
+2027/02/28
+Titre:
+Certificat e-Learning OrangeConnect
+Texte:
+Félicitations ! Vous avez obtenu votre certification avec succès.
+N'hésitez pas à télécharger votre certificat en cliquant ci-dessous
+Nom du fichier après téléchargement:
+Attestation_e-Learning_VDB
+Nom:
+antica
+Nom:
+tahoma
+Texte:
+{person.midname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{person.firstname} {person.lastname}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{certificate.nicename}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+{instance.date}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+ID unique : {instance.guid}
+Police:
+antica
+Couleur du texte:
+#183E65
+Texte:
+Police:
+antica
+Couleur du texte:
+#183E65
+<b>Evaluation</b> - E-learning
+Nom:
+<b>Evaluation</b> - E-learning
+Description:
+Votre avis nous est précieux : il nous aidera à adapter et perfectionner nos prochaines sessions, afin de répondre au mieux à vos attentes et besoins. Merci pour votre contribution !
+Titre, page d’introduction:
+Evaluation e-learning
+Texte, page d’introduction:
+Titre, page de conclusion:
+Merci pour votre contribution !
+Texte, page de conclusion:
+Nous vous remercions chaleureusement d'avoir pris le temps de partager vos impressions sur ce module e-learning. Vos retours sont essentiels pour nous permettre d'améliorer continuellement nos formations et de vous offrir des expériences d'apprentissage toujours plus pertinentes et engageantes.
+Nous espérons que ce module vous a apporté de nouvelles connaissances et perspectives. Au plaisir de vous retrouver pour de futurs modules !
+Titre:
+Texte:
+Enquête de satisfaction - E-learning
+Nous vous remercions d'avoir suivi ce module e-learning et espérons que l'expérience a été enrichissante. Dans le cadre de notre démarche d'amélioration continue, nous vous invitons à partager votre ressenti immédiat. Cette évaluation à chaud nous permet de recueillir vos impressions et vos retours sur le contenu, l'accessibilité, et l'efficacité pédagogique du module.
+Votre avis nous est précieux : il nous aidera à adapter et perfectionner nos prochaines sessions, afin de répondre au mieux à vos attentes et besoins. Merci pour votre contribution !
+Enquête de satisfaction
+Nom:
+Enquête de satisfaction
+Titre:
+Satisfaction générale de la formation e-learning
+Nom:
+Appréciation générale
+Question:
+Quelle est votre appréciation générale de la formation ?
+Explication:
+Donnez une appréciation globale sur la formation e-learning que vous venez de parcourir.
+Question:
+Avez-vous trouvé la navigation dans le module intuitive et fluide ?
+Réponse:
+Oui
+Réponse:
+Non
+Question:
+Les consignes et instructions étaient-elles claires ?
+Réponse:
+Tout à fait d'accord
+Réponse:
+Plutôt d'accord
+Réponse:
+Plutôt pas d'accord
+Réponse:
+Pas du tout d'accord
+Question:
+Vous sentez-vous prêt(e) à appliquer les connaissances acquises dans ce module ?
+Réponse:
+Oui
+Réponse:
+Pas sûr(e)
+Réponse:
+Non
+Titre:
+Qualité du contenu de la formation
+Question:
+Quel était le niveau de compréhension de la matière suivie ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Excellent
+Question:
+Le volume de la matière était-il adapté au sujet traité ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait adapté
+Question:
+L'intérêt pour la pratique professionnelle était présent ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait présent
+Question:
+Le contenu du module était-il pertinent et en lien avec vos besoins ou attentes ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait pertinent
+Question:
+Le niveau de complexité du contenu était-il adapté à votre profil ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait adapté
+Titre:
+Qualité des supports pédagogiques
+Question:
+La structure du module facilitait-elle la compréhension des sujets abordés  ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait satisfaisante
+Nom:
+Qualité des supports pédagogiques
+Question:
+La diversité des types d'information était elle respectée ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait satisfaisante
+Question:
+Les supports utilisés (textes, vidéos, infographies, exercices) étaient-ils pertinents pour faciliter votre apprentissage ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Excellente
+Question:
+Les quiz et exercices proposés étaient-ils utiles pour consolider vos connaissances ?
+Explication:
+Sur l'échelle d'évaluation, une note de 10 = Tout à fait utiles
+Titre:
+Commentaires
+Question:
+Quelles améliorations ou changements aimeriez-vous voir dans ce module ?
+Question:
+Y a-t-il des sujets ou des thématiques que vous aimeriez approfondir dans de futurs modules ?

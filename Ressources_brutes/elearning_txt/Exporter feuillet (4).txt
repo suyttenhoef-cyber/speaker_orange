@@ -1,0 +1,137 @@
+Les déclarations de décès
+Nom:
+Les déclarations de décès
+Titre, page:
+Les décès
+Texte, instruction:
+Tout décès implique deux aspects: 
+l'aspect état civil; 
+l'aspect funérailles et sépultures. 
+Dans ce module, nous allons uniquement nous intéresser à la partie état civil, la matière des funérailles et sépultures étant reprise dans un prochain module.
+Texte, introduction:
+Testez vos connaissances ou votre intuition en répondant à la question suivante.
+Question:
+Lorsque l'Officier de l'état civil reçoit un avis de décès, avant d'établir l'acte de décès, il devra attendre
+Option de réponse:
+qu'un membre de la famille se manifeste.
+Option de réponse:
+qu'un entrepreneur de pompes funèbres se manifeste.
+Option de réponse:
+L'OEC ne doit pas attendre. Il se doit d'établir l'acte de décès sans délai.
+Option de réponse:
+d'avoir l'avis du procureur du Roi.
+Feedback si réponse incorrecte:
+Non. Dès que l'Officier de l'état civil reçoit un avis de décès établi par un médecin qui a constaté le décès, il doit établir l'acte de décès. 
+Il n'y a donc plus de "déclarant". L'acte sera uniquement signé par l'OEC à l'aide de sa carte d'identité et de son code PIN.
+Feedback si réponse correcte:
+En effet, l'OEC ne doit attendre personne pour établir l'acte de décès. Dès qu'il a reçu un avis de décès par le médecin qui a constaté le décès, il établi l'acte sans délai.
+Texte:
+La déclaration de décès
+Lorsqu'un décès survient, le service de l'état civil du lieu de décès en sera avisé.
+L'officier de l'état civil établira un acte de décès dès qu'une attestation de décès établie par un médecin lui est remise.
+S'il s'agit d'une personne inconnue, un procès-verbal sera dressé avec toutes les informations que l'OEC a pu recueillir. Ce procès-verbal sera annexé dans la BAEC à l'acte de décès.
+Il n'y aura donc qu'un jugement qui pourra venir rectifier cet acte de décès afin qu'il puisse être lié à la personne décédée.
+ATTENTION : L'officier de l'état civil établit l'acte sans délai. Il n'est plus nécessaire d'attendre que des pompes funèbres ou la famille se présente pour ce faire.
+Cependant, il pourra être intéressant de vérifier si des actes du défunt se trouvent dans la BAEC ou doivent y être migrés. Si oui, il peut être intéressant de vérifier les métadonnées afin de ne pas être confronté à d'éventuels messages d'erreur, aussi bien à la signature de cet acte que pour les migrations éventuelles de ses précédents actes.
+Titre, barre d’accordéon:
+La base légale
+Texte:
+Article 55 du Code civil
+§ 1er. L'officier de l'état civil du lieu du décès établit sans délai un acte de décès, dès qu'une attestation de décès établie par le médecin qui a constaté le décès lui est soumise.
+§ 2. En cas de décès d'une personne inconnue, l'officier de l'état civil établit un procès-verbal qui mentionne toutes les informations qu'il a pu recueillir au sujet de la personne décédée.
+Le procès-verbal est joint en annexe à l'acte de décès dans la BAEC.
+Texte:
+L'acte de décès
+Outre les informations de base, l'acte de décès mentionnera : 
+le nom du défunt;  
+ses prénoms, 
+sa date de naissance; 
+son lieu de naissance; 
+s'il s'agit d'une personne inconnue, les données disponibles au moment de l'établissement de l'acte;
+le lieu du décès; 
+la date et l'heure du décès ou de la découverte du corps sans vie.
+Titre, accordéon:
+Les informations de l'acte de décès
+Titre, barre d’accordéon:
+Les informations de base des actes de l'état civil
+Texte:
+Article 41 du Code civil
+                        
+§ 1er. Les actes de l'état civil mentionnent toujours :
+1° le nom, le prénom et la signature de l'officier de l'état civil ou de l'agent habilité conformément à l'article 9, qui a établi l'acte;
+2° la date de l'établissement de l'acte;
+3° le lieu de l'établissement de l'acte;
+4° le numéro de l'acte;
+5° le cas échéant, la mention de la base sur laquelle l'acte est établi, notamment :
+a) la décision judiciaire, ainsi que l'instance judiciaire, la date du prononcé, la date à laquelle celle-ci est passée en force de chose jugée, et le numéro d'identification de cette décision judiciaire;
+b) le procès-verbal, visé aux articles 14, alinéa 4, 47, 55, § 2, ou 57;
+c) l'arrêté royal, visé à l'article 370/4, § 1er, ou à l'article 370/8, ainsi que la date de celui-ci et, le cas échéant, la date de publication au Moniteur belge;
+d) l'acte étranger, ainsi que l'autorité qui a établi l'acte et sa date et lieu d'établissement;
+e) la décision étrangère judiciaire ou administrative, ainsi que l'autorité étrangère qui a pris la décision et la date de la décision.
+La base sur laquelle l'acte est établi, est enregistrée comme annexe dans la BAEC.
+Les actes de l'état civil mentionnent, autant que de besoin, la date à laquelle le procès-verbal, la décision ou l'acte sur la base duquel ils sont établis, produit ses effets.
+§ 2. Les personnes auxquelles l'acte se rapporte, sont identifiées à l'aide du numéro d'identification attribué en application de la loi du 8 août 1983 organisant un registre national des personnes physiques, ou à défaut de celui-ci, du numéro d'identification attribué en application de l'article 4 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale.
+Le numéro d'identification ne fait pas partie de l'acte de l'état civil. Le chapitre 1er, section 8, ne lui est pas applicable.
+§ 3. Les actes de l'état civil mentionnent en outre les données telles que prévues dans le présent chapitre.
+Titre, barre d’accordéon:
+Les informations spécifiques à l'acte de décès
+Texte:
+Article 56 du Code civil
+L'acte de décès mentionne :
+1° le nom, les prénoms, la date de naissance et le lieu de naissance de la personne décédée, ou, s'il s'agit d'une personne inconnue, les données disponibles au moment de l'établissement de l'acte;
+2° le lieu, la date et l'heure du décès ou de la découverte du corps sans vie.
+Titre, page:
+Cas particuliers
+Texte, instruction:
+Texte, introduction:
+De l'acte de décès d'une personne inconnue :
+Le certificat médical de décès et donc l'acte de décès seront établis en général sur base des documents d'identité du défunt. Cependant, il peut arriver qu'une personne soit retrouvée sans qu'on sache qui elle est. 
+Dans ce cas, l'Officier de l'état civil établira un procès-verbal dans lequel il mentionnera toutes les données qu'il aura pu recueillir concernant le défunt. Ce PV sera annexé à l'acte dans la BAEC.
+De l'acte de décès à bord d'un navire ou d'un aéronef :
+En cas de décès pendant un voyage en mer à bord d'un navire qui bat pavillon belge, ou d'un aéronef belge en cours de vol, le commandant établit aussitôt que possible et au plus tard lors du premier abordage ou du premier atterrissage, un procès-verbal qui mentionne les données prévue pour établir un acte de décès. 
+Le décès est mentionné sur la liste des passagers.
+Si le prochain lieu d'accostage ou d'atterrissage est situé en Belgique, le commandant remet le procès-verbal le plus rapidement possible à l'officier de l'état civil le plus proche qui établit immédiatement un acte de décès sur base du procès-verbal. Le procès-verbal est joint en annexe. Le procès-verbal établi sur papier est conservé par l'officier de l'état civil qui a établi l'acte, jusqu'au moment du transfert du procès-verbal aux Archives générales du Royaume et Archives de l'Etat dans les Provinces.
+Si le premier lieu d'accostage ou d'atterrissage est situé à l'étranger, le commandant transmet le plus rapidement possible le procès-
+verbal au poste consulaire de carrière dans la circonscription consulaire dans laquelle se trouve le port ou le lieu d'atterrissage.
+De la déclaration judiciaire de décès :
+Dans certaines situations, une personne peut disparaître de la circulation. Dans ce cas-là toute personne intéressée ou à la demande du procureur du Roi peut demander au tribunal de la famille de déclarer qu'une personne est décédée.
+Evidemment il faut qu'il y ait un faisceau de circonstances afin de déterminer le décès d'une personne. Il faut que celle-ci soit considérée comme disparue dans des "circonstances qui sont de nature à mettre sa vie en danger".
+Dans ce cas, si le tribunal est amené à prononcer le décès de manière judiciaire, le jugement définitif sera transmis à l'Officier de l'état civil compétent via la BAEC. Le jugement énoncera les mêmes données à mentionner dans un acte de décès classique.
+Attention, il sera nécessaire de remplir le champs "Base d'établissement" en précisant que l'acte de décès a été établi sur base d'un jugement belge.
+De l'acte de décès d'une personne étant le seul parent, adoptant ou tuteur d'un mineur :
+L'OEC notifiera via la BAEC, dans un délai de 3 jours, avoir établi un acte de décès pour cette personne au juge de paix compétent. A savoir celui du domicile du mineur.
+Il en va de même pour la personne qui était une personne protégée.
+Titre, accordéon:
+La base légale des cas particuliers
+Texte, accordéon:
+Titre, page:
+L'acte d'enfant sans vie
+Texte, introduction:
+Texte:
+Bien que ces circonstances soient bien souvent compliquées pour les parents, cette étape peut jouer un rôle crucial dans le deuil qu'ils entament.
+L'établissement d'un acte d'enfant sans vie s'effectue lorsque l'enfant n'a pas vécu et n'a donc pas d'acte de naissance.
+Quand établir un tel acte ?
+Lorsque la grossesse a duré 180 jours au minimum, le médecin rédigera une attestation médicale en ce sens à l'administration communale du lieu de l'événement.
+Lorsque la grossesse a duré entre 140 et 179 jours au minimum, à la demande d'un ou des parents, le médecin rédigera une attestation en ce sens à l'administration communale du lieu de l'événement.
+Nous pouvons donc en conclure que si la grossesse a duré au minimum 180 jours, il s'agit d'une obligation légale pour le médecin de rédiger le constat de décès qui donnera lieu à un acte d'enfant sans vie.
+Dans le second cas, c'est facultatif, uniquement à la demande de l'un des parents et il n'y a pas de délai légal pour demander à la commune d'établir un acte d'enfant présenté sans vie qui aurait 179 jours ou moins.
+L'acte d'enfant sans vie mentionne :
+la date, le lieu, l'heure de l'accouchement et le sexe de l'enfant;
+la durée de la grossesse;
+le nom, les prénoms, la date de naissance et le lieu de la naissance de la mère;
+le nom, les prénoms, la date de naissance et le lieu de la naissance du père ou de la coparente qui est marié(e) avec la mère ou qui a fait une reconnaissance prénatale, ou, à sa demande, et avec l'autorisation de la mère, le nom, les prénoms, la date de naissance et le lieu de la naissance du père ou de la coparente, non marié(e) avec la mère et qui n'a pas reconnu l'enfant conçu;
+les prénoms de l'enfant, si leur mention est demandée;
+le nom de l'enfant dont la mère a accouché après une grossesse de cent-quatre-vingts jours à dater de la conception, si sa mention est demandée.
+A noter :
+Un acte d'enfant présenté sans vie pourra mentionner un père pour l'enfant même s'il n'est pas marié à la mère ou qu'il n'a pas reconnu l'enfant mais l'enfant sans vie ne peut pas être reconnu a posteriori. 
+Un enfant de 180 jours ne peut se voir attribuer un nom patronymique.
+Le nom patronymique d'un enfant sans vie de plus de 180 jours peut être attribué de manière souple, il n'est pas nécessaire de suivre la fratrie ou que le nom de cet enfant détermine le nom de ses futurs frères et soeurs.
+L'enfant sans vie ne se verra pas créer un numéro national.
+Titre, accordéon:
+La base légale
+Titre, page:
+Conclusion
+Texte, introduction:
+L'établissement d'un acte de décès ou d'enfant présenté sans vie se fera donc toujours sur présentation d'un certificat médical sauf dans le cas exceptionnel d'un jugement prononçant le décès.
+Dans la plupart des cas, vous recevrez les informations concernant l'identité du défunt : nom, prénom(s), date et lieu de naissance. Ce qui vous permettra donc d'établir l'acte de décès en mentionnant les données relatives au décès : date et lieu de décès.
+Conseil : Si le défunt est susceptible d'avoir des actes dans la BAEC et qu'ils doivent être migrés, demandez-en la migration afin d'éviter de devoir effectuer des corrections OEC ou de rencontrer des problèmes lors de la migration des précédents actes dans le cas où il y aura des discordances dans les métadonnées du défunt.
