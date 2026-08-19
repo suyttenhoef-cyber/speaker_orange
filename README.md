@@ -27,11 +27,15 @@ ne documente que ce qui est spécifique à l'état civil).
   premisses (statut civil, nationalite, procedure en cours/refusee...) ne correspondent pas a
   la question posee — avec un garde-fou anti-sur-rejet (si 100% des candidats sont rejetes,
   on revient aux resultats bruts plutot que de repondre "aucun resultat").
-- **Garde-fou anti-citation-fabriquée** : `check_citation_integrity()` compare après génération
-  chaque numéro d'article cité dans la réponse aux numéros réellement présents parmi les
-  passages retrouvés ; en cas de citation non vérifiée (numéro inventé), un encart d'alerte
-  rouge s'affiche dans Teams/l'app Streamlit. Ne détecte pas une citation d'un article réel mais
-  utilisé sur le mauvais sujet — voir la règle C5 du `SYSTEM_PROMPT` pour ce cas-là.
+- **Deux garde-fous anti-citation, complémentaires** : `check_citation_integrity()` compare après
+  génération chaque numéro d'article cité dans la réponse aux numéros réellement présents parmi
+  les passages retrouvés (détecte un numéro inventé) ; `check_citation_relevance()` (ajouté le
+  2026-08-19, suite à un cas réel — voir mémoire `misapplication_article_reel_voisin_distracteur`)
+  vérifie en plus, via un appel LLM dédié, que chaque citation *réelle* soutient vraiment
+  l'affirmation à laquelle elle est associée, pour détecter le cas d'un article existant mais
+  utilisé sur un sujet voisin sans rapport (ce que `check_citation_integrity` ne peut
+  structurellement pas voir). Les deux résultats sont fusionnés (`format_citation_warnings()`)
+  dans un même encart d'alerte rouge affiché dans Teams/l'app Streamlit.
 - **Infrastructure Azure : déployée et fonctionnelle** (POC), Phases 1 à 5 validées de bout en
   bout (retrieval → bot → Teams → App Service → télémétrie) :
   - Azure AI Search : index dédié `chatbot-etat-civil-chunks` sur le service partagé

@@ -224,6 +224,109 @@ def check_citation_integrity(results, answer_text):
     return sorted(n for n in cited if n not in available)
 
 
+# Troisieme garde-fou (complementaire a check_citation_integrity ci-dessus) :
+# ajoute suite a un cas reel (2026-08-19) ou le modele a cite un article REEL
+# et bien present dans le contexte (donc invisible pour check_citation_integrity,
+# qui ne verifie que l'EXISTENCE du numero) mais traitant en realite d'un
+# sujet voisin sans rapport avec l'affirmation qu'il etait cense soutenir -
+# l'article correct etait pourtant lui aussi present et retenu apres filtre.
+# check_citation_integrity ne peut structurellement pas detecter ce cas (voir
+# son propre commentaire) ; celui-ci verifie le CONTENU de chaque citation,
+# pas seulement sa presence.
+CITATION_RELEVANCE_SYSTEM_PROMPT = """Tu verifies, APRES la redaction d'une reponse, si chaque \
+citation d'article ou de pratique validee qui y figure soutient REELLEMENT l'affirmation a \
+laquelle elle est associee - pas seulement si le numero cite existe parmi les sources, mais si \
+son CONTENU dit vraiment ce que la reponse lui fait dire.
+
+Piege frequent a detecter : un article existe reellement et traite d'un sujet VOISIN ou \
+SUPERFICIELLEMENT SIMILAIRE (meme theme general, mots-cles partages - ex. meme institution \
+juridique, meme tranche d'age, meme type de demarche) mais concerne en realite un point \
+different (une autre condition, un autre moment de la procedure, un autre cas de figure) de \
+celui evoque par l'affirmation citee. Dans ce cas, la citation est incorrecte meme si le numero \
+est parfaitement reel et present dans les sources.
+
+Pour chaque citation numerotee presente dans la reponse, compare son texte integral (fourni \
+ci-dessous parmi les sources) a l'affirmation precise qu'elle est censee soutenir. Si le texte \
+de la source citee ne soutient PAS reellement cette affirmation precise, signale-le - \
+notamment si un AUTRE passage parmi ceux fournis semble plus directement pertinent pour cette \
+affirmation. Ne signale PAS une citation simplement parce qu'elle est generale ou incomplete : \
+signale uniquement un vrai decalage entre le sujet de la source et l'affirmation qu'elle est \
+censee soutenir.
+
+Reponds UNIQUEMENT avec un objet JSON de la forme :
+{"citations_douteuses": [{"citation": "<numero ou reference tel que cite dans la reponse>", \
+"probleme": "<une phrase courte expliquant pourquoi cette source ne soutient pas l'affirmation>", \
+"source_plus_pertinente": "<numero d'une autre source fournie qui semble plus adaptee, ou null>"}]}
+Liste vide si toutes les citations sont correctement appliquees."""
+
+
+def check_citation_relevance(client, query, results, answer_text):
+    """Verifie, via un appel LLM dedie, que chaque citation presente dans
+    answer_text est bien appliquee a son sujet reel (pas seulement qu'elle
+    existe - voir check_citation_integrity pour cette verification
+    syntaxique complementaire). Cout : un appel LLM supplementaire par
+    reponse - retourne (issues, usage) comme filter_applicable_practices,
+    pour que l'appelant puisse inclure ce cout dans sa telemetrie. Robuste
+    par construction : toute erreur (reseau, JSON invalide, reponse non
+    parsable...) renvoie ([], None) plutot que de bloquer la reponse - un
+    faux negatif de cette verification ne doit jamais empecher de repondre
+    a l'utilisateur."""
+    if not answer_text or not results:
+        return [], None
+
+    sources_desc = "\n\n".join(
+        f"- reference: {meta.get('numero') or meta.get('chunk_id')}\n"
+        f"  titre: {meta.get('titre_contexte') or ''}\n"
+        f"  contenu: {meta['text_for_embedding'][:1500]}"
+        for _, meta in results
+    )
+    user_message = (
+        f"Question posee : {query}\n\n"
+        f"Reponse generee a verifier :\n{answer_text}\n\n"
+        f"Sources fournies au moment de la generation :\n\n{sources_desc}"
+    )
+
+    try:
+        completion = client.chat.completions.create(
+            model=CHAT_MODEL,
+            messages=[
+                {"role": "system", "content": CITATION_RELEVANCE_SYSTEM_PROMPT},
+                {"role": "user", "content": user_message},
+            ],
+            temperature=0,
+            response_format={"type": "json_object"},
+        )
+        parsed = json.loads(completion.choices[0].message.content)
+        issues = parsed.get("citations_douteuses", []) if isinstance(parsed, dict) else []
+        issues = [i for i in issues if isinstance(i, dict) and i.get("citation")]
+        return issues, completion.usage
+    except Exception:  # pylint: disable=broad-except
+        return [], None
+
+
+def format_citation_warnings(unverified, relevance_issues):
+    """Construit une liste unifiee de messages d'alerte a partir des deux
+    garde-fous de citation (check_citation_integrity : numero introuvable ;
+    check_citation_relevance : numero reel mais mal applique), pour un
+    affichage coherent quel que soit le canal (Teams, Streamlit, terminal).
+    Retourne une liste de chaines vide si tout est en ordre."""
+    warnings = []
+    for numero in unverified or []:
+        warnings.append(
+            f"Le numero '{numero}' cite dans la reponse n'a pas ete retrouve tel quel "
+            f"parmi les sources disponibles - verifiez qu'il n'a pas ete invente."
+        )
+    for issue in relevance_issues or []:
+        msg = (
+            f"La source '{issue['citation']}' pourrait ne pas soutenir reellement "
+            f"l'affirmation associee : {issue.get('probleme', '')}"
+        )
+        if issue.get("source_plus_pertinente"):
+            msg += f" (une autre source disponible, '{issue['source_plus_pertinente']}', semble plus pertinente)."
+        warnings.append(msg)
+    return warnings
+
+
 def embed_query(client, query):
     resp = client.embeddings.create(model=EMBEDDING_MODEL, input=[query])
     return resp.data[0].embedding
@@ -370,8 +473,11 @@ def answer_question(query, embeddings_path="embeddings.npz", top_k=10, verbose=T
 
     answer = completion.choices[0].message.content
     unverified = check_citation_integrity(results, answer)
-    if verbose and unverified:
-        print(f"[ATTENTION - citation(s) non verifiee(s), possible invention : {unverified}]\n")
+    relevance_issues, _relevance_usage = check_citation_relevance(client, query, results, answer)
+    if verbose:
+        warnings = format_citation_warnings(unverified, relevance_issues)
+        for w in warnings:
+            print(f"[ATTENTION - {w}]\n")
 
     return answer
 

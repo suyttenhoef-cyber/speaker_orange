@@ -102,13 +102,29 @@ Streamlit, bot Teams, harnais d'évaluation) — un seul endroit à faire évolu
 4. **Génération** (`build_user_message` + `SYSTEM_PROMPT`) : contexte formaté
    (`format_results_for_prompt`, une citation exacte par passage) + question, envoyés à
    `gpt-4o-mini` (`CHAT_MODEL`), température 0,1 (priorité à la précision factuelle).
-5. **Vérification anti-citation fabriquée** (`check_citation_integrity`) : compare, après
-   génération, chaque numéro d'article cité dans la réponse (regex `_CITATION_RE`, tolère
-   "art."/"article", suffixes bis/ter/quater/quinquies/sexies/septies/octies) aux numéros
-   réellement présents parmi les passages **officiels** fournis au modèle. Retourne la liste des
-   numéros non vérifiés — filet minimal contre l'invention pure d'un numéro, pas une vérification
-   sémantique complète (un numéro réel cité sur le mauvais sujet n'est pas détecté ici, c'est le
-   rôle de la règle C5 du prompt système).
+5. **Deux vérifications anti-citation, après génération** :
+   - `check_citation_integrity` : compare chaque numéro d'article cité dans la réponse (regex
+     `_CITATION_RE`, tolère "art."/"article", suffixes bis/ter/quater/quinquies/sexies/septies/
+     octies) aux numéros réellement présents parmi les passages **officiels** fournis au modèle.
+     Filet purement syntaxique contre l'invention pure d'un numéro — ne détecte pas un numéro
+     réel cité sur le mauvais sujet.
+   - `check_citation_relevance` (ajouté le 2026-08-19, suite à un cas réel — voir mémoire
+     `misapplication_article_reel_voisin_distracteur`) : **un appel LLM dédié** compare le
+     contenu intégral de chaque source citée à l'affirmation précise qu'elle est censée
+     soutenir, pour détecter le cas où un article *réel et bien retrouvé* traite en fait d'un
+     sujet voisin sans rapport (piège que `check_citation_integrity` ne peut structurellement
+     pas voir). Retourne, pour chaque citation douteuse, une explication et — quand possible —
+     la référence d'une source plus pertinente parmi celles fournies. Robuste par construction
+     (toute erreur renvoie une liste vide, jamais de blocage de la réponse), comme
+     `filter_applicable_practices`.
+   - `format_citation_warnings` fusionne les deux résultats en une liste de messages unique,
+     affichée dans un même encart d'alerte (Teams/Streamlit/CLI).
+
+   *Validé empiriquement* : rejouer la réponse fautive du cas réel du 2026-08-19 (citant l'art.
+   353-3 hors sujet) à travers `check_citation_relevance` la signale correctement, en suggérant
+   l'art. 370/8/1 comme source plus pertinente — sans déclencher de faux positif sur 3 autres
+   questions déjà validées. Un test a même détecté un second cas réel (mauvaise application de
+   l'art. 40ter à une question sur le regroupement familial) non repéré auparavant.
 6. **Disclaimer** : ajouté programmatiquement après coup (jamais généré par le modèle, pour
    garantir un texte et une mise en forme strictement identiques à chaque fois).
 
@@ -215,6 +231,15 @@ USD (tarifs GPT-4o-mini codés en dur, `GPT4O_MINI_INPUT_COST_PER_1M_USD` /
 `_OUTPUT_COST_PER_1M_USD` — à revoir si `CHAT_MODEL` change). Tout échec de journalisation est
 intercepté et ignoré silencieusement : l'observabilité ne doit jamais faire planter une réponse
 réelle.
+
+**Coût par question** : jusqu'à 3 appels LLM (embedding mis à part) peuvent avoir lieu par
+question — `filter_applicable_practices` (si des pratiques sont candidates),
+`check_citation_relevance` (systématique dès qu'une réponse est générée), et la génération
+elle-même. `bot_teams.py` additionne les tokens des trois appels dans une même métrique
+`question_processed`. L'ajout de `check_citation_relevance` (2026-08-19) augmente le coût par
+question d'environ un tiers par rapport au pipeline précédent (2 appels) — jugé justifié au vu du
+type d'erreur qu'il détecte (voir §5), mais à surveiller si le volume de questions grandit
+significativement.
 
 ## 8. Interfaces / points d'entrée
 

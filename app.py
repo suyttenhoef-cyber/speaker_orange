@@ -34,7 +34,8 @@ from openai import OpenAI
 from retrieve import Retriever, format_results_for_prompt, DEFAULT_MIN_SCORE
 from rag_answer import (
     SYSTEM_PROMPT, EMBEDDING_MODEL, CHAT_MODEL, NO_RESULTS_MESSAGE, DISCLAIMER_TEXT,
-    build_user_message, check_citation_integrity, filter_applicable_practices,
+    build_user_message, check_citation_integrity, check_citation_relevance,
+    filter_applicable_practices, format_citation_warnings,
 )
 
 load_dotenv()  # charge OPENAI_API_KEY depuis un fichier .env si present (dev local)
@@ -215,10 +216,15 @@ def main():
             st.markdown(answer)
             if results:
                 unverified = check_citation_integrity(results, answer)
-                if unverified:
+                relevance_issues, _relevance_usage = check_citation_relevance(
+                    client, query, results, answer
+                )
+                citation_warnings = format_citation_warnings(unverified, relevance_issues)
+                if citation_warnings:
                     st.error(
-                        f"⚠️ Reference(s) legale(s) non verifiee(s) automatiquement dans les "
-                        f"sources : {', '.join(unverified)}. A verifier imperativement."
+                        "⚠️ Verification automatique des references legales : au moins une "
+                        "citation de cette reponse merite une verification manuelle.\n\n"
+                        + "\n\n".join(f"- {w}" for w in citation_warnings)
                     )
                 st.caption(f"*{DISCLAIMER_TEXT}*")
             if show_sources and results:

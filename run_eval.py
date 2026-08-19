@@ -12,10 +12,13 @@ Deux modes :
   du retrieval (au moins un entry_id attendu est-il retrouve, avant et apres
   le filtre de pertinence ?). Ideal pour comparer deux strategies de
   retrieval (ex. vectoriel pur vs hybride) sans regenerer de reponses.
-- --full : ajoute la generation de la reponse, la verification anti-citation
-  fabriquee, et un juge LLM qui evalue si la reponse respecte les criteres de
-  reussite du gold set. Plus lent et plus couteux (2 appels LLM par question
-  en plus de l'embedding), a reserver aux controles qualite periodiques.
+- --full : ajoute la generation de la reponse, les deux garde-fous de citation
+  (check_citation_integrity : numero introuvable ; check_citation_relevance :
+  numero reel mais mal applique - voir memoire
+  misapplication_article_reel_voisin_distracteur), et un juge LLM qui evalue
+  si la reponse respecte les criteres de reussite du gold set. Plus lent et
+  plus couteux (3 appels LLM par question en plus de l'embedding), a reserver
+  aux controles qualite periodiques.
 
 Usage:
     python3 run_eval.py                                    # backend local, vectoriel, retrieval-only
@@ -38,6 +41,7 @@ from rag_answer import (
     SYSTEM_PROMPT,
     build_user_message,
     check_citation_integrity,
+    check_citation_relevance,
     embed_query,
     filter_applicable_practices,
     format_results_for_prompt,
@@ -162,6 +166,7 @@ def run_item(client, retriever, backend, mode, item, top_k, full):
         if full:
             result["answer"] = NO_RESULTS_MESSAGE
             result["unverified_citations"] = []
+            result["relevance_issues"] = []
             result["judge_pass"] = not expected and item.get("criteres_reussite", "") == ""
         return result
 
@@ -175,6 +180,7 @@ def run_item(client, retriever, backend, mode, item, top_k, full):
     if not filtered_results:
         result["answer"] = NO_RESULTS_MESSAGE
         result["unverified_citations"] = []
+        result["relevance_issues"] = []
         judge_pass, reason = judge_answer(client, question, item.get("criteres_reussite", ""), NO_RESULTS_MESSAGE)
         result["judge_pass"] = judge_pass
         result["judge_reason"] = reason
@@ -193,6 +199,8 @@ def run_item(client, retriever, backend, mode, item, top_k, full):
     answer = completion.choices[0].message.content
     result["answer"] = answer
     result["unverified_citations"] = check_citation_integrity(filtered_results, answer)
+    relevance_issues, _relevance_usage = check_citation_relevance(client, question, filtered_results, answer)
+    result["relevance_issues"] = relevance_issues
 
     judge_pass, reason = judge_answer(client, question, item.get("criteres_reussite", ""), answer)
     result["judge_pass"] = judge_pass
@@ -215,9 +223,11 @@ def summarize(results, full):
         "recall_filtered_pct": rate("recall_filtered"),
     }
     if full:
-        clean = [r for r in results if not r.get("unverified_citations")]
+        clean_integrity = [r for r in results if not r.get("unverified_citations")]
+        clean_relevance = [r for r in results if not r.get("relevance_issues")]
         judged = [r for r in results if r.get("judge_pass") is not None]
-        summary["citations_clean_pct"] = round(100 * len(clean) / n, 1) if n else None
+        summary["citations_integrity_clean_pct"] = round(100 * len(clean_integrity) / n, 1) if n else None
+        summary["citations_relevance_clean_pct"] = round(100 * len(clean_relevance) / n, 1) if n else None
         summary["judge_pass_pct"] = (
             round(100 * sum(r["judge_pass"] for r in judged) / len(judged), 1) if judged else None
         )
@@ -225,6 +235,7 @@ def summarize(results, full):
             r for r in results
             if r.get("judge_pass")
             and not r.get("unverified_citations")
+            and not r.get("relevance_issues")
             and (r["recall_filtered"] is not False)
         ]
         summary["overall_pass_pct"] = round(100 * len(overall) / n, 1) if n else None
