@@ -136,8 +136,15 @@ Streamlit, bot Teams, harnais d'évaluation) — un seul endroit à faire évolu
   pratique validée ; privilégier le texte officiel le plus récent en cas de contradiction avec
   une pratique plus ancienne, signaler une pratique marquée "potentiellement obsolète".
 - **B. Face à l'incertitude : ne jamais inventer** — dont un cas spécifique fréquent (le droit
-  applicable au nom suit la nationalité, ne jamais supposer "belge" par défaut) et l'interdiction
-  de citer un numéro d'article qui n'apparaît pas textuellement dans le contexte.
+  applicable au nom suit la nationalité, ne jamais supposer "belge" par défaut), l'interdiction
+  de citer un numéro d'article qui n'apparaît pas textuellement dans le contexte, **poser une
+  question de clarification (B4)** quand un élément factuel décisif manque à la question et que
+  plus de deux cas de figure sont possibles (au lieu de deviner ou d'énumérer tous les cas), et
+  **signaler explicitement (B5)** quand les passages disponibles ne couvrent pas précisément le
+  sujet de la question (au lieu de forcer une réponse à partir de passages seulement
+  partiellement pertinents) — ajoutées le 2026-08-19 suite à une demande explicite de
+  l'utilisateur, comportement probabiliste (comme toute instruction de prompt) et non une
+  garantie absolue, validé sur plusieurs cas de test avant mise en production.
 - **C. Ne jamais transposer aveuglément une pratique validée à un cas différent** — 5 sous-règles
   (détails spécifiques au cas d'origine, prémisses de fond, alternatives secondaires, ne pas
   contredire une conclusion explicite par une déduction annexe, ne pas attribuer une affirmation
